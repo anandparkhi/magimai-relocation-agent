@@ -74,7 +74,7 @@ sources:
     enabled: true
     count: 50
   ats:
-    enabled: true         # polls Greenhouse / Lever / Ashby boards from data/companies.json
+    enabled: true         # polls Greenhouse / Lever / Ashby / Teamtailor boards from data/companies.json
 
 classifier:
   # Regexes (case-insensitive). Negative always wins over positive.
@@ -95,7 +95,9 @@ classifier:
     - "must (?:be|have) (?:legally )?(?:authori[sz]ed|eligible|the right) to work"
     - "no relocation"
     - "relocation (?:is )?not (?:available|provided|offered)"
-   llm_trigger_patterns:
+  # Only postings containing one of these reach the LLM; anything else that the
+  # positive/negative rules didn't decide is rejected without a model call.
+  llm_trigger_patterns:
     - "visa"
     - "relocat"
     - "sponsor"
@@ -121,7 +123,7 @@ publishing:
     {emoji} {company} is hiring: {title}
     📍 {location}
     ✈️ {signal}
-    {link}/
+    {link}
     www.magim.ai
   digest_url: "https://anandparkhi.github.io/magimai-relocation-agent/"
 
