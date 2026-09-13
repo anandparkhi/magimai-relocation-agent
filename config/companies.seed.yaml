@@ -1,0 +1,49 @@
+# Seed list. ats + ats_token point at a public job-board API; wrong tokens are skipped with a
+# warning, so verify by opening e.g. https://boards-api.greenhouse.io/v1/boards/<token>/jobs
+# The weekly refresh adds companies observed posting visa/relocation jobs and auto-probes ATS.
+companies:
+  - name: GitLab
+    regions: [remote_us, europe]
+    ats: greenhouse
+    ats_token: gitlab
+  - name: Cloudflare
+    regions: [europe, singapore, remote_us]
+    ats: greenhouse
+    ats_token: cloudflare
+  - name: Datadog
+    regions: [europe, remote_us]
+    ats: greenhouse
+    ats_token: datadog
+  - name: HashiCorp
+    regions: [remote_us, europe]
+    ats: greenhouse
+    ats_token: hashicorp
+  - name: Figma
+    regions: [remote_us, europe]
+    ats: greenhouse
+    ats_token: figma
+  - name: Duolingo
+    regions: [remote_us]
+    ats: greenhouse
+    ats_token: duolingo
+  - name: Netflix
+    regions: [remote_us, europe]
+    ats: lever
+    ats_token: netflix
+  - name: Notion
+    regions: [remote_us, europe]
+    ats: ashby
+    ats_token: notion
+  - name: Linear
+    regions: [remote_us, europe]
+    ats: ashby
+    ats_token: linear
+  - name: Shopify
+    regions: [canada, remote_us]
+    careers_url: https://www.shopify.com/careers
+  - name: Grab
+    regions: [singapore]
+    careers_url: https://www.grab.careers
+  - name: Careem
+    regions: [uae]
+    careers_url: https://www.careem.com/careers

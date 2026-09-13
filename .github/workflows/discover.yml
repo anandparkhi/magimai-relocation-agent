@@ -1,0 +1,33 @@
+name: discover
+on:
+  schedule:
+    - cron: "30 2 * * *"      # 08:00 IST daily
+  workflow_dispatch:
+concurrency:
+  group: agent-state          # never let two jobs commit data/ at once
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -e .
+      - name: Discover & enqueue
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: relocation-agent discover
+      - name: Persist state
+        run: |
+          git config user.name "relocation-agent[bot]"
+          git config user.email "relocation-agent[bot]@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "chore(state): discover $(date -u +%FT%TZ)"
+          git pull --rebase origin ${{ github.ref_name }}
+          git push

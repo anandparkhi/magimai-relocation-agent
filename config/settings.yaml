@@ -1,0 +1,139 @@
+# Runtime configuration. Secrets never live here — see .env.example / GitHub Secrets.
+
+regions:
+  europe:
+    emoji: "🇪🇺"
+    hashtags: ["#VisaSponsorship", "#RelocateToEurope", "#EUJobs"]
+    keywords:
+      - europe
+      - emea
+      - germany
+      - berlin
+      - munich
+      - hamburg
+      - netherlands
+      - amsterdam
+      - ireland
+      - dublin
+      - sweden
+      - stockholm
+      - denmark
+      - copenhagen
+      - finland
+      - helsinki
+      - norway
+      - oslo
+      - france
+      - paris
+      - spain
+      - madrid
+      - barcelona
+      - portugal
+      - lisbon
+      - poland
+      - warsaw
+      - czech
+      - prague
+      - austria
+      - vienna
+      - switzerland
+      - zurich
+      - belgium
+      - brussels
+      - estonia
+      - tallinn
+      - united kingdom
+      - london
+      - "uk"
+  uae:
+    emoji: "🇦🇪"
+    hashtags: ["#VisaSponsorship", "#DubaiJobs", "#UAEJobs"]
+    keywords: [dubai, abu dhabi, "uae", united arab emirates]
+  singapore:
+    emoji: "🇸🇬"
+    hashtags: ["#VisaSponsorship", "#SingaporeJobs", "#EmploymentPass"]
+    keywords: [singapore]
+  canada:
+    emoji: "🇨🇦"
+    hashtags: ["#VisaSponsorship", "#CanadaJobs", "#LMIA"]
+    keywords: [canada, toronto, vancouver, montreal, ottawa, calgary]
+  remote_us:
+    emoji: "🇺🇸"
+    requires_remote: true
+    hashtags: ["#RemoteJobs", "#RemoteWork", "#USJobs"]
+    keywords: [united states, usa, "us", north america, worldwide, anywhere, global]
+
+sources:
+  arbeitnow:
+    enabled: true
+    max_pages: 8
+    visa_only: true       # trust the API's visa_sponsorship flag
+  remotive:
+    enabled: true
+  jobicy:
+    enabled: true
+    count: 50
+  ats:
+    enabled: true         # polls Greenhouse / Lever / Ashby boards from data/companies.json
+
+classifier:
+  # Regexes (case-insensitive). Negative always wins over positive.
+  positive_patterns:
+    - "visa sponsorship"
+    - "sponsor(?:ship)?\\s+(?:a |your |the )?(?:work )?visa"
+    - "we (?:can |will |do )?sponsor"
+    - "relocation (?:support|assistance|package|bonus|budget|allowance|help|provided|offered)"
+    - "(?:help|assist|support) (?:you |with )?(?:to )?relocat"
+    - "blue card"
+    - "work permit (?:support|sponsorship|provided)"
+    - "employment pass"
+    - "lmia"
+  negative_patterns:
+    - "no (?:visa )?sponsorship"
+    - "(?:cannot|can't|unable to|not able to|do not|don't|won't) (?:offer |provide )?sponsor"
+    - "without (?:the need for |requiring )?(?:visa )?sponsorship"
+    - "must (?:be|have) (?:legally )?(?:authori[sz]ed|eligible|the right) to work"
+    - "no relocation"
+    - "relocation (?:is )?not (?:available|provided|offered)"
+  llm:
+    enabled: false
+    model: "claude-haiku-4-5-20251001"
+    max_calls_per_run: 40                # hard cost ceiling per discover run
+    description_chars: 3000
+
+publishing:
+  daily_cap: 15
+  min_gap_minutes: 15
+  lookback_hours: 24
+  link_mode: url               # url = apply link in the post | none = point to the digest instead
+  no_link_text: "🔗 Apply link in today's digest"
+  max_title_chars: 90
+  max_chars: 1000              # Telegram allows 4096; keep posts scannable
+  template: |
+    {emoji} {company} is hiring: {title}
+    📍 {location}
+    ✈️ {signal}
+    {link}/
+    www.magim.ai
+  digest_url: "https://anandparkhi.github.io/magimai-relocation-agent/"
+
+companies:
+  seed_file: config/companies.seed.yaml
+  observed_window_days: 7      # companies that posted accepted jobs in this window get added
+  probe_ats: true
+  max_probes_per_run: 40
+  registries:
+    uk_sponsor_register:
+      enabled: true
+      url: "https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers"
+      route_filter: "Skilled Worker"
+    canada_lmia:
+      enabled: true
+      # CKAN dataset id for "TFWP positive LMIA employers" on open.canada.ca — verify if it changes
+      dataset_id: "90fed587-1364-4f33-a9ee-208181dc0b97"
+
+paths:
+  companies: data/companies.json
+  seen: data/seen.json
+  queue: data/queue.json
+  digest_dir: docs
