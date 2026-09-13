@@ -95,16 +95,24 @@ classifier:
     - "must (?:be|have) (?:legally )?(?:authori[sz]ed|eligible|the right) to work"
     - "no relocation"
     - "relocation (?:is )?not (?:available|provided|offered)"
+   llm_trigger_patterns:
+    - "visa"
+    - "relocat"
+    - "sponsor"
+    - "work permit"
+    - "immigration"
+    - "blue card"
+    - "employment pass"
   llm:
     enabled: true
     model: "claude-haiku-4-5-20251001"
-    max_calls_per_run: 40                # hard cost ceiling per discover run
+    max_calls_per_run: 30                # hard cost ceiling per discover run
     description_chars: 3000
 
 publishing:
   daily_cap: 15
   min_gap_minutes: 15
-  lookback_hours: 24
+  lookback_hours: 72
   link_mode: url               # url = apply link in the post | none = point to the digest instead
   no_link_text: "🔗 Apply link in today's digest"
   max_title_chars: 90

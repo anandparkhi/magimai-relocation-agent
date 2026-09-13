@@ -33,6 +33,9 @@ class ClassifierConfig(BaseModel):
 
     positive_patterns: list[str]
     negative_patterns: list[str]
+    llm_trigger_patterns: list[str] = Field(
+        default_factory=lambda: ["visa", "relocat", "sponsor", "work permit", "immigration"]
+    )
     llm: LLMConfig = Field(default_factory=LLMConfig)
 
 

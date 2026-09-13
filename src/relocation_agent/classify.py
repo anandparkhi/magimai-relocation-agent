@@ -44,11 +44,19 @@ class Decision:
 
 
 class RuleClassifier:
-    """Regex-based first pass. Deterministic, zero cost."""
+    """Regex-based first pass. Deterministic, zero cost.
 
-    def __init__(self, positive: Iterable[str], negative: Iterable[str]) -> None:
+    ``trigger`` patterns gate the LLM: a posting that matches neither a positive
+    nor a negative pattern *and* contains no trigger word is REJECTED outright
+    rather than left UNSURE, because a posting that never mentions visas or
+    relocation cannot be offering them. This keeps model calls for the cases
+    where wording is genuinely ambiguous.
+    """
+
+    def __init__(self, positive: Iterable[str], negative: Iterable[str], trigger: Iterable[str] = ()) -> None:
         self._positive = [re.compile(p, re.IGNORECASE) for p in positive]
         self._negative = [re.compile(p, re.IGNORECASE) for p in negative]
+        self._trigger = [re.compile(p, re.IGNORECASE) for p in trigger]
 
     def classify(self, job: Job) -> Decision:
         """Return ACCEPT/REJECT when a pattern matches, UNSURE otherwise."""
@@ -59,6 +67,8 @@ class RuleClassifier:
         for pattern in self._positive:
             if match := pattern.search(text):
                 return Decision(Verdict.ACCEPT, _tidy(match.group(0)))
+        if self._trigger and not any(p.search(text) for p in self._trigger):
+            return Decision(Verdict.REJECT, "no relocation/visa mention")
         return Decision(Verdict.UNSURE)
 
 
@@ -124,7 +134,6 @@ class LLMClassifier:
             response = self._get_client().messages.create(
                 model=self._config.model,
                 max_tokens=200,
-                temperature=0,
                 messages=[{"role": "user", "content": prompt}],
             )
             text = "".join(getattr(block, "text", "") for block in response.content)
@@ -157,7 +166,9 @@ class Screener:
     """Composes rules → LLM → region detection into a single accept/reject decision."""
 
     def __init__(self, config: ClassifierConfig, regions: dict[str, RegionConfig]) -> None:
-        self._rules = RuleClassifier(config.positive_patterns, config.negative_patterns)
+        self._rules = RuleClassifier(
+            config.positive_patterns, config.negative_patterns, config.llm_trigger_patterns
+        )
         self._detector = RegionDetector(regions)
         self._llm = LLMClassifier(config.llm, regions.keys()) if config.llm.enabled else None
 
