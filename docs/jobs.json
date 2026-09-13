@@ -1,1 +1,77 @@
-[]
+[
+  {
+    "title": "Senior Product Manager - Conversational Banking",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8158787?gh_jid=8158787",
+    "location": "Barcelona",
+    "posted_at": "2026-09-11T15:45:57-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "94cc5d58e8520904"
+  },
+  {
+    "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8196495?gh_jid=8196495",
+    "location": "Barcelona",
+    "posted_at": "2026-09-11T13:37:23-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "2b7a6c01d786c39d"
+  },
+  {
+    "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8028183?gh_jid=8028183",
+    "location": "Berlin",
+    "posted_at": "2026-09-11T13:37:20-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "5b269edd4ad16b77"
+  },
+  {
+    "title": "Technical Product Manager - Applied Machine Learning",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8196295?gh_jid=8196295",
+    "location": "Barcelona",
+    "posted_at": "2026-09-11T13:22:25-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "55f21195cbd2d692"
+  },
+  {
+    "title": "Senior Lifecycle Specialist",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8187986?gh_jid=8187986",
+    "location": "Berlin",
+    "posted_at": "2026-09-11T10:28:18-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "58b23a7792b5b3a1"
+  }
+]

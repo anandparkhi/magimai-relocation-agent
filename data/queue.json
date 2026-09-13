@@ -1,6 +1,82 @@
 {
   "history": [],
-  "items": [],
+  "items": [
+    {
+      "company": "N26",
+      "id": "94cc5d58e8520904",
+      "location": "Barcelona",
+      "posted_at": "2026-09-11T15:45:57-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Product Manager - Conversational Banking",
+      "url": "https://n26.com/en-eu/careers/positions/8158787?gh_jid=8158787"
+    },
+    {
+      "company": "N26",
+      "id": "2b7a6c01d786c39d",
+      "location": "Barcelona",
+      "posted_at": "2026-09-11T13:37:23-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
+      "url": "https://n26.com/en-eu/careers/positions/8196495?gh_jid=8196495"
+    },
+    {
+      "company": "N26",
+      "id": "5b269edd4ad16b77",
+      "location": "Berlin",
+      "posted_at": "2026-09-11T13:37:20-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
+      "url": "https://n26.com/en-eu/careers/positions/8028183?gh_jid=8028183"
+    },
+    {
+      "company": "N26",
+      "id": "55f21195cbd2d692",
+      "location": "Barcelona",
+      "posted_at": "2026-09-11T13:22:25-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Technical Product Manager - Applied Machine Learning",
+      "url": "https://n26.com/en-eu/careers/positions/8196295?gh_jid=8196295"
+    },
+    {
+      "company": "N26",
+      "id": "58b23a7792b5b3a1",
+      "location": "Berlin",
+      "posted_at": "2026-09-11T10:28:18-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Lifecycle Specialist",
+      "url": "https://n26.com/en-eu/careers/positions/8187986?gh_jid=8187986"
+    }
+  ],
   "last_posted_at": null,
   "posted": {}
 }
