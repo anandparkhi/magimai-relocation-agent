@@ -6,6 +6,7 @@ import html
 import logging
 import re
 from datetime import UTC, datetime
+from email.utils import parsedate_to_datetime
 from typing import Any
 
 import httpx
@@ -81,7 +82,7 @@ def parse_datetime(value: Any) -> datetime | None:
     """Parse the many timestamp shapes job APIs emit into an aware UTC datetime.
 
     Accepts unix seconds/milliseconds (int/float/str), ISO-8601 (with ``Z``),
-    and ``YYYY-MM-DD HH:MM:SS``. Returns ``None`` when unparseable.
+    ``YYYY-MM-DD HH:MM:SS`` and RFC-2822 (RSS ``pubDate``). Returns ``None`` when unparseable.
     """
     if value is None or value == "":
         return None
@@ -91,12 +92,15 @@ def parse_datetime(value: Any) -> datetime | None:
             if number > 1e12:  # milliseconds
                 number /= 1000
             return datetime.fromtimestamp(number, tz=UTC)
+        if isinstance(value, str) and "," in value and ":" in value:  # RFC-2822: "Mon, 07 Sep 2026 ..."
+            parsed = parsedate_to_datetime(value.strip())
+            return parsed if parsed.tzinfo else parsed.replace(tzinfo=UTC)
         if isinstance(value, str):
             text = value.strip().replace("Z", "+00:00")
             if " " in text and "T" not in text:
                 text = text.replace(" ", "T", 1)
             parsed = datetime.fromisoformat(text)
             return parsed if parsed.tzinfo else parsed.replace(tzinfo=UTC)
-    except (ValueError, OverflowError, OSError):
+    except (ValueError, OverflowError, OSError, TypeError, IndexError):
         return None
     return None

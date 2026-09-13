@@ -48,6 +48,7 @@ def run_discover(settings: Settings) -> DiscoverStats:
     fetched = new = 0
     accepted: list[Job] = []
     for source in build_sources(settings.sources):
+        before = fetched
         try:
             for job in source.fetch(since, companies):
                 fetched += 1
@@ -62,7 +63,7 @@ def run_discover(settings: Settings) -> DiscoverStats:
                     accepted.append(screened)
         except Exception as exc:  # noqa: BLE001 — one source failing must not kill the rest
             log.error("Source %s failed: %s", source.name, exc)
-        log.info("%s: fetched=%d", source.name, fetched)
+        log.info("%s: fetched=%d", source.name, fetched - before)
 
     # Sort so freshest go first; queue is FIFO.
     accepted.sort(key=lambda j: j.posted_at or now, reverse=True)

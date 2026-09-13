@@ -1,4 +1,4 @@
-"""Poll companies' own job boards via public ATS JSON APIs (Greenhouse, Lever, Ashby).
+"""Poll companies' own job boards via public ATS feeds (Greenhouse, Lever, Ashby, Teamtailor).
 
 This is the highest-signal source: it reads directly from the employer, needs no
 key, and is the only way to see *every* opening at a known sponsor.
@@ -6,13 +6,14 @@ key, and is the only way to see *every* opening at a known sponsor.
 
 from __future__ import annotations
 
+import xml.etree.ElementTree as ET
 from collections.abc import Callable, Iterable, Sequence
 from datetime import datetime
 
 import httpx
 
 from relocation_agent.models import Company, Job
-from relocation_agent.utils import get_json, get_logger, parse_datetime, strip_html
+from relocation_agent.utils import get_json, get_logger, http_get, parse_datetime, strip_html
 
 log = get_logger(__name__)
 
@@ -70,7 +71,39 @@ def _ashby(company: Company) -> Iterable[Job]:
         )
 
 
-FETCHERS: dict[str, Fetcher] = {"greenhouse": _greenhouse, "lever": _lever, "ashby": _ashby}
+def _rss_field(item: ET.Element, name: str) -> str:
+    """First child text whose tag (namespace stripped) equals ``name``."""
+    for child in item:
+        if child.tag.rsplit("}", 1)[-1] == name and child.text:
+            return child.text.strip()
+    return ""
+
+
+def _teamtailor(company: Company) -> Iterable[Job]:
+    """Teamtailor career sites publish ``/jobs.rss`` with location, remote status and description."""
+    url = f"https://{company.ats_token}.teamtailor.com/jobs.rss"
+    root = ET.fromstring(http_get(url).text)
+    for item in root.iter("item"):
+        remote_status = _rss_field(item, "remoteStatus").lower()
+        yield Job(
+            title=_rss_field(item, "title"),
+            company=company.name,
+            url=_rss_field(item, "link"),
+            location=_rss_field(item, "locations") or _rss_field(item, "location"),
+            posted_at=parse_datetime(_rss_field(item, "pubDate")),
+            source="ats:teamtailor",
+            description=strip_html(_rss_field(item, "description")),
+            remote=remote_status in {"fully", "remote"},
+            tags=tuple(filter(None, (_rss_field(item, "department"), _rss_field(item, "role")))),
+        )
+
+
+FETCHERS: dict[str, Fetcher] = {
+    "greenhouse": _greenhouse,
+    "lever": _lever,
+    "ashby": _ashby,
+    "teamtailor": _teamtailor,
+}
 
 
 class ATSSource:
@@ -92,5 +125,5 @@ class ATSSource:
                 for job in fetcher(company):
                     if job.posted_at is None or job.posted_at >= since:
                         yield job
-            except (httpx.HTTPError, ValueError, KeyError, TypeError) as exc:
+            except (httpx.HTTPError, ValueError, KeyError, TypeError, ET.ParseError) as exc:
                 log.warning("ATS board %s/%s failed: %s", company.ats, company.ats_token, exc)

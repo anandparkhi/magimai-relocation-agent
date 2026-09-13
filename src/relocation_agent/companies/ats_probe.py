@@ -18,6 +18,7 @@ _PROBES: dict[str, str] = {
     "greenhouse": "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs",
     "lever": "https://api.lever.co/v0/postings/{slug}?mode=json&limit=1",
     "ashby": "https://api.ashbyhq.com/posting-api/job-board/{slug}",
+    "teamtailor": "https://{slug}.teamtailor.com/jobs.rss",
 }
 
 
@@ -29,7 +30,13 @@ def slug_variants(name: str) -> list[str]:
     return [c for i, c in enumerate(candidates) if c and c not in candidates[:i]]
 
 
-def _looks_like_board(ats: str, payload: object) -> bool:
+def _looks_like_board(ats: str, resp: httpx.Response) -> bool:
+    if ats == "teamtailor":
+        return "<rss" in resp.text[:500]
+    try:
+        payload = resp.json()
+    except ValueError:
+        return False
     if ats == "lever":
         return isinstance(payload, list)
     return isinstance(payload, dict) and isinstance(payload.get("jobs"), list)
@@ -42,7 +49,7 @@ def probe(name: str, *, timeout: float = 10.0) -> tuple[str, str] | None:
             for ats, template in _PROBES.items():
                 try:
                     resp = client.get(template.format(slug=slug))
-                    if resp.status_code == 200 and _looks_like_board(ats, resp.json()):
+                    if resp.status_code == 200 and _looks_like_board(ats, resp):
                         log.info("ATS probe hit: %s → %s/%s", name, ats, slug)
                         return ats, slug
                 except (httpx.HTTPError, ValueError):

@@ -16,8 +16,6 @@ companies:
     ats_token: datadog
   - name: HashiCorp
     regions: [remote_us, europe]
-    ats: greenhouse
-    ats_token: hashicorp
   - name: Figma
     regions: [remote_us, europe]
     ats: greenhouse
@@ -28,8 +26,6 @@ companies:
     ats_token: duolingo
   - name: Netflix
     regions: [remote_us, europe]
-    ats: lever
-    ats_token: netflix
   - name: Notion
     regions: [remote_us, europe]
     ats: ashby
@@ -47,3 +43,11 @@ companies:
   - name: Careem
     regions: [uae]
     careers_url: https://www.careem.com/careers
+  - name: N26
+    regions: [europe]
+    ats: greenhouse
+    ats_token: n26
+  - name: Leyton
+    regions: [europe]
+    ats: teamtailor
+    ats_token: leyton
