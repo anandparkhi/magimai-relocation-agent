@@ -89,12 +89,16 @@ classifier:
     - "employment pass"
     - "lmia"
   negative_patterns:
-    - "no (?:visa )?sponsorship"
-    - "(?:cannot|can't|unable to|not able to|do not|don't|won't) (?:offer |provide )?sponsor"
-    - "without (?:the need for |requiring )?(?:visa )?sponsorship"
-    - "must (?:be|have) (?:legally )?(?:authori[sz]ed|eligible|the right) to work"
+    - "no (?:visa |work permit |work visa )?sponsorship"
+    - "(?:visa |work permit )?sponsorship (?:is |will be |is currently )?(?:not|un)(?: )?(?:offered|available|provided|possible|supported)"
+    - "(?:cannot|can't|unable to|not able to|do not|does not|don't|doesn't|won't|will not|not (?:currently |presently )?(?:in a position to )?)(?: be able to)? ?(?:offer|provide|consider|support)?(?:ing)? ?(?:visa |work permit |any )?sponsor"
+    - "not (?:currently |presently )?(?:offering|providing|sponsoring)(?: visa| work visa| work permit)?s?"
+    - "without (?:the need for |requiring |needing )?(?:visa |work permit )?sponsorship"
+    - "must (?:be|have|already (?:be|have)) (?:legally )?(?:authori[sz]ed|eligible|the right|permission) to work"
+    - "(?:must|should) (?:already )?(?:hold|have|possess) (?:a |the )?(?:valid )?(?:right to work|work (?:permit|visa|authori[sz]ation))"
+    - "not eligible for (?:visa )?sponsorship"
     - "no relocation"
-    - "relocation (?:is )?not (?:available|provided|offered)"
+    - "relocation (?:is |will be )?not (?:available|provided|offered|possible|supported)"
   # Only postings containing one of these reach the LLM; anything else that the
   # positive/negative rules didn't decide is rejected without a model call.
   llm_trigger_patterns:

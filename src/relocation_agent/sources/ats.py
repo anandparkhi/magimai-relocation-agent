@@ -79,9 +79,8 @@ def _rss_field(item: ET.Element, name: str) -> str:
     return ""
 
 
-def _teamtailor(company: Company) -> Iterable[Job]:
-    """Teamtailor career sites publish ``/jobs.rss`` with location, remote status and description."""
-    url = f"https://{company.ats_token}.teamtailor.com/jobs.rss"
+def _rss(company: Company, url: str, source: str) -> Iterable[Job]:
+    """Generic RSS job feed. Understands Teamtailor's extra fields when present."""
     root = ET.fromstring(http_get(url).text)
     for item in root.iter("item"):
         remote_status = _rss_field(item, "remoteStatus").lower()
@@ -91,11 +90,27 @@ def _teamtailor(company: Company) -> Iterable[Job]:
             url=_rss_field(item, "link"),
             location=_rss_field(item, "locations") or _rss_field(item, "location"),
             posted_at=parse_datetime(_rss_field(item, "pubDate")),
-            source="ats:teamtailor",
+            source=source,
             description=strip_html(_rss_field(item, "description")),
             remote=remote_status in {"fully", "remote"},
             tags=tuple(filter(None, (_rss_field(item, "department"), _rss_field(item, "role")))),
         )
+
+
+def _teamtailor(company: Company) -> Iterable[Job]:
+    """Teamtailor career sites publish ``/jobs.rss``.
+
+    ``ats_token`` is either the ``<slug>`` of ``<slug>.teamtailor.com`` or, for
+    sites on a custom domain, the full host (``careers.example.com``).
+    """
+    token = company.ats_token or ""
+    host = token if "." in token else f"{token}.teamtailor.com"
+    return _rss(company, f"https://{host}/jobs.rss", "ats:teamtailor")
+
+
+def _generic_rss(company: Company) -> Iterable[Job]:
+    """Any career page that publishes an RSS feed; ``ats_token`` is the full feed URL."""
+    return _rss(company, company.ats_token or "", "ats:rss")
 
 
 FETCHERS: dict[str, Fetcher] = {
@@ -103,6 +118,7 @@ FETCHERS: dict[str, Fetcher] = {
     "lever": _lever,
     "ashby": _ashby,
     "teamtailor": _teamtailor,
+    "rss": _generic_rss,
 }
 
 

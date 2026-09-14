@@ -58,12 +58,19 @@ class RuleClassifier:
         self._negative = [re.compile(p, re.IGNORECASE) for p in negative]
         self._trigger = [re.compile(p, re.IGNORECASE) for p in trigger]
 
-    def classify(self, job: Job) -> Decision:
-        """Return ACCEPT/REJECT when a pattern matches, UNSURE otherwise."""
+    def negative_match(self, job: Job) -> str | None:
+        """The first negative phrase found in the posting, or ``None``."""
         text = f"{job.title}\n{job.description}"
         for pattern in self._negative:
             if match := pattern.search(text):
-                return Decision(Verdict.REJECT, f"negative: {match.group(0)!r}")
+                return match.group(0)
+        return None
+
+    def classify(self, job: Job) -> Decision:
+        """Return ACCEPT/REJECT when a pattern matches, UNSURE otherwise."""
+        if (hit := self.negative_match(job)) is not None:
+            return Decision(Verdict.REJECT, f"negative: {hit!r}")
+        text = f"{job.title}\n{job.description}"
         for pattern in self._positive:
             if match := pattern.search(text):
                 return Decision(Verdict.ACCEPT, _tidy(match.group(0)))
@@ -128,7 +135,7 @@ class LLMClassifier:
             company=job.company,
             location=job.location,
             remote=job.remote,
-            description=job.description[: self._config.description_chars],
+            description=_head_and_tail(job.description, self._config.description_chars),
         )
         try:
             response = self._get_client().messages.create(
@@ -141,6 +148,20 @@ class LLMClassifier:
         except Exception as exc:  # noqa: BLE001 — never let the LLM break the pipeline
             log.warning("LLM classification failed for %s: %s", job.url, exc)
             return Decision(Verdict.UNSURE, "llm error")
+
+
+def _head_and_tail(text: str, budget: int) -> str:
+    """Keep the start and the end of a long posting.
+
+    Sponsorship and work-authorisation notes are usually in the final
+    paragraphs, so truncating from the front alone hides exactly the sentence
+    that matters. Roughly 60% of the budget goes to the head, 40% to the tail.
+    """
+    if len(text) <= budget:
+        return text
+    head = int(budget * 0.6)
+    tail = budget - head
+    return f"{text[:head]}\n[...]\n{text[-tail:]}"
 
 
 def _parse_llm(text: str, *, allowed: list[str]) -> Decision:
@@ -182,8 +203,11 @@ class Screener:
 
         A job is accepted when (a) the source pre-flagged it, or (b) rules say
         ACCEPT, or (c) rules are UNSURE and the LLM says ACCEPT — and in all
-        cases at least one region could be assigned.
+        cases at least one region could be assigned. A negative phrase in the
+        posting text rejects it regardless of source flags or the LLM.
         """
+        if self._rules.negative_match(job) is not None:
+            return None
         decision = Decision(Verdict.ACCEPT, job.signal) if job.signal else self._rules.classify(job)
         if decision.verdict is Verdict.UNSURE and self._llm:
             decision = self._llm.classify(job)
