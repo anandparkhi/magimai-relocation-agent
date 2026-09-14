@@ -4,7 +4,7 @@ on:
     - cron: "30 2 * * *"      # 08:00 IST daily
   workflow_dispatch:
 concurrency:
-  group: agent-state          # never let two jobs commit data/ at once
+  group: agent-state          # discover / publish / refresh never run at the same time
   cancel-in-progress: false
 permissions:
   contents: write
@@ -28,6 +28,13 @@ jobs:
           git config user.name "relocation-agent[bot]"
           git config user.email "relocation-agent[bot]@users.noreply.github.com"
           git add data docs
-          git diff --cached --quiet || git commit -m "chore(state): discover $(date -u +%FT%TZ)"
-          git pull --rebase origin ${{ github.ref_name }}
+          git diff --cached --quiet && exit 0
+          git commit -m "chore(state): discover $(date -u +%FT%TZ)"
+          if ! git pull --rebase origin ${{ github.ref_name }}; then
+            # Conflict on state files: this run started from the latest main, so its
+            # version already includes everything except a mid-run manual push. Keep ours.
+            git checkout --theirs -- data docs
+            git add data docs
+            GIT_EDITOR=true git rebase --continue
+          fi
           git push

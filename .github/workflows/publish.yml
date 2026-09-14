@@ -1,7 +1,7 @@
 name: publish
 on:
   schedule:
-    - cron: "*/20 3-12 * * *"  # every 20 min, 08:30–18:00 IST; cap of 10/day is enforced in code
+    - cron: "*/20 3-12 * * *"  # every 20 min, 08:30–18:00 IST; daily cap is enforced in code
   workflow_dispatch:
 concurrency:
   group: agent-state
@@ -29,7 +29,12 @@ jobs:
         run: |
           git config user.name "relocation-agent[bot]"
           git config user.email "relocation-agent[bot]@users.noreply.github.com"
-          git add data
-          git diff --cached --quiet || git commit -m "chore(state): publish $(date -u +%FT%TZ)"
-          git pull --rebase origin ${{ github.ref_name }}
+          git add data docs
+          git diff --cached --quiet && exit 0
+          git commit -m "chore(state): publish $(date -u +%FT%TZ)"
+          if ! git pull --rebase origin ${{ github.ref_name }}; then
+            git checkout --theirs -- data docs
+            git add data docs
+            GIT_EDITOR=true git rebase --continue
+          fi
           git push

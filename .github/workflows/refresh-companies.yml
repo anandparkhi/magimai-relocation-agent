@@ -24,7 +24,12 @@ jobs:
         run: |
           git config user.name "relocation-agent[bot]"
           git config user.email "relocation-agent[bot]@users.noreply.github.com"
-          git add data
-          git diff --cached --quiet || git commit -m "chore(state): refresh companies $(date -u +%FT%TZ)"
-          git pull --rebase origin ${{ github.ref_name }}
+          git add data docs
+          git diff --cached --quiet && exit 0
+          git commit -m "chore(state): refresh companies $(date -u +%FT%TZ)"
+          if ! git pull --rebase origin ${{ github.ref_name }}; then
+            git checkout --theirs -- data docs
+            git add data docs
+            GIT_EDITOR=true git rebase --continue
+          fi
           git push
