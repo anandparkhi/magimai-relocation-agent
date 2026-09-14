@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "N26",
+      "id": "55f21195cbd2d692",
+      "location": "Barcelona",
+      "posted_at": "2026-09-11T13:22:25-04:00",
+      "published_at": "2026-09-14T15:04:55.477720+00:00",
+      "receipts": {
+        "telegram": "9"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Technical Product Manager - Applied Machine Learning",
+      "url": "https://n26.com/en-eu/careers/positions/8196295?gh_jid=8196295"
+    },
+    {
+      "company": "N26",
       "id": "5b269edd4ad16b77",
       "location": "Berlin",
       "posted_at": "2026-09-11T13:37:20-04:00",
@@ -61,21 +80,6 @@
   "items": [
     {
       "company": "N26",
-      "id": "55f21195cbd2d692",
-      "location": "Barcelona",
-      "posted_at": "2026-09-11T13:22:25-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Technical Product Manager - Applied Machine Learning",
-      "url": "https://n26.com/en-eu/careers/positions/8196295?gh_jid=8196295"
-    },
-    {
-      "company": "N26",
       "id": "58b23a7792b5b3a1",
       "location": "Berlin",
       "posted_at": "2026-09-11T10:28:18-04:00",
@@ -105,9 +109,9 @@
       "url": "https://n26.com/en-eu/careers/positions/8200510?gh_jid=8200510"
     }
   ],
-  "last_posted_at": "2026-09-14T08:20:02.900480+00:00",
+  "last_posted_at": "2026-09-14T15:04:55.477720+00:00",
   "posted": {
     "2026-09-13": 1,
-    "2026-09-14": 2
+    "2026-09-14": 3
   }
 }
