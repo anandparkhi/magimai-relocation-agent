@@ -1,6 +1,141 @@
 {
   "history": [
     {
+      "company": "Affirm",
+      "id": "77492096757948d1",
+      "location": "USA",
+      "posted_at": "2026-09-14T14:32:25+00:00",
+      "published_at": "2026-09-16T13:31:51.124008+00:00",
+      "receipts": {
+        "telegram": "14"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ],
+      "title": "Administrative Assistant IV",
+      "url": "https://jobicy.com/jobs/153293-administrative-assistant-iv"
+    },
+    {
+      "company": "N26",
+      "id": "dbce75246008e175",
+      "location": "Madrid",
+      "posted_at": "2026-09-15T02:31:10-04:00",
+      "published_at": "2026-09-16T08:05:39.293745+00:00",
+      "receipts": {
+        "telegram": "13"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "AFC Analyst – Italian market",
+      "url": "https://n26.com/en-eu/careers/positions/8201437?gh_jid=8201437"
+    },
+    {
+      "company": "N26",
+      "id": "e15d596dee8ff7ed",
+      "location": "Berlin",
+      "posted_at": "2026-09-14T03:41:42-04:00",
+      "published_at": "2026-09-15T13:35:42.540030+00:00",
+      "receipts": {
+        "telegram": "12"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Legal Counsel Banking Law",
+      "url": "https://n26.com/en-eu/careers/positions/8200510?gh_jid=8200510"
+    },
+    {
+      "company": "N26",
+      "id": "58b23a7792b5b3a1",
+      "location": "Berlin",
+      "posted_at": "2026-09-11T10:28:18-04:00",
+      "published_at": "2026-09-15T08:12:05.616630+00:00",
+      "receipts": {
+        "telegram": "10"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Lifecycle Specialist",
+      "url": "https://n26.com/en-eu/careers/positions/8187986?gh_jid=8187986"
+    },
+    {
+      "company": "N26",
+      "id": "55f21195cbd2d692",
+      "location": "Barcelona",
+      "posted_at": "2026-09-11T13:22:25-04:00",
+      "published_at": "2026-09-14T15:04:55.477720+00:00",
+      "receipts": {
+        "telegram": "9"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Technical Product Manager - Applied Machine Learning",
+      "url": "https://n26.com/en-eu/careers/positions/8196295?gh_jid=8196295"
+    },
+    {
+      "company": "N26",
+      "id": "5b269edd4ad16b77",
+      "location": "Berlin",
+      "posted_at": "2026-09-11T13:37:20-04:00",
+      "published_at": "2026-09-14T08:20:02.900480+00:00",
+      "receipts": {
+        "telegram": "8"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
+      "url": "https://n26.com/en-eu/careers/positions/8028183?gh_jid=8028183"
+    },
+    {
+      "company": "N26",
+      "id": "2b7a6c01d786c39d",
+      "location": "Barcelona",
+      "posted_at": "2026-09-11T13:37:23-04:00",
+      "published_at": "2026-09-14T02:11:53.009737+00:00",
+      "receipts": {
+        "telegram": "7"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
+      "url": "https://n26.com/en-eu/careers/positions/8196495?gh_jid=8196495"
+    },
+    {
       "company": "N26",
       "id": "94cc5d58e8520904",
       "location": "Barcelona",
@@ -22,10 +157,44 @@
   ],
   "items": [
     {
+      "company": "Samsara",
+      "id": "fa1a00c9004a08c1",
+      "location": "USA",
+      "posted_at": "2026-09-14T14:32:23+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ],
+      "title": "Senior Executive Assistant - Customer Success & Services",
+      "url": "https://jobicy.com/jobs/153292-senior-executive-assistant-customer-success-services"
+    },
+    {
+      "company": "Affirm",
+      "id": "664bd69d8b2f746b",
+      "location": "Spain",
+      "posted_at": "2026-09-14T14:07:57+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Data Science & Analytics"
+      ],
+      "title": "Analyst II, Full Stack (Revenue Analytics)",
+      "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics"
+    },
+    {
       "company": "N26",
-      "id": "2b7a6c01d786c39d",
+      "id": "d15f0f8e9e38da7c",
       "location": "Barcelona",
-      "posted_at": "2026-09-11T13:37:23-04:00",
+      "posted_at": "2026-09-16T03:15:48-04:00",
       "regions": [
         "europe"
       ],
@@ -33,29 +202,14 @@
       "signal": "Relocation package",
       "source": "ats:greenhouse",
       "tags": [],
-      "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
-      "url": "https://n26.com/en-eu/careers/positions/8196495?gh_jid=8196495"
+      "title": "SEO/GEO Manager",
+      "url": "https://n26.com/en-eu/careers/positions/8207228?gh_jid=8207228"
     },
     {
       "company": "N26",
-      "id": "5b269edd4ad16b77",
-      "location": "Berlin",
-      "posted_at": "2026-09-11T13:37:20-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
-      "url": "https://n26.com/en-eu/careers/positions/8028183?gh_jid=8028183"
-    },
-    {
-      "company": "N26",
-      "id": "55f21195cbd2d692",
+      "id": "6716999ea027afe7",
       "location": "Barcelona",
-      "posted_at": "2026-09-11T13:22:25-04:00",
+      "posted_at": "2026-09-15T10:36:59-04:00",
       "regions": [
         "europe"
       ],
@@ -63,14 +217,14 @@
       "signal": "Relocation package",
       "source": "ats:greenhouse",
       "tags": [],
-      "title": "Technical Product Manager - Applied Machine Learning",
-      "url": "https://n26.com/en-eu/careers/positions/8196295?gh_jid=8196295"
+      "title": "Data Analyst - Investments",
+      "url": "https://n26.com/en-eu/careers/positions/8204177?gh_jid=8204177"
     },
     {
       "company": "N26",
-      "id": "58b23a7792b5b3a1",
+      "id": "7a52ade78f0bfe78",
       "location": "Berlin",
-      "posted_at": "2026-09-11T10:28:18-04:00",
+      "posted_at": "2026-09-15T06:25:12-04:00",
       "regions": [
         "europe"
       ],
@@ -78,12 +232,62 @@
       "signal": "Relocation package",
       "source": "ats:greenhouse",
       "tags": [],
-      "title": "Senior Lifecycle Specialist",
-      "url": "https://n26.com/en-eu/careers/positions/8187986?gh_jid=8187986"
+      "title": "Data Analyst - Ops Automation & Enablement",
+      "url": "https://n26.com/en-eu/careers/positions/8187984?gh_jid=8187984"
+    },
+    {
+      "company": "N26",
+      "id": "e0c68ac3d9498bb0",
+      "location": "Berlin",
+      "posted_at": "2026-09-15T06:25:09-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Data Analyst - Finance",
+      "url": "https://n26.com/en-eu/careers/positions/8203660?gh_jid=8203660"
+    },
+    {
+      "company": "N26",
+      "id": "2991dfa4e58a33ae",
+      "location": "Barcelona",
+      "posted_at": "2026-09-15T06:25:07-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Data Analyst - Everyday Banking",
+      "url": "https://n26.com/en-eu/careers/positions/8203686?gh_jid=8203686"
+    },
+    {
+      "company": "Samsara",
+      "id": "2c64011c3e311fe3",
+      "location": "France,  Germany,  Netherlands,  UK",
+      "posted_at": "2026-09-15T05:00:19+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Account Development Representative - DACH",
+      "url": "https://jobicy.com/jobs/152463-account-development-representative-dach-2"
     }
   ],
-  "last_posted_at": "2026-09-13T19:53:09.673328+00:00",
+  "last_posted_at": "2026-09-16T13:31:51.124008+00:00",
   "posted": {
-    "2026-09-13": 1
+    "2026-09-13": 1,
+    "2026-09-14": 3,
+    "2026-09-15": 2,
+    "2026-09-16": 2
   }
 }
