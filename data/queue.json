@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "N26",
+      "id": "5b269edd4ad16b77",
+      "location": "Berlin",
+      "posted_at": "2026-09-11T13:37:20-04:00",
+      "published_at": "2026-09-14T08:20:02.900480+00:00",
+      "receipts": {
+        "telegram": "8"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
+      "url": "https://n26.com/en-eu/careers/positions/8028183?gh_jid=8028183"
+    },
+    {
+      "company": "N26",
       "id": "2b7a6c01d786c39d",
       "location": "Barcelona",
       "posted_at": "2026-09-11T13:37:23-04:00",
@@ -40,21 +59,6 @@
     }
   ],
   "items": [
-    {
-      "company": "N26",
-      "id": "5b269edd4ad16b77",
-      "location": "Berlin",
-      "posted_at": "2026-09-11T13:37:20-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
-      "url": "https://n26.com/en-eu/careers/positions/8028183?gh_jid=8028183"
-    },
     {
       "company": "N26",
       "id": "55f21195cbd2d692",
@@ -101,9 +105,9 @@
       "url": "https://n26.com/en-eu/careers/positions/8200510?gh_jid=8200510"
     }
   ],
-  "last_posted_at": "2026-09-14T02:11:53.009737+00:00",
+  "last_posted_at": "2026-09-14T08:20:02.900480+00:00",
   "posted": {
     "2026-09-13": 1,
-    "2026-09-14": 1
+    "2026-09-14": 2
   }
 }
