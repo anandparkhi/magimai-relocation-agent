@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "N26",
+      "id": "58b23a7792b5b3a1",
+      "location": "Berlin",
+      "posted_at": "2026-09-11T10:28:18-04:00",
+      "published_at": "2026-09-15T08:12:05.616630+00:00",
+      "receipts": {
+        "telegram": "10"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Lifecycle Specialist",
+      "url": "https://n26.com/en-eu/careers/positions/8187986?gh_jid=8187986"
+    },
+    {
+      "company": "N26",
       "id": "55f21195cbd2d692",
       "location": "Barcelona",
       "posted_at": "2026-09-11T13:22:25-04:00",
@@ -78,21 +97,6 @@
     }
   ],
   "items": [
-    {
-      "company": "N26",
-      "id": "58b23a7792b5b3a1",
-      "location": "Berlin",
-      "posted_at": "2026-09-11T10:28:18-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Lifecycle Specialist",
-      "url": "https://n26.com/en-eu/careers/positions/8187986?gh_jid=8187986"
-    },
     {
       "company": "N26",
       "id": "e15d596dee8ff7ed",
@@ -175,9 +179,10 @@
       "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics"
     }
   ],
-  "last_posted_at": "2026-09-14T15:04:55.477720+00:00",
+  "last_posted_at": "2026-09-15T08:12:05.616630+00:00",
   "posted": {
     "2026-09-13": 1,
-    "2026-09-14": 3
+    "2026-09-14": 3,
+    "2026-09-15": 1
   }
 }
