@@ -1,36 +1,6 @@
 [
   {
     "company": "N26",
-    "id": "5b269edd4ad16b77",
-    "location": "Berlin",
-    "posted_at": "2026-09-11T13:37:20-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
-    "url": "https://n26.com/en-eu/careers/positions/8028183?gh_jid=8028183"
-  },
-  {
-    "company": "N26",
-    "id": "55f21195cbd2d692",
-    "location": "Barcelona",
-    "posted_at": "2026-09-11T13:22:25-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Technical Product Manager - Applied Machine Learning",
-    "url": "https://n26.com/en-eu/careers/positions/8196295?gh_jid=8196295"
-  },
-  {
-    "company": "N26",
     "id": "58b23a7792b5b3a1",
     "location": "Berlin",
     "posted_at": "2026-09-11T10:28:18-04:00",
@@ -45,11 +15,26 @@
     "url": "https://n26.com/en-eu/careers/positions/8187986?gh_jid=8187986"
   },
   {
-    "title": "Senior Legal Counsel Banking Law",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8200510?gh_jid=8200510",
+    "id": "e15d596dee8ff7ed",
     "location": "Berlin",
     "posted_at": "2026-09-14T03:41:42-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Legal Counsel Banking Law",
+    "url": "https://n26.com/en-eu/careers/positions/8200510?gh_jid=8200510"
+  },
+  {
+    "title": "AFC Analyst – Italian market",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8201437?gh_jid=8201437",
+    "location": "Madrid",
+    "posted_at": "2026-09-15T02:31:10-04:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
@@ -57,7 +42,96 @@
       "europe"
     ],
     "signal": "Relocation package",
-    "id": "e15d596dee8ff7ed"
+    "id": "dbce75246008e175"
+  },
+  {
+    "title": "Administrative Assistant IV",
+    "company": "Affirm",
+    "url": "https://jobicy.com/jobs/153293-administrative-assistant-iv",
+    "location": "USA",
+    "posted_at": "2026-09-14T14:32:25+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Admin & Virtual Assistance"
+    ],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "77492096757948d1"
+  },
+  {
+    "title": "Senior Executive Assistant - Customer Success & Services",
+    "company": "Samsara",
+    "url": "https://jobicy.com/jobs/153292-senior-executive-assistant-customer-success-services",
+    "location": "USA",
+    "posted_at": "2026-09-14T14:32:23+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Admin & Virtual Assistance"
+    ],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "fa1a00c9004a08c1"
+  },
+  {
+    "title": "Analyst II, Full Stack (Revenue Analytics)",
+    "company": "Affirm",
+    "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics",
+    "location": "Spain",
+    "posted_at": "2026-09-14T14:07:57+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "664bd69d8b2f746b"
+  },
+  {
+    "company": "N26",
+    "id": "55f21195cbd2d692",
+    "location": "Barcelona",
+    "posted_at": "2026-09-11T13:22:25-04:00",
+    "published_at": "2026-09-14T15:04:55.477720+00:00",
+    "receipts": {
+      "telegram": "9"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Technical Product Manager - Applied Machine Learning",
+    "url": "https://n26.com/en-eu/careers/positions/8196295?gh_jid=8196295"
+  },
+  {
+    "company": "N26",
+    "id": "5b269edd4ad16b77",
+    "location": "Berlin",
+    "posted_at": "2026-09-11T13:37:20-04:00",
+    "published_at": "2026-09-14T08:20:02.900480+00:00",
+    "receipts": {
+      "telegram": "8"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
+    "url": "https://n26.com/en-eu/careers/positions/8028183?gh_jid=8028183"
   },
   {
     "company": "N26",
