@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "N26",
+      "id": "e15d596dee8ff7ed",
+      "location": "Berlin",
+      "posted_at": "2026-09-14T03:41:42-04:00",
+      "published_at": "2026-09-15T13:35:42.540030+00:00",
+      "receipts": {
+        "telegram": "12"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Legal Counsel Banking Law",
+      "url": "https://n26.com/en-eu/careers/positions/8200510?gh_jid=8200510"
+    },
+    {
+      "company": "N26",
       "id": "58b23a7792b5b3a1",
       "location": "Berlin",
       "posted_at": "2026-09-11T10:28:18-04:00",
@@ -99,21 +118,6 @@
   "items": [
     {
       "company": "N26",
-      "id": "e15d596dee8ff7ed",
-      "location": "Berlin",
-      "posted_at": "2026-09-14T03:41:42-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Legal Counsel Banking Law",
-      "url": "https://n26.com/en-eu/careers/positions/8200510?gh_jid=8200510"
-    },
-    {
-      "company": "N26",
       "id": "dbce75246008e175",
       "location": "Madrid",
       "posted_at": "2026-09-15T02:31:10-04:00",
@@ -179,10 +183,10 @@
       "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics"
     }
   ],
-  "last_posted_at": "2026-09-15T08:12:05.616630+00:00",
+  "last_posted_at": "2026-09-15T13:35:42.540030+00:00",
   "posted": {
     "2026-09-13": 1,
     "2026-09-14": 3,
-    "2026-09-15": 1
+    "2026-09-15": 2
   }
 }
