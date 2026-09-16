@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Samsara",
+      "id": "fa1a00c9004a08c1",
+      "location": "USA",
+      "posted_at": "2026-09-14T14:32:23+00:00",
+      "published_at": "2026-09-16T16:47:56.728956+00:00",
+      "receipts": {
+        "telegram": "16"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ],
+      "title": "Senior Executive Assistant - Customer Success & Services",
+      "url": "https://jobicy.com/jobs/153292-senior-executive-assistant-customer-success-services"
+    },
+    {
       "company": "Affirm",
       "id": "77492096757948d1",
       "location": "USA",
@@ -157,23 +178,6 @@
   ],
   "items": [
     {
-      "company": "Samsara",
-      "id": "fa1a00c9004a08c1",
-      "location": "USA",
-      "posted_at": "2026-09-14T14:32:23+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "jobicy",
-      "tags": [
-        "Admin & Virtual Assistance"
-      ],
-      "title": "Senior Executive Assistant - Customer Success & Services",
-      "url": "https://jobicy.com/jobs/153292-senior-executive-assistant-customer-success-services"
-    },
-    {
       "company": "Affirm",
       "id": "664bd69d8b2f746b",
       "location": "Spain",
@@ -328,11 +332,11 @@
       "url": "https://n26.com/en-eu/careers/positions/8200842?gh_jid=8200842"
     }
   ],
-  "last_posted_at": "2026-09-16T13:31:51.124008+00:00",
+  "last_posted_at": "2026-09-16T16:47:56.728956+00:00",
   "posted": {
     "2026-09-13": 1,
     "2026-09-14": 3,
     "2026-09-15": 2,
-    "2026-09-16": 2
+    "2026-09-16": 3
   }
 }
