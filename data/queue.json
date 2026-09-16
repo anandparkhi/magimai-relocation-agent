@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Affirm",
+      "id": "77492096757948d1",
+      "location": "USA",
+      "posted_at": "2026-09-14T14:32:25+00:00",
+      "published_at": "2026-09-16T13:31:51.124008+00:00",
+      "receipts": {
+        "telegram": "14"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ],
+      "title": "Administrative Assistant IV",
+      "url": "https://jobicy.com/jobs/153293-administrative-assistant-iv"
+    },
+    {
       "company": "N26",
       "id": "dbce75246008e175",
       "location": "Madrid",
@@ -136,23 +157,6 @@
   ],
   "items": [
     {
-      "company": "Affirm",
-      "id": "77492096757948d1",
-      "location": "USA",
-      "posted_at": "2026-09-14T14:32:25+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "jobicy",
-      "tags": [
-        "Admin & Virtual Assistance"
-      ],
-      "title": "Administrative Assistant IV",
-      "url": "https://jobicy.com/jobs/153293-administrative-assistant-iv"
-    },
-    {
       "company": "Samsara",
       "id": "fa1a00c9004a08c1",
       "location": "USA",
@@ -279,11 +283,11 @@
       "url": "https://jobicy.com/jobs/152463-account-development-representative-dach-2"
     }
   ],
-  "last_posted_at": "2026-09-16T08:05:39.293745+00:00",
+  "last_posted_at": "2026-09-16T13:31:51.124008+00:00",
   "posted": {
     "2026-09-13": 1,
     "2026-09-14": 3,
     "2026-09-15": 2,
-    "2026-09-16": 1
+    "2026-09-16": 2
   }
 }
