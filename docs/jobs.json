@@ -1,37 +1,5 @@
 [
   {
-    "company": "N26",
-    "id": "dbce75246008e175",
-    "location": "Madrid",
-    "posted_at": "2026-09-15T02:31:10-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "AFC Analyst – Italian market",
-    "url": "https://n26.com/en-eu/careers/positions/8201437?gh_jid=8201437"
-  },
-  {
-    "company": "Affirm",
-    "id": "77492096757948d1",
-    "location": "USA",
-    "posted_at": "2026-09-14T14:32:25+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Admin & Virtual Assistance"
-    ],
-    "title": "Administrative Assistant IV",
-    "url": "https://jobicy.com/jobs/153293-administrative-assistant-iv"
-  },
-  {
     "company": "Samsara",
     "id": "fa1a00c9004a08c1",
     "location": "USA",
@@ -66,96 +34,181 @@
     "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics"
   },
   {
-    "title": "SEO/GEO Manager",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8207228?gh_jid=8207228",
+    "id": "d15f0f8e9e38da7c",
     "location": "Barcelona",
     "posted_at": "2026-09-16T03:15:48-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "d15f0f8e9e38da7c"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "SEO/GEO Manager",
+    "url": "https://n26.com/en-eu/careers/positions/8207228?gh_jid=8207228"
   },
   {
-    "title": "Data Analyst - Investments",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8204177?gh_jid=8204177",
+    "id": "6716999ea027afe7",
     "location": "Barcelona",
     "posted_at": "2026-09-15T10:36:59-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "6716999ea027afe7"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Data Analyst - Investments",
+    "url": "https://n26.com/en-eu/careers/positions/8204177?gh_jid=8204177"
   },
   {
-    "title": "Data Analyst - Ops Automation & Enablement",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8187984?gh_jid=8187984",
+    "id": "7a52ade78f0bfe78",
     "location": "Berlin",
     "posted_at": "2026-09-15T06:25:12-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "7a52ade78f0bfe78"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Data Analyst - Ops Automation & Enablement",
+    "url": "https://n26.com/en-eu/careers/positions/8187984?gh_jid=8187984"
   },
   {
-    "title": "Data Analyst - Finance",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8203660?gh_jid=8203660",
+    "id": "e0c68ac3d9498bb0",
     "location": "Berlin",
     "posted_at": "2026-09-15T06:25:09-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "e0c68ac3d9498bb0"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Data Analyst - Finance",
+    "url": "https://n26.com/en-eu/careers/positions/8203660?gh_jid=8203660"
   },
   {
-    "title": "Data Analyst - Everyday Banking",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8203686?gh_jid=8203686",
+    "id": "2991dfa4e58a33ae",
     "location": "Barcelona",
     "posted_at": "2026-09-15T06:25:07-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "2991dfa4e58a33ae"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Data Analyst - Everyday Banking",
+    "url": "https://n26.com/en-eu/careers/positions/8203686?gh_jid=8203686"
   },
   {
-    "title": "Account Development Representative - DACH",
     "company": "Samsara",
-    "url": "https://jobicy.com/jobs/152463-account-development-representative-dach-2",
+    "id": "2c64011c3e311fe3",
     "location": "France,  Germany,  Netherlands,  UK",
     "posted_at": "2026-09-15T05:00:19+00:00",
-    "source": "jobicy",
+    "regions": [
+      "europe"
+    ],
     "remote": true,
+    "signal": "Relocation assistance",
+    "source": "jobicy",
     "tags": [
       "Sales"
     ],
+    "title": "Account Development Representative - DACH",
+    "url": "https://jobicy.com/jobs/152463-account-development-representative-dach-2"
+  },
+  {
+    "title": "ICT GRC – ICT Governance Senior Manager",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8203566?gh_jid=8203566",
+    "location": "Berlin",
+    "posted_at": "2026-09-16T11:41:09-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
     "regions": [
       "europe"
     ],
-    "signal": "Relocation assistance",
-    "id": "2c64011c3e311fe3"
+    "signal": "Relocation package",
+    "id": "98875fb87c8f8cca"
+  },
+  {
+    "title": "ICT GRC – ICT Compliance Senior Manager",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8203568?gh_jid=8203568",
+    "location": "Berlin",
+    "posted_at": "2026-09-16T11:40:09-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "27f02544ed132fae"
+  },
+  {
+    "title": "Legal Counsel Corporate & Regulatory",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8200842?gh_jid=8200842",
+    "location": "Berlin",
+    "posted_at": "2026-09-16T07:31:28-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "e33d6ef7606d1971"
+  },
+  {
+    "company": "Affirm",
+    "id": "77492096757948d1",
+    "location": "USA",
+    "posted_at": "2026-09-14T14:32:25+00:00",
+    "published_at": "2026-09-16T13:31:51.124008+00:00",
+    "receipts": {
+      "telegram": "14"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "jobicy",
+    "tags": [
+      "Admin & Virtual Assistance"
+    ],
+    "title": "Administrative Assistant IV",
+    "url": "https://jobicy.com/jobs/153293-administrative-assistant-iv"
+  },
+  {
+    "company": "N26",
+    "id": "dbce75246008e175",
+    "location": "Madrid",
+    "posted_at": "2026-09-15T02:31:10-04:00",
+    "published_at": "2026-09-16T08:05:39.293745+00:00",
+    "receipts": {
+      "telegram": "13"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "AFC Analyst – Italian market",
+    "url": "https://n26.com/en-eu/careers/positions/8201437?gh_jid=8201437"
   },
   {
     "company": "N26",
