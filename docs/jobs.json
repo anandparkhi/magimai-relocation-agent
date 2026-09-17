@@ -1,22 +1,5 @@
 [
   {
-    "company": "Samsara",
-    "id": "fa1a00c9004a08c1",
-    "location": "USA",
-    "posted_at": "2026-09-14T14:32:23+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "jobicy",
-    "tags": [
-      "Admin & Virtual Assistance"
-    ],
-    "title": "Senior Executive Assistant - Customer Success & Services",
-    "url": "https://jobicy.com/jobs/153292-senior-executive-assistant-customer-success-services"
-  },
-  {
     "company": "Affirm",
     "id": "664bd69d8b2f746b",
     "location": "Spain",
@@ -126,41 +109,56 @@
     "url": "https://jobicy.com/jobs/152463-account-development-representative-dach-2"
   },
   {
-    "title": "ICT GRC – ICT Governance Senior Manager",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8203566?gh_jid=8203566",
+    "id": "98875fb87c8f8cca",
     "location": "Berlin",
     "posted_at": "2026-09-16T11:41:09-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "98875fb87c8f8cca"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "ICT GRC – ICT Governance Senior Manager",
+    "url": "https://n26.com/en-eu/careers/positions/8203566?gh_jid=8203566"
   },
   {
-    "title": "ICT GRC – ICT Compliance Senior Manager",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8203568?gh_jid=8203568",
+    "id": "27f02544ed132fae",
     "location": "Berlin",
     "posted_at": "2026-09-16T11:40:09-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "27f02544ed132fae"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "ICT GRC – ICT Compliance Senior Manager",
+    "url": "https://n26.com/en-eu/careers/positions/8203568?gh_jid=8203568"
   },
   {
-    "title": "Legal Counsel Corporate & Regulatory",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8200842?gh_jid=8200842",
+    "id": "e33d6ef7606d1971",
     "location": "Berlin",
     "posted_at": "2026-09-16T07:31:28-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Legal Counsel Corporate & Regulatory",
+    "url": "https://n26.com/en-eu/careers/positions/8200842?gh_jid=8200842"
+  },
+  {
+    "title": "Junior Credit Associate",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8184874?gh_jid=8184874",
+    "location": "Berlin",
+    "posted_at": "2026-09-16T16:20:15-04:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
@@ -168,7 +166,75 @@
       "europe"
     ],
     "signal": "Relocation package",
-    "id": "e33d6ef7606d1971"
+    "id": "f840002f1fef1c2b"
+  },
+  {
+    "title": "Fraud Analyst – Operations",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8207352?gh_jid=8207352",
+    "location": "Madrid",
+    "posted_at": "2026-09-16T16:02:37-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "802462a30c2168d2"
+  },
+  {
+    "title": "Growth Marketing Manager - Influencers & Affiliates",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8208517?gh_jid=8208517",
+    "location": "Madrid",
+    "posted_at": "2026-09-16T13:46:44-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "aadef9df5d3f3eb2"
+  },
+  {
+    "title": "Associate Commercial Counsel",
+    "company": "UpGuard",
+    "url": "https://jobicy.com/jobs/153431-associate-commercial-counsel-2",
+    "location": "USA",
+    "posted_at": "2026-09-16T13:58:21+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Legal & Compliance"
+    ],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "b9494350de628991"
+  },
+  {
+    "company": "Samsara",
+    "id": "fa1a00c9004a08c1",
+    "location": "USA",
+    "posted_at": "2026-09-14T14:32:23+00:00",
+    "published_at": "2026-09-16T16:47:56.728956+00:00",
+    "receipts": {
+      "telegram": "16"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "jobicy",
+    "tags": [
+      "Admin & Virtual Assistance"
+    ],
+    "title": "Senior Executive Assistant - Customer Success & Services",
+    "url": "https://jobicy.com/jobs/153292-senior-executive-assistant-customer-success-services"
   },
   {
     "company": "Affirm",
