@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Affirm",
+      "id": "664bd69d8b2f746b",
+      "location": "Spain",
+      "posted_at": "2026-09-14T14:07:57+00:00",
+      "published_at": "2026-09-17T08:11:56.588685+00:00",
+      "receipts": {
+        "telegram": "17"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Data Science & Analytics"
+      ],
+      "title": "Analyst II, Full Stack (Revenue Analytics)",
+      "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics"
+    },
+    {
       "company": "Samsara",
       "id": "fa1a00c9004a08c1",
       "location": "USA",
@@ -177,23 +198,6 @@
     }
   ],
   "items": [
-    {
-      "company": "Affirm",
-      "id": "664bd69d8b2f746b",
-      "location": "Spain",
-      "posted_at": "2026-09-14T14:07:57+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "jobicy",
-      "tags": [
-        "Data Science & Analytics"
-      ],
-      "title": "Analyst II, Full Stack (Revenue Analytics)",
-      "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics"
-    },
     {
       "company": "N26",
       "id": "d15f0f8e9e38da7c",
@@ -394,11 +398,12 @@
       "url": "https://jobicy.com/jobs/153431-associate-commercial-counsel-2"
     }
   ],
-  "last_posted_at": "2026-09-16T16:47:56.728956+00:00",
+  "last_posted_at": "2026-09-17T08:11:56.588685+00:00",
   "posted": {
     "2026-09-13": 1,
     "2026-09-14": 3,
     "2026-09-15": 2,
-    "2026-09-16": 3
+    "2026-09-16": 3,
+    "2026-09-17": 1
   }
 }
