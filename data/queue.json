@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "N26",
+      "id": "e0c68ac3d9498bb0",
+      "location": "Berlin",
+      "posted_at": "2026-09-15T06:25:09-04:00",
+      "published_at": "2026-09-18T16:41:25.059973+00:00",
+      "receipts": {
+        "telegram": "21"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Data Analyst - Finance",
+      "url": "https://n26.com/en-eu/careers/positions/8203660?gh_jid=8203660"
+    },
+    {
+      "company": "N26",
       "id": "7a52ade78f0bfe78",
       "location": "Berlin",
       "posted_at": "2026-09-15T06:25:12-04:00",
@@ -257,21 +276,6 @@
   "items": [
     {
       "company": "N26",
-      "id": "e0c68ac3d9498bb0",
-      "location": "Berlin",
-      "posted_at": "2026-09-15T06:25:09-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Data Analyst - Finance",
-      "url": "https://n26.com/en-eu/careers/positions/8203660?gh_jid=8203660"
-    },
-    {
-      "company": "N26",
       "id": "2991dfa4e58a33ae",
       "location": "Barcelona",
       "posted_at": "2026-09-15T06:25:07-04:00",
@@ -425,13 +429,13 @@
       "url": "https://n26.com/en-eu/careers/positions/8203617?gh_jid=8203617"
     }
   ],
-  "last_posted_at": "2026-09-18T12:31:00.558189+00:00",
+  "last_posted_at": "2026-09-18T16:41:25.059973+00:00",
   "posted": {
     "2026-09-13": 1,
     "2026-09-14": 3,
     "2026-09-15": 2,
     "2026-09-16": 3,
     "2026-09-17": 2,
-    "2026-09-18": 2
+    "2026-09-18": 3
   }
 }
