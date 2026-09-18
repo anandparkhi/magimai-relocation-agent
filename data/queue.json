@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "N26",
+      "id": "7a52ade78f0bfe78",
+      "location": "Berlin",
+      "posted_at": "2026-09-15T06:25:12-04:00",
+      "published_at": "2026-09-18T12:31:00.558189+00:00",
+      "receipts": {
+        "telegram": "20"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Data Analyst - Ops Automation & Enablement",
+      "url": "https://n26.com/en-eu/careers/positions/8187984?gh_jid=8187984"
+    },
+    {
+      "company": "N26",
       "id": "6716999ea027afe7",
       "location": "Barcelona",
       "posted_at": "2026-09-15T10:36:59-04:00",
@@ -238,21 +257,6 @@
   "items": [
     {
       "company": "N26",
-      "id": "7a52ade78f0bfe78",
-      "location": "Berlin",
-      "posted_at": "2026-09-15T06:25:12-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Data Analyst - Ops Automation & Enablement",
-      "url": "https://n26.com/en-eu/careers/positions/8187984?gh_jid=8187984"
-    },
-    {
-      "company": "N26",
       "id": "e0c68ac3d9498bb0",
       "location": "Berlin",
       "posted_at": "2026-09-15T06:25:09-04:00",
@@ -421,13 +425,13 @@
       "url": "https://n26.com/en-eu/careers/positions/8203617?gh_jid=8203617"
     }
   ],
-  "last_posted_at": "2026-09-18T07:46:39.807835+00:00",
+  "last_posted_at": "2026-09-18T12:31:00.558189+00:00",
   "posted": {
     "2026-09-13": 1,
     "2026-09-14": 3,
     "2026-09-15": 2,
     "2026-09-16": 3,
     "2026-09-17": 2,
-    "2026-09-18": 1
+    "2026-09-18": 2
   }
 }
