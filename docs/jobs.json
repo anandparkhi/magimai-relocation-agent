@@ -1,37 +1,5 @@
 [
   {
-    "company": "Affirm",
-    "id": "664bd69d8b2f746b",
-    "location": "Spain",
-    "posted_at": "2026-09-14T14:07:57+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Data Science & Analytics"
-    ],
-    "title": "Analyst II, Full Stack (Revenue Analytics)",
-    "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics"
-  },
-  {
-    "company": "N26",
-    "id": "d15f0f8e9e38da7c",
-    "location": "Barcelona",
-    "posted_at": "2026-09-16T03:15:48-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "SEO/GEO Manager",
-    "url": "https://n26.com/en-eu/careers/positions/8207228?gh_jid=8207228"
-  },
-  {
     "company": "N26",
     "id": "6716999ea027afe7",
     "location": "Barcelona",
@@ -154,66 +122,121 @@
     "url": "https://n26.com/en-eu/careers/positions/8200842?gh_jid=8200842"
   },
   {
-    "title": "Junior Credit Associate",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8184874?gh_jid=8184874",
+    "id": "f840002f1fef1c2b",
     "location": "Berlin",
     "posted_at": "2026-09-16T16:20:15-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "f840002f1fef1c2b"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Junior Credit Associate",
+    "url": "https://n26.com/en-eu/careers/positions/8184874?gh_jid=8184874"
   },
   {
-    "title": "Fraud Analyst – Operations",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8207352?gh_jid=8207352",
+    "id": "802462a30c2168d2",
     "location": "Madrid",
     "posted_at": "2026-09-16T16:02:37-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "802462a30c2168d2"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Fraud Analyst – Operations",
+    "url": "https://n26.com/en-eu/careers/positions/8207352?gh_jid=8207352"
   },
   {
-    "title": "Growth Marketing Manager - Influencers & Affiliates",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8208517?gh_jid=8208517",
+    "id": "aadef9df5d3f3eb2",
     "location": "Madrid",
     "posted_at": "2026-09-16T13:46:44-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "aadef9df5d3f3eb2"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Growth Marketing Manager - Influencers & Affiliates",
+    "url": "https://n26.com/en-eu/careers/positions/8208517?gh_jid=8208517"
   },
   {
-    "title": "Associate Commercial Counsel",
     "company": "UpGuard",
-    "url": "https://jobicy.com/jobs/153431-associate-commercial-counsel-2",
+    "id": "b9494350de628991",
     "location": "USA",
     "posted_at": "2026-09-16T13:58:21+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "Legal & Compliance"
-    ],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Visa sponsorship",
-    "id": "b9494350de628991"
+    "source": "jobicy",
+    "tags": [
+      "Legal & Compliance"
+    ],
+    "title": "Associate Commercial Counsel",
+    "url": "https://jobicy.com/jobs/153431-associate-commercial-counsel-2"
+  },
+  {
+    "title": "KYC Team Lead - EDD/ODD",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8203617?gh_jid=8203617",
+    "location": "Madrid",
+    "posted_at": "2026-09-17T10:47:50-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "296286919045fb95"
+  },
+  {
+    "company": "N26",
+    "id": "d15f0f8e9e38da7c",
+    "location": "Barcelona",
+    "posted_at": "2026-09-16T03:15:48-04:00",
+    "published_at": "2026-09-17T13:30:28.381846+00:00",
+    "receipts": {
+      "telegram": "18"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "SEO/GEO Manager",
+    "url": "https://n26.com/en-eu/careers/positions/8207228?gh_jid=8207228"
+  },
+  {
+    "company": "Affirm",
+    "id": "664bd69d8b2f746b",
+    "location": "Spain",
+    "posted_at": "2026-09-14T14:07:57+00:00",
+    "published_at": "2026-09-17T08:11:56.588685+00:00",
+    "receipts": {
+      "telegram": "17"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "jobicy",
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "title": "Analyst II, Full Stack (Revenue Analytics)",
+    "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics"
   },
   {
     "company": "Samsara",
