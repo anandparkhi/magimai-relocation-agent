@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "N26",
+      "id": "98875fb87c8f8cca",
+      "location": "Berlin",
+      "posted_at": "2026-09-16T11:41:09-04:00",
+      "published_at": "2026-09-19T15:54:30.071633+00:00",
+      "receipts": {
+        "telegram": "24"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "ICT GRC – ICT Governance Senior Manager",
+      "url": "https://n26.com/en-eu/careers/positions/8203566?gh_jid=8203566"
+    },
+    {
       "company": "Samsara",
       "id": "2c64011c3e311fe3",
       "location": "France,  Germany,  Netherlands,  UK",
@@ -316,21 +335,6 @@
   "items": [
     {
       "company": "N26",
-      "id": "98875fb87c8f8cca",
-      "location": "Berlin",
-      "posted_at": "2026-09-16T11:41:09-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "ICT GRC – ICT Governance Senior Manager",
-      "url": "https://n26.com/en-eu/careers/positions/8203566?gh_jid=8203566"
-    },
-    {
-      "company": "N26",
       "id": "27f02544ed132fae",
       "location": "Berlin",
       "posted_at": "2026-09-16T11:40:09-04:00",
@@ -497,7 +501,7 @@
       "url": "https://n26.com/en-eu/careers/positions/8212940?gh_jid=8212940"
     }
   ],
-  "last_posted_at": "2026-09-19T12:03:30.926470+00:00",
+  "last_posted_at": "2026-09-19T15:54:30.071633+00:00",
   "posted": {
     "2026-09-13": 1,
     "2026-09-14": 3,
@@ -505,6 +509,6 @@
     "2026-09-16": 3,
     "2026-09-17": 2,
     "2026-09-18": 3,
-    "2026-09-19": 2
+    "2026-09-19": 3
   }
 }
