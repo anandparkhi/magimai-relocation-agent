@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Samsara",
+      "id": "2c64011c3e311fe3",
+      "location": "France,  Germany,  Netherlands,  UK",
+      "posted_at": "2026-09-15T05:00:19+00:00",
+      "published_at": "2026-09-19T12:03:30.926470+00:00",
+      "receipts": {
+        "telegram": "23"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Account Development Representative - DACH",
+      "url": "https://jobicy.com/jobs/152463-account-development-representative-dach-2"
+    },
+    {
       "company": "N26",
       "id": "2991dfa4e58a33ae",
       "location": "Barcelona",
@@ -294,23 +315,6 @@
   ],
   "items": [
     {
-      "company": "Samsara",
-      "id": "2c64011c3e311fe3",
-      "location": "France,  Germany,  Netherlands,  UK",
-      "posted_at": "2026-09-15T05:00:19+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "jobicy",
-      "tags": [
-        "Sales"
-      ],
-      "title": "Account Development Representative - DACH",
-      "url": "https://jobicy.com/jobs/152463-account-development-representative-dach-2"
-    },
-    {
       "company": "N26",
       "id": "98875fb87c8f8cca",
       "location": "Berlin",
@@ -493,7 +497,7 @@
       "url": "https://n26.com/en-eu/careers/positions/8212940?gh_jid=8212940"
     }
   ],
-  "last_posted_at": "2026-09-19T07:39:55.608748+00:00",
+  "last_posted_at": "2026-09-19T12:03:30.926470+00:00",
   "posted": {
     "2026-09-13": 1,
     "2026-09-14": 3,
@@ -501,6 +505,6 @@
     "2026-09-16": 3,
     "2026-09-17": 2,
     "2026-09-18": 3,
-    "2026-09-19": 1
+    "2026-09-19": 2
   }
 }
