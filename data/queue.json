@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "N26",
+      "id": "2991dfa4e58a33ae",
+      "location": "Barcelona",
+      "posted_at": "2026-09-15T06:25:07-04:00",
+      "published_at": "2026-09-19T07:39:55.608748+00:00",
+      "receipts": {
+        "telegram": "22"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Data Analyst - Everyday Banking",
+      "url": "https://n26.com/en-eu/careers/positions/8203686?gh_jid=8203686"
+    },
+    {
+      "company": "N26",
       "id": "e0c68ac3d9498bb0",
       "location": "Berlin",
       "posted_at": "2026-09-15T06:25:09-04:00",
@@ -275,21 +294,6 @@
   ],
   "items": [
     {
-      "company": "N26",
-      "id": "2991dfa4e58a33ae",
-      "location": "Barcelona",
-      "posted_at": "2026-09-15T06:25:07-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Data Analyst - Everyday Banking",
-      "url": "https://n26.com/en-eu/careers/positions/8203686?gh_jid=8203686"
-    },
-    {
       "company": "Samsara",
       "id": "2c64011c3e311fe3",
       "location": "France,  Germany,  Netherlands,  UK",
@@ -489,13 +493,14 @@
       "url": "https://n26.com/en-eu/careers/positions/8212940?gh_jid=8212940"
     }
   ],
-  "last_posted_at": "2026-09-18T16:41:25.059973+00:00",
+  "last_posted_at": "2026-09-19T07:39:55.608748+00:00",
   "posted": {
     "2026-09-13": 1,
     "2026-09-14": 3,
     "2026-09-15": 2,
     "2026-09-16": 3,
     "2026-09-17": 2,
-    "2026-09-18": 3
+    "2026-09-18": 3,
+    "2026-09-19": 1
   }
 }
