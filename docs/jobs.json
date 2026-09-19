@@ -1,51 +1,6 @@
 [
   {
     "company": "N26",
-    "id": "6716999ea027afe7",
-    "location": "Barcelona",
-    "posted_at": "2026-09-15T10:36:59-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Data Analyst - Investments",
-    "url": "https://n26.com/en-eu/careers/positions/8204177?gh_jid=8204177"
-  },
-  {
-    "company": "N26",
-    "id": "7a52ade78f0bfe78",
-    "location": "Berlin",
-    "posted_at": "2026-09-15T06:25:12-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Data Analyst - Ops Automation & Enablement",
-    "url": "https://n26.com/en-eu/careers/positions/8187984?gh_jid=8187984"
-  },
-  {
-    "company": "N26",
-    "id": "e0c68ac3d9498bb0",
-    "location": "Berlin",
-    "posted_at": "2026-09-15T06:25:09-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Data Analyst - Finance",
-    "url": "https://n26.com/en-eu/careers/positions/8203660?gh_jid=8203660"
-  },
-  {
-    "company": "N26",
     "id": "2991dfa4e58a33ae",
     "location": "Barcelona",
     "posted_at": "2026-09-15T06:25:07-04:00",
@@ -184,11 +139,26 @@
     "url": "https://jobicy.com/jobs/153431-associate-commercial-counsel-2"
   },
   {
-    "title": "KYC Team Lead - EDD/ODD",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8203617?gh_jid=8203617",
+    "id": "296286919045fb95",
     "location": "Madrid",
     "posted_at": "2026-09-17T10:47:50-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "KYC Team Lead - EDD/ODD",
+    "url": "https://n26.com/en-eu/careers/positions/8203617?gh_jid=8203617"
+  },
+  {
+    "title": "Senior Data Engineer - Enablement",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8213749?gh_jid=8213749",
+    "location": "Berlin",
+    "posted_at": "2026-09-18T11:43:40-04:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
@@ -196,7 +166,109 @@
       "europe"
     ],
     "signal": "Relocation package",
-    "id": "296286919045fb95"
+    "id": "62b432658ffe9ac4"
+  },
+  {
+    "title": "AFC Compliance Controls and Reviews - Associate",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8213445?gh_jid=8213445",
+    "location": "Madrid",
+    "posted_at": "2026-09-18T09:52:18-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "b6e75bc8c8038a41"
+  },
+  {
+    "title": "AFC Compliance Controls and Reviews - Associate",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8203585?gh_jid=8203585",
+    "location": "Berlin",
+    "posted_at": "2026-09-18T09:10:49-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "0e55bd8413183d5b"
+  },
+  {
+    "title": "KYC Specialist – French Market",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8212940?gh_jid=8212940",
+    "location": "Madrid",
+    "posted_at": "2026-09-18T03:31:24-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "970fc70a6b10eaa3"
+  },
+  {
+    "company": "N26",
+    "id": "e0c68ac3d9498bb0",
+    "location": "Berlin",
+    "posted_at": "2026-09-15T06:25:09-04:00",
+    "published_at": "2026-09-18T16:41:25.059973+00:00",
+    "receipts": {
+      "telegram": "21"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Data Analyst - Finance",
+    "url": "https://n26.com/en-eu/careers/positions/8203660?gh_jid=8203660"
+  },
+  {
+    "company": "N26",
+    "id": "7a52ade78f0bfe78",
+    "location": "Berlin",
+    "posted_at": "2026-09-15T06:25:12-04:00",
+    "published_at": "2026-09-18T12:31:00.558189+00:00",
+    "receipts": {
+      "telegram": "20"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Data Analyst - Ops Automation & Enablement",
+    "url": "https://n26.com/en-eu/careers/positions/8187984?gh_jid=8187984"
+  },
+  {
+    "company": "N26",
+    "id": "6716999ea027afe7",
+    "location": "Barcelona",
+    "posted_at": "2026-09-15T10:36:59-04:00",
+    "published_at": "2026-09-18T07:46:39.807835+00:00",
+    "receipts": {
+      "telegram": "19"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Data Analyst - Investments",
+    "url": "https://n26.com/en-eu/careers/positions/8204177?gh_jid=8204177"
   },
   {
     "company": "N26",
