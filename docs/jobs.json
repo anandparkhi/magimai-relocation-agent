@@ -1,53 +1,6 @@
 [
   {
     "company": "N26",
-    "id": "2991dfa4e58a33ae",
-    "location": "Barcelona",
-    "posted_at": "2026-09-15T06:25:07-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Data Analyst - Everyday Banking",
-    "url": "https://n26.com/en-eu/careers/positions/8203686?gh_jid=8203686"
-  },
-  {
-    "company": "Samsara",
-    "id": "2c64011c3e311fe3",
-    "location": "France,  Germany,  Netherlands,  UK",
-    "posted_at": "2026-09-15T05:00:19+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "jobicy",
-    "tags": [
-      "Sales"
-    ],
-    "title": "Account Development Representative - DACH",
-    "url": "https://jobicy.com/jobs/152463-account-development-representative-dach-2"
-  },
-  {
-    "company": "N26",
-    "id": "98875fb87c8f8cca",
-    "location": "Berlin",
-    "posted_at": "2026-09-16T11:41:09-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "ICT GRC – ICT Governance Senior Manager",
-    "url": "https://n26.com/en-eu/careers/positions/8203566?gh_jid=8203566"
-  },
-  {
-    "company": "N26",
     "id": "27f02544ed132fae",
     "location": "Berlin",
     "posted_at": "2026-09-16T11:40:09-04:00",
@@ -154,64 +107,138 @@
     "url": "https://n26.com/en-eu/careers/positions/8203617?gh_jid=8203617"
   },
   {
-    "title": "Senior Data Engineer - Enablement",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8213749?gh_jid=8213749",
+    "id": "62b432658ffe9ac4",
     "location": "Berlin",
     "posted_at": "2026-09-18T11:43:40-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "62b432658ffe9ac4"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Data Engineer - Enablement",
+    "url": "https://n26.com/en-eu/careers/positions/8213749?gh_jid=8213749"
   },
   {
-    "title": "AFC Compliance Controls and Reviews - Associate",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8213445?gh_jid=8213445",
+    "id": "b6e75bc8c8038a41",
     "location": "Madrid",
     "posted_at": "2026-09-18T09:52:18-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "b6e75bc8c8038a41"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "AFC Compliance Controls and Reviews - Associate",
+    "url": "https://n26.com/en-eu/careers/positions/8213445?gh_jid=8213445"
   },
   {
-    "title": "AFC Compliance Controls and Reviews - Associate",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8203585?gh_jid=8203585",
+    "id": "0e55bd8413183d5b",
     "location": "Berlin",
     "posted_at": "2026-09-18T09:10:49-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "0e55bd8413183d5b"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "AFC Compliance Controls and Reviews - Associate",
+    "url": "https://n26.com/en-eu/careers/positions/8203585?gh_jid=8203585"
   },
   {
-    "title": "KYC Specialist – French Market",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8212940?gh_jid=8212940",
+    "id": "970fc70a6b10eaa3",
     "location": "Madrid",
     "posted_at": "2026-09-18T03:31:24-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "KYC Specialist – French Market",
+    "url": "https://n26.com/en-eu/careers/positions/8212940?gh_jid=8212940"
+  },
+  {
+    "title": "Deal Desk Analyst",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8187198?gh_jid=8187198",
+    "location": "London, England, United Kingdom",
+    "posted_at": "2026-09-17T09:23:53-04:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
     "regions": [
       "europe"
     ],
+    "signal": "Relocation assistance",
+    "id": "70d7a4cfac6b55f4"
+  },
+  {
+    "company": "N26",
+    "id": "98875fb87c8f8cca",
+    "location": "Berlin",
+    "posted_at": "2026-09-16T11:41:09-04:00",
+    "published_at": "2026-09-19T15:54:30.071633+00:00",
+    "receipts": {
+      "telegram": "24"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "970fc70a6b10eaa3"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "ICT GRC – ICT Governance Senior Manager",
+    "url": "https://n26.com/en-eu/careers/positions/8203566?gh_jid=8203566"
+  },
+  {
+    "company": "Samsara",
+    "id": "2c64011c3e311fe3",
+    "location": "France,  Germany,  Netherlands,  UK",
+    "posted_at": "2026-09-15T05:00:19+00:00",
+    "published_at": "2026-09-19T12:03:30.926470+00:00",
+    "receipts": {
+      "telegram": "23"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "jobicy",
+    "tags": [
+      "Sales"
+    ],
+    "title": "Account Development Representative - DACH",
+    "url": "https://jobicy.com/jobs/152463-account-development-representative-dach-2"
+  },
+  {
+    "company": "N26",
+    "id": "2991dfa4e58a33ae",
+    "location": "Barcelona",
+    "posted_at": "2026-09-15T06:25:07-04:00",
+    "published_at": "2026-09-19T07:39:55.608748+00:00",
+    "receipts": {
+      "telegram": "22"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Data Analyst - Everyday Banking",
+    "url": "https://n26.com/en-eu/careers/positions/8203686?gh_jid=8203686"
   },
   {
     "company": "N26",
