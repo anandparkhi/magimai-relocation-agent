@@ -1,1 +1,250 @@
-{"companies": []}
+{
+  "companies": [
+    {
+      "ats": "teamtailor",
+      "ats_token": "careers.cteleport.com",
+      "careers_url": null,
+      "name": "C Teleport",
+      "regions": [
+        "europe"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": "greenhouse",
+      "ats_token": "careem",
+      "careers_url": "https://www.careem.com/careers",
+      "name": "Careem",
+      "regions": [
+        "uae"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": "greenhouse",
+      "ats_token": "cloudflare",
+      "careers_url": null,
+      "name": "Cloudflare",
+      "regions": [
+        "europe",
+        "singapore",
+        "remote_us"
+      ],
+      "source": "seed",
+      "verified_by": [
+        "uk_sponsor_register"
+      ]
+    },
+    {
+      "ats": "greenhouse",
+      "ats_token": "datadog",
+      "careers_url": null,
+      "name": "Datadog",
+      "regions": [
+        "europe",
+        "remote_us"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": "greenhouse",
+      "ats_token": "deliveryhero",
+      "careers_url": null,
+      "name": "Delivery Hero",
+      "regions": [
+        "europe"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": "greenhouse",
+      "ats_token": "duolingo",
+      "careers_url": null,
+      "name": "Duolingo",
+      "regions": [
+        "remote_us"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": "greenhouse",
+      "ats_token": "figma",
+      "careers_url": null,
+      "name": "Figma",
+      "regions": [
+        "remote_us",
+        "europe"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": "greenhouse",
+      "ats_token": "gitlab",
+      "careers_url": null,
+      "name": "GitLab",
+      "regions": [
+        "remote_us",
+        "europe"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": null,
+      "ats_token": null,
+      "careers_url": "https://www.grab.careers",
+      "name": "Grab",
+      "regions": [
+        "singapore"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": null,
+      "ats_token": null,
+      "careers_url": null,
+      "name": "HashiCorp",
+      "regions": [
+        "remote_us",
+        "europe"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": "teamtailor",
+      "ats_token": "leyton",
+      "careers_url": null,
+      "name": "Leyton",
+      "regions": [
+        "europe"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": "ashby",
+      "ats_token": "linear",
+      "careers_url": null,
+      "name": "Linear",
+      "regions": [
+        "remote_us",
+        "europe"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": "greenhouse",
+      "ats_token": "n26",
+      "careers_url": null,
+      "name": "N26",
+      "regions": [
+        "europe"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": null,
+      "ats_token": null,
+      "careers_url": null,
+      "name": "Netflix",
+      "regions": [
+        "remote_us",
+        "europe"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": "ashby",
+      "ats_token": "notion",
+      "careers_url": null,
+      "name": "Notion",
+      "regions": [
+        "remote_us",
+        "europe"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": "teamtailor",
+      "ats_token": "picnic",
+      "careers_url": "https://jobs.picnic.app/en/jobs",
+      "name": "Picnic",
+      "regions": [
+        "europe"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": null,
+      "ats_token": null,
+      "careers_url": "https://www.shopify.com/careers",
+      "name": "Shopify",
+      "regions": [
+        "canada",
+        "remote_us"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": null,
+      "ats_token": null,
+      "careers_url": "https://zoostation-bv.hirehive.com/",
+      "name": "ZooStation",
+      "regions": [
+        "europe"
+      ],
+      "source": "seed",
+      "verified_by": []
+    },
+    {
+      "ats": "greenhouse",
+      "ats_token": "affirm",
+      "careers_url": null,
+      "name": "Affirm",
+      "regions": [
+        "europe",
+        "remote_us"
+      ],
+      "source": "observed",
+      "verified_by": []
+    },
+    {
+      "ats": "greenhouse",
+      "ats_token": "samsara",
+      "careers_url": null,
+      "name": "Samsara",
+      "regions": [
+        "europe",
+        "remote_us"
+      ],
+      "source": "observed",
+      "verified_by": []
+    },
+    {
+      "ats": "lever",
+      "ats_token": "upguard",
+      "careers_url": null,
+      "name": "UpGuard",
+      "regions": [
+        "remote_us"
+      ],
+      "source": "observed",
+      "verified_by": []
+    }
+  ],
+  "refreshed_at": "2026-09-20T05:35:44.993936+00:00"
+}
