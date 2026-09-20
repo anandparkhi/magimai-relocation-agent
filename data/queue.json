@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "N26",
+      "id": "27f02544ed132fae",
+      "location": "Berlin",
+      "posted_at": "2026-09-16T11:40:09-04:00",
+      "published_at": "2026-09-20T08:05:50.899337+00:00",
+      "receipts": {
+        "telegram": "25"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "ICT GRC – ICT Compliance Senior Manager",
+      "url": "https://n26.com/en-eu/careers/positions/8203568?gh_jid=8203568"
+    },
+    {
+      "company": "N26",
       "id": "98875fb87c8f8cca",
       "location": "Berlin",
       "posted_at": "2026-09-16T11:41:09-04:00",
@@ -335,21 +354,6 @@
   "items": [
     {
       "company": "N26",
-      "id": "27f02544ed132fae",
-      "location": "Berlin",
-      "posted_at": "2026-09-16T11:40:09-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "ICT GRC – ICT Compliance Senior Manager",
-      "url": "https://n26.com/en-eu/careers/positions/8203568?gh_jid=8203568"
-    },
-    {
-      "company": "N26",
       "id": "e33d6ef7606d1971",
       "location": "Berlin",
       "posted_at": "2026-09-16T07:31:28-04:00",
@@ -516,7 +520,7 @@
       "url": "https://www.samsara.com/company/careers/roles/8187198?gh_jid=8187198"
     }
   ],
-  "last_posted_at": "2026-09-19T15:54:30.071633+00:00",
+  "last_posted_at": "2026-09-20T08:05:50.899337+00:00",
   "posted": {
     "2026-09-13": 1,
     "2026-09-14": 3,
@@ -524,6 +528,7 @@
     "2026-09-16": 3,
     "2026-09-17": 2,
     "2026-09-18": 3,
-    "2026-09-19": 3
+    "2026-09-19": 3,
+    "2026-09-20": 1
   }
 }
