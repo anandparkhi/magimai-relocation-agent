@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "N26",
+      "id": "f840002f1fef1c2b",
+      "location": "Berlin",
+      "posted_at": "2026-09-16T16:20:15-04:00",
+      "published_at": "2026-09-21T08:22:55.777139+00:00",
+      "receipts": {
+        "telegram": "27"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Junior Credit Associate",
+      "url": "https://n26.com/en-eu/careers/positions/8184874?gh_jid=8184874"
+    },
+    {
+      "company": "N26",
       "id": "e33d6ef7606d1971",
       "location": "Berlin",
       "posted_at": "2026-09-16T07:31:28-04:00",
@@ -373,21 +392,6 @@
   "items": [
     {
       "company": "N26",
-      "id": "f840002f1fef1c2b",
-      "location": "Berlin",
-      "posted_at": "2026-09-16T16:20:15-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Junior Credit Associate",
-      "url": "https://n26.com/en-eu/careers/positions/8184874?gh_jid=8184874"
-    },
-    {
-      "company": "N26",
       "id": "802462a30c2168d2",
       "location": "Madrid",
       "posted_at": "2026-09-16T16:02:37-04:00",
@@ -524,7 +528,7 @@
       "url": "https://www.samsara.com/company/careers/roles/8187198?gh_jid=8187198"
     }
   ],
-  "last_posted_at": "2026-09-20T13:04:09.814138+00:00",
+  "last_posted_at": "2026-09-21T08:22:55.777139+00:00",
   "posted": {
     "2026-09-13": 1,
     "2026-09-14": 3,
@@ -533,6 +537,7 @@
     "2026-09-17": 2,
     "2026-09-18": 3,
     "2026-09-19": 3,
-    "2026-09-20": 2
+    "2026-09-20": 2,
+    "2026-09-21": 1
   }
 }
