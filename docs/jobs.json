@@ -1,36 +1,6 @@
 [
   {
     "company": "N26",
-    "id": "27f02544ed132fae",
-    "location": "Berlin",
-    "posted_at": "2026-09-16T11:40:09-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "ICT GRC – ICT Compliance Senior Manager",
-    "url": "https://n26.com/en-eu/careers/positions/8203568?gh_jid=8203568"
-  },
-  {
-    "company": "N26",
-    "id": "e33d6ef7606d1971",
-    "location": "Berlin",
-    "posted_at": "2026-09-16T07:31:28-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Legal Counsel Corporate & Regulatory",
-    "url": "https://n26.com/en-eu/careers/positions/8200842?gh_jid=8200842"
-  },
-  {
-    "company": "N26",
     "id": "f840002f1fef1c2b",
     "location": "Berlin",
     "posted_at": "2026-09-16T16:20:15-04:00",
@@ -167,19 +137,57 @@
     "url": "https://n26.com/en-eu/careers/positions/8212940?gh_jid=8212940"
   },
   {
-    "title": "Deal Desk Analyst",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8187198?gh_jid=8187198",
+    "id": "70d7a4cfac6b55f4",
     "location": "London, England, United Kingdom",
     "posted_at": "2026-09-17T09:23:53-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation assistance",
-    "id": "70d7a4cfac6b55f4"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Deal Desk Analyst",
+    "url": "https://www.samsara.com/company/careers/roles/8187198?gh_jid=8187198"
+  },
+  {
+    "company": "N26",
+    "id": "e33d6ef7606d1971",
+    "location": "Berlin",
+    "posted_at": "2026-09-16T07:31:28-04:00",
+    "published_at": "2026-09-20T13:04:09.814138+00:00",
+    "receipts": {
+      "telegram": "26"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Legal Counsel Corporate & Regulatory",
+    "url": "https://n26.com/en-eu/careers/positions/8200842?gh_jid=8200842"
+  },
+  {
+    "company": "N26",
+    "id": "27f02544ed132fae",
+    "location": "Berlin",
+    "posted_at": "2026-09-16T11:40:09-04:00",
+    "published_at": "2026-09-20T08:05:50.899337+00:00",
+    "receipts": {
+      "telegram": "25"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "ICT GRC – ICT Compliance Senior Manager",
+    "url": "https://n26.com/en-eu/careers/positions/8203568?gh_jid=8203568"
   },
   {
     "company": "N26",
