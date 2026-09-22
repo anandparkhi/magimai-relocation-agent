@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "N26",
+      "id": "aadef9df5d3f3eb2",
+      "location": "Madrid",
+      "posted_at": "2026-09-16T13:46:44-04:00",
+      "published_at": "2026-09-22T08:04:58.727718+00:00",
+      "receipts": {
+        "telegram": "29"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Growth Marketing Manager - Influencers & Affiliates",
+      "url": "https://n26.com/en-eu/careers/positions/8208517?gh_jid=8208517"
+    },
+    {
+      "company": "N26",
       "id": "802462a30c2168d2",
       "location": "Madrid",
       "posted_at": "2026-09-16T16:02:37-04:00",
@@ -410,21 +429,6 @@
   ],
   "items": [
     {
-      "company": "N26",
-      "id": "aadef9df5d3f3eb2",
-      "location": "Madrid",
-      "posted_at": "2026-09-16T13:46:44-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Growth Marketing Manager - Influencers & Affiliates",
-      "url": "https://n26.com/en-eu/careers/positions/8208517?gh_jid=8208517"
-    },
-    {
       "company": "UpGuard",
       "id": "b9494350de628991",
       "location": "USA",
@@ -596,7 +600,7 @@
       "url": "https://n26.com/en-eu/careers/positions/8211088?gh_jid=8211088"
     }
   ],
-  "last_posted_at": "2026-09-21T15:18:23.855060+00:00",
+  "last_posted_at": "2026-09-22T08:04:58.727718+00:00",
   "posted": {
     "2026-09-13": 1,
     "2026-09-14": 3,
@@ -606,6 +610,7 @@
     "2026-09-18": 3,
     "2026-09-19": 3,
     "2026-09-20": 2,
-    "2026-09-21": 2
+    "2026-09-21": 2,
+    "2026-09-22": 1
   }
 }
