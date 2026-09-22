@@ -530,6 +530,70 @@
       "tags": [],
       "title": "Deal Desk Analyst",
       "url": "https://www.samsara.com/company/careers/roles/8187198?gh_jid=8187198"
+    },
+    {
+      "company": "Roboflow",
+      "id": "af316372b59ec33c",
+      "location": "USA",
+      "posted_at": "2026-09-22T03:39:26+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation bonus",
+      "source": "jobicy",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Full Stack Engineer",
+      "url": "https://jobicy.com/jobs/151415-full-stack-engineer"
+    },
+    {
+      "company": "OpenAI",
+      "id": "5b1c4d84824ef764",
+      "location": "USA",
+      "posted_at": "2026-09-21T16:31:42+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Account Director, Digital Native New Business",
+      "url": "https://jobicy.com/jobs/153838-account-director-digital-native-new-business"
+    },
+    {
+      "company": "Samsara",
+      "id": "1cc38b4fd717a42a",
+      "location": "Remote - France",
+      "posted_at": "2026-09-21T05:06:21-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Account Development Representative - France",
+      "url": "https://www.samsara.com/company/careers/roles/7618024?gh_jid=7618024"
+    },
+    {
+      "company": "N26",
+      "id": "c0a141c07ed61b12",
+      "location": "Berlin, Barcelona",
+      "posted_at": "2026-09-21T04:36:08-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation support",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Product Designer - Grow & Engage",
+      "url": "https://n26.com/en-eu/careers/positions/8211088?gh_jid=8211088"
     }
   ],
   "last_posted_at": "2026-09-21T15:18:23.855060+00:00",

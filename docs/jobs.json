@@ -1,36 +1,6 @@
 [
   {
     "company": "N26",
-    "id": "f840002f1fef1c2b",
-    "location": "Berlin",
-    "posted_at": "2026-09-16T16:20:15-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Junior Credit Associate",
-    "url": "https://n26.com/en-eu/careers/positions/8184874?gh_jid=8184874"
-  },
-  {
-    "company": "N26",
-    "id": "802462a30c2168d2",
-    "location": "Madrid",
-    "posted_at": "2026-09-16T16:02:37-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Fraud Analyst – Operations",
-    "url": "https://n26.com/en-eu/careers/positions/8207352?gh_jid=8207352"
-  },
-  {
-    "company": "N26",
     "id": "aadef9df5d3f3eb2",
     "location": "Madrid",
     "posted_at": "2026-09-16T13:46:44-04:00",
@@ -150,6 +120,108 @@
     "tags": [],
     "title": "Deal Desk Analyst",
     "url": "https://www.samsara.com/company/careers/roles/8187198?gh_jid=8187198"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "Roboflow",
+    "url": "https://jobicy.com/jobs/151415-full-stack-engineer",
+    "location": "USA",
+    "posted_at": "2026-09-22T03:39:26+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Software Engineering"
+    ],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation bonus",
+    "id": "af316372b59ec33c"
+  },
+  {
+    "title": "Account Director, Digital Native New Business",
+    "company": "OpenAI",
+    "url": "https://jobicy.com/jobs/153838-account-director-digital-native-new-business",
+    "location": "USA",
+    "posted_at": "2026-09-21T16:31:42+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Sales"
+    ],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "5b1c4d84824ef764"
+  },
+  {
+    "title": "Account Development Representative - France",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/7618024?gh_jid=7618024",
+    "location": "Remote - France",
+    "posted_at": "2026-09-21T05:06:21-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "1cc38b4fd717a42a"
+  },
+  {
+    "title": "Product Designer - Grow & Engage",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8211088?gh_jid=8211088",
+    "location": "Berlin, Barcelona",
+    "posted_at": "2026-09-21T04:36:08-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation support",
+    "id": "c0a141c07ed61b12"
+  },
+  {
+    "company": "N26",
+    "id": "802462a30c2168d2",
+    "location": "Madrid",
+    "posted_at": "2026-09-16T16:02:37-04:00",
+    "published_at": "2026-09-21T15:18:23.855060+00:00",
+    "receipts": {
+      "telegram": "28"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Fraud Analyst – Operations",
+    "url": "https://n26.com/en-eu/careers/positions/8207352?gh_jid=8207352"
+  },
+  {
+    "company": "N26",
+    "id": "f840002f1fef1c2b",
+    "location": "Berlin",
+    "posted_at": "2026-09-16T16:20:15-04:00",
+    "published_at": "2026-09-21T08:22:55.777139+00:00",
+    "receipts": {
+      "telegram": "27"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Junior Credit Associate",
+    "url": "https://n26.com/en-eu/careers/positions/8184874?gh_jid=8184874"
   },
   {
     "company": "N26",
