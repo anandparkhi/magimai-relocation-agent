@@ -1,38 +1,6 @@
 [
   {
     "company": "N26",
-    "id": "aadef9df5d3f3eb2",
-    "location": "Madrid",
-    "posted_at": "2026-09-16T13:46:44-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Growth Marketing Manager - Influencers & Affiliates",
-    "url": "https://n26.com/en-eu/careers/positions/8208517?gh_jid=8208517"
-  },
-  {
-    "company": "UpGuard",
-    "id": "b9494350de628991",
-    "location": "USA",
-    "posted_at": "2026-09-16T13:58:21+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Legal & Compliance"
-    ],
-    "title": "Associate Commercial Counsel",
-    "url": "https://jobicy.com/jobs/153431-associate-commercial-counsel-2"
-  },
-  {
-    "company": "N26",
     "id": "296286919045fb95",
     "location": "Madrid",
     "posted_at": "2026-09-17T10:47:50-04:00",
@@ -122,68 +90,138 @@
     "url": "https://www.samsara.com/company/careers/roles/8187198?gh_jid=8187198"
   },
   {
-    "title": "Full Stack Engineer",
     "company": "Roboflow",
-    "url": "https://jobicy.com/jobs/151415-full-stack-engineer",
+    "id": "af316372b59ec33c",
     "location": "USA",
     "posted_at": "2026-09-22T03:39:26+00:00",
-    "source": "jobicy",
+    "regions": [
+      "remote_us"
+    ],
     "remote": true,
+    "signal": "Relocation bonus",
+    "source": "jobicy",
     "tags": [
       "Software Engineering"
     ],
+    "title": "Full Stack Engineer",
+    "url": "https://jobicy.com/jobs/151415-full-stack-engineer"
+  },
+  {
+    "company": "OpenAI",
+    "id": "5b1c4d84824ef764",
+    "location": "USA",
+    "posted_at": "2026-09-21T16:31:42+00:00",
     "regions": [
       "remote_us"
     ],
-    "signal": "Relocation bonus",
-    "id": "af316372b59ec33c"
-  },
-  {
-    "title": "Account Director, Digital Native New Business",
-    "company": "OpenAI",
-    "url": "https://jobicy.com/jobs/153838-account-director-digital-native-new-business",
-    "location": "USA",
-    "posted_at": "2026-09-21T16:31:42+00:00",
-    "source": "jobicy",
     "remote": true,
+    "signal": "Relocation assistance",
+    "source": "jobicy",
     "tags": [
       "Sales"
     ],
-    "regions": [
-      "remote_us"
-    ],
-    "signal": "Relocation assistance",
-    "id": "5b1c4d84824ef764"
+    "title": "Account Director, Digital Native New Business",
+    "url": "https://jobicy.com/jobs/153838-account-director-digital-native-new-business"
   },
   {
-    "title": "Account Development Representative - France",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/7618024?gh_jid=7618024",
+    "id": "1cc38b4fd717a42a",
     "location": "Remote - France",
     "posted_at": "2026-09-21T05:06:21-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Account Development Representative - France",
+    "url": "https://www.samsara.com/company/careers/roles/7618024?gh_jid=7618024"
+  },
+  {
+    "company": "N26",
+    "id": "c0a141c07ed61b12",
+    "location": "Berlin, Barcelona",
+    "posted_at": "2026-09-21T04:36:08-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation support",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Product Designer - Grow & Engage",
+    "url": "https://n26.com/en-eu/careers/positions/8211088?gh_jid=8211088"
+  },
+  {
+    "title": "Senior Financial Analyst",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8223744?gh_jid=8223744",
+    "location": "Remote - Canada",
+    "posted_at": "2026-09-22T13:19:41-04:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
     "regions": [
-      "europe"
+      "canada"
     ],
     "signal": "Relocation assistance",
-    "id": "1cc38b4fd717a42a"
+    "id": "8e461a842c0feb4b"
   },
   {
-    "title": "Product Designer - Grow & Engage",
-    "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8211088?gh_jid=8211088",
-    "location": "Berlin, Barcelona",
-    "posted_at": "2026-09-21T04:36:08-04:00",
+    "title": "Senior Financial Analyst",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8209909?gh_jid=8209909",
+    "location": "Remote - US",
+    "posted_at": "2026-09-22T13:19:40-04:00",
     "source": "ats:greenhouse",
-    "remote": false,
+    "remote": true,
     "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "a2625212fd1ca048"
+  },
+  {
+    "company": "UpGuard",
+    "id": "b9494350de628991",
+    "location": "USA",
+    "posted_at": "2026-09-16T13:58:21+00:00",
+    "published_at": "2026-09-22T13:26:08.008258+00:00",
+    "receipts": {
+      "telegram": "30"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "jobicy",
+    "tags": [
+      "Legal & Compliance"
+    ],
+    "title": "Associate Commercial Counsel",
+    "url": "https://jobicy.com/jobs/153431-associate-commercial-counsel-2"
+  },
+  {
+    "company": "N26",
+    "id": "aadef9df5d3f3eb2",
+    "location": "Madrid",
+    "posted_at": "2026-09-16T13:46:44-04:00",
+    "published_at": "2026-09-22T08:04:58.727718+00:00",
+    "receipts": {
+      "telegram": "29"
+    },
     "regions": [
       "europe"
     ],
-    "signal": "Relocation support",
-    "id": "c0a141c07ed61b12"
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Growth Marketing Manager - Influencers & Affiliates",
+    "url": "https://n26.com/en-eu/careers/positions/8208517?gh_jid=8208517"
   },
   {
     "company": "N26",
