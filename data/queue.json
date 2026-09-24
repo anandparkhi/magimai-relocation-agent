@@ -640,6 +640,36 @@
       "tags": [],
       "title": "Senior Financial Analyst",
       "url": "https://www.samsara.com/company/careers/roles/8209909?gh_jid=8209909"
+    },
+    {
+      "company": "N26",
+      "id": "4b27b1ceaae2b111",
+      "location": "Barcelona",
+      "posted_at": "2026-09-23T09:41:15-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Site Reliability Engineer",
+      "url": "https://n26.com/en-eu/careers/positions/8222839?gh_jid=8222839"
+    },
+    {
+      "company": "N26",
+      "id": "d565151ee9025842",
+      "location": "Madrid",
+      "posted_at": "2026-09-23T08:57:08-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "KYB  Specialist",
+      "url": "https://n26.com/en-eu/careers/positions/8225982?gh_jid=8225982"
     }
   ],
   "last_posted_at": "2026-09-23T13:40:08.732630+00:00",

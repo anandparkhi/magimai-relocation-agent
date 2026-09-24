@@ -1,36 +1,6 @@
 [
   {
     "company": "N26",
-    "id": "296286919045fb95",
-    "location": "Madrid",
-    "posted_at": "2026-09-17T10:47:50-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "KYC Team Lead - EDD/ODD",
-    "url": "https://n26.com/en-eu/careers/positions/8203617?gh_jid=8203617"
-  },
-  {
-    "company": "N26",
-    "id": "62b432658ffe9ac4",
-    "location": "Berlin",
-    "posted_at": "2026-09-18T11:43:40-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior Data Engineer - Enablement",
-    "url": "https://n26.com/en-eu/careers/positions/8213749?gh_jid=8213749"
-  },
-  {
-    "company": "N26",
     "id": "b6e75bc8c8038a41",
     "location": "Madrid",
     "posted_at": "2026-09-18T09:52:18-04:00",
@@ -154,34 +124,102 @@
     "url": "https://n26.com/en-eu/careers/positions/8211088?gh_jid=8211088"
   },
   {
-    "title": "Senior Financial Analyst",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8223744?gh_jid=8223744",
+    "id": "8e461a842c0feb4b",
     "location": "Remote - Canada",
     "posted_at": "2026-09-22T13:19:41-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "canada"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "8e461a842c0feb4b"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Financial Analyst",
+    "url": "https://www.samsara.com/company/careers/roles/8223744?gh_jid=8223744"
   },
   {
-    "title": "Senior Financial Analyst",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8209909?gh_jid=8209909",
+    "id": "a2625212fd1ca048",
     "location": "Remote - US",
     "posted_at": "2026-09-22T13:19:40-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "a2625212fd1ca048"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Financial Analyst",
+    "url": "https://www.samsara.com/company/careers/roles/8209909?gh_jid=8209909"
+  },
+  {
+    "title": "Site Reliability Engineer",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8222839?gh_jid=8222839",
+    "location": "Barcelona",
+    "posted_at": "2026-09-23T09:41:15-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "4b27b1ceaae2b111"
+  },
+  {
+    "title": "KYB  Specialist",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8225982?gh_jid=8225982",
+    "location": "Madrid",
+    "posted_at": "2026-09-23T08:57:08-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "d565151ee9025842"
+  },
+  {
+    "company": "N26",
+    "id": "62b432658ffe9ac4",
+    "location": "Berlin",
+    "posted_at": "2026-09-18T11:43:40-04:00",
+    "published_at": "2026-09-23T13:40:08.732630+00:00",
+    "receipts": {
+      "telegram": "32"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Data Engineer - Enablement",
+    "url": "https://n26.com/en-eu/careers/positions/8213749?gh_jid=8213749"
+  },
+  {
+    "company": "N26",
+    "id": "296286919045fb95",
+    "location": "Madrid",
+    "posted_at": "2026-09-17T10:47:50-04:00",
+    "published_at": "2026-09-23T08:07:22.368859+00:00",
+    "receipts": {
+      "telegram": "31"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "KYC Team Lead - EDD/ODD",
+    "url": "https://n26.com/en-eu/careers/positions/8203617?gh_jid=8203617"
   },
   {
     "company": "UpGuard",
