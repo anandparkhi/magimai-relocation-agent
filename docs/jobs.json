@@ -1,36 +1,6 @@
 [
   {
     "company": "N26",
-    "id": "b6e75bc8c8038a41",
-    "location": "Madrid",
-    "posted_at": "2026-09-18T09:52:18-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "AFC Compliance Controls and Reviews - Associate",
-    "url": "https://n26.com/en-eu/careers/positions/8213445?gh_jid=8213445"
-  },
-  {
-    "company": "N26",
-    "id": "0e55bd8413183d5b",
-    "location": "Berlin",
-    "posted_at": "2026-09-18T09:10:49-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "AFC Compliance Controls and Reviews - Associate",
-    "url": "https://n26.com/en-eu/careers/positions/8203585?gh_jid=8203585"
-  },
-  {
-    "company": "N26",
     "id": "970fc70a6b10eaa3",
     "location": "Madrid",
     "posted_at": "2026-09-18T03:31:24-04:00",
@@ -154,34 +124,87 @@
     "url": "https://www.samsara.com/company/careers/roles/8209909?gh_jid=8209909"
   },
   {
-    "title": "Site Reliability Engineer",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8222839?gh_jid=8222839",
+    "id": "4b27b1ceaae2b111",
     "location": "Barcelona",
     "posted_at": "2026-09-23T09:41:15-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "4b27b1ceaae2b111"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Site Reliability Engineer",
+    "url": "https://n26.com/en-eu/careers/positions/8222839?gh_jid=8222839"
   },
   {
-    "title": "KYB  Specialist",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8225982?gh_jid=8225982",
+    "id": "d565151ee9025842",
     "location": "Madrid",
     "posted_at": "2026-09-23T08:57:08-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "d565151ee9025842"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "KYB  Specialist",
+    "url": "https://n26.com/en-eu/careers/positions/8225982?gh_jid=8225982"
+  },
+  {
+    "title": "Senior Software Engineer II",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949",
+    "location": "Remote - Canada",
+    "posted_at": "2026-09-24T16:49:21-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "canada"
+    ],
+    "signal": "Relocation assistance",
+    "id": "a38e8bf7fd02a95d"
+  },
+  {
+    "company": "N26",
+    "id": "0e55bd8413183d5b",
+    "location": "Berlin",
+    "posted_at": "2026-09-18T09:10:49-04:00",
+    "published_at": "2026-09-24T13:18:14.981678+00:00",
+    "receipts": {
+      "telegram": "34"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "AFC Compliance Controls and Reviews - Associate",
+    "url": "https://n26.com/en-eu/careers/positions/8203585?gh_jid=8203585"
+  },
+  {
+    "company": "N26",
+    "id": "b6e75bc8c8038a41",
+    "location": "Madrid",
+    "posted_at": "2026-09-18T09:52:18-04:00",
+    "published_at": "2026-09-24T07:58:43.411840+00:00",
+    "receipts": {
+      "telegram": "33"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "AFC Compliance Controls and Reviews - Associate",
+    "url": "https://n26.com/en-eu/careers/positions/8213445?gh_jid=8213445"
   },
   {
     "company": "N26",
