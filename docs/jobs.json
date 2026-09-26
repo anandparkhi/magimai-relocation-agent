@@ -1,35 +1,5 @@
 [
   {
-    "company": "N26",
-    "id": "970fc70a6b10eaa3",
-    "location": "Madrid",
-    "posted_at": "2026-09-18T03:31:24-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "KYC Specialist – French Market",
-    "url": "https://n26.com/en-eu/careers/positions/8212940?gh_jid=8212940"
-  },
-  {
-    "company": "Samsara",
-    "id": "70d7a4cfac6b55f4",
-    "location": "London, England, United Kingdom",
-    "posted_at": "2026-09-17T09:23:53-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Deal Desk Analyst",
-    "url": "https://www.samsara.com/company/careers/roles/8187198?gh_jid=8187198"
-  },
-  {
     "company": "Roboflow",
     "id": "af316372b59ec33c",
     "location": "USA",
@@ -154,19 +124,57 @@
     "url": "https://n26.com/en-eu/careers/positions/8225982?gh_jid=8225982"
   },
   {
-    "title": "Senior Software Engineer II",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949",
+    "id": "a38e8bf7fd02a95d",
     "location": "Remote - Canada",
     "posted_at": "2026-09-24T16:49:21-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "canada"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "a38e8bf7fd02a95d"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Software Engineer II",
+    "url": "https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949"
+  },
+  {
+    "company": "Samsara",
+    "id": "70d7a4cfac6b55f4",
+    "location": "London, England, United Kingdom",
+    "posted_at": "2026-09-17T09:23:53-04:00",
+    "published_at": "2026-09-25T14:07:58.602471+00:00",
+    "receipts": {
+      "telegram": "36"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Deal Desk Analyst",
+    "url": "https://www.samsara.com/company/careers/roles/8187198?gh_jid=8187198"
+  },
+  {
+    "company": "N26",
+    "id": "970fc70a6b10eaa3",
+    "location": "Madrid",
+    "posted_at": "2026-09-18T03:31:24-04:00",
+    "published_at": "2026-09-25T08:21:49.914269+00:00",
+    "receipts": {
+      "telegram": "35"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "KYC Specialist – French Market",
+    "url": "https://n26.com/en-eu/careers/positions/8212940?gh_jid=8212940"
   },
   {
     "company": "N26",
