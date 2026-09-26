@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "OpenAI",
+      "id": "5b1c4d84824ef764",
+      "location": "USA",
+      "posted_at": "2026-09-21T16:31:42+00:00",
+      "published_at": "2026-09-26T13:07:46.195052+00:00",
+      "receipts": {
+        "telegram": "38"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Account Director, Digital Native New Business",
+      "url": "https://jobicy.com/jobs/153838-account-director-digital-native-new-business"
+    },
+    {
       "company": "Roboflow",
       "id": "af316372b59ec33c",
       "location": "USA",
@@ -585,23 +606,6 @@
   ],
   "items": [
     {
-      "company": "OpenAI",
-      "id": "5b1c4d84824ef764",
-      "location": "USA",
-      "posted_at": "2026-09-21T16:31:42+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "jobicy",
-      "tags": [
-        "Sales"
-      ],
-      "title": "Account Director, Digital Native New Business",
-      "url": "https://jobicy.com/jobs/153838-account-director-digital-native-new-business"
-    },
-    {
       "company": "Samsara",
       "id": "1cc38b4fd717a42a",
       "location": "Remote - France",
@@ -707,7 +711,7 @@
       "url": "https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949"
     }
   ],
-  "last_posted_at": "2026-09-26T08:07:56.607510+00:00",
+  "last_posted_at": "2026-09-26T13:07:46.195052+00:00",
   "posted": {
     "2026-09-13": 1,
     "2026-09-14": 3,
@@ -722,6 +726,6 @@
     "2026-09-23": 2,
     "2026-09-24": 2,
     "2026-09-25": 2,
-    "2026-09-26": 1
+    "2026-09-26": 2
   }
 }
