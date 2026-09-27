@@ -223,11 +223,34 @@
       "verified_by": []
     },
     {
+      "ats": "ashby",
+      "ats_token": "openai",
+      "careers_url": null,
+      "name": "OpenAI",
+      "regions": [
+        "remote_us"
+      ],
+      "source": "observed",
+      "verified_by": []
+    },
+    {
+      "ats": "ashby",
+      "ats_token": "roboflow",
+      "careers_url": null,
+      "name": "Roboflow",
+      "regions": [
+        "remote_us"
+      ],
+      "source": "observed",
+      "verified_by": []
+    },
+    {
       "ats": "greenhouse",
       "ats_token": "samsara",
       "careers_url": null,
       "name": "Samsara",
       "regions": [
+        "canada",
         "europe",
         "remote_us"
       ],
@@ -246,5 +269,5 @@
       "verified_by": []
     }
   ],
-  "refreshed_at": "2026-09-20T05:35:44.993936+00:00"
+  "refreshed_at": "2026-09-27T06:03:42.683002+00:00"
 }
