@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "N26",
+      "id": "c0a141c07ed61b12",
+      "location": "Berlin, Barcelona",
+      "posted_at": "2026-09-21T04:36:08-04:00",
+      "published_at": "2026-09-27T14:25:33.053176+00:00",
+      "receipts": {
+        "telegram": "40"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation support",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Product Designer - Grow & Engage",
+      "url": "https://n26.com/en-eu/careers/positions/8211088?gh_jid=8211088"
+    },
+    {
       "company": "Samsara",
       "id": "1cc38b4fd717a42a",
       "location": "Remote - France",
@@ -625,21 +644,6 @@
   ],
   "items": [
     {
-      "company": "N26",
-      "id": "c0a141c07ed61b12",
-      "location": "Berlin, Barcelona",
-      "posted_at": "2026-09-21T04:36:08-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation support",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Product Designer - Grow & Engage",
-      "url": "https://n26.com/en-eu/careers/positions/8211088?gh_jid=8211088"
-    },
-    {
       "company": "Samsara",
       "id": "8e461a842c0feb4b",
       "location": "Remote - Canada",
@@ -804,7 +808,7 @@
       "url": "https://jobs.ashbyhq.com/openai/9745f423-9048-48c0-8c57-639611b04abc"
     }
   ],
-  "last_posted_at": "2026-09-27T08:44:05.155459+00:00",
+  "last_posted_at": "2026-09-27T14:25:33.053176+00:00",
   "posted": {
     "2026-09-13": 1,
     "2026-09-14": 3,
@@ -820,6 +824,6 @@
     "2026-09-24": 2,
     "2026-09-25": 2,
     "2026-09-26": 2,
-    "2026-09-27": 1
+    "2026-09-27": 2
   }
 }
