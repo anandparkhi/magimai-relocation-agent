@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "N26",
+      "id": "4b27b1ceaae2b111",
+      "location": "Barcelona",
+      "posted_at": "2026-09-23T09:41:15-04:00",
+      "published_at": "2026-09-29T09:18:38.709035+00:00",
+      "receipts": {
+        "telegram": "43"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Site Reliability Engineer",
+      "url": "https://n26.com/en-eu/careers/positions/8222839?gh_jid=8222839"
+    },
+    {
       "company": "Samsara",
       "id": "a2625212fd1ca048",
       "location": "Remote - US",
@@ -683,21 +702,6 @@
   "items": [
     {
       "company": "N26",
-      "id": "4b27b1ceaae2b111",
-      "location": "Barcelona",
-      "posted_at": "2026-09-23T09:41:15-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Site Reliability Engineer",
-      "url": "https://n26.com/en-eu/careers/positions/8222839?gh_jid=8222839"
-    },
-    {
-      "company": "N26",
       "id": "d565151ee9025842",
       "location": "Madrid",
       "posted_at": "2026-09-23T08:57:08-04:00",
@@ -866,9 +870,8 @@
       "url": "https://www.samsara.com/company/careers/roles/8223369?gh_jid=8223369"
     }
   ],
-  "last_posted_at": "2026-09-28T17:40:40.405492+00:00",
+  "last_posted_at": "2026-09-29T09:18:38.709035+00:00",
   "posted": {
-    "2026-09-14": 3,
     "2026-09-15": 2,
     "2026-09-16": 3,
     "2026-09-17": 2,
@@ -882,6 +885,7 @@
     "2026-09-25": 2,
     "2026-09-26": 2,
     "2026-09-27": 2,
-    "2026-09-28": 2
+    "2026-09-28": 2,
+    "2026-09-29": 1
   }
 }
