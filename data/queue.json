@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "N26",
+      "id": "d565151ee9025842",
+      "location": "Madrid",
+      "posted_at": "2026-09-23T08:57:08-04:00",
+      "published_at": "2026-09-29T15:58:39.304644+00:00",
+      "receipts": {
+        "telegram": "44"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "KYB  Specialist",
+      "url": "https://n26.com/en-eu/careers/positions/8225982?gh_jid=8225982"
+    },
+    {
+      "company": "N26",
       "id": "4b27b1ceaae2b111",
       "location": "Barcelona",
       "posted_at": "2026-09-23T09:41:15-04:00",
@@ -701,21 +720,6 @@
   ],
   "items": [
     {
-      "company": "N26",
-      "id": "d565151ee9025842",
-      "location": "Madrid",
-      "posted_at": "2026-09-23T08:57:08-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "KYB  Specialist",
-      "url": "https://n26.com/en-eu/careers/positions/8225982?gh_jid=8225982"
-    },
-    {
       "company": "Samsara",
       "id": "a38e8bf7fd02a95d",
       "location": "Remote - Canada",
@@ -870,7 +874,7 @@
       "url": "https://www.samsara.com/company/careers/roles/8223369?gh_jid=8223369"
     }
   ],
-  "last_posted_at": "2026-09-29T09:18:38.709035+00:00",
+  "last_posted_at": "2026-09-29T15:58:39.304644+00:00",
   "posted": {
     "2026-09-15": 2,
     "2026-09-16": 3,
@@ -886,6 +890,6 @@
     "2026-09-26": 2,
     "2026-09-27": 2,
     "2026-09-28": 2,
-    "2026-09-29": 1
+    "2026-09-29": 2
   }
 }
