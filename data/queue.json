@@ -872,6 +872,102 @@
       "tags": [],
       "title": "Senior Security Engineer - Enterprise Security",
       "url": "https://www.samsara.com/company/careers/roles/8223369?gh_jid=8223369"
+    },
+    {
+      "company": "N26",
+      "id": "e2f1f26b130d4b55",
+      "location": "Berlin",
+      "posted_at": "2026-09-30T03:49:45-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Data Analyst - Anti Financial Crime",
+      "url": "https://n26.com/en-eu/careers/positions/8242377?gh_jid=8242377"
+    },
+    {
+      "company": "Samsara",
+      "id": "0d8d304b8e96c592",
+      "location": "Canada,  USA",
+      "posted_at": "2026-09-30T04:02:33+00:00",
+      "regions": [
+        "canada",
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Creative & Design"
+      ],
+      "title": "Director, Product Design",
+      "url": "https://jobicy.com/jobs/143046-director-product-design"
+    },
+    {
+      "company": "Samsara",
+      "id": "0b2c8a95056fc537",
+      "location": "Remote - US",
+      "posted_at": "2026-09-29T19:12:11-04:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Global Benefits and Mobility Partner",
+      "url": "https://www.samsara.com/company/careers/roles/8174625?gh_jid=8174625"
+    },
+    {
+      "company": "Samsara",
+      "id": "3ca0e3c4e16b606d",
+      "location": "Remote - US",
+      "posted_at": "2026-09-29T13:29:53-04:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Manager, Firmware Engineering",
+      "url": "https://www.samsara.com/company/careers/roles/8213990?gh_jid=8213990"
+    },
+    {
+      "company": "OpenAI",
+      "id": "b4ab6d285c806b90",
+      "location": "Singapore",
+      "posted_at": "2026-09-29T17:15:01.186000+00:00",
+      "regions": [
+        "singapore"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "User Operations",
+        "Support Delivery"
+      ],
+      "title": "AI Support Engineer - Singapore (Weekend Shift)",
+      "url": "https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6"
+    },
+    {
+      "company": "N26",
+      "id": "d20a7ab8b160b30f",
+      "location": "Berlin",
+      "posted_at": "2026-09-29T06:39:50-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Data Protection and Governance Manager",
+      "url": "https://n26.com/en-eu/careers/positions/8230033?gh_jid=8230033"
     }
   ],
   "last_posted_at": "2026-09-29T15:58:39.304644+00:00",

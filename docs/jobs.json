@@ -1,35 +1,5 @@
 [
   {
-    "company": "N26",
-    "id": "4b27b1ceaae2b111",
-    "location": "Barcelona",
-    "posted_at": "2026-09-23T09:41:15-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Site Reliability Engineer",
-    "url": "https://n26.com/en-eu/careers/positions/8222839?gh_jid=8222839"
-  },
-  {
-    "company": "N26",
-    "id": "d565151ee9025842",
-    "location": "Madrid",
-    "posted_at": "2026-09-23T08:57:08-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "KYB  Specialist",
-    "url": "https://n26.com/en-eu/careers/positions/8225982?gh_jid=8225982"
-  },
-  {
     "company": "Samsara",
     "id": "a38e8bf7fd02a95d",
     "location": "Remote - Canada",
@@ -152,36 +122,170 @@
     "url": "https://jobs.ashbyhq.com/openai/923eebc8-5591-4057-892f-5825de1a5460"
   },
   {
-    "title": "Customer Sales Engineer",
     "company": "UpGuard",
-    "url": "https://jobicy.com/jobs/147850-customer-sales-engineer-2",
+    "id": "d77f760b7b9e559e",
     "location": "USA",
     "posted_at": "2026-09-29T03:30:21+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "Sales"
-    ],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Visa sponsorship",
-    "id": "d77f760b7b9e559e"
+    "source": "jobicy",
+    "tags": [
+      "Sales"
+    ],
+    "title": "Customer Sales Engineer",
+    "url": "https://jobicy.com/jobs/147850-customer-sales-engineer-2"
   },
   {
-    "title": "Senior Security Engineer - Enterprise Security",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8223369?gh_jid=8223369",
+    "id": "f0c8fc0cef3405e0",
     "location": "London - UK2; Remote - London",
     "posted_at": "2026-09-28T12:27:36-04:00",
-    "source": "ats:greenhouse",
+    "regions": [
+      "europe"
+    ],
     "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Security Engineer - Enterprise Security",
+    "url": "https://www.samsara.com/company/careers/roles/8223369?gh_jid=8223369"
+  },
+  {
+    "title": "Data Analyst - Anti Financial Crime",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8242377?gh_jid=8242377",
+    "location": "Berlin",
+    "posted_at": "2026-09-30T03:49:45-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
     "tags": [],
     "regions": [
       "europe"
     ],
+    "signal": "Relocation package",
+    "id": "e2f1f26b130d4b55"
+  },
+  {
+    "title": "Director, Product Design",
+    "company": "Samsara",
+    "url": "https://jobicy.com/jobs/143046-director-product-design",
+    "location": "Canada,  USA",
+    "posted_at": "2026-09-30T04:02:33+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Creative & Design"
+    ],
+    "regions": [
+      "canada",
+      "remote_us"
+    ],
     "signal": "Relocation assistance",
-    "id": "f0c8fc0cef3405e0"
+    "id": "0d8d304b8e96c592"
+  },
+  {
+    "title": "Global Benefits and Mobility Partner",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8174625?gh_jid=8174625",
+    "location": "Remote - US",
+    "posted_at": "2026-09-29T19:12:11-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "0b2c8a95056fc537"
+  },
+  {
+    "title": "Manager, Firmware Engineering",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8213990?gh_jid=8213990",
+    "location": "Remote - US",
+    "posted_at": "2026-09-29T13:29:53-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "3ca0e3c4e16b606d"
+  },
+  {
+    "title": "AI Support Engineer - Singapore (Weekend Shift)",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6",
+    "location": "Singapore",
+    "posted_at": "2026-09-29T17:15:01.186000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "User Operations",
+      "Support Delivery"
+    ],
+    "regions": [
+      "singapore"
+    ],
+    "signal": "Relocation assistance",
+    "id": "b4ab6d285c806b90"
+  },
+  {
+    "title": "Data Protection and Governance Manager",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8230033?gh_jid=8230033",
+    "location": "Berlin",
+    "posted_at": "2026-09-29T06:39:50-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "d20a7ab8b160b30f"
+  },
+  {
+    "company": "N26",
+    "id": "d565151ee9025842",
+    "location": "Madrid",
+    "posted_at": "2026-09-23T08:57:08-04:00",
+    "published_at": "2026-09-29T15:58:39.304644+00:00",
+    "receipts": {
+      "telegram": "44"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "KYB  Specialist",
+    "url": "https://n26.com/en-eu/careers/positions/8225982?gh_jid=8225982"
+  },
+  {
+    "company": "N26",
+    "id": "4b27b1ceaae2b111",
+    "location": "Barcelona",
+    "posted_at": "2026-09-23T09:41:15-04:00",
+    "published_at": "2026-09-29T09:18:38.709035+00:00",
+    "receipts": {
+      "telegram": "43"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Site Reliability Engineer",
+    "url": "https://n26.com/en-eu/careers/positions/8222839?gh_jid=8222839"
   },
   {
     "company": "Samsara",
