@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "OpenAI",
+      "id": "f719a9f9d060dfd0",
+      "location": "USA",
+      "posted_at": "2026-09-26T11:05:25+00:00",
+      "published_at": "2026-09-30T15:56:23.093453+00:00",
+      "receipts": {
+        "telegram": "46"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "title": "Technical Threat Investigator, Threat Intel Engineering",
+      "url": "https://jobicy.com/jobs/151752-technical-threat-investigator-threat-intel-engineering"
+    },
+    {
       "company": "Samsara",
       "id": "a38e8bf7fd02a95d",
       "location": "Remote - Canada",
@@ -740,23 +761,6 @@
   "items": [
     {
       "company": "OpenAI",
-      "id": "f719a9f9d060dfd0",
-      "location": "USA",
-      "posted_at": "2026-09-26T11:05:25+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "jobicy",
-      "tags": [
-        "Cybersecurity"
-      ],
-      "title": "Technical Threat Investigator, Threat Intel Engineering",
-      "url": "https://jobicy.com/jobs/151752-technical-threat-investigator-threat-intel-engineering"
-    },
-    {
-      "company": "OpenAI",
       "id": "13fc1d1f42105558",
       "location": "Singapore",
       "posted_at": "2026-09-25T16:43:53.340000+00:00",
@@ -974,7 +978,7 @@
       "url": "https://n26.com/en-eu/careers/positions/8230033?gh_jid=8230033"
     }
   ],
-  "last_posted_at": "2026-09-30T09:09:31.429347+00:00",
+  "last_posted_at": "2026-09-30T15:56:23.093453+00:00",
   "posted": {
     "2026-09-16": 3,
     "2026-09-17": 2,
@@ -990,6 +994,6 @@
     "2026-09-27": 2,
     "2026-09-28": 2,
     "2026-09-29": 2,
-    "2026-09-30": 1
+    "2026-09-30": 2
   }
 }
