@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Samsara",
+      "id": "a38e8bf7fd02a95d",
+      "location": "Remote - Canada",
+      "posted_at": "2026-09-24T16:49:21-04:00",
+      "published_at": "2026-09-30T09:09:31.429347+00:00",
+      "receipts": {
+        "telegram": "45"
+      },
+      "regions": [
+        "canada"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Software Engineer II",
+      "url": "https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949"
+    },
+    {
       "company": "N26",
       "id": "d565151ee9025842",
       "location": "Madrid",
@@ -720,21 +739,6 @@
   ],
   "items": [
     {
-      "company": "Samsara",
-      "id": "a38e8bf7fd02a95d",
-      "location": "Remote - Canada",
-      "posted_at": "2026-09-24T16:49:21-04:00",
-      "regions": [
-        "canada"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Software Engineer II",
-      "url": "https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949"
-    },
-    {
       "company": "OpenAI",
       "id": "f719a9f9d060dfd0",
       "location": "USA",
@@ -970,9 +974,8 @@
       "url": "https://n26.com/en-eu/careers/positions/8230033?gh_jid=8230033"
     }
   ],
-  "last_posted_at": "2026-09-29T15:58:39.304644+00:00",
+  "last_posted_at": "2026-09-30T09:09:31.429347+00:00",
   "posted": {
-    "2026-09-15": 2,
     "2026-09-16": 3,
     "2026-09-17": 2,
     "2026-09-18": 3,
@@ -986,6 +989,7 @@
     "2026-09-26": 2,
     "2026-09-27": 2,
     "2026-09-28": 2,
-    "2026-09-29": 2
+    "2026-09-29": 2,
+    "2026-09-30": 1
   }
 }
