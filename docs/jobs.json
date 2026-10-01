@@ -1,37 +1,5 @@
 [
   {
-    "company": "Samsara",
-    "id": "a38e8bf7fd02a95d",
-    "location": "Remote - Canada",
-    "posted_at": "2026-09-24T16:49:21-04:00",
-    "regions": [
-      "canada"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior Software Engineer II",
-    "url": "https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949"
-  },
-  {
-    "company": "OpenAI",
-    "id": "f719a9f9d060dfd0",
-    "location": "USA",
-    "posted_at": "2026-09-26T11:05:25+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "jobicy",
-    "tags": [
-      "Cybersecurity"
-    ],
-    "title": "Technical Threat Investigator, Threat Intel Engineering",
-    "url": "https://jobicy.com/jobs/151752-technical-threat-investigator-threat-intel-engineering"
-  },
-  {
     "company": "OpenAI",
     "id": "13fc1d1f42105558",
     "location": "Singapore",
@@ -154,92 +122,124 @@
     "url": "https://www.samsara.com/company/careers/roles/8223369?gh_jid=8223369"
   },
   {
-    "title": "Data Analyst - Anti Financial Crime",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8242377?gh_jid=8242377",
+    "id": "e2f1f26b130d4b55",
     "location": "Berlin",
     "posted_at": "2026-09-30T03:49:45-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "e2f1f26b130d4b55"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Data Analyst - Anti Financial Crime",
+    "url": "https://n26.com/en-eu/careers/positions/8242377?gh_jid=8242377"
   },
   {
-    "title": "Director, Product Design",
     "company": "Samsara",
-    "url": "https://jobicy.com/jobs/143046-director-product-design",
+    "id": "0d8d304b8e96c592",
     "location": "Canada,  USA",
     "posted_at": "2026-09-30T04:02:33+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "Creative & Design"
-    ],
     "regions": [
       "canada",
       "remote_us"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "0d8d304b8e96c592"
+    "source": "jobicy",
+    "tags": [
+      "Creative & Design"
+    ],
+    "title": "Director, Product Design",
+    "url": "https://jobicy.com/jobs/143046-director-product-design"
   },
   {
-    "title": "Global Benefits and Mobility Partner",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8174625?gh_jid=8174625",
+    "id": "0b2c8a95056fc537",
     "location": "Remote - US",
     "posted_at": "2026-09-29T19:12:11-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Visa sponsorship",
-    "id": "0b2c8a95056fc537"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Global Benefits and Mobility Partner",
+    "url": "https://www.samsara.com/company/careers/roles/8174625?gh_jid=8174625"
   },
   {
-    "title": "Manager, Firmware Engineering",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8213990?gh_jid=8213990",
+    "id": "3ca0e3c4e16b606d",
     "location": "Remote - US",
     "posted_at": "2026-09-29T13:29:53-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "3ca0e3c4e16b606d"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Manager, Firmware Engineering",
+    "url": "https://www.samsara.com/company/careers/roles/8213990?gh_jid=8213990"
   },
   {
-    "title": "AI Support Engineer - Singapore (Weekend Shift)",
     "company": "OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6",
+    "id": "b4ab6d285c806b90",
     "location": "Singapore",
     "posted_at": "2026-09-29T17:15:01.186000+00:00",
-    "source": "ats:ashby",
+    "regions": [
+      "singapore"
+    ],
     "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
     "tags": [
       "User Operations",
       "Support Delivery"
     ],
-    "regions": [
-      "singapore"
-    ],
-    "signal": "Relocation assistance",
-    "id": "b4ab6d285c806b90"
+    "title": "AI Support Engineer - Singapore (Weekend Shift)",
+    "url": "https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6"
   },
   {
-    "title": "Data Protection and Governance Manager",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8230033?gh_jid=8230033",
+    "id": "d20a7ab8b160b30f",
     "location": "Berlin",
     "posted_at": "2026-09-29T06:39:50-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Data Protection and Governance Manager",
+    "url": "https://n26.com/en-eu/careers/positions/8230033?gh_jid=8230033"
+  },
+  {
+    "title": "Mobility Specialist - EMEA",
+    "company": "Remote",
+    "url": "https://jobicy.com/jobs/154311-mobility-specialist-emea",
+    "location": "EMEA",
+    "posted_at": "2026-10-01T04:33:18+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Legal & Compliance"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "d2d1a5a0520e75e1"
+  },
+  {
+    "title": "IT Audit Manger / ICT Service Auditor",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8239610?gh_jid=8239610",
+    "location": "Berlin",
+    "posted_at": "2026-09-30T10:27:57-04:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
@@ -247,7 +247,62 @@
       "europe"
     ],
     "signal": "Relocation package",
-    "id": "d20a7ab8b160b30f"
+    "id": "e11b7073b2f79b09"
+  },
+  {
+    "title": "Senior Software Engineer II, Route Planning",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/7520397?gh_jid=7520397",
+    "location": "Remote - US",
+    "posted_at": "2026-09-30T07:37:14-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "9ae115c4f062ccf9"
+  },
+  {
+    "company": "OpenAI",
+    "id": "f719a9f9d060dfd0",
+    "location": "USA",
+    "posted_at": "2026-09-26T11:05:25+00:00",
+    "published_at": "2026-09-30T15:56:23.093453+00:00",
+    "receipts": {
+      "telegram": "46"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "jobicy",
+    "tags": [
+      "Cybersecurity"
+    ],
+    "title": "Technical Threat Investigator, Threat Intel Engineering",
+    "url": "https://jobicy.com/jobs/151752-technical-threat-investigator-threat-intel-engineering"
+  },
+  {
+    "company": "Samsara",
+    "id": "a38e8bf7fd02a95d",
+    "location": "Remote - Canada",
+    "posted_at": "2026-09-24T16:49:21-04:00",
+    "published_at": "2026-09-30T09:09:31.429347+00:00",
+    "receipts": {
+      "telegram": "45"
+    },
+    "regions": [
+      "canada"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Software Engineer II",
+    "url": "https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949"
   },
   {
     "company": "N26",

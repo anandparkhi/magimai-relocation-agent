@@ -976,6 +976,53 @@
       "tags": [],
       "title": "Data Protection and Governance Manager",
       "url": "https://n26.com/en-eu/careers/positions/8230033?gh_jid=8230033"
+    },
+    {
+      "company": "Remote",
+      "id": "d2d1a5a0520e75e1",
+      "location": "EMEA",
+      "posted_at": "2026-10-01T04:33:18+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Legal & Compliance"
+      ],
+      "title": "Mobility Specialist - EMEA",
+      "url": "https://jobicy.com/jobs/154311-mobility-specialist-emea"
+    },
+    {
+      "company": "N26",
+      "id": "e11b7073b2f79b09",
+      "location": "Berlin",
+      "posted_at": "2026-09-30T10:27:57-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "IT Audit Manger / ICT Service Auditor",
+      "url": "https://n26.com/en-eu/careers/positions/8239610?gh_jid=8239610"
+    },
+    {
+      "company": "Samsara",
+      "id": "9ae115c4f062ccf9",
+      "location": "Remote - US",
+      "posted_at": "2026-09-30T07:37:14-04:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Software Engineer II, Route Planning",
+      "url": "https://www.samsara.com/company/careers/roles/7520397?gh_jid=7520397"
     }
   ],
   "last_posted_at": "2026-09-30T15:56:23.093453+00:00",
