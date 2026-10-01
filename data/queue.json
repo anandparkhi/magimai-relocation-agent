@@ -2,6 +2,28 @@
   "history": [
     {
       "company": "OpenAI",
+      "id": "ee246d2b51710cf7",
+      "location": "Dublin, Ireland",
+      "posted_at": "2026-09-25T13:44:09.672000+00:00",
+      "published_at": "2026-10-01T16:41:00.130737+00:00",
+      "receipts": {
+        "telegram": "48"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Ads Solutions"
+      ],
+      "title": "Client Partner, Ads Solutions (Spanish Speaking)",
+      "url": "https://jobs.ashbyhq.com/openai/bb1c9e6f-892e-434b-9f02-fcf6a238bc1c"
+    },
+    {
+      "company": "OpenAI",
       "id": "13fc1d1f42105558",
       "location": "Singapore",
       "posted_at": "2026-09-25T16:43:53.340000+00:00",
@@ -783,24 +805,6 @@
   "items": [
     {
       "company": "OpenAI",
-      "id": "ee246d2b51710cf7",
-      "location": "Dublin, Ireland",
-      "posted_at": "2026-09-25T13:44:09.672000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Go To Market",
-        "Ads Solutions"
-      ],
-      "title": "Client Partner, Ads Solutions (Spanish Speaking)",
-      "url": "https://jobs.ashbyhq.com/openai/bb1c9e6f-892e-434b-9f02-fcf6a238bc1c"
-    },
-    {
-      "company": "OpenAI",
       "id": "d2e9fa710be7f8c4",
       "location": "Dublin, Ireland",
       "posted_at": "2026-09-24T19:15:10.646000+00:00",
@@ -1029,7 +1033,7 @@
       "url": "https://www.samsara.com/company/careers/roles/7520397?gh_jid=7520397"
     }
   ],
-  "last_posted_at": "2026-10-01T09:36:54.673720+00:00",
+  "last_posted_at": "2026-10-01T16:41:00.130737+00:00",
   "posted": {
     "2026-09-17": 2,
     "2026-09-18": 3,
@@ -1045,6 +1049,6 @@
     "2026-09-28": 2,
     "2026-09-29": 2,
     "2026-09-30": 2,
-    "2026-10-01": 1
+    "2026-10-01": 2
   }
 }
