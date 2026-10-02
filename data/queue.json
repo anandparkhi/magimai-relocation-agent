@@ -2,6 +2,28 @@
   "history": [
     {
       "company": "OpenAI",
+      "id": "d2e9fa710be7f8c4",
+      "location": "Dublin, Ireland",
+      "posted_at": "2026-09-24T19:15:10.646000+00:00",
+      "published_at": "2026-10-02T09:10:40.839333+00:00",
+      "receipts": {
+        "telegram": "49"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Account Associates"
+      ],
+      "title": "Account Associate - EMEA",
+      "url": "https://jobs.ashbyhq.com/openai/d29b455a-9fee-4610-8e08-ce6a9ea8a37e"
+    },
+    {
+      "company": "OpenAI",
       "id": "ee246d2b51710cf7",
       "location": "Dublin, Ireland",
       "posted_at": "2026-09-25T13:44:09.672000+00:00",
@@ -805,24 +827,6 @@
   "items": [
     {
       "company": "OpenAI",
-      "id": "d2e9fa710be7f8c4",
-      "location": "Dublin, Ireland",
-      "posted_at": "2026-09-24T19:15:10.646000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Go To Market",
-        "Account Associates"
-      ],
-      "title": "Account Associate - EMEA",
-      "url": "https://jobs.ashbyhq.com/openai/d29b455a-9fee-4610-8e08-ce6a9ea8a37e"
-    },
-    {
-      "company": "OpenAI",
       "id": "0b68d284262db1c0",
       "location": "London, UK",
       "posted_at": "2026-09-24T10:46:54.445000+00:00",
@@ -1159,9 +1163,8 @@
       "url": "https://n26.com/en-eu/careers/positions/8242571?gh_jid=8242571"
     }
   ],
-  "last_posted_at": "2026-10-01T16:41:00.130737+00:00",
+  "last_posted_at": "2026-10-02T09:10:40.839333+00:00",
   "posted": {
-    "2026-09-17": 2,
     "2026-09-18": 3,
     "2026-09-19": 3,
     "2026-09-20": 2,
@@ -1175,6 +1178,7 @@
     "2026-09-28": 2,
     "2026-09-29": 2,
     "2026-09-30": 2,
-    "2026-10-01": 2
+    "2026-10-01": 2,
+    "2026-10-02": 1
   }
 }
