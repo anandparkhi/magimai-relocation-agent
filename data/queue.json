@@ -2,6 +2,28 @@
   "history": [
     {
       "company": "OpenAI",
+      "id": "6de5a13ea1baa59e",
+      "location": "Paris, France",
+      "posted_at": "2026-09-28T08:45:05.296000+00:00",
+      "published_at": "2026-10-03T08:43:46.865505+00:00",
+      "receipts": {
+        "telegram": "51"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation support",
+      "source": "ats:ashby",
+      "tags": [
+        "People",
+        "HRBP"
+      ],
+      "title": "HR Business Partner, EMEA",
+      "url": "https://jobs.ashbyhq.com/openai/923eebc8-5591-4057-892f-5825de1a5460"
+    },
+    {
+      "company": "OpenAI",
       "id": "0b68d284262db1c0",
       "location": "London, UK",
       "posted_at": "2026-09-24T10:46:54.445000+00:00",
@@ -848,24 +870,6 @@
   ],
   "items": [
     {
-      "company": "OpenAI",
-      "id": "6de5a13ea1baa59e",
-      "location": "Paris, France",
-      "posted_at": "2026-09-28T08:45:05.296000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Relocation support",
-      "source": "ats:ashby",
-      "tags": [
-        "People",
-        "HRBP"
-      ],
-      "title": "HR Business Partner, EMEA",
-      "url": "https://jobs.ashbyhq.com/openai/923eebc8-5591-4057-892f-5825de1a5460"
-    },
-    {
       "company": "UpGuard",
       "id": "d77f760b7b9e559e",
       "location": "USA",
@@ -1199,9 +1203,8 @@
       "url": "https://n26.com/en-eu/careers/positions/8243302?gh_jid=8243302"
     }
   ],
-  "last_posted_at": "2026-10-02T15:50:57.976693+00:00",
+  "last_posted_at": "2026-10-03T08:43:46.865505+00:00",
   "posted": {
-    "2026-09-18": 3,
     "2026-09-19": 3,
     "2026-09-20": 2,
     "2026-09-21": 2,
@@ -1215,6 +1218,7 @@
     "2026-09-29": 2,
     "2026-09-30": 2,
     "2026-10-01": 2,
-    "2026-10-02": 2
+    "2026-10-02": 2,
+    "2026-10-03": 1
   }
 }
