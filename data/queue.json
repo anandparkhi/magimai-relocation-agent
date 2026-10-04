@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "N26",
+      "id": "e2f1f26b130d4b55",
+      "location": "Berlin",
+      "posted_at": "2026-09-30T03:49:45-04:00",
+      "published_at": "2026-10-04T14:42:22.024226+00:00",
+      "receipts": {
+        "telegram": "54"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Data Analyst - Anti Financial Crime",
+      "url": "https://n26.com/en-eu/careers/positions/8242377?gh_jid=8242377"
+    },
+    {
       "company": "Samsara",
       "id": "f0c8fc0cef3405e0",
       "location": "London - UK2; Remote - London",
@@ -910,21 +929,6 @@
   ],
   "items": [
     {
-      "company": "N26",
-      "id": "e2f1f26b130d4b55",
-      "location": "Berlin",
-      "posted_at": "2026-09-30T03:49:45-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Data Analyst - Anti Financial Crime",
-      "url": "https://n26.com/en-eu/careers/positions/8242377?gh_jid=8242377"
-    },
-    {
       "company": "Samsara",
       "id": "0d8d304b8e96c592",
       "location": "Canada,  USA",
@@ -1245,7 +1249,7 @@
       "url": "https://jobicy.com/jobs/152404-sdet-ii-tvscientific"
     }
   ],
-  "last_posted_at": "2026-10-04T09:00:01.387375+00:00",
+  "last_posted_at": "2026-10-04T14:42:22.024226+00:00",
   "posted": {
     "2026-09-20": 2,
     "2026-09-21": 2,
@@ -1261,6 +1265,6 @@
     "2026-10-01": 2,
     "2026-10-02": 2,
     "2026-10-03": 2,
-    "2026-10-04": 1
+    "2026-10-04": 2
   }
 }
