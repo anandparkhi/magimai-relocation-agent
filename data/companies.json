@@ -223,12 +223,36 @@
       "verified_by": []
     },
     {
+      "ats": null,
+      "ats_token": null,
+      "careers_url": null,
+      "name": "GE Vernova",
+      "regions": [
+        "remote_us"
+      ],
+      "source": "observed",
+      "verified_by": []
+    },
+    {
       "ats": "ashby",
       "ats_token": "openai",
       "careers_url": null,
       "name": "OpenAI",
       "regions": [
-        "remote_us"
+        "europe",
+        "remote_us",
+        "singapore"
+      ],
+      "source": "observed",
+      "verified_by": []
+    },
+    {
+      "ats": "greenhouse",
+      "ats_token": "remote",
+      "careers_url": null,
+      "name": "Remote",
+      "regions": [
+        "europe"
       ],
       "source": "observed",
       "verified_by": []
@@ -269,5 +293,5 @@
       "verified_by": []
     }
   ],
-  "refreshed_at": "2026-09-27T06:03:42.683002+00:00"
+  "refreshed_at": "2026-10-04T06:34:10.127910+00:00"
 }
