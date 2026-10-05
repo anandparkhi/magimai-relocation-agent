@@ -1,36 +1,6 @@
 [
   {
     "company": "Samsara",
-    "id": "f0c8fc0cef3405e0",
-    "location": "London - UK2; Remote - London",
-    "posted_at": "2026-09-28T12:27:36-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior Security Engineer - Enterprise Security",
-    "url": "https://www.samsara.com/company/careers/roles/8223369?gh_jid=8223369"
-  },
-  {
-    "company": "N26",
-    "id": "e2f1f26b130d4b55",
-    "location": "Berlin",
-    "posted_at": "2026-09-30T03:49:45-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Data Analyst - Anti Financial Crime",
-    "url": "https://n26.com/en-eu/careers/positions/8242377?gh_jid=8242377"
-  },
-  {
-    "company": "Samsara",
     "id": "0d8d304b8e96c592",
     "location": "Canada,  USA",
     "posted_at": "2026-09-30T04:02:33+00:00",
@@ -316,38 +286,91 @@
     "url": "https://n26.com/en-eu/careers/positions/8243302?gh_jid=8243302"
   },
   {
-    "title": "Backend Engineer III",
     "company": "Monzo",
-    "url": "https://jobicy.com/jobs/152499-backend-engineer-iii",
+    "id": "72363bd903778b05",
     "location": "UK",
     "posted_at": "2026-10-04T04:35:17+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "Software Engineering"
-    ],
     "regions": [
       "europe"
     ],
+    "remote": true,
     "signal": "Sponsor visa",
-    "id": "72363bd903778b05"
+    "source": "jobicy",
+    "tags": [
+      "Software Engineering"
+    ],
+    "title": "Backend Engineer III",
+    "url": "https://jobicy.com/jobs/152499-backend-engineer-iii"
   },
   {
-    "title": "SDET II, tvScientific",
     "company": "Pinterest",
-    "url": "https://jobicy.com/jobs/152404-sdet-ii-tvscientific",
+    "id": "bfbd5b176c870f73",
     "location": "USA",
     "posted_at": "2026-10-04T04:30:45+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "QA & Testing"
-    ],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "bfbd5b176c870f73"
+    "source": "jobicy",
+    "tags": [
+      "QA & Testing"
+    ],
+    "title": "SDET II, tvScientific",
+    "url": "https://jobicy.com/jobs/152404-sdet-ii-tvscientific"
+  },
+  {
+    "title": "Strategy & Operations Associate: Customer Risk Lifecycle",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8255715?gh_jid=8255715",
+    "location": "Barcelona",
+    "posted_at": "2026-10-05T04:44:08-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "a064d90e72aebf24"
+  },
+  {
+    "company": "N26",
+    "id": "e2f1f26b130d4b55",
+    "location": "Berlin",
+    "posted_at": "2026-09-30T03:49:45-04:00",
+    "published_at": "2026-10-04T14:42:22.024226+00:00",
+    "receipts": {
+      "telegram": "54"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Data Analyst - Anti Financial Crime",
+    "url": "https://n26.com/en-eu/careers/positions/8242377?gh_jid=8242377"
+  },
+  {
+    "company": "Samsara",
+    "id": "f0c8fc0cef3405e0",
+    "location": "London - UK2; Remote - London",
+    "posted_at": "2026-09-28T12:27:36-04:00",
+    "published_at": "2026-10-04T09:00:01.387375+00:00",
+    "receipts": {
+      "telegram": "53"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Security Engineer - Enterprise Security",
+    "url": "https://www.samsara.com/company/careers/roles/8223369?gh_jid=8223369"
   },
   {
     "company": "UpGuard",
