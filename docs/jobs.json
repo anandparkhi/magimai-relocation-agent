@@ -1,38 +1,5 @@
 [
   {
-    "company": "Samsara",
-    "id": "3ca0e3c4e16b606d",
-    "location": "Remote - US",
-    "posted_at": "2026-09-29T13:29:53-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Manager, Firmware Engineering",
-    "url": "https://www.samsara.com/company/careers/roles/8213990?gh_jid=8213990"
-  },
-  {
-    "company": "OpenAI",
-    "id": "b4ab6d285c806b90",
-    "location": "Singapore",
-    "posted_at": "2026-09-29T17:15:01.186000+00:00",
-    "regions": [
-      "singapore"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "User Operations",
-      "Support Delivery"
-    ],
-    "title": "AI Support Engineer - Singapore (Weekend Shift)",
-    "url": "https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6"
-  },
-  {
     "company": "N26",
     "id": "d20a7ab8b160b30f",
     "location": "Berlin",
@@ -302,11 +269,213 @@
     "url": "https://n26.com/en-eu/careers/positions/8255715?gh_jid=8255715"
   },
   {
-    "title": "Marketing Program Manager",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/7938980?gh_jid=7938980",
+    "id": "00cd5ead7206c100",
     "location": "Berlin",
     "posted_at": "2026-10-06T04:03:12-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Marketing Program Manager",
+    "url": "https://n26.com/en-eu/careers/positions/7938980?gh_jid=7938980"
+  },
+  {
+    "company": "Spire",
+    "id": "9fe4e20e20e62d66",
+    "location": "USA",
+    "posted_at": "2026-10-06T04:55:27+00:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "jobicy",
+    "tags": [
+      "Sales"
+    ],
+    "title": "Sales Manager - Americas",
+    "url": "https://jobicy.com/jobs/152607-sales-manager-americas"
+  },
+  {
+    "company": "Roboflow",
+    "id": "660034e9d491cce6",
+    "location": "USA",
+    "posted_at": "2026-10-06T04:55:06+00:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation bonus",
+    "source": "jobicy",
+    "tags": [
+      "Product & Operations"
+    ],
+    "title": "Former Founder",
+    "url": "https://jobicy.com/jobs/152563-former-founder"
+  },
+  {
+    "company": "Roboflow",
+    "id": "2f97dd0faa3ecc50",
+    "location": "USA",
+    "posted_at": "2026-10-06T04:55:05+00:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation bonus",
+    "source": "jobicy",
+    "tags": [
+      "Sales"
+    ],
+    "title": "Enterprise Account Executive",
+    "url": "https://jobicy.com/jobs/152560-enterprise-account-executive-20"
+  },
+  {
+    "company": "Roboflow",
+    "id": "bd116e7d1e5fd9bf",
+    "location": "USA",
+    "posted_at": "2026-10-06T04:50:06+00:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation bonus",
+    "source": "jobicy",
+    "tags": [
+      "Technical Support"
+    ],
+    "title": "Support Engineer",
+    "url": "https://jobicy.com/jobs/152566-support-engineer"
+  },
+  {
+    "company": "OpenAI",
+    "id": "7b356c1d83cd93aa",
+    "location": "Paris, France",
+    "posted_at": "2026-10-05T17:41:53.507000+00:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
+    "tags": [
+      "Forward Deployed Engineering",
+      "Forward Deployed Engineering"
+    ],
+    "title": "Forward Deployed Engineer - Paris",
+    "url": "https://jobs.ashbyhq.com/openai/9ddb1bd1-3ee0-4350-88f7-3710057b8c93"
+  },
+  {
+    "company": "OpenAI",
+    "id": "48c2d3462449d2d1",
+    "location": "Zurich, Switzerland",
+    "posted_at": "2026-10-05T17:41:50.955000+00:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
+    "tags": [
+      "Forward Deployed Engineering",
+      "Forward Deployed Engineering"
+    ],
+    "title": "Forward Deployed Engineer - Zurich",
+    "url": "https://jobs.ashbyhq.com/openai/067788c8-505b-4296-bc05-d5699cb87a1f"
+  },
+  {
+    "company": "OpenAI",
+    "id": "e2d7a0fce741713e",
+    "location": "Munich, Germany",
+    "posted_at": "2026-10-05T17:41:41.882000+00:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
+    "tags": [
+      "Forward Deployed Engineering",
+      "Forward Deployed Engineering"
+    ],
+    "title": "Forward Deployed Engineer - Munich",
+    "url": "https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef"
+  },
+  {
+    "company": "Samsara",
+    "id": "c3f11958348c5ca9",
+    "location": "Remote - Canada",
+    "posted_at": "2026-10-05T12:47:28-04:00",
+    "regions": [
+      "canada"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Data Engineer",
+    "url": "https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423"
+  },
+  {
+    "company": "Samsara",
+    "id": "6a10cb973aa4d324",
+    "location": "Remote - US",
+    "posted_at": "2026-10-05T12:47:26-04:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Data Engineer",
+    "url": "https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959"
+  },
+  {
+    "company": "OpenAI",
+    "id": "3e28cd173c907a25",
+    "location": "Singapore",
+    "posted_at": "2026-10-05T16:14:36.876000+00:00",
+    "regions": [
+      "singapore"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
+    "tags": [
+      "Go To Market",
+      "Growth"
+    ],
+    "title": "APAC Vendor Lead, Ads - Sydney",
+    "url": "https://jobs.ashbyhq.com/openai/ae41d47e-6ae7-4640-bc65-fffbee359afc"
+  },
+  {
+    "title": "Pricing and Revenue Planner",
+    "company": "Samsara",
+    "url": "https://jobicy.com/jobs/145308-pricing-and-revenue-planner",
+    "location": "USA",
+    "posted_at": "2026-10-07T04:20:30+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Finance & Accounting"
+    ],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "0b852ec45833812d"
+  },
+  {
+    "title": "Senior Internal Communications Specialist (Parental leave cover until October 2028)",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8245528?gh_jid=8245528",
+    "location": "Berlin",
+    "posted_at": "2026-10-06T11:47:53-04:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
@@ -314,177 +483,48 @@
       "europe"
     ],
     "signal": "Relocation package",
-    "id": "00cd5ead7206c100"
+    "id": "647ab2c0e43f0523"
   },
   {
-    "title": "Sales Manager - Americas",
-    "company": "Spire",
-    "url": "https://jobicy.com/jobs/152607-sales-manager-americas",
-    "location": "USA",
-    "posted_at": "2026-10-06T04:55:27+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "Sales"
-    ],
-    "regions": [
-      "remote_us"
-    ],
-    "signal": "Visa sponsorship",
-    "id": "9fe4e20e20e62d66"
-  },
-  {
-    "title": "Former Founder",
-    "company": "Roboflow",
-    "url": "https://jobicy.com/jobs/152563-former-founder",
-    "location": "USA",
-    "posted_at": "2026-10-06T04:55:06+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "Product & Operations"
-    ],
-    "regions": [
-      "remote_us"
-    ],
-    "signal": "Relocation bonus",
-    "id": "660034e9d491cce6"
-  },
-  {
-    "title": "Enterprise Account Executive",
-    "company": "Roboflow",
-    "url": "https://jobicy.com/jobs/152560-enterprise-account-executive-20",
-    "location": "USA",
-    "posted_at": "2026-10-06T04:55:05+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "Sales"
-    ],
-    "regions": [
-      "remote_us"
-    ],
-    "signal": "Relocation bonus",
-    "id": "2f97dd0faa3ecc50"
-  },
-  {
-    "title": "Support Engineer",
-    "company": "Roboflow",
-    "url": "https://jobicy.com/jobs/152566-support-engineer",
-    "location": "USA",
-    "posted_at": "2026-10-06T04:50:06+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "Technical Support"
-    ],
-    "regions": [
-      "remote_us"
-    ],
-    "signal": "Relocation bonus",
-    "id": "bd116e7d1e5fd9bf"
-  },
-  {
-    "title": "Forward Deployed Engineer - Paris",
     "company": "OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/9ddb1bd1-3ee0-4350-88f7-3710057b8c93",
-    "location": "Paris, France",
-    "posted_at": "2026-10-05T17:41:53.507000+00:00",
-    "source": "ats:ashby",
-    "remote": true,
-    "tags": [
-      "Forward Deployed Engineering",
-      "Forward Deployed Engineering"
-    ],
-    "regions": [
-      "europe"
-    ],
-    "signal": "Relocation assistance",
-    "id": "7b356c1d83cd93aa"
-  },
-  {
-    "title": "Forward Deployed Engineer - Zurich",
-    "company": "OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/067788c8-505b-4296-bc05-d5699cb87a1f",
-    "location": "Zurich, Switzerland",
-    "posted_at": "2026-10-05T17:41:50.955000+00:00",
-    "source": "ats:ashby",
-    "remote": true,
-    "tags": [
-      "Forward Deployed Engineering",
-      "Forward Deployed Engineering"
-    ],
-    "regions": [
-      "europe"
-    ],
-    "signal": "Relocation assistance",
-    "id": "48c2d3462449d2d1"
-  },
-  {
-    "title": "Forward Deployed Engineer - Munich",
-    "company": "OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef",
-    "location": "Munich, Germany",
-    "posted_at": "2026-10-05T17:41:41.882000+00:00",
-    "source": "ats:ashby",
-    "remote": true,
-    "tags": [
-      "Forward Deployed Engineering",
-      "Forward Deployed Engineering"
-    ],
-    "regions": [
-      "europe"
-    ],
-    "signal": "Relocation assistance",
-    "id": "e2d7a0fce741713e"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423",
-    "location": "Remote - Canada",
-    "posted_at": "2026-10-05T12:47:28-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
-    "regions": [
-      "canada"
-    ],
-    "signal": "Relocation assistance",
-    "id": "c3f11958348c5ca9"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959",
-    "location": "Remote - US",
-    "posted_at": "2026-10-05T12:47:26-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
-    "regions": [
-      "remote_us"
-    ],
-    "signal": "Relocation assistance",
-    "id": "6a10cb973aa4d324"
-  },
-  {
-    "title": "APAC Vendor Lead, Ads - Sydney",
-    "company": "OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/ae41d47e-6ae7-4640-bc65-fffbee359afc",
+    "id": "b4ab6d285c806b90",
     "location": "Singapore",
-    "posted_at": "2026-10-05T16:14:36.876000+00:00",
-    "source": "ats:ashby",
-    "remote": true,
-    "tags": [
-      "Go To Market",
-      "Growth"
-    ],
+    "posted_at": "2026-09-29T17:15:01.186000+00:00",
+    "published_at": "2026-10-06T16:14:54.192127+00:00",
+    "receipts": {
+      "telegram": "58"
+    },
     "regions": [
       "singapore"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "3e28cd173c907a25"
+    "source": "ats:ashby",
+    "tags": [
+      "User Operations",
+      "Support Delivery"
+    ],
+    "title": "AI Support Engineer - Singapore (Weekend Shift)",
+    "url": "https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6"
+  },
+  {
+    "company": "Samsara",
+    "id": "3ca0e3c4e16b606d",
+    "location": "Remote - US",
+    "posted_at": "2026-09-29T13:29:53-04:00",
+    "published_at": "2026-10-06T09:37:48.414741+00:00",
+    "receipts": {
+      "telegram": "57"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Manager, Firmware Engineering",
+    "url": "https://www.samsara.com/company/careers/roles/8213990?gh_jid=8213990"
   },
   {
     "company": "Samsara",
@@ -1433,24 +1473,5 @@
     "tags": [],
     "title": "Senior Technical Product Manager — GenAI & Agentic Systems",
     "url": "https://n26.com/en-eu/careers/positions/8196495?gh_jid=8196495"
-  },
-  {
-    "company": "N26",
-    "id": "94cc5d58e8520904",
-    "location": "Barcelona",
-    "posted_at": "2026-09-11T15:45:57-04:00",
-    "published_at": "2026-09-13T19:53:09.673328+00:00",
-    "receipts": {
-      "dryrun": "dry-run"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior Product Manager - Conversational Banking",
-    "url": "https://n26.com/en-eu/careers/positions/8158787?gh_jid=8158787"
   }
 ]
