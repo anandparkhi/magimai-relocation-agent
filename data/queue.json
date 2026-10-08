@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "N26",
+      "id": "e11b7073b2f79b09",
+      "location": "Berlin",
+      "posted_at": "2026-09-30T10:27:57-04:00",
+      "published_at": "2026-10-08T09:44:22.824593+00:00",
+      "receipts": {
+        "telegram": "61"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "IT Audit Manger / ICT Service Auditor",
+      "url": "https://n26.com/en-eu/careers/positions/8239610?gh_jid=8239610"
+    },
+    {
       "company": "Remote",
       "id": "d2d1a5a0520e75e1",
       "location": "EMEA",
@@ -1051,21 +1070,6 @@
   ],
   "items": [
     {
-      "company": "N26",
-      "id": "e11b7073b2f79b09",
-      "location": "Berlin",
-      "posted_at": "2026-09-30T10:27:57-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "IT Audit Manger / ICT Service Auditor",
-      "url": "https://n26.com/en-eu/careers/positions/8239610?gh_jid=8239610"
-    },
-    {
       "company": "Samsara",
       "id": "9ae115c4f062ccf9",
       "location": "Remote - US",
@@ -1692,9 +1696,8 @@
       "url": "https://n26.com/en-eu/careers/positions/8260904?gh_jid=8260904"
     }
   ],
-  "last_posted_at": "2026-10-07T16:52:30.248861+00:00",
+  "last_posted_at": "2026-10-08T09:44:22.824593+00:00",
   "posted": {
-    "2026-09-23": 2,
     "2026-09-24": 2,
     "2026-09-25": 2,
     "2026-09-26": 2,
@@ -1708,6 +1711,7 @@
     "2026-10-04": 2,
     "2026-10-05": 2,
     "2026-10-06": 2,
-    "2026-10-07": 2
+    "2026-10-07": 2,
+    "2026-10-08": 1
   }
 }
