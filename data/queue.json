@@ -1503,6 +1503,193 @@
       "tags": [],
       "title": "Senior Internal Communications Specialist (Parental leave cover until October 2028)",
       "url": "https://n26.com/en-eu/careers/positions/8245528?gh_jid=8245528"
+    },
+    {
+      "company": "OpenAI",
+      "id": "ffe0abc7a67a9734",
+      "location": "Singapore",
+      "posted_at": "2026-10-08T07:11:08.268000+00:00",
+      "regions": [
+        "singapore"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Technical Success"
+      ],
+      "title": "Applied AI Engineer, Codex",
+      "url": "https://jobs.ashbyhq.com/openai/02ec1893-17df-420c-8d19-48eca8edd884"
+    },
+    {
+      "company": "YipitData",
+      "id": "656c8d53e2317b86",
+      "location": "USA",
+      "posted_at": "2026-10-08T04:45:07+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Data Science & Analytics"
+      ],
+      "title": "Data Lead - Central Data Team",
+      "url": "https://jobicy.com/jobs/152751-data-lead-central-data-team"
+    },
+    {
+      "company": "YipitData",
+      "id": "3fff08d7ac1d8321",
+      "location": "USA",
+      "posted_at": "2026-10-08T04:40:09+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Data Science & Analytics"
+      ],
+      "title": "Data Product Analyst, Corporate",
+      "url": "https://jobicy.com/jobs/152755-data-product-analyst-corporate"
+    },
+    {
+      "company": "Reka",
+      "id": "ceb9fc30adc507e2",
+      "location": "UK,  USA",
+      "posted_at": "2026-10-08T04:40:06+00:00",
+      "regions": [
+        "europe",
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "LLM: Visa sponsorship (H1B, OPT) explicitly mentioned for US; remote-first role",
+      "source": "jobicy",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Member of Technical Staff (Applied AI)",
+      "url": "https://jobicy.com/jobs/152763-member-of-technical-staff-applied-ai"
+    },
+    {
+      "company": "Reka",
+      "id": "478f9037aa8d46ec",
+      "location": "UK,  USA",
+      "posted_at": "2026-10-08T04:40:05+00:00",
+      "regions": [
+        "europe",
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "LLM: Visa sponsorship (H1B, OPT) explicitly mentioned for US roles",
+      "source": "jobicy",
+      "tags": [
+        "Data Science & Analytics"
+      ],
+      "title": "Member of Technical Staff (ML)",
+      "url": "https://jobicy.com/jobs/152760-member-of-technical-staff-ml"
+    },
+    {
+      "company": "YipitData",
+      "id": "a435eae61ef487b0",
+      "location": "USA",
+      "posted_at": "2026-10-08T03:40:17+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Customer Support & Success"
+      ],
+      "title": "Client Strategy Manager - Corporate Brands & Retail",
+      "url": "https://jobicy.com/jobs/152729-client-strategy-manager-corporate-brands-retail"
+    },
+    {
+      "company": "YipitData",
+      "id": "cf347d09994ec508",
+      "location": "USA",
+      "posted_at": "2026-10-08T03:40:16+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Product & Operations"
+      ],
+      "title": "Associate Director of Product Development",
+      "url": "https://jobicy.com/jobs/152719-associate-director-of-product-development"
+    },
+    {
+      "company": "YipitData",
+      "id": "205d482cfecbd3f4",
+      "location": "USA",
+      "posted_at": "2026-10-08T03:40:03+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Customer Support & Success"
+      ],
+      "title": "Client Strategy Manager",
+      "url": "https://jobicy.com/jobs/152724-client-strategy-manager"
+    },
+    {
+      "company": "OpenAI",
+      "id": "2acceca7604a229e",
+      "location": "Singapore",
+      "posted_at": "2026-10-07T22:05:42.589000+00:00",
+      "regions": [
+        "singapore"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Consumer Devices",
+        "G&A"
+      ],
+      "title": "Senior Technical Recruiter, Consumer Devices - Singapore",
+      "url": "https://jobs.ashbyhq.com/openai/cc6475e6-f71d-4f51-8d9d-4eb5a7822395"
+    },
+    {
+      "company": "N26",
+      "id": "558e8c990cb5eb51",
+      "location": "Barcelona",
+      "posted_at": "2026-10-07T10:25:42-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Data Scientist",
+      "url": "https://n26.com/en-eu/careers/positions/8261383?gh_jid=8261383"
+    },
+    {
+      "company": "N26",
+      "id": "33ad91597c4fd965",
+      "location": "Berlin",
+      "posted_at": "2026-10-07T10:23:22-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Data Scientist",
+      "url": "https://n26.com/en-eu/careers/positions/8260904?gh_jid=8260904"
     }
   ],
   "last_posted_at": "2026-10-07T16:52:30.248861+00:00",
