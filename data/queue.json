@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Samsara",
+      "id": "9ae115c4f062ccf9",
+      "location": "Remote - US",
+      "posted_at": "2026-09-30T07:37:14-04:00",
+      "published_at": "2026-10-08T17:05:40.088210+00:00",
+      "receipts": {
+        "telegram": "62"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Software Engineer II, Route Planning",
+      "url": "https://www.samsara.com/company/careers/roles/7520397?gh_jid=7520397"
+    },
+    {
       "company": "N26",
       "id": "e11b7073b2f79b09",
       "location": "Berlin",
@@ -1070,21 +1089,6 @@
   ],
   "items": [
     {
-      "company": "Samsara",
-      "id": "9ae115c4f062ccf9",
-      "location": "Remote - US",
-      "posted_at": "2026-09-30T07:37:14-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Software Engineer II, Route Planning",
-      "url": "https://www.samsara.com/company/careers/roles/7520397?gh_jid=7520397"
-    },
-    {
       "company": "OpenAI",
       "id": "82e6efb482e95380",
       "location": "Singapore",
@@ -1696,7 +1700,7 @@
       "url": "https://n26.com/en-eu/careers/positions/8260904?gh_jid=8260904"
     }
   ],
-  "last_posted_at": "2026-10-08T09:44:22.824593+00:00",
+  "last_posted_at": "2026-10-08T17:05:40.088210+00:00",
   "posted": {
     "2026-09-24": 2,
     "2026-09-25": 2,
@@ -1712,6 +1716,6 @@
     "2026-10-05": 2,
     "2026-10-06": 2,
     "2026-10-07": 2,
-    "2026-10-08": 1
+    "2026-10-08": 2
   }
 }
