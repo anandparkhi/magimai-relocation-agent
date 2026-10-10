@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Affirm",
+      "id": "03f4f04e5f3f4af8",
+      "location": "Remote Spain",
+      "posted_at": "2026-10-01T10:33:52-04:00",
+      "published_at": "2026-10-10T09:13:52.310191+00:00",
+      "receipts": {
+        "telegram": "65"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Analyst II, Full Stack",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8010489003"
+    },
+    {
       "company": "OpenAI",
       "id": "d917d7969a8e0453",
       "location": "Dublin, Ireland",
@@ -1133,21 +1152,6 @@
   ],
   "items": [
     {
-      "company": "Affirm",
-      "id": "03f4f04e5f3f4af8",
-      "location": "Remote Spain",
-      "posted_at": "2026-10-01T10:33:52-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Analyst II, Full Stack",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8010489003"
-    },
-    {
       "company": "N26",
       "id": "e04c672415ef092d",
       "location": "Berlin",
@@ -1771,9 +1775,8 @@
       "url": "https://jobs.ashbyhq.com/openai/95283afd-0a20-4e15-9034-d34e88b66e5d"
     }
   ],
-  "last_posted_at": "2026-10-09T16:43:13.044219+00:00",
+  "last_posted_at": "2026-10-10T09:13:52.310191+00:00",
   "posted": {
-    "2026-09-25": 2,
     "2026-09-26": 2,
     "2026-09-27": 2,
     "2026-09-28": 2,
@@ -1787,6 +1790,7 @@
     "2026-10-06": 2,
     "2026-10-07": 2,
     "2026-10-08": 2,
-    "2026-10-09": 2
+    "2026-10-09": 2,
+    "2026-10-10": 1
   }
 }
