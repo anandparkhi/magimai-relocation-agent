@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "N26",
+      "id": "e04c672415ef092d",
+      "location": "Berlin",
+      "posted_at": "2026-10-01T09:27:53-04:00",
+      "published_at": "2026-10-10T15:24:02.542204+00:00",
+      "receipts": {
+        "telegram": "66"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Head of Business Internal Audit",
+      "url": "https://n26.com/en-eu/careers/positions/8239604?gh_jid=8239604"
+    },
+    {
       "company": "Affirm",
       "id": "03f4f04e5f3f4af8",
       "location": "Remote Spain",
@@ -1153,21 +1172,6 @@
   "items": [
     {
       "company": "N26",
-      "id": "e04c672415ef092d",
-      "location": "Berlin",
-      "posted_at": "2026-10-01T09:27:53-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Head of Business Internal Audit",
-      "url": "https://n26.com/en-eu/careers/positions/8239604?gh_jid=8239604"
-    },
-    {
-      "company": "N26",
       "id": "4d4179c0bdafc2a8",
       "location": "Berlin",
       "posted_at": "2026-10-01T08:28:27-04:00",
@@ -1775,7 +1779,7 @@
       "url": "https://jobs.ashbyhq.com/openai/95283afd-0a20-4e15-9034-d34e88b66e5d"
     }
   ],
-  "last_posted_at": "2026-10-10T09:13:52.310191+00:00",
+  "last_posted_at": "2026-10-10T15:24:02.542204+00:00",
   "posted": {
     "2026-09-26": 2,
     "2026-09-27": 2,
@@ -1791,6 +1795,6 @@
     "2026-10-07": 2,
     "2026-10-08": 2,
     "2026-10-09": 2,
-    "2026-10-10": 1
+    "2026-10-10": 2
   }
 }
