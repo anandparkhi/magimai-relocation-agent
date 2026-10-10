@@ -1706,6 +1706,69 @@
       "tags": [],
       "title": "Data Scientist",
       "url": "https://n26.com/en-eu/careers/positions/8260904?gh_jid=8260904"
+    },
+    {
+      "company": "Samsara",
+      "id": "9b0abcb427ca429c",
+      "location": "Remote - US",
+      "posted_at": "2026-10-09T16:47:09-04:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Staff Product Operations Manager, Platform",
+      "url": "https://www.samsara.com/company/careers/roles/8256425?gh_jid=8256425"
+    },
+    {
+      "company": "N26",
+      "id": "12db3c7aa23e7c3c",
+      "location": "Barcelona",
+      "posted_at": "2026-10-09T16:28:19-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Lead Technical Product Manager — Machine Learning Platform",
+      "url": "https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322"
+    },
+    {
+      "company": "N26",
+      "id": "94013074f91960b2",
+      "location": "Berlin",
+      "posted_at": "2026-10-09T16:28:16-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Lead Technical Product Manager — Machine Learning Platform",
+      "url": "https://n26.com/en-eu/careers/positions/8267143?gh_jid=8267143"
+    },
+    {
+      "company": "OpenAI",
+      "id": "f911fc01c71a82c7",
+      "location": "Dublin, Ireland",
+      "posted_at": "2026-10-09T12:29:29.399000+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Ads Solutions"
+      ],
+      "title": "Customer Success Manager - Ads Solutions (Spanish speaking)",
+      "url": "https://jobs.ashbyhq.com/openai/95283afd-0a20-4e15-9034-d34e88b66e5d"
     }
   ],
   "last_posted_at": "2026-10-09T16:43:13.044219+00:00",
