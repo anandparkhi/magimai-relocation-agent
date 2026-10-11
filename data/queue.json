@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "GE Vernova",
+      "id": "7d4bd0c4acc0af0c",
+      "location": "USA",
+      "posted_at": "2026-10-03T02:40:27+00:00",
+      "published_at": "2026-10-11T09:30:29.576278+00:00",
+      "receipts": {
+        "telegram": "67"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation Assistance",
+      "source": "jobicy",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Power Transformer Sr Sales Mgr. PSS (Product Sales Specialist",
+      "url": "https://jobicy.com/jobs/150014-power-transformer-sr-sales-mgr-pss-product-sales-specialist"
+    },
+    {
       "company": "N26",
       "id": "e04c672415ef092d",
       "location": "Berlin",
@@ -1171,23 +1192,6 @@
   ],
   "items": [
     {
-      "company": "GE Vernova",
-      "id": "7d4bd0c4acc0af0c",
-      "location": "USA",
-      "posted_at": "2026-10-03T02:40:27+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation Assistance",
-      "source": "jobicy",
-      "tags": [
-        "Sales"
-      ],
-      "title": "Power Transformer Sr Sales Mgr. PSS (Product Sales Specialist",
-      "url": "https://jobicy.com/jobs/150014-power-transformer-sr-sales-mgr-pss-product-sales-specialist"
-    },
-    {
       "company": "N26",
       "id": "5c10b2c06a60e5e0",
       "location": "Berlin",
@@ -1811,9 +1815,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8247246"
     }
   ],
-  "last_posted_at": "2026-10-10T15:24:02.542204+00:00",
+  "last_posted_at": "2026-10-11T09:30:29.576278+00:00",
   "posted": {
-    "2026-09-26": 2,
     "2026-09-27": 2,
     "2026-09-28": 2,
     "2026-09-29": 2,
@@ -1827,6 +1830,7 @@
     "2026-10-07": 2,
     "2026-10-08": 2,
     "2026-10-09": 2,
-    "2026-10-10": 2
+    "2026-10-10": 2,
+    "2026-10-11": 1
   }
 }
