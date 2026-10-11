@@ -234,6 +234,17 @@
       "verified_by": []
     },
     {
+      "ats": "greenhouse",
+      "ats_token": "monzo",
+      "careers_url": null,
+      "name": "Monzo",
+      "regions": [
+        "europe"
+      ],
+      "source": "observed",
+      "verified_by": []
+    },
+    {
       "ats": "ashby",
       "ats_token": "openai",
       "careers_url": null,
@@ -242,6 +253,29 @@
         "europe",
         "remote_us",
         "singapore"
+      ],
+      "source": "observed",
+      "verified_by": []
+    },
+    {
+      "ats": "greenhouse",
+      "ats_token": "pinterest",
+      "careers_url": null,
+      "name": "Pinterest",
+      "regions": [
+        "remote_us"
+      ],
+      "source": "observed",
+      "verified_by": []
+    },
+    {
+      "ats": "ashby",
+      "ats_token": "reka",
+      "careers_url": null,
+      "name": "Reka",
+      "regions": [
+        "europe",
+        "remote_us"
       ],
       "source": "observed",
       "verified_by": []
@@ -282,6 +316,17 @@
       "verified_by": []
     },
     {
+      "ats": "greenhouse",
+      "ats_token": "spire",
+      "careers_url": null,
+      "name": "Spire",
+      "regions": [
+        "remote_us"
+      ],
+      "source": "observed",
+      "verified_by": []
+    },
+    {
       "ats": "lever",
       "ats_token": "upguard",
       "careers_url": null,
@@ -291,7 +336,18 @@
       ],
       "source": "observed",
       "verified_by": []
+    },
+    {
+      "ats": "greenhouse",
+      "ats_token": "yipitdata",
+      "careers_url": null,
+      "name": "YipitData",
+      "regions": [
+        "remote_us"
+      ],
+      "source": "observed",
+      "verified_by": []
     }
   ],
-  "refreshed_at": "2026-10-04T06:34:10.127910+00:00"
+  "refreshed_at": "2026-10-11T06:42:55.328697+00:00"
 }
