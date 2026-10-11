@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "N26",
+      "id": "5c10b2c06a60e5e0",
+      "location": "Berlin",
+      "posted_at": "2026-10-02T07:24:26-04:00",
+      "published_at": "2026-10-11T15:56:09.197144+00:00",
+      "receipts": {
+        "telegram": "68"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Strategy & Operations: Customer Risk Lifecycle",
+      "url": "https://n26.com/en-eu/careers/positions/8243302?gh_jid=8243302"
+    },
+    {
       "company": "GE Vernova",
       "id": "7d4bd0c4acc0af0c",
       "location": "USA",
@@ -1192,21 +1211,6 @@
   ],
   "items": [
     {
-      "company": "N26",
-      "id": "5c10b2c06a60e5e0",
-      "location": "Berlin",
-      "posted_at": "2026-10-02T07:24:26-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Strategy & Operations: Customer Risk Lifecycle",
-      "url": "https://n26.com/en-eu/careers/positions/8243302?gh_jid=8243302"
-    },
-    {
       "company": "Monzo",
       "id": "72363bd903778b05",
       "location": "UK",
@@ -1815,7 +1819,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8247246"
     }
   ],
-  "last_posted_at": "2026-10-11T09:30:29.576278+00:00",
+  "last_posted_at": "2026-10-11T15:56:09.197144+00:00",
   "posted": {
     "2026-09-27": 2,
     "2026-09-28": 2,
@@ -1831,6 +1835,6 @@
     "2026-10-08": 2,
     "2026-10-09": 2,
     "2026-10-10": 2,
-    "2026-10-11": 1
+    "2026-10-11": 2
   }
 }
