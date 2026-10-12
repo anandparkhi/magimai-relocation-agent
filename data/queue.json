@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Monzo",
+      "id": "72363bd903778b05",
+      "location": "UK",
+      "posted_at": "2026-10-04T04:35:17+00:00",
+      "published_at": "2026-10-12T10:00:42.075471+00:00",
+      "receipts": {
+        "telegram": "69"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Sponsor visa",
+      "source": "jobicy",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Backend Engineer III",
+      "url": "https://jobicy.com/jobs/152499-backend-engineer-iii"
+    },
+    {
       "company": "N26",
       "id": "5c10b2c06a60e5e0",
       "location": "Berlin",
@@ -1211,23 +1232,6 @@
   ],
   "items": [
     {
-      "company": "Monzo",
-      "id": "72363bd903778b05",
-      "location": "UK",
-      "posted_at": "2026-10-04T04:35:17+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Sponsor visa",
-      "source": "jobicy",
-      "tags": [
-        "Software Engineering"
-      ],
-      "title": "Backend Engineer III",
-      "url": "https://jobicy.com/jobs/152499-backend-engineer-iii"
-    },
-    {
       "company": "Pinterest",
       "id": "bfbd5b176c870f73",
       "location": "USA",
@@ -1819,9 +1823,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8247246"
     }
   ],
-  "last_posted_at": "2026-10-11T15:56:09.197144+00:00",
+  "last_posted_at": "2026-10-12T10:00:42.075471+00:00",
   "posted": {
-    "2026-09-27": 2,
     "2026-09-28": 2,
     "2026-09-29": 2,
     "2026-09-30": 2,
@@ -1835,6 +1838,7 @@
     "2026-10-08": 2,
     "2026-10-09": 2,
     "2026-10-10": 2,
-    "2026-10-11": 2
+    "2026-10-11": 2,
+    "2026-10-12": 1
   }
 }
