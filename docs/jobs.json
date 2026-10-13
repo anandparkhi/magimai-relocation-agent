@@ -1,39 +1,5 @@
 [
   {
-    "company": "Monzo",
-    "id": "72363bd903778b05",
-    "location": "UK",
-    "posted_at": "2026-10-04T04:35:17+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Sponsor visa",
-    "source": "jobicy",
-    "tags": [
-      "Software Engineering"
-    ],
-    "title": "Backend Engineer III",
-    "url": "https://jobicy.com/jobs/152499-backend-engineer-iii"
-  },
-  {
-    "company": "Pinterest",
-    "id": "bfbd5b176c870f73",
-    "location": "USA",
-    "posted_at": "2026-10-04T04:30:45+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "jobicy",
-    "tags": [
-      "QA & Testing"
-    ],
-    "title": "SDET II, tvScientific",
-    "url": "https://jobicy.com/jobs/152404-sdet-ii-tvscientific"
-  },
-  {
     "company": "N26",
     "id": "a064d90e72aebf24",
     "location": "Barcelona",
@@ -606,6 +572,96 @@
     "tags": [],
     "title": "Staff Machine Learning Engineer, Content Visual AI",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8247246"
+  },
+  {
+    "title": "Senior Partner Account Executive, UK - Insurance",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8259022?gh_jid=8259022",
+    "location": "London - UK2",
+    "posted_at": "2026-10-13T03:44:21-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "bc38d93fc87faabc"
+  },
+  {
+    "title": "Senior Customer Activation Manager | Partnerships",
+    "company": "Ramp",
+    "url": "https://jobicy.com/jobs/150478-senior-customer-activation-manager-partnerships",
+    "location": "Canada,  USA",
+    "posted_at": "2026-10-13T02:10:15+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Business Development"
+    ],
+    "regions": [
+      "canada",
+      "remote_us"
+    ],
+    "signal": "Relocation support",
+    "id": "05d475a0c129506b"
+  },
+  {
+    "title": "Senior Manager Business Audit | French Market",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8266560?gh_jid=8266560",
+    "location": "Paris",
+    "posted_at": "2026-10-12T09:03:07-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "fc67efeb94691d33"
+  },
+  {
+    "company": "Pinterest",
+    "id": "bfbd5b176c870f73",
+    "location": "USA",
+    "posted_at": "2026-10-04T04:30:45+00:00",
+    "published_at": "2026-10-12T19:49:06.186487+00:00",
+    "receipts": {
+      "telegram": "70"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "jobicy",
+    "tags": [
+      "QA & Testing"
+    ],
+    "title": "SDET II, tvScientific",
+    "url": "https://jobicy.com/jobs/152404-sdet-ii-tvscientific"
+  },
+  {
+    "company": "Monzo",
+    "id": "72363bd903778b05",
+    "location": "UK",
+    "posted_at": "2026-10-04T04:35:17+00:00",
+    "published_at": "2026-10-12T10:00:42.075471+00:00",
+    "receipts": {
+      "telegram": "69"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Sponsor visa",
+    "source": "jobicy",
+    "tags": [
+      "Software Engineering"
+    ],
+    "title": "Backend Engineer III",
+    "url": "https://jobicy.com/jobs/152499-backend-engineer-iii"
   },
   {
     "company": "N26",
@@ -1561,43 +1617,5 @@
     "tags": [],
     "title": "Data Analyst - Finance",
     "url": "https://n26.com/en-eu/careers/positions/8203660?gh_jid=8203660"
-  },
-  {
-    "company": "N26",
-    "id": "7a52ade78f0bfe78",
-    "location": "Berlin",
-    "posted_at": "2026-09-15T06:25:12-04:00",
-    "published_at": "2026-09-18T12:31:00.558189+00:00",
-    "receipts": {
-      "telegram": "20"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Data Analyst - Ops Automation & Enablement",
-    "url": "https://n26.com/en-eu/careers/positions/8187984?gh_jid=8187984"
-  },
-  {
-    "company": "N26",
-    "id": "6716999ea027afe7",
-    "location": "Barcelona",
-    "posted_at": "2026-09-15T10:36:59-04:00",
-    "published_at": "2026-09-18T07:46:39.807835+00:00",
-    "receipts": {
-      "telegram": "19"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Data Analyst - Investments",
-    "url": "https://n26.com/en-eu/careers/positions/8204177?gh_jid=8204177"
   }
 ]

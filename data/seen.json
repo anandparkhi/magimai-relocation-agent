@@ -50,6 +50,12 @@
       "regions": [],
       "seen_at": "2026-09-22T07:49:03.541733+00:00"
     },
+    "00ef065a08198008": {
+      "accepted": false,
+      "company": "Actian",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "01036dee3bf5acf8": {
       "accepted": false,
       "company": "Salesloft",
@@ -292,6 +298,12 @@
       "regions": [],
       "seen_at": "2026-10-07T08:57:56.633219+00:00"
     },
+    "0462328fed5c39ec": {
+      "accepted": false,
+      "company": "YipitData",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "046ae34cad433542": {
       "accepted": false,
       "company": "Affirm",
@@ -352,6 +364,15 @@
       "regions": [],
       "seen_at": "2026-09-27T08:23:34.867219+00:00"
     },
+    "05d475a0c129506b": {
+      "accepted": true,
+      "company": "Ramp",
+      "regions": [
+        "canada",
+        "remote_us"
+      ],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "05f22ce4bd6d2eb0": {
       "accepted": false,
       "company": "OpenAI",
@@ -375,6 +396,12 @@
       "company": "GitLab",
       "regions": [],
       "seen_at": "2026-10-01T09:08:45.575378+00:00"
+    },
+    "06628a84bfe5dae4": {
+      "accepted": false,
+      "company": "GitLab",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "06638c9d5dae758b": {
       "accepted": false,
@@ -441,6 +468,12 @@
       "company": "Figma",
       "regions": [],
       "seen_at": "2026-09-23T07:51:33.074944+00:00"
+    },
+    "075ac48e9b6e71ca": {
+      "accepted": false,
+      "company": "Rithum",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "0765d4a333557764": {
       "accepted": false,
@@ -871,6 +904,12 @@
       "regions": [],
       "seen_at": "2026-09-18T07:29:51.846776+00:00"
     },
+    "0ea3a8bae594f489": {
+      "accepted": false,
+      "company": "Cloudflare",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "0ec30ababdac2d20": {
       "accepted": false,
       "company": "Cloudflare",
@@ -1014,6 +1053,12 @@
       "company": "Samsara",
       "regions": [],
       "seen_at": "2026-10-02T08:42:11.195933+00:00"
+    },
+    "10371ebf92387336": {
+      "accepted": false,
+      "company": "Pinterest",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "104f56d7b1d472d1": {
       "accepted": false,
@@ -1325,6 +1370,12 @@
       "regions": [],
       "seen_at": "2026-09-21T08:03:22.537875+00:00"
     },
+    "15df415a0b7933a6": {
+      "accepted": false,
+      "company": "Updater",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "15e625181a065e48": {
       "accepted": false,
       "company": "Mural",
@@ -1384,6 +1435,12 @@
       "company": "Ashby",
       "regions": [],
       "seen_at": "2026-09-25T07:59:54.396481+00:00"
+    },
+    "178ad845d37a9438": {
+      "accepted": false,
+      "company": "Cloudflare",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "1790ad76505e3bba": {
       "accepted": false,
@@ -1498,6 +1555,12 @@
       "company": "OpenAI",
       "regions": [],
       "seen_at": "2026-09-27T08:23:34.867219+00:00"
+    },
+    "19964adcd218b3c4": {
+      "accepted": false,
+      "company": "OpenAI",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "19cff73fcb60cd44": {
       "accepted": false,
@@ -1618,6 +1681,12 @@
       "company": "Truelogic",
       "regions": [],
       "seen_at": "2026-09-17T07:51:07.760084+00:00"
+    },
+    "1b859773b40b2412": {
+      "accepted": false,
+      "company": "Ajax Systems",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "1b8e73d66a90216b": {
       "accepted": false,
@@ -2181,6 +2250,12 @@
       "regions": [],
       "seen_at": "2026-10-08T09:11:26.851808+00:00"
     },
+    "24f874a03f7f73d7": {
+      "accepted": false,
+      "company": "First Advantage",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "250d6f4a53877463": {
       "accepted": false,
       "company": "Mattermost",
@@ -2234,6 +2309,12 @@
       "company": "Ramp",
       "regions": [],
       "seen_at": "2026-09-20T07:49:52.536323+00:00"
+    },
+    "25ec820c2f09c1d1": {
+      "accepted": false,
+      "company": "PadSplit",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "25fbb1226d6a9b2d": {
       "accepted": false,
@@ -2463,6 +2544,12 @@
       "regions": [],
       "seen_at": "2026-10-07T08:57:56.633219+00:00"
     },
+    "2a3dc7d380436249": {
+      "accepted": false,
+      "company": "ParcelHero",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "2a5cd3b5359764bf": {
       "accepted": false,
       "company": "1Password",
@@ -2568,6 +2655,12 @@
       "company": "Affirm",
       "regions": [],
       "seen_at": "2026-10-09T09:20:32.081257+00:00"
+    },
+    "2bf88a9d75eb827a": {
+      "accepted": false,
+      "company": "ParcelHero",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "2c016a3f8ad09809": {
       "accepted": false,
@@ -2733,6 +2826,12 @@
       "regions": [],
       "seen_at": "2026-09-18T07:29:51.846776+00:00"
     },
+    "2e7fa0bb86596185": {
+      "accepted": false,
+      "company": "Liftoff",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "2e9d08f4616e46f2": {
       "accepted": false,
       "company": "Planet Labs Inc.",
@@ -2830,6 +2929,12 @@
         "remote_us"
       ],
       "seen_at": "2026-10-06T09:08:37.346161+00:00"
+    },
+    "2fa8498cc784b837": {
+      "accepted": false,
+      "company": "Cloudflare",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "2faaab875ee6a180": {
       "accepted": false,
@@ -3373,6 +3478,12 @@
       "regions": [],
       "seen_at": "2026-09-22T07:49:03.541733+00:00"
     },
+    "38de4ac5d0a45820": {
+      "accepted": false,
+      "company": "Samsara",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "38eb6663fdb4865f": {
       "accepted": false,
       "company": "Quora",
@@ -3499,6 +3610,12 @@
       "regions": [],
       "seen_at": "2026-10-09T09:20:32.081257+00:00"
     },
+    "3c420d020de8b11b": {
+      "accepted": false,
+      "company": "Semperis",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "3c5f335c246efb81": {
       "accepted": false,
       "company": "Supabase",
@@ -3542,6 +3659,12 @@
       "company": "Tremendous",
       "regions": [],
       "seen_at": "2026-10-10T08:42:07.648045+00:00"
+    },
+    "3d33d6ba0e8cbc2c": {
+      "accepted": false,
+      "company": "Duolingo",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "3d62e7a39dd23eeb": {
       "accepted": false,
@@ -3634,6 +3757,12 @@
       "company": "Datadog",
       "regions": [],
       "seen_at": "2026-09-16T07:47:12.437792+00:00"
+    },
+    "3ec1aad97097efe5": {
+      "accepted": false,
+      "company": "PadSplit",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "3ed819e21f502183": {
       "accepted": false,
@@ -4013,6 +4142,12 @@
       "regions": [],
       "seen_at": "2026-10-06T09:08:37.346161+00:00"
     },
+    "4696fac74fe1680b": {
+      "accepted": false,
+      "company": "Ashby",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "46a466bd42ac6f61": {
       "accepted": false,
       "company": "Quantum Metric",
@@ -4025,6 +4160,12 @@
       "regions": [],
       "seen_at": "2026-09-25T07:59:54.396481+00:00"
     },
+    "46f972c6b351ba25": {
+      "accepted": false,
+      "company": "Magic",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "472136f9dd31508b": {
       "accepted": false,
       "company": "Datadog",
@@ -4036,6 +4177,12 @@
       "company": "Zuora",
       "regions": [],
       "seen_at": "2026-10-05T09:16:40.787878+00:00"
+    },
+    "473ae40aedf08609": {
+      "accepted": false,
+      "company": "ParcelHero",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "476e9ba3c13f41f6": {
       "accepted": false,
@@ -4582,6 +4729,12 @@
       "regions": [],
       "seen_at": "2026-10-07T08:57:56.633219+00:00"
     },
+    "51a61b28dbc983ad": {
+      "accepted": false,
+      "company": "Webflow",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "51aa001d9484e7be": {
       "accepted": false,
       "company": "Datadog",
@@ -4746,6 +4899,12 @@
       "regions": [],
       "seen_at": "2026-09-18T07:29:51.846776+00:00"
     },
+    "557fb7811cffd75d": {
+      "accepted": false,
+      "company": "TE Connectivity",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "558e8c990cb5eb51": {
       "accepted": true,
       "company": "N26",
@@ -4785,6 +4944,12 @@
       "company": "ChargePoint",
       "regions": [],
       "seen_at": "2026-10-02T08:42:11.195933+00:00"
+    },
+    "561b072705c2b043": {
+      "accepted": false,
+      "company": "Cloudflare",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "564d3175033d9d7b": {
       "accepted": false,
@@ -5153,6 +5318,12 @@
         "europe"
       ],
       "seen_at": "2026-10-03T08:21:11.143618+00:00"
+    },
+    "5c25a3ed934456f0": {
+      "accepted": false,
+      "company": "Roboflow",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "5c3c77b59073628c": {
       "accepted": false,
@@ -5838,6 +6009,12 @@
       "regions": [],
       "seen_at": "2026-09-16T07:47:12.437792+00:00"
     },
+    "68857248dd774432": {
+      "accepted": false,
+      "company": "Sporty Group",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "688c2ad36438a989": {
       "accepted": false,
       "company": "Notion",
@@ -5885,6 +6062,12 @@
       "company": "OpenAI",
       "regions": [],
       "seen_at": "2026-10-01T09:08:45.575378+00:00"
+    },
+    "6924daced1501e72": {
+      "accepted": false,
+      "company": "CertiK",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "6931053a4a0d7aa8": {
       "accepted": false,
@@ -6014,6 +6197,12 @@
       "regions": [],
       "seen_at": "2026-10-10T08:42:07.648045+00:00"
     },
+    "6c17556c3615f7fd": {
+      "accepted": false,
+      "company": "Datadog",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "6c1db153569201dd": {
       "accepted": false,
       "company": "Echodyne",
@@ -6091,6 +6280,12 @@
       "company": "Tekmetric",
       "regions": [],
       "seen_at": "2026-10-01T09:08:45.575378+00:00"
+    },
+    "6d8b41946699616e": {
+      "accepted": false,
+      "company": "Actian",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "6daa92c1b0d162f1": {
       "accepted": false,
@@ -6275,6 +6470,12 @@
       "company": "Echodyne",
       "regions": [],
       "seen_at": "2026-09-29T08:45:24.450763+00:00"
+    },
+    "71c3963307905622": {
+      "accepted": false,
+      "company": "Cresta",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "71d103e2c1a62983": {
       "accepted": false,
@@ -6956,6 +7157,12 @@
       "regions": [],
       "seen_at": "2026-09-25T07:59:54.396481+00:00"
     },
+    "7d3605e0af2d3dbe": {
+      "accepted": false,
+      "company": "Cloudflare",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "7d3cfd8c8f4e36c9": {
       "accepted": false,
       "company": "QuinStreet",
@@ -7196,6 +7403,12 @@
       "regions": [],
       "seen_at": "2026-09-25T07:59:54.396481+00:00"
     },
+    "81fe8428e9cc6ad0": {
+      "accepted": false,
+      "company": "Datadog",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "822a3539b3646347": {
       "accepted": false,
       "company": "Cloudflare",
@@ -7275,6 +7488,12 @@
       "company": "Notion",
       "regions": [],
       "seen_at": "2026-09-26T07:52:56.309233+00:00"
+    },
+    "834247353f94a41c": {
+      "accepted": false,
+      "company": "Webflow",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "83440952683c76a9": {
       "accepted": false,
@@ -7419,6 +7638,12 @@
       "company": "Bayesian Health",
       "regions": [],
       "seen_at": "2026-10-09T09:20:32.081257+00:00"
+    },
+    "857ee70e6ce0ec88": {
+      "accepted": false,
+      "company": "Webflow",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "8581e7a5e966a1f4": {
       "accepted": false,
@@ -7992,6 +8217,12 @@
       "regions": [],
       "seen_at": "2026-10-03T08:21:11.143618+00:00"
     },
+    "8efb334c53b2e120": {
+      "accepted": false,
+      "company": "Boulevard",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "8f084555737a3821": {
       "accepted": false,
       "company": "OpenAI",
@@ -8015,6 +8246,12 @@
       "company": "GitLab",
       "regions": [],
       "seen_at": "2026-10-06T09:08:37.346161+00:00"
+    },
+    "8f8fb021bfd2e9c1": {
+      "accepted": false,
+      "company": "Cloudflare",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "8f9a1778414620ac": {
       "accepted": false,
@@ -8244,6 +8481,12 @@
       "regions": [],
       "seen_at": "2026-10-06T09:08:37.346161+00:00"
     },
+    "93abcb8b7c5a0d25": {
+      "accepted": false,
+      "company": "GiveDirectly",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "93b0d5b4b8f884e2": {
       "accepted": false,
       "company": "Five9",
@@ -8301,6 +8544,12 @@
         "europe"
       ],
       "seen_at": "2026-09-13T19:51:55.926647+00:00"
+    },
+    "94d26f63d063b6e6": {
+      "accepted": false,
+      "company": "1Password",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "94d2846b15529cd7": {
       "accepted": false,
@@ -8423,6 +8672,12 @@
       "company": "Remote",
       "regions": [],
       "seen_at": "2026-10-01T09:08:45.575378+00:00"
+    },
+    "971d38a9dc67d11d": {
+      "accepted": false,
+      "company": "Cloudflare",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "9738942f171c22fb": {
       "accepted": false,
@@ -8658,6 +8913,12 @@
       "regions": [],
       "seen_at": "2026-09-26T07:52:56.309233+00:00"
     },
+    "9b5e57b081a36752": {
+      "accepted": false,
+      "company": "Cloudflare",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "9b878ff809b0627f": {
       "accepted": false,
       "company": "Figma",
@@ -8748,6 +9009,12 @@
       "regions": [],
       "seen_at": "2026-10-08T09:11:26.851808+00:00"
     },
+    "9de17e180feeeb2e": {
+      "accepted": false,
+      "company": "Datadog",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "9de99e9ef91f9b9a": {
       "accepted": false,
       "company": "D2L",
@@ -8814,6 +9081,12 @@
       "regions": [],
       "seen_at": "2026-09-18T07:29:51.846776+00:00"
     },
+    "9f65c95f3088f903": {
+      "accepted": false,
+      "company": "ICON plc",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "9f7c1e31265eece9": {
       "accepted": false,
       "company": "TRM Labs",
@@ -8832,6 +9105,12 @@
       "regions": [],
       "seen_at": "2026-09-13T19:51:55.926647+00:00"
     },
+    "9f910ecd06623215": {
+      "accepted": false,
+      "company": "Fieldguide",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "9fe4e20e20e62d66": {
       "accepted": true,
       "company": "Spire",
@@ -8839,6 +9118,12 @@
         "remote_us"
       ],
       "seen_at": "2026-10-06T09:08:37.346161+00:00"
+    },
+    "a010b2d20cf0342b": {
+      "accepted": false,
+      "company": "StackAdapt",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "a013188e7217518e": {
       "accepted": false,
@@ -8896,6 +9181,12 @@
       "regions": [],
       "seen_at": "2026-09-20T07:49:52.536323+00:00"
     },
+    "a0f74c6084b27cf6": {
+      "accepted": false,
+      "company": "Duolingo",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "a139cbf44bcc86a9": {
       "accepted": false,
       "company": "GitLab",
@@ -8951,6 +9242,12 @@
       "company": "Canonical",
       "regions": [],
       "seen_at": "2026-10-03T08:21:11.143618+00:00"
+    },
+    "a2d8ed96f7c7e588": {
+      "accepted": false,
+      "company": "ParcelHero",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "a33490f46bc54461": {
       "accepted": false,
@@ -9099,6 +9396,12 @@
       "company": "OpenAI",
       "regions": [],
       "seen_at": "2026-10-08T09:11:26.851808+00:00"
+    },
+    "a7068ac2c23d3b0d": {
+      "accepted": false,
+      "company": "PadSplit",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "a70d4ccee3019ff7": {
       "accepted": false,
@@ -9386,6 +9689,12 @@
       "regions": [],
       "seen_at": "2026-10-11T09:05:55.119960+00:00"
     },
+    "ab9545b926946000": {
+      "accepted": false,
+      "company": "Monzo",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "abc4f4464f6cc243": {
       "accepted": false,
       "company": "CertiK",
@@ -9427,6 +9736,18 @@
       "company": "Dataiku",
       "regions": [],
       "seen_at": "2026-10-08T09:11:26.851808+00:00"
+    },
+    "acdcb5694713ff2a": {
+      "accepted": false,
+      "company": "Samsara",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
+    "ace1042a06d1b235": {
+      "accepted": false,
+      "company": "Zapier",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "acec77705e70ff00": {
       "accepted": false,
@@ -9529,6 +9850,18 @@
       "company": "Quantum Metric",
       "regions": [],
       "seen_at": "2026-10-09T09:20:32.081257+00:00"
+    },
+    "ae6a4efcba67df9c": {
+      "accepted": false,
+      "company": "Zapier",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
+    "ae85bf533f29c093": {
+      "accepted": false,
+      "company": "Ajax Systems",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "aeb39130da649d39": {
       "accepted": false,
@@ -9693,6 +10026,12 @@
       "company": "Welo Global",
       "regions": [],
       "seen_at": "2026-09-17T07:51:07.760084+00:00"
+    },
+    "b22e2fcd3ebace93": {
+      "accepted": false,
+      "company": "Phantom",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "b25737df565b8b3d": {
       "accepted": false,
@@ -9901,6 +10240,12 @@
       "company": "TeamSnap",
       "regions": [],
       "seen_at": "2026-09-27T08:23:34.867219+00:00"
+    },
+    "b71d4a0ee4ac2516": {
+      "accepted": false,
+      "company": "Liftoff",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "b72ecd1dafcd651c": {
       "accepted": false,
@@ -10204,6 +10549,12 @@
       "regions": [],
       "seen_at": "2026-10-07T08:57:56.633219+00:00"
     },
+    "bbeefdbddb5e8061": {
+      "accepted": false,
+      "company": "1Password",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "bc1ecee1d7b80429": {
       "accepted": false,
       "company": "Nabla",
@@ -10215,6 +10566,14 @@
       "company": "Cloudflare",
       "regions": [],
       "seen_at": "2026-09-13T19:51:55.926647+00:00"
+    },
+    "bc38d93fc87faabc": {
+      "accepted": true,
+      "company": "Samsara",
+      "regions": [
+        "europe"
+      ],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "bc4dfe66a5f9d030": {
       "accepted": false,
@@ -10382,6 +10741,12 @@
       "regions": [],
       "seen_at": "2026-10-02T08:42:11.195933+00:00"
     },
+    "bffd2058f539590c": {
+      "accepted": false,
+      "company": "M3 USA",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "c001f3549c3872d3": {
       "accepted": false,
       "company": "AlphaSense",
@@ -10491,6 +10856,12 @@
       "company": "NetBox Labs",
       "regions": [],
       "seen_at": "2026-10-05T09:16:40.787878+00:00"
+    },
+    "c18388bd5f391ff3": {
+      "accepted": false,
+      "company": "Teachable",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "c1882ea4255a2e1c": {
       "accepted": false,
@@ -10612,6 +10983,12 @@
       "regions": [],
       "seen_at": "2026-10-03T08:21:11.143618+00:00"
     },
+    "c37d6adc6344f264": {
+      "accepted": false,
+      "company": "Phantom",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "c3bda33a791791bc": {
       "accepted": false,
       "company": "Veracyte",
@@ -10637,6 +11014,12 @@
       "company": "NTT DATA",
       "regions": [],
       "seen_at": "2026-09-30T08:46:25.495982+00:00"
+    },
+    "c426ae36df364237": {
+      "accepted": false,
+      "company": "Upstart",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "c43415be9a35898e": {
       "accepted": false,
@@ -10709,6 +11092,12 @@
       "company": "CourseCareers",
       "regions": [],
       "seen_at": "2026-09-27T08:23:34.867219+00:00"
+    },
+    "c56e1d8aceac1a6a": {
+      "accepted": false,
+      "company": "Cloudflare",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "c5f50da71e50cad6": {
       "accepted": false,
@@ -11455,6 +11844,12 @@
       "regions": [],
       "seen_at": "2026-10-01T09:08:45.575378+00:00"
     },
+    "d1c1cf897c2cb352": {
+      "accepted": false,
+      "company": "Insurify",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "d1fdef6cf70c6cc3": {
       "accepted": false,
       "company": "Rithum",
@@ -11679,6 +12074,12 @@
       "regions": [],
       "seen_at": "2026-09-30T08:46:25.495982+00:00"
     },
+    "d624502508859f9c": {
+      "accepted": false,
+      "company": "ParcelHero",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "d63b339e3341afad": {
       "accepted": false,
       "company": "Alma",
@@ -11738,6 +12139,12 @@
       "company": "Karbon",
       "regions": [],
       "seen_at": "2026-09-22T07:49:03.541733+00:00"
+    },
+    "d71d8e119857f13c": {
+      "accepted": false,
+      "company": "CertiK",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "d744b6d7bbf23594": {
       "accepted": false,
@@ -11894,6 +12301,12 @@
       "company": "Canonical",
       "regions": [],
       "seen_at": "2026-09-23T07:51:33.074944+00:00"
+    },
+    "da53b67ad39557a8": {
+      "accepted": false,
+      "company": "Ashby",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "da56b3a1faff9291": {
       "accepted": false,
@@ -12082,6 +12495,12 @@
       "company": "GitLab",
       "regions": [],
       "seen_at": "2026-10-02T08:42:11.195933+00:00"
+    },
+    "deef355841100904": {
+      "accepted": false,
+      "company": "ParcelHero",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "df30bd13b3d9acf6": {
       "accepted": false,
@@ -12414,6 +12833,12 @@
       "company": "Chainguard",
       "regions": [],
       "seen_at": "2026-09-21T08:03:22.537875+00:00"
+    },
+    "e410978028c3ef24": {
+      "accepted": false,
+      "company": "Cloudflare",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "e43a3e32a1c515d6": {
       "accepted": false,
@@ -12805,6 +13230,12 @@
       "regions": [],
       "seen_at": "2026-09-20T07:49:52.536323+00:00"
     },
+    "ebfe38fb1e2ec1f3": {
+      "accepted": false,
+      "company": "Webflow",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
+    },
     "ebff473c20fb55d5": {
       "accepted": false,
       "company": "Cloudflare",
@@ -12882,6 +13313,12 @@
       "company": "Lambda",
       "regions": [],
       "seen_at": "2026-10-07T08:57:56.633219+00:00"
+    },
+    "ed86b75041780365": {
+      "accepted": false,
+      "company": "ParcelHero",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "ede0c7ca1c039c3e": {
       "accepted": false,
@@ -13096,6 +13533,12 @@
         "europe"
       ],
       "seen_at": "2026-09-29T08:45:24.450763+00:00"
+    },
+    "f0cd1d41d5bf8e25": {
+      "accepted": false,
+      "company": "Liftoff",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "f0ce40284085775a": {
       "accepted": false,
@@ -13414,6 +13857,12 @@
       "company": "EverAI",
       "regions": [],
       "seen_at": "2026-09-15T07:54:21.201829+00:00"
+    },
+    "f5c218a724f6e2b2": {
+      "accepted": false,
+      "company": "Liftoff",
+      "regions": [],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "f5df75d05eb67bec": {
       "accepted": false,
@@ -13878,6 +14327,14 @@
       "company": "Obsidian Security",
       "regions": [],
       "seen_at": "2026-09-27T08:23:34.867219+00:00"
+    },
+    "fc67efeb94691d33": {
+      "accepted": true,
+      "company": "N26",
+      "regions": [
+        "europe"
+      ],
+      "seen_at": "2026-10-13T09:35:13.263032+00:00"
     },
     "fc80ecf87c08bd3f": {
       "accepted": false,
