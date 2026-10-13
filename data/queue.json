@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "N26",
+      "id": "00cd5ead7206c100",
+      "location": "Berlin",
+      "posted_at": "2026-10-06T04:03:12-04:00",
+      "published_at": "2026-10-13T17:15:28.615213+00:00",
+      "receipts": {
+        "telegram": "72"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Marketing Program Manager",
+      "url": "https://n26.com/en-eu/careers/positions/7938980?gh_jid=7938980"
+    },
+    {
+      "company": "N26",
       "id": "a064d90e72aebf24",
       "location": "Barcelona",
       "posted_at": "2026-10-05T04:44:08-04:00",
@@ -1272,21 +1291,6 @@
   ],
   "items": [
     {
-      "company": "N26",
-      "id": "00cd5ead7206c100",
-      "location": "Berlin",
-      "posted_at": "2026-10-06T04:03:12-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Marketing Program Manager",
-      "url": "https://n26.com/en-eu/careers/positions/7938980?gh_jid=7938980"
-    },
-    {
       "company": "Spire",
       "id": "9fe4e20e20e62d66",
       "location": "USA",
@@ -1879,7 +1883,7 @@
       "url": "https://n26.com/en-eu/careers/positions/8266560?gh_jid=8266560"
     }
   ],
-  "last_posted_at": "2026-10-13T09:53:39.444687+00:00",
+  "last_posted_at": "2026-10-13T17:15:28.615213+00:00",
   "posted": {
     "2026-09-29": 2,
     "2026-09-30": 2,
@@ -1895,6 +1899,6 @@
     "2026-10-10": 2,
     "2026-10-11": 2,
     "2026-10-12": 2,
-    "2026-10-13": 1
+    "2026-10-13": 2
   }
 }
