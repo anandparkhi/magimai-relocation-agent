@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Samsara",
+      "id": "0b852ec45833812d",
+      "location": "USA",
+      "posted_at": "2026-10-07T04:20:30+00:00",
+      "published_at": "2026-10-15T07:51:28.092768+00:00",
+      "receipts": {
+        "telegram": "75"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Finance & Accounting"
+      ],
+      "title": "Pricing and Revenue Planner",
+      "url": "https://jobicy.com/jobs/145308-pricing-and-revenue-planner"
+    },
+    {
       "company": "Roboflow",
       "id": "660034e9d491cce6",
       "location": "USA",
@@ -1333,23 +1354,6 @@
   ],
   "items": [
     {
-      "company": "Samsara",
-      "id": "0b852ec45833812d",
-      "location": "USA",
-      "posted_at": "2026-10-07T04:20:30+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "jobicy",
-      "tags": [
-        "Finance & Accounting"
-      ],
-      "title": "Pricing and Revenue Planner",
-      "url": "https://jobicy.com/jobs/145308-pricing-and-revenue-planner"
-    },
-    {
       "company": "N26",
       "id": "647ab2c0e43f0523",
       "location": "Berlin",
@@ -1947,9 +1951,8 @@
       "url": "https://n26.com/en-eu/careers/positions/8281301?gh_jid=8281301"
     }
   ],
-  "last_posted_at": "2026-10-14T13:45:26.473309+00:00",
+  "last_posted_at": "2026-10-15T07:51:28.092768+00:00",
   "posted": {
-    "2026-09-30": 2,
     "2026-10-01": 2,
     "2026-10-02": 2,
     "2026-10-03": 2,
@@ -1963,6 +1966,7 @@
     "2026-10-11": 2,
     "2026-10-12": 2,
     "2026-10-13": 2,
-    "2026-10-14": 2
+    "2026-10-14": 2,
+    "2026-10-15": 1
   }
 }
