@@ -1,6 +1,28 @@
 {
   "history": [
     {
+      "company": "OpenAI",
+      "id": "ffe0abc7a67a9734",
+      "location": "Singapore",
+      "posted_at": "2026-10-08T07:11:08.268000+00:00",
+      "published_at": "2026-10-16T07:42:04.672464+00:00",
+      "receipts": {
+        "telegram": "77"
+      },
+      "regions": [
+        "singapore"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Technical Success"
+      ],
+      "title": "Applied AI Engineer, Codex",
+      "url": "https://jobs.ashbyhq.com/openai/02ec1893-17df-420c-8d19-48eca8edd884"
+    },
+    {
       "company": "N26",
       "id": "647ab2c0e43f0523",
       "location": "Berlin",
@@ -1373,24 +1395,6 @@
   ],
   "items": [
     {
-      "company": "OpenAI",
-      "id": "ffe0abc7a67a9734",
-      "location": "Singapore",
-      "posted_at": "2026-10-08T07:11:08.268000+00:00",
-      "regions": [
-        "singapore"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Go To Market",
-        "Technical Success"
-      ],
-      "title": "Applied AI Engineer, Codex",
-      "url": "https://jobs.ashbyhq.com/openai/02ec1893-17df-420c-8d19-48eca8edd884"
-    },
-    {
       "company": "YipitData",
       "id": "656c8d53e2317b86",
       "location": "USA",
@@ -2000,9 +2004,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8027430"
     }
   ],
-  "last_posted_at": "2026-10-15T12:58:09.240546+00:00",
+  "last_posted_at": "2026-10-16T07:42:04.672464+00:00",
   "posted": {
-    "2026-10-01": 2,
     "2026-10-02": 2,
     "2026-10-03": 2,
     "2026-10-04": 2,
@@ -2016,6 +2019,7 @@
     "2026-10-12": 2,
     "2026-10-13": 2,
     "2026-10-14": 2,
-    "2026-10-15": 2
+    "2026-10-15": 2,
+    "2026-10-16": 1
   }
 }
