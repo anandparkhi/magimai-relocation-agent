@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "YipitData",
+      "id": "656c8d53e2317b86",
+      "location": "USA",
+      "posted_at": "2026-10-08T04:45:07+00:00",
+      "published_at": "2026-10-16T12:52:16.873594+00:00",
+      "receipts": {
+        "telegram": "78"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Data Science & Analytics"
+      ],
+      "title": "Data Lead - Central Data Team",
+      "url": "https://jobicy.com/jobs/152751-data-lead-central-data-team"
+    },
+    {
       "company": "OpenAI",
       "id": "ffe0abc7a67a9734",
       "location": "Singapore",
@@ -1396,23 +1417,6 @@
   "items": [
     {
       "company": "YipitData",
-      "id": "656c8d53e2317b86",
-      "location": "USA",
-      "posted_at": "2026-10-08T04:45:07+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "jobicy",
-      "tags": [
-        "Data Science & Analytics"
-      ],
-      "title": "Data Lead - Central Data Team",
-      "url": "https://jobicy.com/jobs/152751-data-lead-central-data-team"
-    },
-    {
-      "company": "YipitData",
       "id": "3fff08d7ac1d8321",
       "location": "USA",
       "posted_at": "2026-10-08T04:40:09+00:00",
@@ -2004,7 +2008,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8027430"
     }
   ],
-  "last_posted_at": "2026-10-16T07:42:04.672464+00:00",
+  "last_posted_at": "2026-10-16T12:52:16.873594+00:00",
   "posted": {
     "2026-10-02": 2,
     "2026-10-03": 2,
@@ -2020,6 +2024,6 @@
     "2026-10-13": 2,
     "2026-10-14": 2,
     "2026-10-15": 2,
-    "2026-10-16": 1
+    "2026-10-16": 2
   }
 }
