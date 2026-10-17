@@ -1416,158 +1416,6 @@
   ],
   "items": [
     {
-      "company": "YipitData",
-      "id": "3fff08d7ac1d8321",
-      "location": "USA",
-      "posted_at": "2026-10-08T04:40:09+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "jobicy",
-      "tags": [
-        "Data Science & Analytics"
-      ],
-      "title": "Data Product Analyst, Corporate",
-      "url": "https://jobicy.com/jobs/152755-data-product-analyst-corporate"
-    },
-    {
-      "company": "Reka",
-      "id": "ceb9fc30adc507e2",
-      "location": "UK,  USA",
-      "posted_at": "2026-10-08T04:40:06+00:00",
-      "regions": [
-        "europe",
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "LLM: Visa sponsorship (H1B, OPT) explicitly mentioned for US; remote-first role",
-      "source": "jobicy",
-      "tags": [
-        "Software Engineering"
-      ],
-      "title": "Member of Technical Staff (Applied AI)",
-      "url": "https://jobicy.com/jobs/152763-member-of-technical-staff-applied-ai"
-    },
-    {
-      "company": "Reka",
-      "id": "478f9037aa8d46ec",
-      "location": "UK,  USA",
-      "posted_at": "2026-10-08T04:40:05+00:00",
-      "regions": [
-        "europe",
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "LLM: Visa sponsorship (H1B, OPT) explicitly mentioned for US roles",
-      "source": "jobicy",
-      "tags": [
-        "Data Science & Analytics"
-      ],
-      "title": "Member of Technical Staff (ML)",
-      "url": "https://jobicy.com/jobs/152760-member-of-technical-staff-ml"
-    },
-    {
-      "company": "YipitData",
-      "id": "a435eae61ef487b0",
-      "location": "USA",
-      "posted_at": "2026-10-08T03:40:17+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "jobicy",
-      "tags": [
-        "Customer Support & Success"
-      ],
-      "title": "Client Strategy Manager - Corporate Brands & Retail",
-      "url": "https://jobicy.com/jobs/152729-client-strategy-manager-corporate-brands-retail"
-    },
-    {
-      "company": "YipitData",
-      "id": "cf347d09994ec508",
-      "location": "USA",
-      "posted_at": "2026-10-08T03:40:16+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "jobicy",
-      "tags": [
-        "Product & Operations"
-      ],
-      "title": "Associate Director of Product Development",
-      "url": "https://jobicy.com/jobs/152719-associate-director-of-product-development"
-    },
-    {
-      "company": "YipitData",
-      "id": "205d482cfecbd3f4",
-      "location": "USA",
-      "posted_at": "2026-10-08T03:40:03+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "jobicy",
-      "tags": [
-        "Customer Support & Success"
-      ],
-      "title": "Client Strategy Manager",
-      "url": "https://jobicy.com/jobs/152724-client-strategy-manager"
-    },
-    {
-      "company": "OpenAI",
-      "id": "2acceca7604a229e",
-      "location": "Singapore",
-      "posted_at": "2026-10-07T22:05:42.589000+00:00",
-      "regions": [
-        "singapore"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Consumer Devices",
-        "G&A"
-      ],
-      "title": "Senior Technical Recruiter, Consumer Devices - Singapore",
-      "url": "https://jobs.ashbyhq.com/openai/cc6475e6-f71d-4f51-8d9d-4eb5a7822395"
-    },
-    {
-      "company": "N26",
-      "id": "558e8c990cb5eb51",
-      "location": "Barcelona",
-      "posted_at": "2026-10-07T10:25:42-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Data Scientist",
-      "url": "https://n26.com/en-eu/careers/positions/8261383?gh_jid=8261383"
-    },
-    {
-      "company": "N26",
-      "id": "33ad91597c4fd965",
-      "location": "Berlin",
-      "posted_at": "2026-10-07T10:23:22-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Data Scientist",
-      "url": "https://n26.com/en-eu/careers/positions/8260904?gh_jid=8260904"
-    },
-    {
       "company": "Samsara",
       "id": "9b0abcb427ca429c",
       "location": "Remote - US",
@@ -2006,6 +1854,38 @@
       "tags": [],
       "title": "Director Corporate Strategy, Ads",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8027430"
+    },
+    {
+      "company": "Monzo",
+      "id": "6a1afb978e0f9206",
+      "location": "UK",
+      "posted_at": "2026-10-17T03:05:05+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Sponsor visa",
+      "source": "jobicy",
+      "tags": [
+        "Finance & Accounting"
+      ],
+      "title": "Credit Risk Manager, Portfolio Management",
+      "url": "https://jobicy.com/jobs/145953-credit-risk-manager-portfolio-management"
+    },
+    {
+      "company": "Affirm",
+      "id": "3328d9e594dc81e2",
+      "location": "Remote Spain",
+      "posted_at": "2026-10-16T10:21:57-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Software Engineer II, Backend (Card)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003"
     }
   ],
   "last_posted_at": "2026-10-16T12:52:16.873594+00:00",
