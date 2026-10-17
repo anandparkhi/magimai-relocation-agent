@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "N26",
+      "id": "12db3c7aa23e7c3c",
+      "location": "Barcelona",
+      "posted_at": "2026-10-09T16:28:19-04:00",
+      "published_at": "2026-10-17T11:44:13.624509+00:00",
+      "receipts": {
+        "telegram": "80"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Lead Technical Product Manager — Machine Learning Platform",
+      "url": "https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322"
+    },
+    {
       "company": "Samsara",
       "id": "9b0abcb427ca429c",
       "location": "Remote - US",
@@ -1436,21 +1455,6 @@
   "items": [
     {
       "company": "N26",
-      "id": "12db3c7aa23e7c3c",
-      "location": "Barcelona",
-      "posted_at": "2026-10-09T16:28:19-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Lead Technical Product Manager — Machine Learning Platform",
-      "url": "https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322"
-    },
-    {
-      "company": "N26",
       "id": "94013074f91960b2",
       "location": "Berlin",
       "posted_at": "2026-10-09T16:28:16-04:00",
@@ -1892,7 +1896,7 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003"
     }
   ],
-  "last_posted_at": "2026-10-17T07:20:39.640948+00:00",
+  "last_posted_at": "2026-10-17T11:44:13.624509+00:00",
   "posted": {
     "2026-10-03": 2,
     "2026-10-04": 2,
@@ -1908,6 +1912,6 @@
     "2026-10-14": 2,
     "2026-10-15": 2,
     "2026-10-16": 2,
-    "2026-10-17": 1
+    "2026-10-17": 2
   }
 }
