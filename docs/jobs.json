@@ -1,50 +1,5 @@
 [
   {
-    "company": "Samsara",
-    "id": "9b0abcb427ca429c",
-    "location": "Remote - US",
-    "posted_at": "2026-10-09T16:47:09-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Staff Product Operations Manager, Platform",
-    "url": "https://www.samsara.com/company/careers/roles/8256425?gh_jid=8256425"
-  },
-  {
-    "company": "N26",
-    "id": "12db3c7aa23e7c3c",
-    "location": "Barcelona",
-    "posted_at": "2026-10-09T16:28:19-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Lead Technical Product Manager — Machine Learning Platform",
-    "url": "https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322"
-  },
-  {
-    "company": "N26",
-    "id": "94013074f91960b2",
-    "location": "Berlin",
-    "posted_at": "2026-10-09T16:28:16-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Lead Technical Product Manager — Machine Learning Platform",
-    "url": "https://n26.com/en-eu/careers/positions/8267143?gh_jid=8267143"
-  },
-  {
     "company": "OpenAI",
     "id": "f911fc01c71a82c7",
     "location": "Dublin, Ireland",
@@ -138,21 +93,6 @@
     "tags": [],
     "title": "Lead Client Partner, Global Accounts",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8249643"
-  },
-  {
-    "company": "Pinterest",
-    "id": "d87fff9fcd5cab6d",
-    "location": "San Francisco, CA, US; New York City, NY, US; Seattle, WA, US; Remote, US",
-    "posted_at": "2026-10-08T11:49:26-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Staff Machine Learning Engineer, Content Visual AI",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8247246"
   },
   {
     "company": "Samsara",
@@ -440,36 +380,210 @@
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8027430"
   },
   {
-    "title": "Credit Risk Manager, Portfolio Management",
     "company": "Monzo",
-    "url": "https://jobicy.com/jobs/145953-credit-risk-manager-portfolio-management",
+    "id": "6a1afb978e0f9206",
     "location": "UK",
     "posted_at": "2026-10-17T03:05:05+00:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Sponsor visa",
+    "source": "jobicy",
+    "tags": [
+      "Finance & Accounting"
+    ],
+    "title": "Credit Risk Manager, Portfolio Management",
+    "url": "https://jobicy.com/jobs/145953-credit-risk-manager-portfolio-management"
+  },
+  {
+    "company": "Affirm",
+    "id": "3328d9e594dc81e2",
+    "location": "Remote Spain",
+    "posted_at": "2026-10-16T10:21:57-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Software Engineer II, Backend (Card)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003"
+  },
+  {
+    "title": "Director of Product Design",
+    "company": "Monzo",
+    "url": "https://jobicy.com/jobs/155586-director-of-product-design-2",
+    "location": "UK",
+    "posted_at": "2026-10-17T08:33:08+00:00",
     "source": "jobicy",
     "remote": true,
     "tags": [
-      "Finance & Accounting"
+      "Web, UI & UX Design"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Sponsor your visa",
+    "id": "050b790ae2d2d196"
+  },
+  {
+    "title": "Engineering Director, EU",
+    "company": "Monzo",
+    "url": "https://jobicy.com/jobs/155587-engineering-director-eu",
+    "location": "UK",
+    "posted_at": "2026-10-17T08:33:07+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Software Engineering"
     ],
     "regions": [
       "europe"
     ],
     "signal": "Sponsor visa",
-    "id": "6a1afb978e0f9206"
+    "id": "f89e8d0c9b75204b"
   },
   {
-    "title": "Software Engineer II, Backend (Card)",
-    "company": "Affirm",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003",
-    "location": "Remote Spain",
-    "posted_at": "2026-10-16T10:21:57-04:00",
-    "source": "ats:greenhouse",
+    "title": "Data Director, EU",
+    "company": "Monzo",
+    "url": "https://jobicy.com/jobs/155581-data-director-eu",
+    "location": "Spain,  UK",
+    "posted_at": "2026-10-17T08:33:07+00:00",
+    "source": "jobicy",
     "remote": true,
-    "tags": [],
+    "tags": [
+      "Data Science & Analytics"
+    ],
     "regions": [
       "europe"
     ],
     "signal": "Visa sponsorship",
-    "id": "3328d9e594dc81e2"
+    "id": "962236b5eaca8fb3"
+  },
+  {
+    "title": "Data Science Manager, Financial Crime",
+    "company": "Monzo",
+    "url": "https://jobicy.com/jobs/155585-data-science-manager-financial-crime",
+    "location": "UK",
+    "posted_at": "2026-10-17T08:33:06+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Sponsor visa",
+    "id": "5b16a47147edc33a"
+  },
+  {
+    "title": "Data Science Manager",
+    "company": "Monzo",
+    "url": "https://jobicy.com/jobs/155584-data-science-manager-2",
+    "location": "UK",
+    "posted_at": "2026-10-17T08:33:06+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Sponsor visa",
+    "id": "74f76058300e14c4"
+  },
+  {
+    "title": "Data Director, Payments",
+    "company": "Monzo",
+    "url": "https://jobicy.com/jobs/155583-data-director-payments",
+    "location": "UK",
+    "posted_at": "2026-10-17T08:33:06+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Sponsor visa",
+    "id": "f1d75c1ebc821686"
+  },
+  {
+    "title": "Senior Product Manager - Search & Ranking",
+    "company": "Catawiki",
+    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8284718",
+    "location": "Amsterdam, Netherlands",
+    "posted_at": "2026-10-15T05:52:32-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "24a3dee81ac1d25d"
+  },
+  {
+    "company": "N26",
+    "id": "94013074f91960b2",
+    "location": "Berlin",
+    "posted_at": "2026-10-09T16:28:16-04:00",
+    "published_at": "2026-10-17T14:41:31.960525+00:00",
+    "receipts": {
+      "telegram": "81"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Lead Technical Product Manager — Machine Learning Platform",
+    "url": "https://n26.com/en-eu/careers/positions/8267143?gh_jid=8267143"
+  },
+  {
+    "company": "N26",
+    "id": "12db3c7aa23e7c3c",
+    "location": "Barcelona",
+    "posted_at": "2026-10-09T16:28:19-04:00",
+    "published_at": "2026-10-17T11:44:13.624509+00:00",
+    "receipts": {
+      "telegram": "80"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Lead Technical Product Manager — Machine Learning Platform",
+    "url": "https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322"
+  },
+  {
+    "company": "Samsara",
+    "id": "9b0abcb427ca429c",
+    "location": "Remote - US",
+    "posted_at": "2026-10-09T16:47:09-04:00",
+    "published_at": "2026-10-17T07:20:39.640948+00:00",
+    "receipts": {
+      "telegram": "79"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Staff Product Operations Manager, Platform",
+    "url": "https://www.samsara.com/company/careers/roles/8256425?gh_jid=8256425"
   },
   {
     "company": "YipitData",
@@ -1417,64 +1531,5 @@
     "tags": [],
     "title": "Senior Data Engineer - Enablement",
     "url": "https://n26.com/en-eu/careers/positions/8213749?gh_jid=8213749"
-  },
-  {
-    "company": "N26",
-    "id": "296286919045fb95",
-    "location": "Madrid",
-    "posted_at": "2026-09-17T10:47:50-04:00",
-    "published_at": "2026-09-23T08:07:22.368859+00:00",
-    "receipts": {
-      "telegram": "31"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "KYC Team Lead - EDD/ODD",
-    "url": "https://n26.com/en-eu/careers/positions/8203617?gh_jid=8203617"
-  },
-  {
-    "company": "UpGuard",
-    "id": "b9494350de628991",
-    "location": "USA",
-    "posted_at": "2026-09-16T13:58:21+00:00",
-    "published_at": "2026-09-22T13:26:08.008258+00:00",
-    "receipts": {
-      "telegram": "30"
-    },
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Legal & Compliance"
-    ],
-    "title": "Associate Commercial Counsel",
-    "url": "https://jobicy.com/jobs/153431-associate-commercial-counsel-2"
-  },
-  {
-    "company": "N26",
-    "id": "aadef9df5d3f3eb2",
-    "location": "Madrid",
-    "posted_at": "2026-09-16T13:46:44-04:00",
-    "published_at": "2026-09-22T08:04:58.727718+00:00",
-    "receipts": {
-      "telegram": "29"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Growth Marketing Manager - Influencers & Affiliates",
-    "url": "https://n26.com/en-eu/careers/positions/8208517?gh_jid=8208517"
   }
 ]

@@ -1568,21 +1568,6 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8249643"
     },
     {
-      "company": "Pinterest",
-      "id": "d87fff9fcd5cab6d",
-      "location": "San Francisco, CA, US; New York City, NY, US; Seattle, WA, US; Remote, US",
-      "posted_at": "2026-10-08T11:49:26-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Staff Machine Learning Engineer, Content Visual AI",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8247246"
-    },
-    {
       "company": "Samsara",
       "id": "bc38d93fc87faabc",
       "location": "London - UK2",
@@ -1898,6 +1883,123 @@
       "tags": [],
       "title": "Software Engineer II, Backend (Card)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003"
+    },
+    {
+      "company": "Monzo",
+      "id": "050b790ae2d2d196",
+      "location": "UK",
+      "posted_at": "2026-10-17T08:33:08+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Sponsor your visa",
+      "source": "jobicy",
+      "tags": [
+        "Web, UI & UX Design"
+      ],
+      "title": "Director of Product Design",
+      "url": "https://jobicy.com/jobs/155586-director-of-product-design-2"
+    },
+    {
+      "company": "Monzo",
+      "id": "f89e8d0c9b75204b",
+      "location": "UK",
+      "posted_at": "2026-10-17T08:33:07+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Sponsor visa",
+      "source": "jobicy",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Engineering Director, EU",
+      "url": "https://jobicy.com/jobs/155587-engineering-director-eu"
+    },
+    {
+      "company": "Monzo",
+      "id": "962236b5eaca8fb3",
+      "location": "Spain,  UK",
+      "posted_at": "2026-10-17T08:33:07+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Data Science & Analytics"
+      ],
+      "title": "Data Director, EU",
+      "url": "https://jobicy.com/jobs/155581-data-director-eu"
+    },
+    {
+      "company": "Monzo",
+      "id": "5b16a47147edc33a",
+      "location": "UK",
+      "posted_at": "2026-10-17T08:33:06+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Sponsor visa",
+      "source": "jobicy",
+      "tags": [
+        "Data Science & Analytics"
+      ],
+      "title": "Data Science Manager, Financial Crime",
+      "url": "https://jobicy.com/jobs/155585-data-science-manager-financial-crime"
+    },
+    {
+      "company": "Monzo",
+      "id": "74f76058300e14c4",
+      "location": "UK",
+      "posted_at": "2026-10-17T08:33:06+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Sponsor visa",
+      "source": "jobicy",
+      "tags": [
+        "Data Science & Analytics"
+      ],
+      "title": "Data Science Manager",
+      "url": "https://jobicy.com/jobs/155584-data-science-manager-2"
+    },
+    {
+      "company": "Monzo",
+      "id": "f1d75c1ebc821686",
+      "location": "UK",
+      "posted_at": "2026-10-17T08:33:06+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Sponsor visa",
+      "source": "jobicy",
+      "tags": [
+        "Data Science & Analytics"
+      ],
+      "title": "Data Director, Payments",
+      "url": "https://jobicy.com/jobs/155583-data-director-payments"
+    },
+    {
+      "company": "Catawiki",
+      "id": "24a3dee81ac1d25d",
+      "location": "Amsterdam, Netherlands",
+      "posted_at": "2026-10-15T05:52:32-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Product Manager - Search & Ranking",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8284718"
     }
   ],
   "last_posted_at": "2026-10-17T14:41:31.960525+00:00",
