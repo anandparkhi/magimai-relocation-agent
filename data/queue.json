@@ -1,6 +1,28 @@
 {
   "history": [
     {
+      "company": "OpenAI",
+      "id": "f911fc01c71a82c7",
+      "location": "Dublin, Ireland",
+      "posted_at": "2026-10-09T12:29:29.399000+00:00",
+      "published_at": "2026-10-18T07:34:49.099433+00:00",
+      "receipts": {
+        "telegram": "82"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Ads Solutions"
+      ],
+      "title": "Customer Success Manager - Ads Solutions (Spanish speaking)",
+      "url": "https://jobs.ashbyhq.com/openai/95283afd-0a20-4e15-9034-d34e88b66e5d"
+    },
+    {
       "company": "N26",
       "id": "94013074f91960b2",
       "location": "Berlin",
@@ -1473,24 +1495,6 @@
   ],
   "items": [
     {
-      "company": "OpenAI",
-      "id": "f911fc01c71a82c7",
-      "location": "Dublin, Ireland",
-      "posted_at": "2026-10-09T12:29:29.399000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Go To Market",
-        "Ads Solutions"
-      ],
-      "title": "Customer Success Manager - Ads Solutions (Spanish speaking)",
-      "url": "https://jobs.ashbyhq.com/openai/95283afd-0a20-4e15-9034-d34e88b66e5d"
-    },
-    {
       "company": "Branch",
       "id": "43e68614e13df96f",
       "location": "USA",
@@ -2002,9 +2006,8 @@
       "url": "https://job-boards.greenhouse.io/catawiki/jobs/8284718"
     }
   ],
-  "last_posted_at": "2026-10-17T14:41:31.960525+00:00",
+  "last_posted_at": "2026-10-18T07:34:49.099433+00:00",
   "posted": {
-    "2026-10-03": 2,
     "2026-10-04": 2,
     "2026-10-05": 2,
     "2026-10-06": 2,
@@ -2018,6 +2021,7 @@
     "2026-10-14": 2,
     "2026-10-15": 2,
     "2026-10-16": 2,
-    "2026-10-17": 3
+    "2026-10-17": 3,
+    "2026-10-18": 1
   }
 }
