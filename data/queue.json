@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Pinterest",
+      "id": "5363d7200bd72901",
+      "location": "San Francisco, CA, US; Remote, CA, US",
+      "posted_at": "2026-10-09T14:50:56-04:00",
+      "published_at": "2026-10-18T15:54:11.417612+00:00",
+      "receipts": {
+        "telegram": "84"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Counsel, Compliance & Investigations",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8246013"
+    },
+    {
       "company": "Branch",
       "id": "43e68614e13df96f",
       "location": "USA",
@@ -1517,21 +1536,6 @@
   "items": [
     {
       "company": "Pinterest",
-      "id": "5363d7200bd72901",
-      "location": "San Francisco, CA, US; Remote, CA, US",
-      "posted_at": "2026-10-09T14:50:56-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Sr. Counsel, Compliance & Investigations",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8246013"
-    },
-    {
-      "company": "Pinterest",
       "id": "81a3b1296dc342b4",
       "location": "San Francisco, CA, US; Remote, US",
       "posted_at": "2026-10-09T12:17:16-04:00",
@@ -2010,7 +2014,7 @@
       "url": "https://job-boards.greenhouse.io/catawiki/jobs/8284718"
     }
   ],
-  "last_posted_at": "2026-10-18T12:10:24.891904+00:00",
+  "last_posted_at": "2026-10-18T15:54:11.417612+00:00",
   "posted": {
     "2026-10-04": 2,
     "2026-10-05": 2,
@@ -2026,6 +2030,6 @@
     "2026-10-15": 2,
     "2026-10-16": 2,
     "2026-10-17": 3,
-    "2026-10-18": 2
+    "2026-10-18": 3
   }
 }
