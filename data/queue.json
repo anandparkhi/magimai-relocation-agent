@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Branch",
+      "id": "43e68614e13df96f",
+      "location": "USA",
+      "posted_at": "2026-10-11T03:50:19+00:00",
+      "published_at": "2026-10-18T12:10:24.891904+00:00",
+      "receipts": {
+        "telegram": "83"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Customer Support & Success"
+      ],
+      "title": "Strategic Customer Success Manager - MarTech / AdTech, US",
+      "url": "https://jobicy.com/jobs/149033-strategic-customer-success-manager-martech-adtech-us"
+    },
+    {
       "company": "OpenAI",
       "id": "f911fc01c71a82c7",
       "location": "Dublin, Ireland",
@@ -1495,23 +1516,6 @@
   ],
   "items": [
     {
-      "company": "Branch",
-      "id": "43e68614e13df96f",
-      "location": "USA",
-      "posted_at": "2026-10-11T03:50:19+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "jobicy",
-      "tags": [
-        "Customer Support & Success"
-      ],
-      "title": "Strategic Customer Success Manager - MarTech / AdTech, US",
-      "url": "https://jobicy.com/jobs/149033-strategic-customer-success-manager-martech-adtech-us"
-    },
-    {
       "company": "Pinterest",
       "id": "5363d7200bd72901",
       "location": "San Francisco, CA, US; Remote, CA, US",
@@ -2006,7 +2010,7 @@
       "url": "https://job-boards.greenhouse.io/catawiki/jobs/8284718"
     }
   ],
-  "last_posted_at": "2026-10-18T07:34:49.099433+00:00",
+  "last_posted_at": "2026-10-18T12:10:24.891904+00:00",
   "posted": {
     "2026-10-04": 2,
     "2026-10-05": 2,
@@ -2022,6 +2026,6 @@
     "2026-10-15": 2,
     "2026-10-16": 2,
     "2026-10-17": 3,
-    "2026-10-18": 1
+    "2026-10-18": 2
   }
 }
