@@ -1,6 +1,28 @@
 {
   "history": [
     {
+      "company": "Ramp",
+      "id": "05d475a0c129506b",
+      "location": "Canada,  USA",
+      "posted_at": "2026-10-13T02:10:15+00:00",
+      "published_at": "2026-10-19T15:42:08.600231+00:00",
+      "receipts": {
+        "telegram": "86"
+      },
+      "regions": [
+        "canada",
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation support",
+      "source": "jobicy",
+      "tags": [
+        "Business Development"
+      ],
+      "title": "Senior Customer Activation Manager | Partnerships",
+      "url": "https://jobicy.com/jobs/150478-senior-customer-activation-manager-partnerships"
+    },
+    {
       "company": "Samsara",
       "id": "bc38d93fc87faabc",
       "location": "London - UK2",
@@ -1554,24 +1576,6 @@
   ],
   "items": [
     {
-      "company": "Ramp",
-      "id": "05d475a0c129506b",
-      "location": "Canada,  USA",
-      "posted_at": "2026-10-13T02:10:15+00:00",
-      "regions": [
-        "canada",
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation support",
-      "source": "jobicy",
-      "tags": [
-        "Business Development"
-      ],
-      "title": "Senior Customer Activation Manager | Partnerships",
-      "url": "https://jobicy.com/jobs/150478-senior-customer-activation-manager-partnerships"
-    },
-    {
       "company": "N26",
       "id": "fc67efeb94691d33",
       "location": "Paris",
@@ -2068,7 +2072,7 @@
       "url": "https://jobicy.com/jobs/154902-deal-desk-analyst-6"
     }
   ],
-  "last_posted_at": "2026-10-19T08:18:00.588466+00:00",
+  "last_posted_at": "2026-10-19T15:42:08.600231+00:00",
   "posted": {
     "2026-10-05": 2,
     "2026-10-06": 2,
@@ -2084,6 +2088,6 @@
     "2026-10-16": 2,
     "2026-10-17": 3,
     "2026-10-18": 3,
-    "2026-10-19": 1
+    "2026-10-19": 2
   }
 }
