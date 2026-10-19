@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Samsara",
+      "id": "bc38d93fc87faabc",
+      "location": "London - UK2",
+      "posted_at": "2026-10-13T03:44:21-04:00",
+      "published_at": "2026-10-19T08:18:00.588466+00:00",
+      "receipts": {
+        "telegram": "85"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Partner Account Executive, UK - Insurance",
+      "url": "https://www.samsara.com/company/careers/roles/8259022?gh_jid=8259022"
+    },
+    {
       "company": "Pinterest",
       "id": "5363d7200bd72901",
       "location": "San Francisco, CA, US; Remote, CA, US",
@@ -1535,21 +1554,6 @@
   ],
   "items": [
     {
-      "company": "Samsara",
-      "id": "bc38d93fc87faabc",
-      "location": "London - UK2",
-      "posted_at": "2026-10-13T03:44:21-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Partner Account Executive, UK - Insurance",
-      "url": "https://www.samsara.com/company/careers/roles/8259022?gh_jid=8259022"
-    },
-    {
       "company": "Ramp",
       "id": "05d475a0c129506b",
       "location": "Canada,  USA",
@@ -2064,9 +2068,8 @@
       "url": "https://jobicy.com/jobs/154902-deal-desk-analyst-6"
     }
   ],
-  "last_posted_at": "2026-10-18T15:54:11.417612+00:00",
+  "last_posted_at": "2026-10-19T08:18:00.588466+00:00",
   "posted": {
-    "2026-10-04": 2,
     "2026-10-05": 2,
     "2026-10-06": 2,
     "2026-10-07": 2,
@@ -2080,6 +2083,7 @@
     "2026-10-15": 2,
     "2026-10-16": 2,
     "2026-10-17": 3,
-    "2026-10-18": 3
+    "2026-10-18": 3,
+    "2026-10-19": 1
   }
 }
