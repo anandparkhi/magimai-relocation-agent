@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Catawiki",
+      "id": "fea5b182a430248c",
+      "location": "Portugal",
+      "posted_at": "2026-10-13T20:24:03+00:00",
+      "published_at": "2026-10-20T13:34:25.726574+00:00",
+      "receipts": {
+        "telegram": "88"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Backend Engineer",
+      "url": "https://jobicy.com/jobs/155238-backend-engineer-4"
+    },
+    {
       "company": "N26",
       "id": "fc67efeb94691d33",
       "location": "Paris",
@@ -1595,23 +1616,6 @@
   ],
   "items": [
     {
-      "company": "Catawiki",
-      "id": "fea5b182a430248c",
-      "location": "Portugal",
-      "posted_at": "2026-10-13T20:24:03+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "jobicy",
-      "tags": [
-        "Software Engineering"
-      ],
-      "title": "Backend Engineer",
-      "url": "https://jobicy.com/jobs/155238-backend-engineer-4"
-    },
-    {
       "company": "OpenAI",
       "id": "9a044bc636469a72",
       "location": "Munich, Germany",
@@ -2239,7 +2243,7 @@
       "url": "https://n26.com/en-eu/careers/positions/8300509?gh_jid=8300509"
     }
   ],
-  "last_posted_at": "2026-10-20T08:02:53.233365+00:00",
+  "last_posted_at": "2026-10-20T13:34:25.726574+00:00",
   "posted": {
     "2026-10-06": 2,
     "2026-10-07": 2,
@@ -2255,6 +2259,6 @@
     "2026-10-17": 3,
     "2026-10-18": 3,
     "2026-10-19": 2,
-    "2026-10-20": 1
+    "2026-10-20": 2
   }
 }
