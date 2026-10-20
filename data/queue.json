@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "N26",
+      "id": "fc67efeb94691d33",
+      "location": "Paris",
+      "posted_at": "2026-10-12T09:03:07-04:00",
+      "published_at": "2026-10-20T08:02:53.233365+00:00",
+      "receipts": {
+        "telegram": "87"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Manager Business Audit | French Market",
+      "url": "https://n26.com/en-eu/careers/positions/8266560?gh_jid=8266560"
+    },
+    {
       "company": "Ramp",
       "id": "05d475a0c129506b",
       "location": "Canada,  USA",
@@ -1576,21 +1595,6 @@
   ],
   "items": [
     {
-      "company": "N26",
-      "id": "fc67efeb94691d33",
-      "location": "Paris",
-      "posted_at": "2026-10-12T09:03:07-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Manager Business Audit | French Market",
-      "url": "https://n26.com/en-eu/careers/positions/8266560?gh_jid=8266560"
-    },
-    {
       "company": "Catawiki",
       "id": "fea5b182a430248c",
       "location": "Portugal",
@@ -2235,9 +2239,8 @@
       "url": "https://n26.com/en-eu/careers/positions/8300509?gh_jid=8300509"
     }
   ],
-  "last_posted_at": "2026-10-19T15:42:08.600231+00:00",
+  "last_posted_at": "2026-10-20T08:02:53.233365+00:00",
   "posted": {
-    "2026-10-05": 2,
     "2026-10-06": 2,
     "2026-10-07": 2,
     "2026-10-08": 2,
@@ -2251,6 +2254,7 @@
     "2026-10-16": 2,
     "2026-10-17": 3,
     "2026-10-18": 3,
-    "2026-10-19": 2
+    "2026-10-19": 2,
+    "2026-10-20": 1
   }
 }
