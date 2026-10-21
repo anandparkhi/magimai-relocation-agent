@@ -1,6 +1,28 @@
 {
   "history": [
     {
+      "company": "OpenAI",
+      "id": "9a044bc636469a72",
+      "location": "Munich, Germany",
+      "posted_at": "2026-10-13T17:54:12.732000+00:00",
+      "published_at": "2026-10-21T08:08:07.576443+00:00",
+      "receipts": {
+        "telegram": "89"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Technical Success"
+      ],
+      "title": "Applied AI Engineer, Digital Natives",
+      "url": "https://jobs.ashbyhq.com/openai/d039c0ef-ab36-4d40-bc5e-5c70295b2eb7"
+    },
+    {
       "company": "Catawiki",
       "id": "fea5b182a430248c",
       "location": "Portugal",
@@ -1616,24 +1638,6 @@
   ],
   "items": [
     {
-      "company": "OpenAI",
-      "id": "9a044bc636469a72",
-      "location": "Munich, Germany",
-      "posted_at": "2026-10-13T17:54:12.732000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Go To Market",
-        "Technical Success"
-      ],
-      "title": "Applied AI Engineer, Digital Natives",
-      "url": "https://jobs.ashbyhq.com/openai/d039c0ef-ab36-4d40-bc5e-5c70295b2eb7"
-    },
-    {
       "company": "Findev",
       "id": "6a4f318d173c2f58",
       "location": "Cyprus,  Poland,  Portugal,  Spain",
@@ -2322,9 +2326,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8273738"
     }
   ],
-  "last_posted_at": "2026-10-20T13:34:25.726574+00:00",
+  "last_posted_at": "2026-10-21T08:08:07.576443+00:00",
   "posted": {
-    "2026-10-06": 2,
     "2026-10-07": 2,
     "2026-10-08": 2,
     "2026-10-09": 2,
@@ -2338,6 +2341,7 @@
     "2026-10-17": 3,
     "2026-10-18": 3,
     "2026-10-19": 2,
-    "2026-10-20": 2
+    "2026-10-20": 2,
+    "2026-10-21": 1
   }
 }
