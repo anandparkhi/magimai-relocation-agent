@@ -1,6 +1,28 @@
 {
   "history": [
     {
+      "company": "OpenAI",
+      "id": "a681f3621e8fdb4e",
+      "location": "London, UK",
+      "posted_at": "2026-10-13T15:17:10.602000+00:00",
+      "published_at": "2026-10-22T08:08:11.513460+00:00",
+      "receipts": {
+        "telegram": "91"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Technical Success"
+      ],
+      "title": "AI Deployment Manager",
+      "url": "https://jobs.ashbyhq.com/openai/78a49da9-b768-427e-ad01-3e61d80cfea8"
+    },
+    {
       "company": "Findev",
       "id": "6a4f318d173c2f58",
       "location": "Cyprus,  Poland,  Portugal,  Spain",
@@ -1659,24 +1681,6 @@
   ],
   "items": [
     {
-      "company": "OpenAI",
-      "id": "a681f3621e8fdb4e",
-      "location": "London, UK",
-      "posted_at": "2026-10-13T15:17:10.602000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Go To Market",
-        "Technical Success"
-      ],
-      "title": "AI Deployment Manager",
-      "url": "https://jobs.ashbyhq.com/openai/78a49da9-b768-427e-ad01-3e61d80cfea8"
-    },
-    {
       "company": "Pinterest",
       "id": "7730f3b6bf2ce113",
       "location": "Singapore, SG",
@@ -2471,9 +2475,8 @@
       "url": "https://n26.com/en-eu/careers/positions/8249423?gh_jid=8249423"
     }
   ],
-  "last_posted_at": "2026-10-21T13:50:06.373157+00:00",
+  "last_posted_at": "2026-10-22T08:08:11.513460+00:00",
   "posted": {
-    "2026-10-07": 2,
     "2026-10-08": 2,
     "2026-10-09": 2,
     "2026-10-10": 2,
@@ -2487,6 +2490,7 @@
     "2026-10-18": 3,
     "2026-10-19": 2,
     "2026-10-20": 2,
-    "2026-10-21": 2
+    "2026-10-21": 2,
+    "2026-10-22": 1
   }
 }
