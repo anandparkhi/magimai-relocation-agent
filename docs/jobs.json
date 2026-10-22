@@ -1,41 +1,6 @@
 [
   {
     "company": "OpenAI",
-    "id": "9a044bc636469a72",
-    "location": "Munich, Germany",
-    "posted_at": "2026-10-13T17:54:12.732000+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Go To Market",
-      "Technical Success"
-    ],
-    "title": "Applied AI Engineer, Digital Natives",
-    "url": "https://jobs.ashbyhq.com/openai/d039c0ef-ab36-4d40-bc5e-5c70295b2eb7"
-  },
-  {
-    "company": "Findev",
-    "id": "6a4f318d173c2f58",
-    "location": "Cyprus,  Poland,  Portugal,  Spain",
-    "posted_at": "2026-10-13T15:49:04+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Software Engineering"
-    ],
-    "title": "Senior C++ Engineer",
-    "url": "https://jobicy.com/jobs/155221-senior-c-engineer"
-  },
-  {
-    "company": "OpenAI",
     "id": "a681f3621e8fdb4e",
     "location": "London, UK",
     "posted_at": "2026-10-13T15:17:10.602000+00:00",
@@ -627,45 +592,123 @@
     "url": "https://n26.com/en-eu/careers/positions/8300509?gh_jid=8300509"
   },
   {
-    "title": "Account Director, Digital Native Enterprise",
     "company": "OpenAI",
-    "url": "https://jobicy.com/jobs/153717-account-director-digital-native-enterprise",
+    "id": "57b6632d678b43ca",
     "location": "USA",
     "posted_at": "2026-10-21T03:10:27+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "Sales"
-    ],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "57b6632d678b43ca"
+    "source": "jobicy",
+    "tags": [
+      "Sales"
+    ],
+    "title": "Account Director, Digital Native Enterprise",
+    "url": "https://jobicy.com/jobs/153717-account-director-digital-native-enterprise"
   },
   {
-    "title": "Account Director, Digital Native Large Enterprise",
     "company": "OpenAI",
-    "url": "https://jobicy.com/jobs/153713-account-director-digital-native-large-enterprise",
+    "id": "53e440a3116e5d88",
     "location": "USA",
     "posted_at": "2026-10-21T03:10:18+00:00",
-    "source": "jobicy",
+    "regions": [
+      "remote_us"
+    ],
     "remote": true,
+    "signal": "Relocation assistance",
+    "source": "jobicy",
     "tags": [
       "Sales"
     ],
+    "title": "Account Director, Digital Native Large Enterprise",
+    "url": "https://jobicy.com/jobs/153713-account-director-digital-native-large-enterprise"
+  },
+  {
+    "company": "Pinterest",
+    "id": "5593695f81cd0660",
+    "location": "New York, NY, US; Remote, US",
+    "posted_at": "2026-10-20T19:15:42-04:00",
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "53e440a3116e5d88"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Integrated Marketing Lead, UCAN Programming & Industry",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268329"
   },
   {
-    "title": "Integrated Marketing Lead, UCAN Programming & Industry",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268329",
-    "location": "New York, NY, US; Remote, US",
-    "posted_at": "2026-10-20T19:15:42-04:00",
+    "id": "df82a1ea6bc82e58",
+    "location": "Stockholm, Sweden",
+    "posted_at": "2026-10-20T05:24:34-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Sr. Measurement Partner",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8226679"
+  },
+  {
+    "company": "Pinterest",
+    "id": "9f290488024e8fb7",
+    "location": "Amsterdam, Netherlands",
+    "posted_at": "2026-10-20T05:12:02-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Lead Client Partner, Travel",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8273738"
+  },
+  {
+    "title": "Lead Client Account Manager (Entertainment App) - Greater China Region",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8304896",
+    "location": "Singapore, SG",
+    "posted_at": "2026-10-22T02:58:11-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "singapore"
+    ],
+    "signal": "Relocation assistance",
+    "id": "b83ac0cba045c073"
+  },
+  {
+    "title": "Software Engineer, Privacy Engineering (Lawful Access)",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3",
+    "location": "London, UK",
+    "posted_at": "2026-10-21T23:06:51.805000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "Security",
+      "Security"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "fb7d199136768128"
+  },
+  {
+    "title": "Manager II, Engineering - Kubernetes Platform",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8139439",
+    "location": "San Francisco, CA, US; Remote, CA, US",
+    "posted_at": "2026-10-21T15:26:36-04:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
@@ -673,14 +716,32 @@
       "remote_us"
     ],
     "signal": "Relocation assistance",
-    "id": "5593695f81cd0660"
+    "id": "6b9ec36a0da8f873"
   },
   {
-    "title": "Sr. Measurement Partner",
+    "title": "Customer Success Manager - Ads Solutions (Dutch speaking)",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/0b80474f-6438-4b41-94e4-0e653c7e3457",
+    "location": "Dublin, Ireland",
+    "posted_at": "2026-10-21T17:37:19.503000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "Go To Market",
+      "Ads Solutions"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "b38e7b2ee1f120db"
+  },
+  {
+    "title": "Sr. Integrated Marketing Lead",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8226679",
-    "location": "Stockholm, Sweden",
-    "posted_at": "2026-10-20T05:24:34-04:00",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268346",
+    "location": "London, UK",
+    "posted_at": "2026-10-21T12:48:46-04:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
@@ -688,14 +749,44 @@
       "europe"
     ],
     "signal": "Relocation assistance",
-    "id": "df82a1ea6bc82e58"
+    "id": "04b67639546916c8"
   },
   {
-    "title": "Lead Client Partner, Travel",
+    "title": "Brand Marketing Manager",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8273738",
-    "location": "Amsterdam, Netherlands",
-    "posted_at": "2026-10-20T05:12:02-04:00",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8267923",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-10-21T12:12:20-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "15271044429c4ecf"
+  },
+  {
+    "title": "ICT GRC - Junior Associate",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8281297?gh_jid=8281297",
+    "location": "Berlin",
+    "posted_at": "2026-10-21T08:29:42-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "55ad74d592eab4bc"
+  },
+  {
+    "title": "Manager I, Revenue Operations",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8282903",
+    "location": "Dublin, Ireland",
+    "posted_at": "2026-10-21T07:13:43-04:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
@@ -703,7 +794,65 @@
       "europe"
     ],
     "signal": "Relocation assistance",
-    "id": "9f290488024e8fb7"
+    "id": "2b33b065ba664f05"
+  },
+  {
+    "title": "ICT Risk Assessment Manager",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8249423?gh_jid=8249423",
+    "location": "Berlin",
+    "posted_at": "2026-10-21T04:56:01-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "781d7a46b19d95a3"
+  },
+  {
+    "company": "Findev",
+    "id": "6a4f318d173c2f58",
+    "location": "Cyprus,  Poland,  Portugal,  Spain",
+    "posted_at": "2026-10-13T15:49:04+00:00",
+    "published_at": "2026-10-21T13:50:06.373157+00:00",
+    "receipts": {
+      "telegram": "90"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "jobicy",
+    "tags": [
+      "Software Engineering"
+    ],
+    "title": "Senior C++ Engineer",
+    "url": "https://jobicy.com/jobs/155221-senior-c-engineer"
+  },
+  {
+    "company": "OpenAI",
+    "id": "9a044bc636469a72",
+    "location": "Munich, Germany",
+    "posted_at": "2026-10-13T17:54:12.732000+00:00",
+    "published_at": "2026-10-21T08:08:07.576443+00:00",
+    "receipts": {
+      "telegram": "89"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
+    "tags": [
+      "Go To Market",
+      "Technical Success"
+    ],
+    "title": "Applied AI Engineer, Digital Natives",
+    "url": "https://jobs.ashbyhq.com/openai/d039c0ef-ab36-4d40-bc5e-5c70295b2eb7"
   },
   {
     "company": "Catawiki",
@@ -1676,43 +1825,5 @@
     "tags": [],
     "title": "Senior Financial Analyst",
     "url": "https://www.samsara.com/company/careers/roles/8223744?gh_jid=8223744"
-  },
-  {
-    "company": "N26",
-    "id": "c0a141c07ed61b12",
-    "location": "Berlin, Barcelona",
-    "posted_at": "2026-09-21T04:36:08-04:00",
-    "published_at": "2026-09-27T14:25:33.053176+00:00",
-    "receipts": {
-      "telegram": "40"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation support",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Product Designer - Grow & Engage",
-    "url": "https://n26.com/en-eu/careers/positions/8211088?gh_jid=8211088"
-  },
-  {
-    "company": "Samsara",
-    "id": "1cc38b4fd717a42a",
-    "location": "Remote - France",
-    "posted_at": "2026-09-21T05:06:21-04:00",
-    "published_at": "2026-09-27T08:44:05.155459+00:00",
-    "receipts": {
-      "telegram": "39"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Account Development Representative - France",
-    "url": "https://www.samsara.com/company/careers/roles/7618024?gh_jid=7618024"
   }
 ]
