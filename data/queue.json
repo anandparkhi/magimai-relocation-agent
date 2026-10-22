@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Pinterest",
+      "id": "7730f3b6bf2ce113",
+      "location": "Singapore, SG",
+      "posted_at": "2026-10-15T00:44:08-04:00",
+      "published_at": "2026-10-22T13:49:23.512850+00:00",
+      "receipts": {
+        "telegram": "92"
+      },
+      "regions": [
+        "singapore"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Lead Industry Manager",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8239002"
+    },
+    {
       "company": "OpenAI",
       "id": "a681f3621e8fdb4e",
       "location": "London, UK",
@@ -1681,21 +1700,6 @@
   ],
   "items": [
     {
-      "company": "Pinterest",
-      "id": "7730f3b6bf2ce113",
-      "location": "Singapore, SG",
-      "posted_at": "2026-10-15T00:44:08-04:00",
-      "regions": [
-        "singapore"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Lead Industry Manager",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8239002"
-    },
-    {
       "company": "Reka",
       "id": "d3501f1e9884ceae",
       "location": "UK",
@@ -2475,7 +2479,7 @@
       "url": "https://n26.com/en-eu/careers/positions/8249423?gh_jid=8249423"
     }
   ],
-  "last_posted_at": "2026-10-22T08:08:11.513460+00:00",
+  "last_posted_at": "2026-10-22T13:49:23.512850+00:00",
   "posted": {
     "2026-10-08": 2,
     "2026-10-09": 2,
@@ -2491,6 +2495,6 @@
     "2026-10-19": 2,
     "2026-10-20": 2,
     "2026-10-21": 2,
-    "2026-10-22": 1
+    "2026-10-22": 2
   }
 }
