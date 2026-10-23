@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Pinterest",
+      "id": "ae7422ce7d9f301b",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-10-14T17:19:57-04:00",
+      "published_at": "2026-10-23T13:28:47.930926+00:00",
+      "receipts": {
+        "telegram": "94"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Chief of Staff to GM, Ads",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7488432"
+    },
+    {
       "company": "Reka",
       "id": "d3501f1e9884ceae",
       "location": "UK",
@@ -1722,21 +1741,6 @@
   "items": [
     {
       "company": "Pinterest",
-      "id": "ae7422ce7d9f301b",
-      "location": "San Francisco, CA, US; Remote, US",
-      "posted_at": "2026-10-14T17:19:57-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Chief of Staff to GM, Ads",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7488432"
-    },
-    {
-      "company": "Pinterest",
       "id": "059386c843ecd63e",
       "location": "Palo Alto, CA, US; Seattle, WA, US; Remote, CA, US",
       "posted_at": "2026-10-14T16:59:43-04:00",
@@ -2654,7 +2658,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268344"
     }
   ],
-  "last_posted_at": "2026-10-23T08:06:27.677449+00:00",
+  "last_posted_at": "2026-10-23T13:28:47.930926+00:00",
   "posted": {
     "2026-10-09": 2,
     "2026-10-10": 2,
@@ -2670,6 +2674,6 @@
     "2026-10-20": 2,
     "2026-10-21": 2,
     "2026-10-22": 2,
-    "2026-10-23": 1
+    "2026-10-23": 2
   }
 }
