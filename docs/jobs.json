@@ -1,112 +1,5 @@
 [
   {
-    "company": "Reka",
-    "id": "d3501f1e9884ceae",
-    "location": "UK",
-    "posted_at": "2026-10-15T02:50:19+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "LLM: Explicit visa support mentioned for UK employees",
-    "source": "jobicy",
-    "tags": [
-      "Software Engineering"
-    ],
-    "title": "Member of Technical Staff (Robotics)",
-    "url": "https://jobicy.com/jobs/153241-member-of-technical-staff-robotics"
-  },
-  {
-    "company": "Pinterest",
-    "id": "ae7422ce7d9f301b",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-10-14T17:19:57-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Chief of Staff to GM, Ads",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7488432"
-  },
-  {
-    "company": "Pinterest",
-    "id": "059386c843ecd63e",
-    "location": "Palo Alto, CA, US; Seattle, WA, US; Remote, CA, US",
-    "posted_at": "2026-10-14T16:59:43-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. Product Manager, Ads Quality Delivery",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770970"
-  },
-  {
-    "company": "Pinterest",
-    "id": "2a6082b053616a2e",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-10-14T13:57:40-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Staff Machine Learning Engineer",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015543"
-  },
-  {
-    "company": "Pinterest",
-    "id": "27a9ba8fef1db10d",
-    "location": "Zurich, CH",
-    "posted_at": "2026-10-14T13:48:49-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "University Grad Machine Learning Engineer 2027 (Zurich)",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8267930"
-  },
-  {
-    "company": "Pinterest",
-    "id": "d2bc435b82a31019",
-    "location": "San Francisco, CA, US; Seattle, WA, US; Remote, CA, US",
-    "posted_at": "2026-10-14T12:33:59-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. Staff Product Manager, Adversarial Actors",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8145923"
-  },
-  {
-    "company": "N26",
-    "id": "60167450362145a3",
-    "location": "Barcelona",
-    "posted_at": "2026-10-14T09:35:13-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Treasury Trader",
-    "url": "https://n26.com/en-eu/careers/positions/8281301?gh_jid=8281301"
-  },
-  {
     "company": "Pinterest",
     "id": "ae64a15e94b5ca0b",
     "location": "San Francisco, CA; Remote, US",
@@ -779,71 +672,182 @@
     "url": "https://n26.com/en-eu/careers/positions/8249423?gh_jid=8249423"
   },
   {
-    "title": "AFCO Team Lead",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8305489?gh_jid=8305489",
+    "id": "a33f9f409b7ce3ac",
     "location": "Madrid",
     "posted_at": "2026-10-23T03:45:38-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "a33f9f409b7ce3ac"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "AFCO Team Lead",
+    "url": "https://n26.com/en-eu/careers/positions/8305489?gh_jid=8305489"
   },
   {
-    "title": "Backend Engineer",
     "company": "Catawiki",
-    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8305661",
+    "id": "ad0afe3d1ac1d534",
     "location": "Lisbon, Portugal",
     "posted_at": "2026-10-23T01:00:18-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Visa sponsorship",
-    "id": "ad0afe3d1ac1d534"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Backend Engineer",
+    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8305661"
   },
   {
-    "title": "Contract and Billing Specialist",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8282082?gh_jid=8282082",
+    "id": "c841f9e95dc30f7d",
     "location": "Remote - US",
     "posted_at": "2026-10-22T14:39:44-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "c841f9e95dc30f7d"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Contract and Billing Specialist",
+    "url": "https://www.samsara.com/company/careers/roles/8282082?gh_jid=8282082"
   },
   {
-    "title": "Product Policy Lead, Ads",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8287196",
+    "id": "9e782cfe6300add7",
     "location": "San Francisco, CA, US; Remote, US",
     "posted_at": "2026-10-22T14:28:26-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "9e782cfe6300add7"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Product Policy Lead, Ads",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8287196"
   },
   {
-    "title": "Brand Partnerships Lead",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268323",
+    "id": "15027df69bf8e8fd",
     "location": "San Francisco, CA, US; Remote, US",
     "posted_at": "2026-10-22T13:02:48-04:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Brand Partnerships Lead",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268323"
+  },
+  {
+    "company": "OpenAI",
+    "id": "36de8a9eb9093bc4",
+    "location": "Dublin, Ireland",
+    "posted_at": "2026-10-22T13:54:29.347000+00:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
+    "tags": [
+      "Go To Market",
+      "Account Associates"
+    ],
+    "title": "Enterprise Account Associate- EMEA (French Speaking)",
+    "url": "https://jobs.ashbyhq.com/openai/1eb6ef0f-0e51-46d3-b888-c1a4c22c190a"
+  },
+  {
+    "company": "OpenAI",
+    "id": "d99ed279c35527b0",
+    "location": "Dublin, Ireland",
+    "posted_at": "2026-10-22T13:52:31.947000+00:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
+    "tags": [
+      "Go To Market",
+      "Account Associates"
+    ],
+    "title": "Enterprise Account Associate - EMEA (German Speaking)",
+    "url": "https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8"
+  },
+  {
+    "company": "N26",
+    "id": "0e6756153a4dec08",
+    "location": "Berlin",
+    "posted_at": "2026-10-22T06:07:20-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Treasury Trader",
+    "url": "https://n26.com/en-eu/careers/positions/8312214?gh_jid=8312214"
+  },
+  {
+    "company": "N26",
+    "id": "5ef9ce49d2477779",
+    "location": "Berlin",
+    "posted_at": "2026-10-22T05:39:34-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Associate Corporate Finance",
+    "url": "https://n26.com/en-eu/careers/positions/8167305?gh_jid=8167305"
+  },
+  {
+    "company": "Pinterest",
+    "id": "7eec28511a346ec8",
+    "location": "London, UK",
+    "posted_at": "2026-10-22T04:52:58-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Lead Art Director",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268340"
+  },
+  {
+    "company": "Pinterest",
+    "id": "bde8a581858dba29",
+    "location": "London, UK",
+    "posted_at": "2026-10-22T04:52:33-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Lead Copywriter",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268344"
+  },
+  {
+    "title": "Sr. Manager, Payroll",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8311529",
+    "location": "Remote, US",
+    "posted_at": "2026-10-23T19:17:00-04:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
@@ -851,50 +855,59 @@
       "remote_us"
     ],
     "signal": "Relocation assistance",
-    "id": "15027df69bf8e8fd"
+    "id": "ba3817fa909fb935"
   },
   {
-    "title": "Enterprise Account Associate- EMEA (French Speaking)",
-    "company": "OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/1eb6ef0f-0e51-46d3-b888-c1a4c22c190a",
-    "location": "Dublin, Ireland",
-    "posted_at": "2026-10-22T13:54:29.347000+00:00",
-    "source": "ats:ashby",
+    "title": "Retail Transformation Lead",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8287192",
+    "location": "Remote, US",
+    "posted_at": "2026-10-23T18:25:45-04:00",
+    "source": "ats:greenhouse",
     "remote": true,
-    "tags": [
-      "Go To Market",
-      "Account Associates"
-    ],
+    "tags": [],
     "regions": [
-      "europe"
+      "remote_us"
     ],
     "signal": "Relocation assistance",
-    "id": "36de8a9eb9093bc4"
+    "id": "10dd85e8cb280573"
   },
   {
-    "title": "Enterprise Account Associate - EMEA (German Speaking)",
-    "company": "OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8",
-    "location": "Dublin, Ireland",
-    "posted_at": "2026-10-22T13:52:31.947000+00:00",
-    "source": "ats:ashby",
+    "title": "Integrated Marketing Lead, Global Programming & Industry",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268348",
+    "location": "New York, NY, US; Remote, US",
+    "posted_at": "2026-10-23T14:34:13-04:00",
+    "source": "ats:greenhouse",
     "remote": true,
-    "tags": [
-      "Go To Market",
-      "Account Associates"
-    ],
+    "tags": [],
     "regions": [
-      "europe"
+      "remote_us"
     ],
     "signal": "Relocation assistance",
-    "id": "d99ed279c35527b0"
+    "id": "ad4fcd78b33fd22b"
   },
   {
-    "title": "Treasury Trader",
+    "title": "Sr. Lead Counsel, Privacy",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8300884",
+    "location": "Remote, US",
+    "posted_at": "2026-10-23T12:32:42-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "bf5435410c32303d"
+  },
+  {
+    "title": "Senior Site Reliability Engineer - Infrastructure",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8312214?gh_jid=8312214",
-    "location": "Berlin",
-    "posted_at": "2026-10-22T06:07:20-04:00",
+    "url": "https://n26.com/en-eu/careers/positions/8219953?gh_jid=8219953",
+    "location": "Berlin, Barcelona",
+    "posted_at": "2026-10-23T12:06:57-04:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
@@ -902,52 +915,92 @@
       "europe"
     ],
     "signal": "Relocation package",
-    "id": "0e6756153a4dec08"
+    "id": "11668adf91fa8205"
   },
   {
-    "title": "Senior Associate Corporate Finance",
-    "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8167305?gh_jid=8167305",
-    "location": "Berlin",
-    "posted_at": "2026-10-22T05:39:34-04:00",
+    "title": "Lead Product Manager, Growth",
+    "company": "Monzo",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/8317753",
+    "location": "London",
+    "posted_at": "2026-10-23T07:28:17-04:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
     "regions": [
       "europe"
     ],
-    "signal": "Relocation package",
-    "id": "5ef9ce49d2477779"
+    "signal": "Sponsor your visa",
+    "id": "67f19823906f37a3"
   },
   {
-    "title": "Lead Art Director",
+    "title": "Product Manager, Finance",
+    "company": "Monzo",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/8212919",
+    "location": "London",
+    "posted_at": "2026-10-23T06:32:23-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Sponsor your visa",
+    "id": "1afc4a4063861b6e"
+  },
+  {
+    "title": "Senior Product Manager, Web Growth",
+    "company": "Monzo",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/8312078",
+    "location": "London",
+    "posted_at": "2026-10-23T05:30:03-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Sponsor your visa",
+    "id": "96e713f8f5c1c939"
+  },
+  {
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268340",
-    "location": "London, UK",
-    "posted_at": "2026-10-22T04:52:58-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
+    "id": "ae7422ce7d9f301b",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-10-14T17:19:57-04:00",
+    "published_at": "2026-10-23T13:28:47.930926+00:00",
+    "receipts": {
+      "telegram": "94"
+    },
     "regions": [
-      "europe"
+      "remote_us"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "7eec28511a346ec8"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Chief of Staff to GM, Ads",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7488432"
   },
   {
-    "title": "Lead Copywriter",
-    "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268344",
-    "location": "London, UK",
-    "posted_at": "2026-10-22T04:52:33-04:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
+    "company": "Reka",
+    "id": "d3501f1e9884ceae",
+    "location": "UK",
+    "posted_at": "2026-10-15T02:50:19+00:00",
+    "published_at": "2026-10-23T08:06:27.677449+00:00",
+    "receipts": {
+      "telegram": "93"
+    },
     "regions": [
       "europe"
     ],
-    "signal": "Relocation assistance",
-    "id": "bde8a581858dba29"
+    "remote": true,
+    "signal": "LLM: Explicit visa support mentioned for UK employees",
+    "source": "jobicy",
+    "tags": [
+      "Software Engineering"
+    ],
+    "title": "Member of Technical Staff (Robotics)",
+    "url": "https://jobicy.com/jobs/153241-member-of-technical-staff-robotics"
   },
   {
     "company": "Pinterest",
@@ -1928,43 +1981,5 @@
     "tags": [],
     "title": "Senior Software Engineer II",
     "url": "https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949"
-  },
-  {
-    "company": "N26",
-    "id": "d565151ee9025842",
-    "location": "Madrid",
-    "posted_at": "2026-09-23T08:57:08-04:00",
-    "published_at": "2026-09-29T15:58:39.304644+00:00",
-    "receipts": {
-      "telegram": "44"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "KYB  Specialist",
-    "url": "https://n26.com/en-eu/careers/positions/8225982?gh_jid=8225982"
-  },
-  {
-    "company": "N26",
-    "id": "4b27b1ceaae2b111",
-    "location": "Barcelona",
-    "posted_at": "2026-09-23T09:41:15-04:00",
-    "published_at": "2026-09-29T09:18:38.709035+00:00",
-    "receipts": {
-      "telegram": "43"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Site Reliability Engineer",
-    "url": "https://n26.com/en-eu/careers/positions/8222839?gh_jid=8222839"
   }
 ]

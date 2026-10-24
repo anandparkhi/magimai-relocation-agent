@@ -1741,81 +1741,6 @@
   "items": [
     {
       "company": "Pinterest",
-      "id": "059386c843ecd63e",
-      "location": "Palo Alto, CA, US; Seattle, WA, US; Remote, CA, US",
-      "posted_at": "2026-10-14T16:59:43-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Sr. Product Manager, Ads Quality Delivery",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770970"
-    },
-    {
-      "company": "Pinterest",
-      "id": "2a6082b053616a2e",
-      "location": "San Francisco, CA, US; Remote, US",
-      "posted_at": "2026-10-14T13:57:40-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Staff Machine Learning Engineer",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015543"
-    },
-    {
-      "company": "Pinterest",
-      "id": "27a9ba8fef1db10d",
-      "location": "Zurich, CH",
-      "posted_at": "2026-10-14T13:48:49-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "University Grad Machine Learning Engineer 2027 (Zurich)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8267930"
-    },
-    {
-      "company": "Pinterest",
-      "id": "d2bc435b82a31019",
-      "location": "San Francisco, CA, US; Seattle, WA, US; Remote, CA, US",
-      "posted_at": "2026-10-14T12:33:59-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Sr. Staff Product Manager, Adversarial Actors",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8145923"
-    },
-    {
-      "company": "N26",
-      "id": "60167450362145a3",
-      "location": "Barcelona",
-      "posted_at": "2026-10-14T09:35:13-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Treasury Trader",
-      "url": "https://n26.com/en-eu/careers/positions/8281301?gh_jid=8281301"
-    },
-    {
-      "company": "Pinterest",
       "id": "ae64a15e94b5ca0b",
       "location": "San Francisco, CA; Remote, US",
       "posted_at": "2026-10-15T15:58:30-04:00",
@@ -2656,6 +2581,126 @@
       "tags": [],
       "title": "Lead Copywriter",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268344"
+    },
+    {
+      "company": "Pinterest",
+      "id": "ba3817fa909fb935",
+      "location": "Remote, US",
+      "posted_at": "2026-10-23T19:17:00-04:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Manager, Payroll",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8311529"
+    },
+    {
+      "company": "Pinterest",
+      "id": "10dd85e8cb280573",
+      "location": "Remote, US",
+      "posted_at": "2026-10-23T18:25:45-04:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Retail Transformation Lead",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8287192"
+    },
+    {
+      "company": "Pinterest",
+      "id": "ad4fcd78b33fd22b",
+      "location": "New York, NY, US; Remote, US",
+      "posted_at": "2026-10-23T14:34:13-04:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Integrated Marketing Lead, Global Programming & Industry",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268348"
+    },
+    {
+      "company": "Pinterest",
+      "id": "bf5435410c32303d",
+      "location": "Remote, US",
+      "posted_at": "2026-10-23T12:32:42-04:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Lead Counsel, Privacy",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8300884"
+    },
+    {
+      "company": "N26",
+      "id": "11668adf91fa8205",
+      "location": "Berlin, Barcelona",
+      "posted_at": "2026-10-23T12:06:57-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Site Reliability Engineer - Infrastructure",
+      "url": "https://n26.com/en-eu/careers/positions/8219953?gh_jid=8219953"
+    },
+    {
+      "company": "Monzo",
+      "id": "67f19823906f37a3",
+      "location": "London",
+      "posted_at": "2026-10-23T07:28:17-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Sponsor your visa",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Lead Product Manager, Growth",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8317753"
+    },
+    {
+      "company": "Monzo",
+      "id": "1afc4a4063861b6e",
+      "location": "London",
+      "posted_at": "2026-10-23T06:32:23-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Sponsor your visa",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Product Manager, Finance",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8212919"
+    },
+    {
+      "company": "Monzo",
+      "id": "96e713f8f5c1c939",
+      "location": "London",
+      "posted_at": "2026-10-23T05:30:03-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Sponsor your visa",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Product Manager, Web Growth",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8312078"
     }
   ],
   "last_posted_at": "2026-10-23T13:28:47.930926+00:00",
