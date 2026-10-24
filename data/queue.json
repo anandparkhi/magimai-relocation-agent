@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "Pinterest",
+      "id": "ae64a15e94b5ca0b",
+      "location": "San Francisco, CA; Remote, US",
+      "posted_at": "2026-10-15T15:58:30-04:00",
+      "published_at": "2026-10-24T07:45:49.849262+00:00",
+      "receipts": {
+        "telegram": "95"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Lead Counsel, Labor & Employment",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8234110"
+    },
+    {
+      "company": "Pinterest",
       "id": "ae7422ce7d9f301b",
       "location": "San Francisco, CA, US; Remote, US",
       "posted_at": "2026-10-14T17:19:57-04:00",
@@ -1741,21 +1760,6 @@
   "items": [
     {
       "company": "Pinterest",
-      "id": "ae64a15e94b5ca0b",
-      "location": "San Francisco, CA; Remote, US",
-      "posted_at": "2026-10-15T15:58:30-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Sr. Lead Counsel, Labor & Employment",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8234110"
-    },
-    {
-      "company": "Pinterest",
       "id": "da80ff50dbed6d54",
       "location": "Amsterdam, NL",
       "posted_at": "2026-10-15T13:10:09-04:00",
@@ -2703,9 +2707,8 @@
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8312078"
     }
   ],
-  "last_posted_at": "2026-10-23T13:28:47.930926+00:00",
+  "last_posted_at": "2026-10-24T07:45:49.849262+00:00",
   "posted": {
-    "2026-10-09": 2,
     "2026-10-10": 2,
     "2026-10-11": 2,
     "2026-10-12": 2,
@@ -2719,6 +2722,7 @@
     "2026-10-20": 2,
     "2026-10-21": 2,
     "2026-10-22": 2,
-    "2026-10-23": 2
+    "2026-10-23": 2,
+    "2026-10-24": 1
   }
 }
