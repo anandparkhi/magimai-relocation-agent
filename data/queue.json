@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Monzo",
+      "id": "6a1afb978e0f9206",
+      "location": "UK",
+      "posted_at": "2026-10-17T03:05:05+00:00",
+      "published_at": "2026-10-25T07:56:24.063781+00:00",
+      "receipts": {
+        "telegram": "98"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Sponsor visa",
+      "source": "jobicy",
+      "tags": [
+        "Finance & Accounting"
+      ],
+      "title": "Credit Risk Manager, Portfolio Management",
+      "url": "https://jobicy.com/jobs/145953-credit-risk-manager-portfolio-management"
+    },
+    {
       "company": "Pinterest",
       "id": "581cee9156927262",
       "location": "New York, NY, US; Remote, US",
@@ -1797,23 +1818,6 @@
   ],
   "items": [
     {
-      "company": "Monzo",
-      "id": "6a1afb978e0f9206",
-      "location": "UK",
-      "posted_at": "2026-10-17T03:05:05+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Sponsor visa",
-      "source": "jobicy",
-      "tags": [
-        "Finance & Accounting"
-      ],
-      "title": "Credit Risk Manager, Portfolio Management",
-      "url": "https://jobicy.com/jobs/145953-credit-risk-manager-portfolio-management"
-    },
-    {
       "company": "Affirm",
       "id": "3328d9e594dc81e2",
       "location": "Remote Spain",
@@ -2730,9 +2734,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268336"
     }
   ],
-  "last_posted_at": "2026-10-24T16:12:37.225409+00:00",
+  "last_posted_at": "2026-10-25T07:56:24.063781+00:00",
   "posted": {
-    "2026-10-10": 2,
     "2026-10-11": 2,
     "2026-10-12": 2,
     "2026-10-13": 2,
@@ -2746,6 +2749,7 @@
     "2026-10-21": 2,
     "2026-10-22": 2,
     "2026-10-23": 2,
-    "2026-10-24": 3
+    "2026-10-24": 3,
+    "2026-10-25": 1
   }
 }
