@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Affirm",
+      "id": "3328d9e594dc81e2",
+      "location": "Remote Spain",
+      "posted_at": "2026-10-16T10:21:57-04:00",
+      "published_at": "2026-10-25T12:54:07.622487+00:00",
+      "receipts": {
+        "telegram": "99"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Software Engineer II, Backend (Card)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003"
+    },
+    {
       "company": "Monzo",
       "id": "6a1afb978e0f9206",
       "location": "UK",
@@ -1818,21 +1837,6 @@
   ],
   "items": [
     {
-      "company": "Affirm",
-      "id": "3328d9e594dc81e2",
-      "location": "Remote Spain",
-      "posted_at": "2026-10-16T10:21:57-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Software Engineer II, Backend (Card)",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003"
-    },
-    {
       "company": "Monzo",
       "id": "050b790ae2d2d196",
       "location": "UK",
@@ -2734,7 +2738,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268336"
     }
   ],
-  "last_posted_at": "2026-10-25T07:56:24.063781+00:00",
+  "last_posted_at": "2026-10-25T12:54:07.622487+00:00",
   "posted": {
     "2026-10-11": 2,
     "2026-10-12": 2,
@@ -2750,6 +2754,6 @@
     "2026-10-22": 2,
     "2026-10-23": 2,
     "2026-10-24": 3,
-    "2026-10-25": 1
+    "2026-10-25": 2
   }
 }
