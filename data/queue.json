@@ -1931,21 +1931,6 @@
       "url": "https://jobicy.com/jobs/155583-data-director-payments"
     },
     {
-      "company": "Catawiki",
-      "id": "24a3dee81ac1d25d",
-      "location": "Amsterdam, Netherlands",
-      "posted_at": "2026-10-15T05:52:32-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Product Manager - Search & Ranking",
-      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8284718"
-    },
-    {
       "company": "Pinterest",
       "id": "34b9a90479f2b7a5",
       "location": "Singapore",
@@ -2713,6 +2698,36 @@
       "tags": [],
       "title": "Senior Product Manager, Web Growth",
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8312078"
+    },
+    {
+      "company": "Pinterest",
+      "id": "78b2bb28076fb578",
+      "location": "Remote, US",
+      "posted_at": "2026-10-24T09:44:26-04:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Strategic Sourcing Specialist II",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8282844"
+    },
+    {
+      "company": "Pinterest",
+      "id": "ef5d6272692d8f66",
+      "location": "Remote, US",
+      "posted_at": "2026-10-24T09:44:09-04:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Designer",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268336"
     }
   ],
   "last_posted_at": "2026-10-24T16:12:37.225409+00:00",
