@@ -268,6 +268,17 @@
     },
     {
       "ats": "greenhouse",
+      "ats_token": "happymoney",
+      "careers_url": null,
+      "name": "Happy Money",
+      "regions": [
+        "remote_us"
+      ],
+      "source": "observed",
+      "verified_by": []
+    },
+    {
+      "ats": "greenhouse",
       "ats_token": "monzo",
       "careers_url": null,
       "name": "Monzo",
@@ -289,6 +300,20 @@
       ],
       "source": "observed",
       "verified_by": []
+    },
+    {
+      "ats": "greenhouse",
+      "ats_token": "phaidra",
+      "careers_url": null,
+      "name": "Phaidra",
+      "regions": [
+        "canada",
+        "remote_us"
+      ],
+      "source": "observed",
+      "verified_by": [
+        "uk_sponsor_register"
+      ]
     },
     {
       "ats": "greenhouse",
@@ -347,6 +372,7 @@
       "careers_url": null,
       "name": "Roboflow",
       "regions": [
+        "europe",
         "remote_us"
       ],
       "source": "observed",
@@ -399,5 +425,5 @@
       "verified_by": []
     }
   ],
-  "refreshed_at": "2026-10-18T05:18:27.959768+00:00"
+  "refreshed_at": "2026-10-25T05:33:57.279389+00:00"
 }
