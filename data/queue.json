@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Monzo",
+      "id": "050b790ae2d2d196",
+      "location": "UK",
+      "posted_at": "2026-10-17T08:33:08+00:00",
+      "published_at": "2026-10-26T08:18:07.140423+00:00",
+      "receipts": {
+        "telegram": "100"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Sponsor your visa",
+      "source": "jobicy",
+      "tags": [
+        "Web, UI & UX Design"
+      ],
+      "title": "Director of Product Design",
+      "url": "https://jobicy.com/jobs/155586-director-of-product-design-2"
+    },
+    {
       "company": "Affirm",
       "id": "3328d9e594dc81e2",
       "location": "Remote Spain",
@@ -1838,23 +1859,6 @@
   "items": [
     {
       "company": "Monzo",
-      "id": "050b790ae2d2d196",
-      "location": "UK",
-      "posted_at": "2026-10-17T08:33:08+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Sponsor your visa",
-      "source": "jobicy",
-      "tags": [
-        "Web, UI & UX Design"
-      ],
-      "title": "Director of Product Design",
-      "url": "https://jobicy.com/jobs/155586-director-of-product-design-2"
-    },
-    {
-      "company": "Monzo",
       "id": "f89e8d0c9b75204b",
       "location": "UK",
       "posted_at": "2026-10-17T08:33:07+00:00",
@@ -2773,9 +2777,8 @@
       "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager"
     }
   ],
-  "last_posted_at": "2026-10-25T12:54:07.622487+00:00",
+  "last_posted_at": "2026-10-26T08:18:07.140423+00:00",
   "posted": {
-    "2026-10-11": 2,
     "2026-10-12": 2,
     "2026-10-13": 2,
     "2026-10-14": 2,
@@ -2789,6 +2792,7 @@
     "2026-10-22": 2,
     "2026-10-23": 2,
     "2026-10-24": 3,
-    "2026-10-25": 2
+    "2026-10-25": 2,
+    "2026-10-26": 1
   }
 }
