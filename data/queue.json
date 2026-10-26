@@ -2,6 +2,27 @@
   "history": [
     {
       "company": "Monzo",
+      "id": "f89e8d0c9b75204b",
+      "location": "UK",
+      "posted_at": "2026-10-17T08:33:07+00:00",
+      "published_at": "2026-10-26T15:16:02.123878+00:00",
+      "receipts": {
+        "telegram": "101"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Sponsor visa",
+      "source": "jobicy",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Engineering Director, EU",
+      "url": "https://jobicy.com/jobs/155587-engineering-director-eu"
+    },
+    {
+      "company": "Monzo",
       "id": "050b790ae2d2d196",
       "location": "UK",
       "posted_at": "2026-10-17T08:33:08+00:00",
@@ -1859,23 +1880,6 @@
   "items": [
     {
       "company": "Monzo",
-      "id": "f89e8d0c9b75204b",
-      "location": "UK",
-      "posted_at": "2026-10-17T08:33:07+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Sponsor visa",
-      "source": "jobicy",
-      "tags": [
-        "Software Engineering"
-      ],
-      "title": "Engineering Director, EU",
-      "url": "https://jobicy.com/jobs/155587-engineering-director-eu"
-    },
-    {
-      "company": "Monzo",
       "id": "962236b5eaca8fb3",
       "location": "Spain,  UK",
       "posted_at": "2026-10-17T08:33:07+00:00",
@@ -2777,7 +2781,7 @@
       "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager"
     }
   ],
-  "last_posted_at": "2026-10-26T08:18:07.140423+00:00",
+  "last_posted_at": "2026-10-26T15:16:02.123878+00:00",
   "posted": {
     "2026-10-12": 2,
     "2026-10-13": 2,
@@ -2793,6 +2797,6 @@
     "2026-10-23": 2,
     "2026-10-24": 3,
     "2026-10-25": 2,
-    "2026-10-26": 1
+    "2026-10-26": 2
   }
 }
