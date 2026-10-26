@@ -2736,6 +2736,41 @@
       "tags": [],
       "title": "Designer",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268336"
+    },
+    {
+      "company": "OpenAI",
+      "id": "df0488ff4843a66b",
+      "location": "Munich, Germany",
+      "posted_at": "2026-10-26T06:03:15.904000+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "OpenAI for Gov",
+        "OpenAI for Gov"
+      ],
+      "title": "Applied AI Architect, OpenAI for Government",
+      "url": "https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b"
+    },
+    {
+      "company": "YipitData",
+      "id": "f1e8cc657d6bb4c4",
+      "location": "USA",
+      "posted_at": "2026-10-26T04:06:58+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Senior Data Engineering Manager",
+      "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager"
     }
   ],
   "last_posted_at": "2026-10-25T12:54:07.622487+00:00",

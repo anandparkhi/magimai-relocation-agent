@@ -1,38 +1,6 @@
 [
   {
     "company": "Monzo",
-    "id": "6a1afb978e0f9206",
-    "location": "UK",
-    "posted_at": "2026-10-17T03:05:05+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Sponsor visa",
-    "source": "jobicy",
-    "tags": [
-      "Finance & Accounting"
-    ],
-    "title": "Credit Risk Manager, Portfolio Management",
-    "url": "https://jobicy.com/jobs/145953-credit-risk-manager-portfolio-management"
-  },
-  {
-    "company": "Affirm",
-    "id": "3328d9e594dc81e2",
-    "location": "Remote Spain",
-    "posted_at": "2026-10-16T10:21:57-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Software Engineer II, Backend (Card)",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003"
-  },
-  {
-    "company": "Monzo",
     "id": "050b790ae2d2d196",
     "location": "UK",
     "posted_at": "2026-10-17T08:33:08+00:00",
@@ -903,34 +871,109 @@
     "url": "https://job-boards.greenhouse.io/monzo/jobs/8312078"
   },
   {
-    "title": "Strategic Sourcing Specialist II",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8282844",
+    "id": "78b2bb28076fb578",
     "location": "Remote, US",
     "posted_at": "2026-10-24T09:44:26-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "78b2bb28076fb578"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Strategic Sourcing Specialist II",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8282844"
   },
   {
-    "title": "Designer",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268336",
+    "id": "ef5d6272692d8f66",
     "location": "Remote, US",
     "posted_at": "2026-10-24T09:44:09-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "ef5d6272692d8f66"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Designer",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268336"
+  },
+  {
+    "title": "Applied AI Architect, OpenAI for Government",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b",
+    "location": "Munich, Germany",
+    "posted_at": "2026-10-26T06:03:15.904000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "OpenAI for Gov",
+      "OpenAI for Gov"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "df0488ff4843a66b"
+  },
+  {
+    "title": "Senior Data Engineering Manager",
+    "company": "YipitData",
+    "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager",
+    "location": "USA",
+    "posted_at": "2026-10-26T04:06:58+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Software Engineering"
+    ],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "f1e8cc657d6bb4c4"
+  },
+  {
+    "company": "Affirm",
+    "id": "3328d9e594dc81e2",
+    "location": "Remote Spain",
+    "posted_at": "2026-10-16T10:21:57-04:00",
+    "published_at": "2026-10-25T12:54:07.622487+00:00",
+    "receipts": {
+      "telegram": "99"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Software Engineer II, Backend (Card)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003"
+  },
+  {
+    "company": "Monzo",
+    "id": "6a1afb978e0f9206",
+    "location": "UK",
+    "posted_at": "2026-10-17T03:05:05+00:00",
+    "published_at": "2026-10-25T07:56:24.063781+00:00",
+    "receipts": {
+      "telegram": "98"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Sponsor visa",
+    "source": "jobicy",
+    "tags": [
+      "Finance & Accounting"
+    ],
+    "title": "Credit Risk Manager, Portfolio Management",
+    "url": "https://jobicy.com/jobs/145953-credit-risk-manager-portfolio-management"
   },
   {
     "company": "Pinterest",
@@ -1902,49 +1945,5 @@
     ],
     "title": "Global Account Director, International Organisations, ME & LATAM",
     "url": "https://jobs.ashbyhq.com/openai/9745f423-9048-48c0-8c57-639611b04abc"
-  },
-  {
-    "company": "OpenAI",
-    "id": "d2e9fa710be7f8c4",
-    "location": "Dublin, Ireland",
-    "posted_at": "2026-09-24T19:15:10.646000+00:00",
-    "published_at": "2026-10-02T09:10:40.839333+00:00",
-    "receipts": {
-      "telegram": "49"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Go To Market",
-      "Account Associates"
-    ],
-    "title": "Account Associate - EMEA",
-    "url": "https://jobs.ashbyhq.com/openai/d29b455a-9fee-4610-8e08-ce6a9ea8a37e"
-  },
-  {
-    "company": "OpenAI",
-    "id": "ee246d2b51710cf7",
-    "location": "Dublin, Ireland",
-    "posted_at": "2026-09-25T13:44:09.672000+00:00",
-    "published_at": "2026-10-01T16:41:00.130737+00:00",
-    "receipts": {
-      "telegram": "48"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Go To Market",
-      "Ads Solutions"
-    ],
-    "title": "Client Partner, Ads Solutions (Spanish Speaking)",
-    "url": "https://jobs.ashbyhq.com/openai/bb1c9e6f-892e-434b-9f02-fcf6a238bc1c"
   }
 ]
