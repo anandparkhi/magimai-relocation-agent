@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Pinterest",
+      "id": "34b9a90479f2b7a5",
+      "location": "Singapore",
+      "posted_at": "2026-10-19T03:44:09-04:00",
+      "published_at": "2026-10-27T08:30:26.454281+00:00",
+      "receipts": {
+        "telegram": "102"
+      },
+      "regions": [
+        "singapore"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Client Account Manager (eCommerce) - Greater China Region",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8300202"
+    },
+    {
       "company": "Monzo",
       "id": "f89e8d0c9b75204b",
       "location": "UK",
@@ -1879,21 +1898,6 @@
   ],
   "items": [
     {
-      "company": "Pinterest",
-      "id": "34b9a90479f2b7a5",
-      "location": "Singapore",
-      "posted_at": "2026-10-19T03:44:09-04:00",
-      "regions": [
-        "singapore"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Client Account Manager (eCommerce) - Greater China Region",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8300202"
-    },
-    {
       "company": "Affirm",
       "id": "57b18272732f7eb8",
       "location": "Remote Spain",
@@ -2728,9 +2732,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8240355"
     }
   ],
-  "last_posted_at": "2026-10-26T15:16:02.123878+00:00",
+  "last_posted_at": "2026-10-27T08:30:26.454281+00:00",
   "posted": {
-    "2026-10-12": 2,
     "2026-10-13": 2,
     "2026-10-14": 2,
     "2026-10-15": 2,
@@ -2744,6 +2747,7 @@
     "2026-10-23": 2,
     "2026-10-24": 3,
     "2026-10-25": 2,
-    "2026-10-26": 2
+    "2026-10-26": 2,
+    "2026-10-27": 1
   }
 }
