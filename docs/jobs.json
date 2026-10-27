@@ -1,107 +1,5 @@
 [
   {
-    "company": "Monzo",
-    "id": "050b790ae2d2d196",
-    "location": "UK",
-    "posted_at": "2026-10-17T08:33:08+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Sponsor your visa",
-    "source": "jobicy",
-    "tags": [
-      "Web, UI & UX Design"
-    ],
-    "title": "Director of Product Design",
-    "url": "https://jobicy.com/jobs/155586-director-of-product-design-2"
-  },
-  {
-    "company": "Monzo",
-    "id": "f89e8d0c9b75204b",
-    "location": "UK",
-    "posted_at": "2026-10-17T08:33:07+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Sponsor visa",
-    "source": "jobicy",
-    "tags": [
-      "Software Engineering"
-    ],
-    "title": "Engineering Director, EU",
-    "url": "https://jobicy.com/jobs/155587-engineering-director-eu"
-  },
-  {
-    "company": "Monzo",
-    "id": "962236b5eaca8fb3",
-    "location": "Spain,  UK",
-    "posted_at": "2026-10-17T08:33:07+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Data Science & Analytics"
-    ],
-    "title": "Data Director, EU",
-    "url": "https://jobicy.com/jobs/155581-data-director-eu"
-  },
-  {
-    "company": "Monzo",
-    "id": "5b16a47147edc33a",
-    "location": "UK",
-    "posted_at": "2026-10-17T08:33:06+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Sponsor visa",
-    "source": "jobicy",
-    "tags": [
-      "Data Science & Analytics"
-    ],
-    "title": "Data Science Manager, Financial Crime",
-    "url": "https://jobicy.com/jobs/155585-data-science-manager-financial-crime"
-  },
-  {
-    "company": "Monzo",
-    "id": "74f76058300e14c4",
-    "location": "UK",
-    "posted_at": "2026-10-17T08:33:06+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Sponsor visa",
-    "source": "jobicy",
-    "tags": [
-      "Data Science & Analytics"
-    ],
-    "title": "Data Science Manager",
-    "url": "https://jobicy.com/jobs/155584-data-science-manager-2"
-  },
-  {
-    "company": "Monzo",
-    "id": "f1d75c1ebc821686",
-    "location": "UK",
-    "posted_at": "2026-10-17T08:33:06+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Sponsor visa",
-    "source": "jobicy",
-    "tags": [
-      "Data Science & Analytics"
-    ],
-    "title": "Data Director, Payments",
-    "url": "https://jobicy.com/jobs/155583-data-director-payments"
-  },
-  {
     "company": "Pinterest",
     "id": "34b9a90479f2b7a5",
     "location": "Singapore",
@@ -901,39 +799,96 @@
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268336"
   },
   {
-    "title": "Applied AI Architect, OpenAI for Government",
     "company": "OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b",
+    "id": "df0488ff4843a66b",
     "location": "Munich, Germany",
     "posted_at": "2026-10-26T06:03:15.904000+00:00",
-    "source": "ats:ashby",
+    "regions": [
+      "europe"
+    ],
     "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
     "tags": [
       "OpenAI for Gov",
       "OpenAI for Gov"
     ],
-    "regions": [
-      "europe"
-    ],
-    "signal": "Relocation assistance",
-    "id": "df0488ff4843a66b"
+    "title": "Applied AI Architect, OpenAI for Government",
+    "url": "https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b"
   },
   {
-    "title": "Senior Data Engineering Manager",
     "company": "YipitData",
-    "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager",
+    "id": "f1e8cc657d6bb4c4",
     "location": "USA",
     "posted_at": "2026-10-26T04:06:58+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "Software Engineering"
-    ],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Visa sponsorship",
-    "id": "f1e8cc657d6bb4c4"
+    "source": "jobicy",
+    "tags": [
+      "Software Engineering"
+    ],
+    "title": "Senior Data Engineering Manager",
+    "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager"
+  },
+  {
+    "title": "Staff Machine Learning Engineer",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8240355",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-10-26T15:44:30-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "e76681072a2c3dce"
+  },
+  {
+    "company": "Monzo",
+    "id": "f89e8d0c9b75204b",
+    "location": "UK",
+    "posted_at": "2026-10-17T08:33:07+00:00",
+    "published_at": "2026-10-26T15:16:02.123878+00:00",
+    "receipts": {
+      "telegram": "101"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Sponsor visa",
+    "source": "jobicy",
+    "tags": [
+      "Software Engineering"
+    ],
+    "title": "Engineering Director, EU",
+    "url": "https://jobicy.com/jobs/155587-engineering-director-eu"
+  },
+  {
+    "company": "Monzo",
+    "id": "050b790ae2d2d196",
+    "location": "UK",
+    "posted_at": "2026-10-17T08:33:08+00:00",
+    "published_at": "2026-10-26T08:18:07.140423+00:00",
+    "receipts": {
+      "telegram": "100"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Sponsor your visa",
+    "source": "jobicy",
+    "tags": [
+      "Web, UI & UX Design"
+    ],
+    "title": "Director of Product Design",
+    "url": "https://jobicy.com/jobs/155586-director-of-product-design-2"
   },
   {
     "company": "Affirm",
@@ -1901,49 +1856,5 @@
     ],
     "title": "Customer Sales Engineer",
     "url": "https://jobicy.com/jobs/147850-customer-sales-engineer-2"
-  },
-  {
-    "company": "OpenAI",
-    "id": "6de5a13ea1baa59e",
-    "location": "Paris, France",
-    "posted_at": "2026-09-28T08:45:05.296000+00:00",
-    "published_at": "2026-10-03T08:43:46.865505+00:00",
-    "receipts": {
-      "telegram": "51"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation support",
-    "source": "ats:ashby",
-    "tags": [
-      "People",
-      "HRBP"
-    ],
-    "title": "HR Business Partner, EMEA",
-    "url": "https://jobs.ashbyhq.com/openai/923eebc8-5591-4057-892f-5825de1a5460"
-  },
-  {
-    "company": "OpenAI",
-    "id": "0b68d284262db1c0",
-    "location": "London, UK",
-    "posted_at": "2026-09-24T10:46:54.445000+00:00",
-    "published_at": "2026-10-02T15:50:57.976693+00:00",
-    "receipts": {
-      "telegram": "50"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "OpenAI for Gov",
-      "OpenAI for Gov"
-    ],
-    "title": "Global Account Director, International Organisations, ME & LATAM",
-    "url": "https://jobs.ashbyhq.com/openai/9745f423-9048-48c0-8c57-639611b04abc"
   }
 ]

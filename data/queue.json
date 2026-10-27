@@ -1879,74 +1879,6 @@
   ],
   "items": [
     {
-      "company": "Monzo",
-      "id": "962236b5eaca8fb3",
-      "location": "Spain,  UK",
-      "posted_at": "2026-10-17T08:33:07+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "jobicy",
-      "tags": [
-        "Data Science & Analytics"
-      ],
-      "title": "Data Director, EU",
-      "url": "https://jobicy.com/jobs/155581-data-director-eu"
-    },
-    {
-      "company": "Monzo",
-      "id": "5b16a47147edc33a",
-      "location": "UK",
-      "posted_at": "2026-10-17T08:33:06+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Sponsor visa",
-      "source": "jobicy",
-      "tags": [
-        "Data Science & Analytics"
-      ],
-      "title": "Data Science Manager, Financial Crime",
-      "url": "https://jobicy.com/jobs/155585-data-science-manager-financial-crime"
-    },
-    {
-      "company": "Monzo",
-      "id": "74f76058300e14c4",
-      "location": "UK",
-      "posted_at": "2026-10-17T08:33:06+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Sponsor visa",
-      "source": "jobicy",
-      "tags": [
-        "Data Science & Analytics"
-      ],
-      "title": "Data Science Manager",
-      "url": "https://jobicy.com/jobs/155584-data-science-manager-2"
-    },
-    {
-      "company": "Monzo",
-      "id": "f1d75c1ebc821686",
-      "location": "UK",
-      "posted_at": "2026-10-17T08:33:06+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Sponsor visa",
-      "source": "jobicy",
-      "tags": [
-        "Data Science & Analytics"
-      ],
-      "title": "Data Director, Payments",
-      "url": "https://jobicy.com/jobs/155583-data-director-payments"
-    },
-    {
       "company": "Pinterest",
       "id": "34b9a90479f2b7a5",
       "location": "Singapore",
@@ -2779,6 +2711,21 @@
       ],
       "title": "Senior Data Engineering Manager",
       "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager"
+    },
+    {
+      "company": "Pinterest",
+      "id": "e76681072a2c3dce",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-10-26T15:44:30-04:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Staff Machine Learning Engineer",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8240355"
     }
   ],
   "last_posted_at": "2026-10-26T15:16:02.123878+00:00",
