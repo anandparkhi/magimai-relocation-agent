@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Affirm",
+      "id": "57b18272732f7eb8",
+      "location": "Remote Spain",
+      "posted_at": "2026-10-19T02:36:14-04:00",
+      "published_at": "2026-10-27T14:52:44.437667+00:00",
+      "receipts": {
+        "telegram": "103"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Software Engineer (Comms Core)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8034649003"
+    },
+    {
       "company": "Pinterest",
       "id": "34b9a90479f2b7a5",
       "location": "Singapore",
@@ -1898,21 +1917,6 @@
   ],
   "items": [
     {
-      "company": "Affirm",
-      "id": "57b18272732f7eb8",
-      "location": "Remote Spain",
-      "posted_at": "2026-10-19T02:36:14-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Software Engineer (Comms Core)",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8034649003"
-    },
-    {
       "company": "Catawiki",
       "id": "9d675767bf705f1c",
       "location": "Lisbon, Portugal",
@@ -2732,7 +2736,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8240355"
     }
   ],
-  "last_posted_at": "2026-10-27T08:30:26.454281+00:00",
+  "last_posted_at": "2026-10-27T14:52:44.437667+00:00",
   "posted": {
     "2026-10-13": 2,
     "2026-10-14": 2,
@@ -2748,6 +2752,6 @@
     "2026-10-24": 3,
     "2026-10-25": 2,
     "2026-10-26": 2,
-    "2026-10-27": 1
+    "2026-10-27": 2
   }
 }
