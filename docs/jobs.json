@@ -1,100 +1,5 @@
 [
   {
-    "company": "Pinterest",
-    "id": "34b9a90479f2b7a5",
-    "location": "Singapore",
-    "posted_at": "2026-10-19T03:44:09-04:00",
-    "regions": [
-      "singapore"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior Client Account Manager (eCommerce) - Greater China Region",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8300202"
-  },
-  {
-    "company": "Affirm",
-    "id": "57b18272732f7eb8",
-    "location": "Remote Spain",
-    "posted_at": "2026-10-19T02:36:14-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior Software Engineer (Comms Core)",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034649003"
-  },
-  {
-    "company": "Catawiki",
-    "id": "9d675767bf705f1c",
-    "location": "Lisbon, Portugal",
-    "posted_at": "2026-10-19T01:00:00-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Visa sponsorship",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Platform Engineer",
-    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8289134"
-  },
-  {
-    "company": "Catawiki",
-    "id": "2747a74ae5810b8b",
-    "location": "Amsterdam, Netherlands",
-    "posted_at": "2026-10-19T01:00:00-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Visa sponsorship",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Platform Engineer",
-    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8289117"
-  },
-  {
-    "company": "OpenAI",
-    "id": "f1512c2f5bf98b2b",
-    "location": "Singapore",
-    "posted_at": "2026-10-19T04:30:59.906000+00:00",
-    "regions": [
-      "singapore"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Go To Market",
-      "Technical Success"
-    ],
-    "title": "Applied AI Engineer, Startups (Mandarin-speaking)",
-    "url": "https://jobs.ashbyhq.com/openai/502fcf97-75b2-4e54-9957-a29cee8eb1ca"
-  },
-  {
-    "company": "Samsara",
-    "id": "6c3eed73e9eee808",
-    "location": "UK",
-    "posted_at": "2026-10-19T02:50:17+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "jobicy",
-    "tags": [
-      "Finance & Accounting"
-    ],
-    "title": "Deal Desk Analyst",
-    "url": "https://jobicy.com/jobs/154902-deal-desk-analyst-6"
-  },
-  {
     "company": "OpenAI",
     "id": "fc46bfd79c1e0d0a",
     "location": "Paris, France",
@@ -834,11 +739,26 @@
     "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager"
   },
   {
-    "title": "Staff Machine Learning Engineer",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8240355",
+    "id": "e76681072a2c3dce",
     "location": "San Francisco, CA, US; Remote, US",
     "posted_at": "2026-10-26T15:44:30-04:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Staff Machine Learning Engineer",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8240355"
+  },
+  {
+    "title": "Sr. Data Scientist, Performance Marketing",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8280111",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-10-27T15:51:06-04:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
@@ -846,7 +766,150 @@
       "remote_us"
     ],
     "signal": "Relocation assistance",
-    "id": "e76681072a2c3dce"
+    "id": "1040df83e44b40f3"
+  },
+  {
+    "title": "Engineering Manager II, Runtime Services",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8257181",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-10-27T12:43:09-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "8123bae77481d3a1"
+  },
+  {
+    "title": "Senior Software Engineer, Fullstack (Repayments UX)",
+    "company": "Affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003",
+    "location": "Remote Spain",
+    "posted_at": "2026-10-27T09:28:02-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "a1246d1b253328df"
+  },
+  {
+    "title": "Software Engineer II, Fullstack (Repayment UX)",
+    "company": "Affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003",
+    "location": "Remote Spain",
+    "posted_at": "2026-10-27T09:27:01-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "3984ef0beae0b7a1"
+  },
+  {
+    "title": "Staff Software Engineer, Backend (Recoveries)",
+    "company": "Affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034645003",
+    "location": "Remote Spain",
+    "posted_at": "2026-10-27T09:26:42-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "be9ec1a6524d9988"
+  },
+  {
+    "title": "Manager, Machine Learning Engineering, Checkout",
+    "company": "Affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041432003",
+    "location": "Remote Spain",
+    "posted_at": "2026-10-27T09:26:04-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "6cd945ddd9aeb4c3"
+  },
+  {
+    "title": "Senior Manager, Software Engineering (Card)",
+    "company": "Affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
+    "location": "Remote Spain",
+    "posted_at": "2026-10-27T08:29:34-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "f2acb8a47bfd33d4"
+  },
+  {
+    "title": "Senior Analytics Manager - Grow & Engage",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8305606?gh_jid=8305606",
+    "location": "Berlin, Barcelona",
+    "posted_at": "2026-10-27T07:26:16-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "4b499e929f7b43ad"
+  },
+  {
+    "company": "Affirm",
+    "id": "57b18272732f7eb8",
+    "location": "Remote Spain",
+    "posted_at": "2026-10-19T02:36:14-04:00",
+    "published_at": "2026-10-27T14:52:44.437667+00:00",
+    "receipts": {
+      "telegram": "103"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Software Engineer (Comms Core)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034649003"
+  },
+  {
+    "company": "Pinterest",
+    "id": "34b9a90479f2b7a5",
+    "location": "Singapore",
+    "posted_at": "2026-10-19T03:44:09-04:00",
+    "published_at": "2026-10-27T08:30:26.454281+00:00",
+    "receipts": {
+      "telegram": "102"
+    },
+    "regions": [
+      "singapore"
+    ],
+    "remote": false,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Client Account Manager (eCommerce) - Greater China Region",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8300202"
   },
   {
     "company": "Monzo",
@@ -1816,45 +1879,5 @@
     "tags": [],
     "title": "Data Analyst - Anti Financial Crime",
     "url": "https://n26.com/en-eu/careers/positions/8242377?gh_jid=8242377"
-  },
-  {
-    "company": "Samsara",
-    "id": "f0c8fc0cef3405e0",
-    "location": "London - UK2; Remote - London",
-    "posted_at": "2026-09-28T12:27:36-04:00",
-    "published_at": "2026-10-04T09:00:01.387375+00:00",
-    "receipts": {
-      "telegram": "53"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior Security Engineer - Enterprise Security",
-    "url": "https://www.samsara.com/company/careers/roles/8223369?gh_jid=8223369"
-  },
-  {
-    "company": "UpGuard",
-    "id": "d77f760b7b9e559e",
-    "location": "USA",
-    "posted_at": "2026-09-29T03:30:21+00:00",
-    "published_at": "2026-10-03T14:05:01.453789+00:00",
-    "receipts": {
-      "telegram": "52"
-    },
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Sales"
-    ],
-    "title": "Customer Sales Engineer",
-    "url": "https://jobicy.com/jobs/147850-customer-sales-engineer-2"
   }
 ]
