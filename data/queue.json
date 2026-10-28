@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Roboflow",
+      "id": "6f72fd94c9f5c125",
+      "location": "USA",
+      "posted_at": "2026-10-20T03:25:32+00:00",
+      "published_at": "2026-10-28T16:05:43.672076+00:00",
+      "receipts": {
+        "telegram": "105"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation bonus",
+      "source": "jobicy",
+      "tags": [
+        "HR & Recruiting"
+      ],
+      "title": "Technical Recruiter",
+      "url": "https://jobicy.com/jobs/153631-technical-recruiter"
+    },
+    {
       "company": "OpenAI",
       "id": "fc46bfd79c1e0d0a",
       "location": "Paris, France",
@@ -1940,23 +1961,6 @@
   "items": [
     {
       "company": "Roboflow",
-      "id": "6f72fd94c9f5c125",
-      "location": "USA",
-      "posted_at": "2026-10-20T03:25:32+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation bonus",
-      "source": "jobicy",
-      "tags": [
-        "HR & Recruiting"
-      ],
-      "title": "Technical Recruiter",
-      "url": "https://jobicy.com/jobs/153631-technical-recruiter"
-    },
-    {
-      "company": "Roboflow",
       "id": "a24abf839c2b1110",
       "location": "Europe,  USA",
       "posted_at": "2026-10-20T03:25:27+00:00",
@@ -2795,7 +2799,7 @@
       "url": "https://n26.com/en-eu/careers/positions/8305606?gh_jid=8305606"
     }
   ],
-  "last_posted_at": "2026-10-28T09:09:09.342559+00:00",
+  "last_posted_at": "2026-10-28T16:05:43.672076+00:00",
   "posted": {
     "2026-10-14": 2,
     "2026-10-15": 2,
@@ -2811,6 +2815,6 @@
     "2026-10-25": 2,
     "2026-10-26": 2,
     "2026-10-27": 2,
-    "2026-10-28": 1
+    "2026-10-28": 2
   }
 }
