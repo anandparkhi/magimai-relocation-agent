@@ -1,6 +1,28 @@
 {
   "history": [
     {
+      "company": "OpenAI",
+      "id": "fc46bfd79c1e0d0a",
+      "location": "Paris, France",
+      "posted_at": "2026-10-20T07:19:41.364000+00:00",
+      "published_at": "2026-10-28T09:09:09.342559+00:00",
+      "receipts": {
+        "telegram": "104"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Go To Market"
+      ],
+      "title": "Applied AI Engineer, Digital Natives",
+      "url": "https://jobs.ashbyhq.com/openai/112e34f2-45da-4a08-adf4-cc29398938df"
+    },
+    {
       "company": "Affirm",
       "id": "57b18272732f7eb8",
       "location": "Remote Spain",
@@ -1917,24 +1939,6 @@
   ],
   "items": [
     {
-      "company": "OpenAI",
-      "id": "fc46bfd79c1e0d0a",
-      "location": "Paris, France",
-      "posted_at": "2026-10-20T07:19:41.364000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Go To Market",
-        "Go To Market"
-      ],
-      "title": "Applied AI Engineer, Digital Natives",
-      "url": "https://jobs.ashbyhq.com/openai/112e34f2-45da-4a08-adf4-cc29398938df"
-    },
-    {
       "company": "Roboflow",
       "id": "6f72fd94c9f5c125",
       "location": "USA",
@@ -2791,9 +2795,8 @@
       "url": "https://n26.com/en-eu/careers/positions/8305606?gh_jid=8305606"
     }
   ],
-  "last_posted_at": "2026-10-27T14:52:44.437667+00:00",
+  "last_posted_at": "2026-10-28T09:09:09.342559+00:00",
   "posted": {
-    "2026-10-13": 2,
     "2026-10-14": 2,
     "2026-10-15": 2,
     "2026-10-16": 2,
@@ -2807,6 +2810,7 @@
     "2026-10-24": 3,
     "2026-10-25": 2,
     "2026-10-26": 2,
-    "2026-10-27": 2
+    "2026-10-27": 2,
+    "2026-10-28": 1
   }
 }
