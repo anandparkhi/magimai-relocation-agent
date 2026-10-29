@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "OpenAI",
+      "id": "57b6632d678b43ca",
+      "location": "USA",
+      "posted_at": "2026-10-21T03:10:27+00:00",
+      "published_at": "2026-10-29T09:08:04.690661+00:00",
+      "receipts": {
+        "telegram": "106"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Account Director, Digital Native Enterprise",
+      "url": "https://jobicy.com/jobs/153717-account-director-digital-native-enterprise"
+    },
+    {
       "company": "Roboflow",
       "id": "6f72fd94c9f5c125",
       "location": "USA",
@@ -1961,23 +1982,6 @@
   "items": [
     {
       "company": "OpenAI",
-      "id": "57b6632d678b43ca",
-      "location": "USA",
-      "posted_at": "2026-10-21T03:10:27+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "jobicy",
-      "tags": [
-        "Sales"
-      ],
-      "title": "Account Director, Digital Native Enterprise",
-      "url": "https://jobicy.com/jobs/153717-account-director-digital-native-enterprise"
-    },
-    {
-      "company": "OpenAI",
       "id": "53e440a3116e5d88",
       "location": "USA",
       "posted_at": "2026-10-21T03:10:18+00:00",
@@ -2719,9 +2723,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268312"
     }
   ],
-  "last_posted_at": "2026-10-28T16:05:43.672076+00:00",
+  "last_posted_at": "2026-10-29T09:08:04.690661+00:00",
   "posted": {
-    "2026-10-14": 2,
     "2026-10-15": 2,
     "2026-10-16": 2,
     "2026-10-17": 3,
@@ -2735,6 +2738,7 @@
     "2026-10-25": 2,
     "2026-10-26": 2,
     "2026-10-27": 2,
-    "2026-10-28": 2
+    "2026-10-28": 2,
+    "2026-10-29": 1
   }
 }
