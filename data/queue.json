@@ -2,6 +2,27 @@
   "history": [
     {
       "company": "OpenAI",
+      "id": "53e440a3116e5d88",
+      "location": "USA",
+      "posted_at": "2026-10-21T03:10:18+00:00",
+      "published_at": "2026-10-29T16:09:47.443831+00:00",
+      "receipts": {
+        "telegram": "107"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Account Director, Digital Native Large Enterprise",
+      "url": "https://jobicy.com/jobs/153713-account-director-digital-native-large-enterprise"
+    },
+    {
+      "company": "OpenAI",
       "id": "57b6632d678b43ca",
       "location": "USA",
       "posted_at": "2026-10-21T03:10:27+00:00",
@@ -1981,23 +2002,6 @@
   ],
   "items": [
     {
-      "company": "OpenAI",
-      "id": "53e440a3116e5d88",
-      "location": "USA",
-      "posted_at": "2026-10-21T03:10:18+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "jobicy",
-      "tags": [
-        "Sales"
-      ],
-      "title": "Account Director, Digital Native Large Enterprise",
-      "url": "https://jobicy.com/jobs/153713-account-director-digital-native-large-enterprise"
-    },
-    {
       "company": "Pinterest",
       "id": "5593695f81cd0660",
       "location": "New York, NY, US; Remote, US",
@@ -2723,7 +2727,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268312"
     }
   ],
-  "last_posted_at": "2026-10-29T09:08:04.690661+00:00",
+  "last_posted_at": "2026-10-29T16:09:47.443831+00:00",
   "posted": {
     "2026-10-15": 2,
     "2026-10-16": 2,
@@ -2739,6 +2743,6 @@
     "2026-10-26": 2,
     "2026-10-27": 2,
     "2026-10-28": 2,
-    "2026-10-29": 1
+    "2026-10-29": 2
   }
 }
