@@ -1,169 +1,6 @@
 [
   {
     "company": "OpenAI",
-    "id": "fc46bfd79c1e0d0a",
-    "location": "Paris, France",
-    "posted_at": "2026-10-20T07:19:41.364000+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Go To Market",
-      "Go To Market"
-    ],
-    "title": "Applied AI Engineer, Digital Natives",
-    "url": "https://jobs.ashbyhq.com/openai/112e34f2-45da-4a08-adf4-cc29398938df"
-  },
-  {
-    "company": "Roboflow",
-    "id": "6f72fd94c9f5c125",
-    "location": "USA",
-    "posted_at": "2026-10-20T03:25:32+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation bonus",
-    "source": "jobicy",
-    "tags": [
-      "HR & Recruiting"
-    ],
-    "title": "Technical Recruiter",
-    "url": "https://jobicy.com/jobs/153631-technical-recruiter"
-  },
-  {
-    "company": "Roboflow",
-    "id": "a24abf839c2b1110",
-    "location": "Europe,  USA",
-    "posted_at": "2026-10-20T03:25:27+00:00",
-    "regions": [
-      "europe",
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation bonus",
-    "source": "jobicy",
-    "tags": [
-      "Cybersecurity"
-    ],
-    "title": "Security Engineer",
-    "url": "https://jobicy.com/jobs/153639-security-engineer-2"
-  },
-  {
-    "company": "Happy Money",
-    "id": "250db3fac1e16479",
-    "location": "USA",
-    "posted_at": "2026-10-20T03:20:29+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Visa Sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Finance & Accounting"
-    ],
-    "title": "Senior Loan Fulfillment Specialist",
-    "url": "https://jobicy.com/jobs/151126-senior-loan-fulfillment-specialist"
-  },
-  {
-    "company": "Phaidra",
-    "id": "710e67026a49cfc3",
-    "location": "Canada,  USA",
-    "posted_at": "2026-10-20T03:20:13+00:00",
-    "regions": [
-      "canada",
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Project & Program Management"
-    ],
-    "title": "Technical Program Manager",
-    "url": "https://jobicy.com/jobs/145850-technical-program-manager-2"
-  },
-  {
-    "company": "Pinterest",
-    "id": "4670ab5127e7b809",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-10-19T19:38:22-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Staff Technical Program Manager",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8263122"
-  },
-  {
-    "company": "Samsara",
-    "id": "2e5e4fe394a48ac4",
-    "location": "Remote - Canada",
-    "posted_at": "2026-10-19T16:29:38-04:00",
-    "regions": [
-      "canada"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Executive Assistant",
-    "url": "https://www.samsara.com/company/careers/roles/8287417?gh_jid=8287417"
-  },
-  {
-    "company": "Pinterest",
-    "id": "18816bc1a5035e90",
-    "location": "New York, NY, US; Remote, US",
-    "posted_at": "2026-10-19T14:20:35-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Staff Software Engineer, Infrastructure Data Engineering",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8162539"
-  },
-  {
-    "company": "Pinterest",
-    "id": "d267f8376d004492",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-10-19T14:02:46-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Product Policy Lead, Platform Integrity",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8278887"
-  },
-  {
-    "company": "N26",
-    "id": "07c94ec3fd2bdc14",
-    "location": "Barcelona ",
-    "posted_at": "2026-10-19T08:26:06-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Data Analyst - Everyday Banking",
-    "url": "https://n26.com/en-eu/careers/positions/8300509?gh_jid=8300509"
-  },
-  {
-    "company": "OpenAI",
     "id": "57b6632d678b43ca",
     "location": "USA",
     "posted_at": "2026-10-21T03:10:27+00:00",
@@ -754,26 +591,149 @@
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8240355"
   },
   {
-    "title": "Sr. Data Scientist, Performance Marketing",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8280111",
+    "id": "1040df83e44b40f3",
     "location": "San Francisco, CA, US; Remote, US",
     "posted_at": "2026-10-27T15:51:06-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "1040df83e44b40f3"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Sr. Data Scientist, Performance Marketing",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8280111"
   },
   {
-    "title": "Engineering Manager II, Runtime Services",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8257181",
+    "id": "8123bae77481d3a1",
     "location": "San Francisco, CA, US; Remote, US",
     "posted_at": "2026-10-27T12:43:09-04:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Engineering Manager II, Runtime Services",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8257181"
+  },
+  {
+    "company": "Affirm",
+    "id": "a1246d1b253328df",
+    "location": "Remote Spain",
+    "posted_at": "2026-10-27T09:28:02-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Software Engineer, Fullstack (Repayments UX)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003"
+  },
+  {
+    "company": "Affirm",
+    "id": "3984ef0beae0b7a1",
+    "location": "Remote Spain",
+    "posted_at": "2026-10-27T09:27:01-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Software Engineer II, Fullstack (Repayment UX)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003"
+  },
+  {
+    "company": "Affirm",
+    "id": "be9ec1a6524d9988",
+    "location": "Remote Spain",
+    "posted_at": "2026-10-27T09:26:42-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Staff Software Engineer, Backend (Recoveries)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034645003"
+  },
+  {
+    "company": "Affirm",
+    "id": "6cd945ddd9aeb4c3",
+    "location": "Remote Spain",
+    "posted_at": "2026-10-27T09:26:04-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Manager, Machine Learning Engineering, Checkout",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041432003"
+  },
+  {
+    "company": "Affirm",
+    "id": "f2acb8a47bfd33d4",
+    "location": "Remote Spain",
+    "posted_at": "2026-10-27T08:29:34-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Manager, Software Engineering (Card)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003"
+  },
+  {
+    "company": "N26",
+    "id": "4b499e929f7b43ad",
+    "location": "Berlin, Barcelona",
+    "posted_at": "2026-10-27T07:26:16-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Analytics Manager - Grow & Engage",
+    "url": "https://n26.com/en-eu/careers/positions/8305606?gh_jid=8305606"
+  },
+  {
+    "title": "Europe Trade Compliance Lead",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/850a0f1b-26ed-462e-9236-22c9f09aa03c",
+    "location": "Dublin, Ireland",
+    "posted_at": "2026-10-28T23:28:31.157000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "Finance",
+      "Finance"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation support",
+    "id": "3cfbb71cb285cee6"
+  },
+  {
+    "title": "Sr. UX Engineer",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015362",
+    "location": "San Francisco, CA, USA; Remote, US",
+    "posted_at": "2026-10-28T15:15:01-04:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
@@ -781,97 +741,65 @@
       "remote_us"
     ],
     "signal": "Relocation assistance",
-    "id": "8123bae77481d3a1"
+    "id": "7bd9346cbdecb1ea"
   },
   {
-    "title": "Senior Software Engineer, Fullstack (Repayments UX)",
-    "company": "Affirm",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003",
-    "location": "Remote Spain",
-    "posted_at": "2026-10-27T09:28:02-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
-    "regions": [
-      "europe"
-    ],
-    "signal": "Visa sponsorship",
-    "id": "a1246d1b253328df"
-  },
-  {
-    "title": "Software Engineer II, Fullstack (Repayment UX)",
-    "company": "Affirm",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003",
-    "location": "Remote Spain",
-    "posted_at": "2026-10-27T09:27:01-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
-    "regions": [
-      "europe"
-    ],
-    "signal": "Visa sponsorship",
-    "id": "3984ef0beae0b7a1"
-  },
-  {
-    "title": "Staff Software Engineer, Backend (Recoveries)",
-    "company": "Affirm",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034645003",
-    "location": "Remote Spain",
-    "posted_at": "2026-10-27T09:26:42-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
-    "regions": [
-      "europe"
-    ],
-    "signal": "Visa sponsorship",
-    "id": "be9ec1a6524d9988"
-  },
-  {
-    "title": "Manager, Machine Learning Engineering, Checkout",
-    "company": "Affirm",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041432003",
-    "location": "Remote Spain",
-    "posted_at": "2026-10-27T09:26:04-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
-    "regions": [
-      "europe"
-    ],
-    "signal": "Visa sponsorship",
-    "id": "6cd945ddd9aeb4c3"
-  },
-  {
-    "title": "Senior Manager, Software Engineering (Card)",
-    "company": "Affirm",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
-    "location": "Remote Spain",
-    "posted_at": "2026-10-27T08:29:34-04:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
-    "regions": [
-      "europe"
-    ],
-    "signal": "Visa sponsorship",
-    "id": "f2acb8a47bfd33d4"
-  },
-  {
-    "title": "Senior Analytics Manager - Grow & Engage",
-    "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8305606?gh_jid=8305606",
-    "location": "Berlin, Barcelona",
-    "posted_at": "2026-10-27T07:26:16-04:00",
+    "title": "UK Brand Partnerships Manager",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268312",
+    "location": "London, UK",
+    "posted_at": "2026-10-28T05:24:13-04:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
     "regions": [
       "europe"
     ],
-    "signal": "Relocation package",
-    "id": "4b499e929f7b43ad"
+    "signal": "Relocation assistance",
+    "id": "997db1ab17273ef0"
+  },
+  {
+    "company": "Roboflow",
+    "id": "6f72fd94c9f5c125",
+    "location": "USA",
+    "posted_at": "2026-10-20T03:25:32+00:00",
+    "published_at": "2026-10-28T16:05:43.672076+00:00",
+    "receipts": {
+      "telegram": "105"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation bonus",
+    "source": "jobicy",
+    "tags": [
+      "HR & Recruiting"
+    ],
+    "title": "Technical Recruiter",
+    "url": "https://jobicy.com/jobs/153631-technical-recruiter"
+  },
+  {
+    "company": "OpenAI",
+    "id": "fc46bfd79c1e0d0a",
+    "location": "Paris, France",
+    "posted_at": "2026-10-20T07:19:41.364000+00:00",
+    "published_at": "2026-10-28T09:09:09.342559+00:00",
+    "receipts": {
+      "telegram": "104"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
+    "tags": [
+      "Go To Market",
+      "Go To Market"
+    ],
+    "title": "Applied AI Engineer, Digital Natives",
+    "url": "https://jobs.ashbyhq.com/openai/112e34f2-45da-4a08-adf4-cc29398938df"
   },
   {
     "company": "Affirm",
@@ -1838,46 +1766,5 @@
     "tags": [],
     "title": "Global Benefits and Mobility Partner",
     "url": "https://www.samsara.com/company/careers/roles/8174625?gh_jid=8174625"
-  },
-  {
-    "company": "Samsara",
-    "id": "0d8d304b8e96c592",
-    "location": "Canada,  USA",
-    "posted_at": "2026-09-30T04:02:33+00:00",
-    "published_at": "2026-10-05T09:49:43.911862+00:00",
-    "receipts": {
-      "telegram": "55"
-    },
-    "regions": [
-      "canada",
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "jobicy",
-    "tags": [
-      "Creative & Design"
-    ],
-    "title": "Director, Product Design",
-    "url": "https://jobicy.com/jobs/143046-director-product-design"
-  },
-  {
-    "company": "N26",
-    "id": "e2f1f26b130d4b55",
-    "location": "Berlin",
-    "posted_at": "2026-09-30T03:49:45-04:00",
-    "published_at": "2026-10-04T14:42:22.024226+00:00",
-    "receipts": {
-      "telegram": "54"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Data Analyst - Anti Financial Crime",
-    "url": "https://n26.com/en-eu/careers/positions/8242377?gh_jid=8242377"
   }
 ]
