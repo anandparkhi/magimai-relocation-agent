@@ -1,6 +1,28 @@
 {
   "history": [
     {
+      "company": "OpenAI",
+      "id": "fb7d199136768128",
+      "location": "London, UK",
+      "posted_at": "2026-10-21T23:06:51.805000+00:00",
+      "published_at": "2026-10-30T15:59:53.703791+00:00",
+      "receipts": {
+        "telegram": "109"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Security",
+        "Security"
+      ],
+      "title": "Software Engineer, Privacy Engineering (Lawful Access)",
+      "url": "https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3"
+    },
+    {
       "company": "Pinterest",
       "id": "b83ac0cba045c073",
       "location": "Singapore, SG",
@@ -2021,24 +2043,6 @@
   ],
   "items": [
     {
-      "company": "OpenAI",
-      "id": "fb7d199136768128",
-      "location": "London, UK",
-      "posted_at": "2026-10-21T23:06:51.805000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Security",
-        "Security"
-      ],
-      "title": "Software Engineer, Privacy Engineering (Lawful Access)",
-      "url": "https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3"
-    },
-    {
       "company": "Pinterest",
       "id": "6b9ec36a0da8f873",
       "location": "San Francisco, CA, US; Remote, CA, US",
@@ -2746,7 +2750,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268338"
     }
   ],
-  "last_posted_at": "2026-10-30T09:18:46.114907+00:00",
+  "last_posted_at": "2026-10-30T15:59:53.703791+00:00",
   "posted": {
     "2026-10-16": 2,
     "2026-10-17": 3,
@@ -2762,6 +2766,6 @@
     "2026-10-27": 2,
     "2026-10-28": 2,
     "2026-10-29": 2,
-    "2026-10-30": 1
+    "2026-10-30": 2
   }
 }
