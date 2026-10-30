@@ -2003,51 +2003,6 @@
   "items": [
     {
       "company": "Pinterest",
-      "id": "5593695f81cd0660",
-      "location": "New York, NY, US; Remote, US",
-      "posted_at": "2026-10-20T19:15:42-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Integrated Marketing Lead, UCAN Programming & Industry",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268329"
-    },
-    {
-      "company": "Pinterest",
-      "id": "df82a1ea6bc82e58",
-      "location": "Stockholm, Sweden",
-      "posted_at": "2026-10-20T05:24:34-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Sr. Measurement Partner",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8226679"
-    },
-    {
-      "company": "Pinterest",
-      "id": "9f290488024e8fb7",
-      "location": "Amsterdam, Netherlands",
-      "posted_at": "2026-10-20T05:12:02-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Lead Client Partner, Travel",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8273738"
-    },
-    {
-      "company": "Pinterest",
       "id": "b83ac0cba045c073",
       "location": "Singapore, SG",
       "posted_at": "2026-10-22T02:58:11-04:00",
@@ -2725,6 +2680,66 @@
       "tags": [],
       "title": "UK Brand Partnerships Manager",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268312"
+    },
+    {
+      "company": "Pinterest",
+      "id": "7a0bcd57d5996bda",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-10-29T18:46:31-04:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "B2B Growth Marketing Manager",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268331"
+    },
+    {
+      "company": "Pinterest",
+      "id": "2945bda8570b441f",
+      "location": "Paris, FR",
+      "posted_at": "2026-10-29T13:27:21-04:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Lead, HR Business Partner",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8310949"
+    },
+    {
+      "company": "Pinterest",
+      "id": "e4d33eca444ab3aa",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-10-29T12:34:57-04:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Staff Software Engineer, Service Configuration Deployments",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8046838"
+    },
+    {
+      "company": "Pinterest",
+      "id": "6e562b329547b207",
+      "location": "Los Angeles, CA, US; Remote, CA, US",
+      "posted_at": "2026-10-29T12:28:47-04:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Lead Creative Producer, Marketing",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268338"
     }
   ],
   "last_posted_at": "2026-10-29T16:09:47.443831+00:00",

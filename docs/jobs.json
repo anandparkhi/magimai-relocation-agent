@@ -1,84 +1,5 @@
 [
   {
-    "company": "OpenAI",
-    "id": "57b6632d678b43ca",
-    "location": "USA",
-    "posted_at": "2026-10-21T03:10:27+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "jobicy",
-    "tags": [
-      "Sales"
-    ],
-    "title": "Account Director, Digital Native Enterprise",
-    "url": "https://jobicy.com/jobs/153717-account-director-digital-native-enterprise"
-  },
-  {
-    "company": "OpenAI",
-    "id": "53e440a3116e5d88",
-    "location": "USA",
-    "posted_at": "2026-10-21T03:10:18+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "jobicy",
-    "tags": [
-      "Sales"
-    ],
-    "title": "Account Director, Digital Native Large Enterprise",
-    "url": "https://jobicy.com/jobs/153713-account-director-digital-native-large-enterprise"
-  },
-  {
-    "company": "Pinterest",
-    "id": "5593695f81cd0660",
-    "location": "New York, NY, US; Remote, US",
-    "posted_at": "2026-10-20T19:15:42-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Integrated Marketing Lead, UCAN Programming & Industry",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268329"
-  },
-  {
-    "company": "Pinterest",
-    "id": "df82a1ea6bc82e58",
-    "location": "Stockholm, Sweden",
-    "posted_at": "2026-10-20T05:24:34-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. Measurement Partner",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8226679"
-  },
-  {
-    "company": "Pinterest",
-    "id": "9f290488024e8fb7",
-    "location": "Amsterdam, Netherlands",
-    "posted_at": "2026-10-20T05:12:02-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Lead Client Partner, Travel",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8273738"
-  },
-  {
     "company": "Pinterest",
     "id": "b83ac0cba045c073",
     "location": "Singapore, SG",
@@ -711,29 +632,59 @@
     "url": "https://n26.com/en-eu/careers/positions/8305606?gh_jid=8305606"
   },
   {
-    "title": "Europe Trade Compliance Lead",
     "company": "OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/850a0f1b-26ed-462e-9236-22c9f09aa03c",
+    "id": "3cfbb71cb285cee6",
     "location": "Dublin, Ireland",
     "posted_at": "2026-10-28T23:28:31.157000+00:00",
-    "source": "ats:ashby",
+    "regions": [
+      "europe"
+    ],
     "remote": true,
+    "signal": "Relocation support",
+    "source": "ats:ashby",
     "tags": [
       "Finance",
       "Finance"
     ],
+    "title": "Europe Trade Compliance Lead",
+    "url": "https://jobs.ashbyhq.com/openai/850a0f1b-26ed-462e-9236-22c9f09aa03c"
+  },
+  {
+    "company": "Pinterest",
+    "id": "7bd9346cbdecb1ea",
+    "location": "San Francisco, CA, USA; Remote, US",
+    "posted_at": "2026-10-28T15:15:01-04:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Sr. UX Engineer",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015362"
+  },
+  {
+    "company": "Pinterest",
+    "id": "997db1ab17273ef0",
+    "location": "London, UK",
+    "posted_at": "2026-10-28T05:24:13-04:00",
     "regions": [
       "europe"
     ],
-    "signal": "Relocation support",
-    "id": "3cfbb71cb285cee6"
+    "remote": false,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "UK Brand Partnerships Manager",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268312"
   },
   {
-    "title": "Sr. UX Engineer",
+    "title": "B2B Growth Marketing Manager",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015362",
-    "location": "San Francisco, CA, USA; Remote, US",
-    "posted_at": "2026-10-28T15:15:01-04:00",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268331",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-10-29T18:46:31-04:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
@@ -741,14 +692,14 @@
       "remote_us"
     ],
     "signal": "Relocation assistance",
-    "id": "7bd9346cbdecb1ea"
+    "id": "7a0bcd57d5996bda"
   },
   {
-    "title": "UK Brand Partnerships Manager",
+    "title": "Sr. Lead, HR Business Partner",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268312",
-    "location": "London, UK",
-    "posted_at": "2026-10-28T05:24:13-04:00",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8310949",
+    "location": "Paris, FR",
+    "posted_at": "2026-10-29T13:27:21-04:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
@@ -756,7 +707,79 @@
       "europe"
     ],
     "signal": "Relocation assistance",
-    "id": "997db1ab17273ef0"
+    "id": "2945bda8570b441f"
+  },
+  {
+    "title": "Staff Software Engineer, Service Configuration Deployments",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8046838",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-10-29T12:34:57-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "e4d33eca444ab3aa"
+  },
+  {
+    "title": "Lead Creative Producer, Marketing",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268338",
+    "location": "Los Angeles, CA, US; Remote, CA, US",
+    "posted_at": "2026-10-29T12:28:47-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "6e562b329547b207"
+  },
+  {
+    "company": "OpenAI",
+    "id": "53e440a3116e5d88",
+    "location": "USA",
+    "posted_at": "2026-10-21T03:10:18+00:00",
+    "published_at": "2026-10-29T16:09:47.443831+00:00",
+    "receipts": {
+      "telegram": "107"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "jobicy",
+    "tags": [
+      "Sales"
+    ],
+    "title": "Account Director, Digital Native Large Enterprise",
+    "url": "https://jobicy.com/jobs/153713-account-director-digital-native-large-enterprise"
+  },
+  {
+    "company": "OpenAI",
+    "id": "57b6632d678b43ca",
+    "location": "USA",
+    "posted_at": "2026-10-21T03:10:27+00:00",
+    "published_at": "2026-10-29T09:08:04.690661+00:00",
+    "receipts": {
+      "telegram": "106"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "jobicy",
+    "tags": [
+      "Sales"
+    ],
+    "title": "Account Director, Digital Native Enterprise",
+    "url": "https://jobicy.com/jobs/153717-account-director-digital-native-enterprise"
   },
   {
     "company": "Roboflow",
@@ -1728,43 +1751,5 @@
     ],
     "title": "AI Support Engineer - Singapore (Weekend Shift)",
     "url": "https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6"
-  },
-  {
-    "company": "Samsara",
-    "id": "3ca0e3c4e16b606d",
-    "location": "Remote - US",
-    "posted_at": "2026-09-29T13:29:53-04:00",
-    "published_at": "2026-10-06T09:37:48.414741+00:00",
-    "receipts": {
-      "telegram": "57"
-    },
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Manager, Firmware Engineering",
-    "url": "https://www.samsara.com/company/careers/roles/8213990?gh_jid=8213990"
-  },
-  {
-    "company": "Samsara",
-    "id": "0b2c8a95056fc537",
-    "location": "Remote - US",
-    "posted_at": "2026-09-29T19:12:11-04:00",
-    "published_at": "2026-10-05T18:58:17.737019+00:00",
-    "receipts": {
-      "telegram": "56"
-    },
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Global Benefits and Mobility Partner",
-    "url": "https://www.samsara.com/company/careers/roles/8174625?gh_jid=8174625"
   }
 ]
