@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Pinterest",
+      "id": "b83ac0cba045c073",
+      "location": "Singapore, SG",
+      "posted_at": "2026-10-22T02:58:11-04:00",
+      "published_at": "2026-10-30T09:18:46.114907+00:00",
+      "receipts": {
+        "telegram": "108"
+      },
+      "regions": [
+        "singapore"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Lead Client Account Manager (Entertainment App) - Greater China Region",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8304896"
+    },
+    {
       "company": "OpenAI",
       "id": "53e440a3116e5d88",
       "location": "USA",
@@ -2002,21 +2021,6 @@
   ],
   "items": [
     {
-      "company": "Pinterest",
-      "id": "b83ac0cba045c073",
-      "location": "Singapore, SG",
-      "posted_at": "2026-10-22T02:58:11-04:00",
-      "regions": [
-        "singapore"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Lead Client Account Manager (Entertainment App) - Greater China Region",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8304896"
-    },
-    {
       "company": "OpenAI",
       "id": "fb7d199136768128",
       "location": "London, UK",
@@ -2742,9 +2746,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268338"
     }
   ],
-  "last_posted_at": "2026-10-29T16:09:47.443831+00:00",
+  "last_posted_at": "2026-10-30T09:18:46.114907+00:00",
   "posted": {
-    "2026-10-15": 2,
     "2026-10-16": 2,
     "2026-10-17": 3,
     "2026-10-18": 3,
@@ -2758,6 +2761,7 @@
     "2026-10-26": 2,
     "2026-10-27": 2,
     "2026-10-28": 2,
-    "2026-10-29": 2
+    "2026-10-29": 2,
+    "2026-10-30": 1
   }
 }
