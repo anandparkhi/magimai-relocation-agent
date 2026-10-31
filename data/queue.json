@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Catawiki",
+      "id": "ad0afe3d1ac1d534",
+      "location": "Lisbon, Portugal",
+      "posted_at": "2026-10-23T01:00:18-04:00",
+      "published_at": "2026-10-31T15:20:56.719666+00:00",
+      "receipts": {
+        "telegram": "111"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Backend Engineer",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8305661"
+    },
+    {
       "company": "N26",
       "id": "a33f9f409b7ce3ac",
       "location": "Madrid",
@@ -2062,21 +2081,6 @@
   ],
   "items": [
     {
-      "company": "Catawiki",
-      "id": "ad0afe3d1ac1d534",
-      "location": "Lisbon, Portugal",
-      "posted_at": "2026-10-23T01:00:18-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Backend Engineer",
-      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8305661"
-    },
-    {
       "company": "Samsara",
       "id": "c841f9e95dc30f7d",
       "location": "Remote - US",
@@ -2815,7 +2819,7 @@
       "url": "https://n26.com/en-eu/careers/positions/8334011?gh_jid=8334011"
     }
   ],
-  "last_posted_at": "2026-10-31T09:05:39.915721+00:00",
+  "last_posted_at": "2026-10-31T15:20:56.719666+00:00",
   "posted": {
     "2026-10-17": 3,
     "2026-10-18": 3,
@@ -2831,6 +2835,6 @@
     "2026-10-28": 2,
     "2026-10-29": 2,
     "2026-10-30": 2,
-    "2026-10-31": 1
+    "2026-10-31": 2
   }
 }
