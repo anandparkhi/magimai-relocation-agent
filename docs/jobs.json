@@ -1,146 +1,5 @@
 [
   {
-    "company": "Pinterest",
-    "id": "b83ac0cba045c073",
-    "location": "Singapore, SG",
-    "posted_at": "2026-10-22T02:58:11-04:00",
-    "regions": [
-      "singapore"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Lead Client Account Manager (Entertainment App) - Greater China Region",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8304896"
-  },
-  {
-    "company": "OpenAI",
-    "id": "fb7d199136768128",
-    "location": "London, UK",
-    "posted_at": "2026-10-21T23:06:51.805000+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Security",
-      "Security"
-    ],
-    "title": "Software Engineer, Privacy Engineering (Lawful Access)",
-    "url": "https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3"
-  },
-  {
-    "company": "Pinterest",
-    "id": "6b9ec36a0da8f873",
-    "location": "San Francisco, CA, US; Remote, CA, US",
-    "posted_at": "2026-10-21T15:26:36-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Manager II, Engineering - Kubernetes Platform",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8139439"
-  },
-  {
-    "company": "OpenAI",
-    "id": "b38e7b2ee1f120db",
-    "location": "Dublin, Ireland",
-    "posted_at": "2026-10-21T17:37:19.503000+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Go To Market",
-      "Ads Solutions"
-    ],
-    "title": "Customer Success Manager - Ads Solutions (Dutch speaking)",
-    "url": "https://jobs.ashbyhq.com/openai/0b80474f-6438-4b41-94e4-0e653c7e3457"
-  },
-  {
-    "company": "Pinterest",
-    "id": "04b67639546916c8",
-    "location": "London, UK",
-    "posted_at": "2026-10-21T12:48:46-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. Integrated Marketing Lead",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268346"
-  },
-  {
-    "company": "Pinterest",
-    "id": "15271044429c4ecf",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-10-21T12:12:20-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Brand Marketing Manager",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8267923"
-  },
-  {
-    "company": "N26",
-    "id": "55ad74d592eab4bc",
-    "location": "Berlin",
-    "posted_at": "2026-10-21T08:29:42-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "ICT GRC - Junior Associate",
-    "url": "https://n26.com/en-eu/careers/positions/8281297?gh_jid=8281297"
-  },
-  {
-    "company": "Pinterest",
-    "id": "2b33b065ba664f05",
-    "location": "Dublin, Ireland",
-    "posted_at": "2026-10-21T07:13:43-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Manager I, Revenue Operations",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8282903"
-  },
-  {
-    "company": "N26",
-    "id": "781d7a46b19d95a3",
-    "location": "Berlin",
-    "posted_at": "2026-10-21T04:56:01-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "ICT Risk Assessment Manager",
-    "url": "https://n26.com/en-eu/careers/positions/8249423?gh_jid=8249423"
-  },
-  {
     "company": "N26",
     "id": "a33f9f409b7ce3ac",
     "location": "Madrid",
@@ -680,11 +539,88 @@
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268312"
   },
   {
-    "title": "B2B Growth Marketing Manager",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268331",
+    "id": "7a0bcd57d5996bda",
     "location": "San Francisco, CA, US; Remote, US",
     "posted_at": "2026-10-29T18:46:31-04:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "B2B Growth Marketing Manager",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268331"
+  },
+  {
+    "company": "Pinterest",
+    "id": "2945bda8570b441f",
+    "location": "Paris, FR",
+    "posted_at": "2026-10-29T13:27:21-04:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Sr. Lead, HR Business Partner",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8310949"
+  },
+  {
+    "company": "Pinterest",
+    "id": "e4d33eca444ab3aa",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-10-29T12:34:57-04:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Staff Software Engineer, Service Configuration Deployments",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8046838"
+  },
+  {
+    "company": "Pinterest",
+    "id": "6e562b329547b207",
+    "location": "Los Angeles, CA, US; Remote, CA, US",
+    "posted_at": "2026-10-29T12:28:47-04:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Lead Creative Producer, Marketing",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268338"
+  },
+  {
+    "title": "Senior Account Executive",
+    "company": "Simon Data",
+    "url": "https://jobicy.com/jobs/142136-senior-account-executive-4",
+    "location": "USA",
+    "posted_at": "2026-10-31T03:30:07+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Sales"
+    ],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "86fe9a96f7677300"
+  },
+  {
+    "title": "Staff Motion Designer, Design Innovation",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8302281",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-10-30T15:58:25-04:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
@@ -692,14 +628,29 @@
       "remote_us"
     ],
     "signal": "Relocation assistance",
-    "id": "7a0bcd57d5996bda"
+    "id": "1087e84a9022c364"
   },
   {
-    "title": "Sr. Lead, HR Business Partner",
+    "title": "Sr. Staff Qualitative Product Researcher, Ads",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8310949",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8247874",
+    "location": "Seattle, WA, USA; Remote, US",
+    "posted_at": "2026-10-30T15:58:07-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "7594da1630e4da82"
+  },
+  {
+    "title": "Sr. Insights Solutions Partner",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8207271",
     "location": "Paris, FR",
-    "posted_at": "2026-10-29T13:27:21-04:00",
+    "posted_at": "2026-10-30T15:07:12-04:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
@@ -707,14 +658,14 @@
       "europe"
     ],
     "signal": "Relocation assistance",
-    "id": "2945bda8570b441f"
+    "id": "8e02e771c5e292f0"
   },
   {
-    "title": "Staff Software Engineer, Service Configuration Deployments",
+    "title": "Business Development Lead",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8046838",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8119896",
     "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-10-29T12:34:57-04:00",
+    "posted_at": "2026-10-30T14:41:06-04:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
@@ -722,14 +673,14 @@
       "remote_us"
     ],
     "signal": "Relocation assistance",
-    "id": "e4d33eca444ab3aa"
+    "id": "5b2f9c91c3c23f12"
   },
   {
-    "title": "Lead Creative Producer, Marketing",
+    "title": "Business Development, AI Product Partnerships",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268338",
-    "location": "Los Angeles, CA, US; Remote, CA, US",
-    "posted_at": "2026-10-29T12:28:47-04:00",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8319154",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-10-30T14:34:56-04:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
@@ -737,7 +688,125 @@
       "remote_us"
     ],
     "signal": "Relocation assistance",
-    "id": "6e562b329547b207"
+    "id": "551c4479f7eab110"
+  },
+  {
+    "title": "Senior Counsel, Americas Employment",
+    "company": "Veeam Software",
+    "url": "https://jobicy.com/jobs/158123-senior-counsel-americas-employment",
+    "location": "USA",
+    "posted_at": "2026-10-30T18:07:10+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Legal & Compliance"
+    ],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "d6b6ab1278a76971"
+  },
+  {
+    "title": "Staff Qualitative Product Researcher, Ads Integrity",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8248057",
+    "location": "Chicago, IL, US; Remote, US",
+    "posted_at": "2026-10-30T12:46:30-04:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "7c2ca70cf21effc6"
+  },
+  {
+    "title": "Complaints Audit Manager - Fluent German",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8336867?gh_jid=8336867",
+    "location": "Madrid",
+    "posted_at": "2026-10-30T10:51:55-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "c0b23ae2659d8aa3"
+  },
+  {
+    "title": "Senior People Business Partner",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8336853?gh_jid=8336853",
+    "location": "Barcelona",
+    "posted_at": "2026-10-30T10:48:03-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "7fc40f2a5effea17"
+  },
+  {
+    "title": "Senior People Business Partner",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8334011?gh_jid=8334011",
+    "location": "Berlin",
+    "posted_at": "2026-10-30T10:31:48-04:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "5949e5909571da8d"
+  },
+  {
+    "company": "OpenAI",
+    "id": "fb7d199136768128",
+    "location": "London, UK",
+    "posted_at": "2026-10-21T23:06:51.805000+00:00",
+    "published_at": "2026-10-30T15:59:53.703791+00:00",
+    "receipts": {
+      "telegram": "109"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
+    "tags": [
+      "Security",
+      "Security"
+    ],
+    "title": "Software Engineer, Privacy Engineering (Lawful Access)",
+    "url": "https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3"
+  },
+  {
+    "company": "Pinterest",
+    "id": "b83ac0cba045c073",
+    "location": "Singapore, SG",
+    "posted_at": "2026-10-22T02:58:11-04:00",
+    "published_at": "2026-10-30T09:18:46.114907+00:00",
+    "receipts": {
+      "telegram": "108"
+    },
+    "regions": [
+      "singapore"
+    ],
+    "remote": false,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Lead Client Account Manager (Entertainment App) - Greater China Region",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8304896"
   },
   {
     "company": "OpenAI",
@@ -1710,46 +1779,5 @@
     ],
     "title": "Mobility Specialist - EMEA",
     "url": "https://jobicy.com/jobs/154311-mobility-specialist-emea"
-  },
-  {
-    "company": "N26",
-    "id": "d20a7ab8b160b30f",
-    "location": "Berlin",
-    "posted_at": "2026-09-29T06:39:50-04:00",
-    "published_at": "2026-10-07T09:33:34.856917+00:00",
-    "receipts": {
-      "telegram": "59"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Data Protection and Governance Manager",
-    "url": "https://n26.com/en-eu/careers/positions/8230033?gh_jid=8230033"
-  },
-  {
-    "company": "OpenAI",
-    "id": "b4ab6d285c806b90",
-    "location": "Singapore",
-    "posted_at": "2026-09-29T17:15:01.186000+00:00",
-    "published_at": "2026-10-06T16:14:54.192127+00:00",
-    "receipts": {
-      "telegram": "58"
-    },
-    "regions": [
-      "singapore"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "User Operations",
-      "Support Delivery"
-    ],
-    "title": "AI Support Engineer - Singapore (Weekend Shift)",
-    "url": "https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6"
   }
 ]
