@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "N26",
+      "id": "a33f9f409b7ce3ac",
+      "location": "Madrid",
+      "posted_at": "2026-10-23T03:45:38-04:00",
+      "published_at": "2026-10-31T09:05:39.915721+00:00",
+      "receipts": {
+        "telegram": "110"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "AFCO Team Lead",
+      "url": "https://n26.com/en-eu/careers/positions/8305489?gh_jid=8305489"
+    },
+    {
       "company": "OpenAI",
       "id": "fb7d199136768128",
       "location": "London, UK",
@@ -2043,21 +2062,6 @@
   ],
   "items": [
     {
-      "company": "N26",
-      "id": "a33f9f409b7ce3ac",
-      "location": "Madrid",
-      "posted_at": "2026-10-23T03:45:38-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "AFCO Team Lead",
-      "url": "https://n26.com/en-eu/careers/positions/8305489?gh_jid=8305489"
-    },
-    {
       "company": "Catawiki",
       "id": "ad0afe3d1ac1d534",
       "location": "Lisbon, Portugal",
@@ -2811,9 +2815,8 @@
       "url": "https://n26.com/en-eu/careers/positions/8334011?gh_jid=8334011"
     }
   ],
-  "last_posted_at": "2026-10-30T15:59:53.703791+00:00",
+  "last_posted_at": "2026-10-31T09:05:39.915721+00:00",
   "posted": {
-    "2026-10-16": 2,
     "2026-10-17": 3,
     "2026-10-18": 3,
     "2026-10-19": 2,
@@ -2827,6 +2830,7 @@
     "2026-10-27": 2,
     "2026-10-28": 2,
     "2026-10-29": 2,
-    "2026-10-30": 2
+    "2026-10-30": 2,
+    "2026-10-31": 1
   }
 }
