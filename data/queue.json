@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "Pinterest",
+      "id": "10dd85e8cb280573",
+      "location": "Remote, US",
+      "posted_at": "2026-10-23T18:25:45-04:00",
+      "published_at": "2026-11-01T16:31:30.947002+00:00",
+      "receipts": {
+        "telegram": "113"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Retail Transformation Lead",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8287192"
+    },
+    {
+      "company": "Pinterest",
       "id": "ba3817fa909fb935",
       "location": "Remote, US",
       "posted_at": "2026-10-23T19:17:00-04:00",
@@ -2101,21 +2120,6 @@
   "items": [
     {
       "company": "Pinterest",
-      "id": "10dd85e8cb280573",
-      "location": "Remote, US",
-      "posted_at": "2026-10-23T18:25:45-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Retail Transformation Lead",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8287192"
-    },
-    {
-      "company": "Pinterest",
       "id": "ad4fcd78b33fd22b",
       "location": "New York, NY, US; Remote, US",
       "posted_at": "2026-10-23T14:34:13-04:00",
@@ -2820,7 +2824,7 @@
       "url": "https://jobs.ashbyhq.com/roboflow/34c551fd-890b-4ee8-acc0-ba199d677988"
     }
   ],
-  "last_posted_at": "2026-11-01T09:54:42.319824+00:00",
+  "last_posted_at": "2026-11-01T16:31:30.947002+00:00",
   "posted": {
     "2026-10-18": 3,
     "2026-10-19": 2,
@@ -2836,6 +2840,6 @@
     "2026-10-29": 2,
     "2026-10-30": 2,
     "2026-10-31": 2,
-    "2026-11-01": 1
+    "2026-11-01": 2
   }
 }
