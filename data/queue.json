@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Pinterest",
+      "id": "ba3817fa909fb935",
+      "location": "Remote, US",
+      "posted_at": "2026-10-23T19:17:00-04:00",
+      "published_at": "2026-11-01T09:54:42.319824+00:00",
+      "receipts": {
+        "telegram": "112"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Manager, Payroll",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8311529"
+    },
+    {
       "company": "Catawiki",
       "id": "ad0afe3d1ac1d534",
       "location": "Lisbon, Portugal",
@@ -2082,21 +2101,6 @@
   "items": [
     {
       "company": "Pinterest",
-      "id": "ba3817fa909fb935",
-      "location": "Remote, US",
-      "posted_at": "2026-10-23T19:17:00-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Sr. Manager, Payroll",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8311529"
-    },
-    {
-      "company": "Pinterest",
       "id": "10dd85e8cb280573",
       "location": "Remote, US",
       "posted_at": "2026-10-23T18:25:45-04:00",
@@ -2816,9 +2820,8 @@
       "url": "https://jobs.ashbyhq.com/roboflow/34c551fd-890b-4ee8-acc0-ba199d677988"
     }
   ],
-  "last_posted_at": "2026-10-31T15:20:56.719666+00:00",
+  "last_posted_at": "2026-11-01T09:54:42.319824+00:00",
   "posted": {
-    "2026-10-17": 3,
     "2026-10-18": 3,
     "2026-10-19": 2,
     "2026-10-20": 2,
@@ -2832,6 +2835,7 @@
     "2026-10-28": 2,
     "2026-10-29": 2,
     "2026-10-30": 2,
-    "2026-10-31": 2
+    "2026-10-31": 2,
+    "2026-11-01": 1
   }
 }
