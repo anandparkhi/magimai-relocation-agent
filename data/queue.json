@@ -2120,96 +2120,6 @@
   "items": [
     {
       "company": "Pinterest",
-      "id": "ad4fcd78b33fd22b",
-      "location": "New York, NY, US; Remote, US",
-      "posted_at": "2026-10-23T14:34:13-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Integrated Marketing Lead, Global Programming & Industry",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268348"
-    },
-    {
-      "company": "Pinterest",
-      "id": "bf5435410c32303d",
-      "location": "Remote, US",
-      "posted_at": "2026-10-23T12:32:42-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Sr. Lead Counsel, Privacy",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8300884"
-    },
-    {
-      "company": "N26",
-      "id": "11668adf91fa8205",
-      "location": "Berlin, Barcelona",
-      "posted_at": "2026-10-23T12:06:57-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Site Reliability Engineer - Infrastructure",
-      "url": "https://n26.com/en-eu/careers/positions/8219953?gh_jid=8219953"
-    },
-    {
-      "company": "Monzo",
-      "id": "67f19823906f37a3",
-      "location": "London",
-      "posted_at": "2026-10-23T07:28:17-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Sponsor your visa",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Lead Product Manager, Growth",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8317753"
-    },
-    {
-      "company": "Monzo",
-      "id": "1afc4a4063861b6e",
-      "location": "London",
-      "posted_at": "2026-10-23T06:32:23-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Sponsor your visa",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Product Manager, Finance",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8212919"
-    },
-    {
-      "company": "Monzo",
-      "id": "96e713f8f5c1c939",
-      "location": "London",
-      "posted_at": "2026-10-23T05:30:03-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Sponsor your visa",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Product Manager, Web Growth",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8312078"
-    },
-    {
-      "company": "Pinterest",
       "id": "78b2bb28076fb578",
       "location": "Remote, US",
       "posted_at": "2026-10-24T09:44:26-04:00",
@@ -2822,6 +2732,21 @@
       ],
       "title": "Sales Operations Analyst",
       "url": "https://jobs.ashbyhq.com/roboflow/34c551fd-890b-4ee8-acc0-ba199d677988"
+    },
+    {
+      "company": "Pinterest",
+      "id": "b684253991cfe6b1",
+      "location": "Singapore, SG",
+      "posted_at": "2026-11-02T02:29:32-05:00",
+      "regions": [
+        "singapore"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Technical Program Manager",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8016646"
     }
   ],
   "last_posted_at": "2026-11-01T16:31:30.947002+00:00",
