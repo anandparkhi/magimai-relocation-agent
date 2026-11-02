@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "Pinterest",
+      "id": "ef5d6272692d8f66",
+      "location": "Remote, US",
+      "posted_at": "2026-10-24T09:44:09-04:00",
+      "published_at": "2026-11-02T20:24:14.742605+00:00",
+      "receipts": {
+        "telegram": "115"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Designer",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268336"
+    },
+    {
+      "company": "Pinterest",
       "id": "78b2bb28076fb578",
       "location": "Remote, US",
       "posted_at": "2026-10-24T09:44:26-04:00",
@@ -2138,21 +2157,6 @@
   ],
   "items": [
     {
-      "company": "Pinterest",
-      "id": "ef5d6272692d8f66",
-      "location": "Remote, US",
-      "posted_at": "2026-10-24T09:44:09-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Designer",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268336"
-    },
-    {
       "company": "OpenAI",
       "id": "df0488ff4843a66b",
       "location": "Munich, Germany",
@@ -2753,7 +2757,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8016646"
     }
   ],
-  "last_posted_at": "2026-11-02T10:19:14.396377+00:00",
+  "last_posted_at": "2026-11-02T20:24:14.742605+00:00",
   "posted": {
     "2026-10-19": 2,
     "2026-10-20": 2,
@@ -2769,6 +2773,6 @@
     "2026-10-30": 2,
     "2026-10-31": 2,
     "2026-11-01": 2,
-    "2026-11-02": 1
+    "2026-11-02": 2
   }
 }
