@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "Pinterest",
+      "id": "78b2bb28076fb578",
+      "location": "Remote, US",
+      "posted_at": "2026-10-24T09:44:26-04:00",
+      "published_at": "2026-11-02T10:19:14.396377+00:00",
+      "receipts": {
+        "telegram": "114"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Strategic Sourcing Specialist II",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8282844"
+    },
+    {
+      "company": "Pinterest",
       "id": "10dd85e8cb280573",
       "location": "Remote, US",
       "posted_at": "2026-10-23T18:25:45-04:00",
@@ -2120,21 +2139,6 @@
   "items": [
     {
       "company": "Pinterest",
-      "id": "78b2bb28076fb578",
-      "location": "Remote, US",
-      "posted_at": "2026-10-24T09:44:26-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Strategic Sourcing Specialist II",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8282844"
-    },
-    {
-      "company": "Pinterest",
       "id": "ef5d6272692d8f66",
       "location": "Remote, US",
       "posted_at": "2026-10-24T09:44:09-04:00",
@@ -2749,9 +2753,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8016646"
     }
   ],
-  "last_posted_at": "2026-11-01T16:31:30.947002+00:00",
+  "last_posted_at": "2026-11-02T10:19:14.396377+00:00",
   "posted": {
-    "2026-10-18": 3,
     "2026-10-19": 2,
     "2026-10-20": 2,
     "2026-10-21": 2,
@@ -2765,6 +2768,7 @@
     "2026-10-29": 2,
     "2026-10-30": 2,
     "2026-10-31": 2,
-    "2026-11-01": 2
+    "2026-11-01": 2,
+    "2026-11-02": 1
   }
 }
