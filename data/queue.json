@@ -1,6 +1,28 @@
 {
   "history": [
     {
+      "company": "OpenAI",
+      "id": "df0488ff4843a66b",
+      "location": "Munich, Germany",
+      "posted_at": "2026-10-26T06:03:15.904000+00:00",
+      "published_at": "2026-11-03T10:18:55.044627+00:00",
+      "receipts": {
+        "telegram": "116"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "OpenAI for Gov",
+        "OpenAI for Gov"
+      ],
+      "title": "Applied AI Architect, OpenAI for Government",
+      "url": "https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b"
+    },
+    {
       "company": "Pinterest",
       "id": "ef5d6272692d8f66",
       "location": "Remote, US",
@@ -2157,24 +2179,6 @@
   ],
   "items": [
     {
-      "company": "OpenAI",
-      "id": "df0488ff4843a66b",
-      "location": "Munich, Germany",
-      "posted_at": "2026-10-26T06:03:15.904000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "OpenAI for Gov",
-        "OpenAI for Gov"
-      ],
-      "title": "Applied AI Architect, OpenAI for Government",
-      "url": "https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b"
-    },
-    {
       "company": "YipitData",
       "id": "f1e8cc657d6bb4c4",
       "location": "USA",
@@ -2802,9 +2806,8 @@
       "url": "https://job-boards.greenhouse.io/catawiki/jobs/8346092"
     }
   ],
-  "last_posted_at": "2026-11-02T20:24:14.742605+00:00",
+  "last_posted_at": "2026-11-03T10:18:55.044627+00:00",
   "posted": {
-    "2026-10-19": 2,
     "2026-10-20": 2,
     "2026-10-21": 2,
     "2026-10-22": 2,
@@ -2818,6 +2821,7 @@
     "2026-10-30": 2,
     "2026-10-31": 2,
     "2026-11-01": 2,
-    "2026-11-02": 2
+    "2026-11-02": 2,
+    "2026-11-03": 1
   }
 }
