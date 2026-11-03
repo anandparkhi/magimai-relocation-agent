@@ -2755,6 +2755,51 @@
       "tags": [],
       "title": "Sr. Technical Program Manager",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8016646"
+    },
+    {
+      "company": "Pinterest",
+      "id": "d90493ed5a7cb0cf",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-11-02T14:18:48-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Staff Machine Learning Engineer, Homefeed",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8279563"
+    },
+    {
+      "company": "Catawiki",
+      "id": "b33f1985cdfc4778",
+      "location": "Lisbon, Portugal",
+      "posted_at": "2026-11-02T09:44:52-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8346093"
+    },
+    {
+      "company": "Catawiki",
+      "id": "e34bcabc6a9d19ff",
+      "location": "Amsterdam, Netherlands",
+      "posted_at": "2026-11-02T09:43:59-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8346092"
     }
   ],
   "last_posted_at": "2026-11-02T20:24:14.742605+00:00",
