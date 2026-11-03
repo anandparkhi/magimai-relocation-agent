@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "YipitData",
+      "id": "f1e8cc657d6bb4c4",
+      "location": "USA",
+      "posted_at": "2026-10-26T04:06:58+00:00",
+      "published_at": "2026-11-03T17:54:42.718637+00:00",
+      "receipts": {
+        "telegram": "117"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Senior Data Engineering Manager",
+      "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager"
+    },
+    {
       "company": "OpenAI",
       "id": "df0488ff4843a66b",
       "location": "Munich, Germany",
@@ -2179,23 +2200,6 @@
   ],
   "items": [
     {
-      "company": "YipitData",
-      "id": "f1e8cc657d6bb4c4",
-      "location": "USA",
-      "posted_at": "2026-10-26T04:06:58+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "jobicy",
-      "tags": [
-        "Software Engineering"
-      ],
-      "title": "Senior Data Engineering Manager",
-      "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager"
-    },
-    {
       "company": "Pinterest",
       "id": "e76681072a2c3dce",
       "location": "San Francisco, CA, US; Remote, US",
@@ -2806,7 +2810,7 @@
       "url": "https://job-boards.greenhouse.io/catawiki/jobs/8346092"
     }
   ],
-  "last_posted_at": "2026-11-03T10:18:55.044627+00:00",
+  "last_posted_at": "2026-11-03T17:54:42.718637+00:00",
   "posted": {
     "2026-10-20": 2,
     "2026-10-21": 2,
@@ -2822,6 +2826,6 @@
     "2026-10-31": 2,
     "2026-11-01": 2,
     "2026-11-02": 2,
-    "2026-11-03": 1
+    "2026-11-03": 2
   }
 }
