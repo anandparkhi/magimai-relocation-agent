@@ -1,40 +1,5 @@
 [
   {
-    "company": "OpenAI",
-    "id": "df0488ff4843a66b",
-    "location": "Munich, Germany",
-    "posted_at": "2026-10-26T06:03:15.904000+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "OpenAI for Gov",
-      "OpenAI for Gov"
-    ],
-    "title": "Applied AI Architect, OpenAI for Government",
-    "url": "https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b"
-  },
-  {
-    "company": "YipitData",
-    "id": "f1e8cc657d6bb4c4",
-    "location": "USA",
-    "posted_at": "2026-10-26T04:06:58+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Software Engineering"
-    ],
-    "title": "Senior Data Engineering Manager",
-    "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager"
-  },
-  {
     "company": "Pinterest",
     "id": "e76681072a2c3dce",
     "location": "San Francisco, CA, US; Remote, US",
@@ -600,11 +565,86 @@
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8016646"
   },
   {
-    "title": "Staff Machine Learning Engineer, Homefeed",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8279563",
+    "id": "d90493ed5a7cb0cf",
     "location": "San Francisco, CA, US; Remote, US",
     "posted_at": "2026-11-02T14:18:48-05:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Staff Machine Learning Engineer, Homefeed",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8279563"
+  },
+  {
+    "company": "Catawiki",
+    "id": "b33f1985cdfc4778",
+    "location": "Lisbon, Portugal",
+    "posted_at": "2026-11-02T09:44:52-05:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Platform Engineer",
+    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8346093"
+  },
+  {
+    "company": "Catawiki",
+    "id": "e34bcabc6a9d19ff",
+    "location": "Amsterdam, Netherlands",
+    "posted_at": "2026-11-02T09:43:59-05:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Platform Engineer",
+    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8346092"
+  },
+  {
+    "title": "Senior Manager Complaints Operations & Service Delivery",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8352134?gh_jid=8352134",
+    "location": "Madrid",
+    "posted_at": "2026-11-04T03:47:44-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "61f2091acd064f72"
+  },
+  {
+    "title": "Business Risk Associate - Finance",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8345813?gh_jid=8345813",
+    "location": "Berlin",
+    "posted_at": "2026-11-03T14:47:28-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "0538368e1442e40d"
+  },
+  {
+    "title": "Motion Designer, PPM SMB",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268342",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-11-03T14:00:40-05:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
@@ -612,37 +652,113 @@
       "remote_us"
     ],
     "signal": "Relocation assistance",
-    "id": "d90493ed5a7cb0cf"
+    "id": "d2d9ff9401e32738"
   },
   {
-    "title": "Platform Engineer",
-    "company": "Catawiki",
-    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8346093",
-    "location": "Lisbon, Portugal",
-    "posted_at": "2026-11-02T09:44:52-05:00",
+    "title": "Lead Digital Producer",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268318",
+    "location": "San Francisco, CA, US; Remote, CA, US",
+    "posted_at": "2026-11-03T10:46:10-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "dfb0ca8bb54414e8"
+  },
+  {
+    "title": "Brand Partnerships Manager, Europe",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268316",
+    "location": "London, UK",
+    "posted_at": "2026-11-03T09:33:17-05:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
     "regions": [
       "europe"
     ],
-    "signal": "Visa sponsorship",
-    "id": "b33f1985cdfc4778"
+    "signal": "Relocation assistance",
+    "id": "70be7ba62981b136"
   },
   {
-    "title": "Platform Engineer",
-    "company": "Catawiki",
-    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8346092",
-    "location": "Amsterdam, Netherlands",
-    "posted_at": "2026-11-02T09:43:59-05:00",
+    "title": "Compliance and Prevention Associate (Complaints Management) (Fluent German)",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8349423?gh_jid=8349423",
+    "location": "Madrid",
+    "posted_at": "2026-11-03T07:52:47-05:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
     "regions": [
       "europe"
     ],
+    "signal": "Relocation package",
+    "id": "66959af7579bb974"
+  },
+  {
+    "title": "Applied AI Engineer, Digital Natives",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294",
+    "location": "London, UK",
+    "posted_at": "2026-11-03T09:51:48.656000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "Go To Market",
+      "Technical Success"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "199a60eca5db7b2b"
+  },
+  {
+    "company": "YipitData",
+    "id": "f1e8cc657d6bb4c4",
+    "location": "USA",
+    "posted_at": "2026-10-26T04:06:58+00:00",
+    "published_at": "2026-11-03T17:54:42.718637+00:00",
+    "receipts": {
+      "telegram": "117"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
     "signal": "Visa sponsorship",
-    "id": "e34bcabc6a9d19ff"
+    "source": "jobicy",
+    "tags": [
+      "Software Engineering"
+    ],
+    "title": "Senior Data Engineering Manager",
+    "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager"
+  },
+  {
+    "company": "OpenAI",
+    "id": "df0488ff4843a66b",
+    "location": "Munich, Germany",
+    "posted_at": "2026-10-26T06:03:15.904000+00:00",
+    "published_at": "2026-11-03T10:18:55.044627+00:00",
+    "receipts": {
+      "telegram": "116"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
+    "tags": [
+      "OpenAI for Gov",
+      "OpenAI for Gov"
+    ],
+    "title": "Applied AI Architect, OpenAI for Government",
+    "url": "https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b"
   },
   {
     "company": "Pinterest",
@@ -1608,45 +1724,5 @@
     "tags": [],
     "title": "Strategy & Operations: Customer Risk Lifecycle",
     "url": "https://n26.com/en-eu/careers/positions/8243302?gh_jid=8243302"
-  },
-  {
-    "company": "GE Vernova",
-    "id": "7d4bd0c4acc0af0c",
-    "location": "USA",
-    "posted_at": "2026-10-03T02:40:27+00:00",
-    "published_at": "2026-10-11T09:30:29.576278+00:00",
-    "receipts": {
-      "telegram": "67"
-    },
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation Assistance",
-    "source": "jobicy",
-    "tags": [
-      "Sales"
-    ],
-    "title": "Power Transformer Sr Sales Mgr. PSS (Product Sales Specialist",
-    "url": "https://jobicy.com/jobs/150014-power-transformer-sr-sales-mgr-pss-product-sales-specialist"
-  },
-  {
-    "company": "N26",
-    "id": "e04c672415ef092d",
-    "location": "Berlin",
-    "posted_at": "2026-10-01T09:27:53-04:00",
-    "published_at": "2026-10-10T15:24:02.542204+00:00",
-    "receipts": {
-      "telegram": "66"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Head of Business Internal Audit",
-    "url": "https://n26.com/en-eu/careers/positions/8239604?gh_jid=8239604"
   }
 ]
