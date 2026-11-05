@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "Pinterest",
+      "id": "8123bae77481d3a1",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-10-27T12:43:09-04:00",
+      "published_at": "2026-11-05T18:02:32.441508+00:00",
+      "receipts": {
+        "telegram": "121"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Engineering Manager II, Runtime Services",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8257181"
+    },
+    {
+      "company": "Pinterest",
       "id": "1040df83e44b40f3",
       "location": "San Francisco, CA, US; Remote, US",
       "posted_at": "2026-10-27T15:51:06-04:00",
@@ -2238,21 +2257,6 @@
   ],
   "items": [
     {
-      "company": "Pinterest",
-      "id": "8123bae77481d3a1",
-      "location": "San Francisco, CA, US; Remote, US",
-      "posted_at": "2026-10-27T12:43:09-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Engineering Manager II, Runtime Services",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8257181"
-    },
-    {
       "company": "Affirm",
       "id": "a1246d1b253328df",
       "location": "Remote Spain",
@@ -3094,7 +3098,7 @@
       "url": "https://n26.com/en-eu/careers/positions/8352287?gh_jid=8352287"
     }
   ],
-  "last_posted_at": "2026-11-05T10:04:34.561004+00:00",
+  "last_posted_at": "2026-11-05T18:02:32.441508+00:00",
   "posted": {
     "2026-10-22": 2,
     "2026-10-23": 2,
@@ -3110,6 +3114,6 @@
     "2026-11-02": 2,
     "2026-11-03": 2,
     "2026-11-04": 1,
-    "2026-11-05": 1
+    "2026-11-05": 2
   }
 }
