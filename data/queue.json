@@ -2920,6 +2920,174 @@
       ],
       "title": "Applied AI Engineer, Digital Natives",
       "url": "https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294"
+    },
+    {
+      "company": "N26",
+      "id": "13c362132c211a59",
+      "location": "Barcelona",
+      "posted_at": "2026-11-05T04:00:18-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Business Strategy Associate - Lending",
+      "url": "https://n26.com/en-eu/careers/positions/8355016?gh_jid=8355016"
+    },
+    {
+      "company": "Pinterest",
+      "id": "ef08ae4677dab3d0",
+      "location": "Singapore, SG",
+      "posted_at": "2026-11-05T02:05:43-05:00",
+      "regions": [
+        "singapore"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Business Intelligence Analyst",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8350415"
+    },
+    {
+      "company": "Catawiki",
+      "id": "1493e1483ba877cd",
+      "location": "Lisbon, Portugal",
+      "posted_at": "2026-11-05T01:00:00-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Engineering Manager - CS Tech",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8354338"
+    },
+    {
+      "company": "Catawiki",
+      "id": "aabf06187a26593e",
+      "location": "Lisbon, Portugal",
+      "posted_at": "2026-11-05T01:00:00-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "UX Designer",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8354353"
+    },
+    {
+      "company": "OpenAI",
+      "id": "bcb0c8261520a8ba",
+      "location": "Singapore",
+      "posted_at": "2026-11-05T05:28:33.044000+00:00",
+      "regions": [
+        "singapore"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Technical Success"
+      ],
+      "title": "AI Deployment Manager - Builder",
+      "url": "https://jobs.ashbyhq.com/openai/c2016d32-1994-471d-8900-1b49259c647c"
+    },
+    {
+      "company": "Samsara",
+      "id": "304eea5faab8173a",
+      "location": "Remote - Canada",
+      "posted_at": "2026-11-04T13:49:35-05:00",
+      "regions": [
+        "canada"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Financial Analyst",
+      "url": "https://www.samsara.com/company/careers/roles/8353530?gh_jid=8353530"
+    },
+    {
+      "company": "Samsara",
+      "id": "2da77640794e4a1d",
+      "location": "Remote - US",
+      "posted_at": "2026-11-04T13:49:33-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Financial Analyst",
+      "url": "https://www.samsara.com/company/careers/roles/8306417?gh_jid=8306417"
+    },
+    {
+      "company": "Pinterest",
+      "id": "cb8bd40f353e9a4c",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-11-04T12:11:59-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Staff Software Engineer, Ads Agent Infra",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8328868"
+    },
+    {
+      "company": "Pinterest",
+      "id": "d85357a872301b00",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-11-04T10:54:46-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Content Enablement Intern 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8334884"
+    },
+    {
+      "company": "N26",
+      "id": "3c6b2565eba31593",
+      "location": "Berlin",
+      "posted_at": "2026-11-04T10:30:45-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Business Strategy Associate - Lending",
+      "url": "https://n26.com/en-eu/careers/positions/8345862?gh_jid=8345862"
+    },
+    {
+      "company": "N26",
+      "id": "3661496087df979e",
+      "location": "Berlin, Barcelona",
+      "posted_at": "2026-11-04T05:53:20-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Site Reliability Engineer - Connectivity",
+      "url": "https://n26.com/en-eu/careers/positions/8352287?gh_jid=8352287"
     }
   ],
   "last_posted_at": "2026-11-04T17:59:28.489848+00:00",
