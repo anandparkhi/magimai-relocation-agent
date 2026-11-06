@@ -2257,96 +2257,6 @@
   ],
   "items": [
     {
-      "company": "Affirm",
-      "id": "a1246d1b253328df",
-      "location": "Remote Spain",
-      "posted_at": "2026-10-27T09:28:02-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Software Engineer, Fullstack (Repayments UX)",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003"
-    },
-    {
-      "company": "Affirm",
-      "id": "3984ef0beae0b7a1",
-      "location": "Remote Spain",
-      "posted_at": "2026-10-27T09:27:01-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Software Engineer II, Fullstack (Repayment UX)",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003"
-    },
-    {
-      "company": "Affirm",
-      "id": "be9ec1a6524d9988",
-      "location": "Remote Spain",
-      "posted_at": "2026-10-27T09:26:42-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Staff Software Engineer, Backend (Recoveries)",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8034645003"
-    },
-    {
-      "company": "Affirm",
-      "id": "6cd945ddd9aeb4c3",
-      "location": "Remote Spain",
-      "posted_at": "2026-10-27T09:26:04-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Manager, Machine Learning Engineering, Checkout",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8041432003"
-    },
-    {
-      "company": "Affirm",
-      "id": "f2acb8a47bfd33d4",
-      "location": "Remote Spain",
-      "posted_at": "2026-10-27T08:29:34-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Manager, Software Engineering (Card)",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003"
-    },
-    {
-      "company": "N26",
-      "id": "4b499e929f7b43ad",
-      "location": "Berlin, Barcelona",
-      "posted_at": "2026-10-27T07:26:16-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Analytics Manager - Grow & Engage",
-      "url": "https://n26.com/en-eu/careers/positions/8305606?gh_jid=8305606"
-    },
-    {
       "company": "OpenAI",
       "id": "3cfbb71cb285cee6",
       "location": "Dublin, Ireland",
@@ -2378,21 +2288,6 @@
       "tags": [],
       "title": "Sr. UX Engineer",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015362"
-    },
-    {
-      "company": "Pinterest",
-      "id": "997db1ab17273ef0",
-      "location": "London, UK",
-      "posted_at": "2026-10-28T05:24:13-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "UK Brand Partnerships Manager",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268312"
     },
     {
       "company": "Pinterest",
@@ -3096,6 +2991,36 @@
       "tags": [],
       "title": "Senior Site Reliability Engineer - Connectivity",
       "url": "https://n26.com/en-eu/careers/positions/8352287?gh_jid=8352287"
+    },
+    {
+      "company": "Samsara",
+      "id": "2e2b16c2a1f8473a",
+      "location": "Remote - US",
+      "posted_at": "2026-11-05T21:09:17-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Software Engineer II",
+      "url": "https://www.samsara.com/company/careers/roles/8354253?gh_jid=8354253"
+    },
+    {
+      "company": "Monzo",
+      "id": "c05eaf2aa26a68f3",
+      "location": "Barcelona; Cardiff, London or Remote (UK)",
+      "posted_at": "2026-11-05T11:20:00-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Data Director, Growth and Marketing",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8336726"
     }
   ],
   "last_posted_at": "2026-11-05T18:02:32.441508+00:00",
