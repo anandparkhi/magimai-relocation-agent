@@ -1,6 +1,28 @@
 {
   "history": [
     {
+      "company": "OpenAI",
+      "id": "3cfbb71cb285cee6",
+      "location": "Dublin, Ireland",
+      "posted_at": "2026-10-28T23:28:31.157000+00:00",
+      "published_at": "2026-11-06T10:09:12.473681+00:00",
+      "receipts": {
+        "telegram": "122"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation support",
+      "source": "ats:ashby",
+      "tags": [
+        "Finance",
+        "Finance"
+      ],
+      "title": "Europe Trade Compliance Lead",
+      "url": "https://jobs.ashbyhq.com/openai/850a0f1b-26ed-462e-9236-22c9f09aa03c"
+    },
+    {
       "company": "Pinterest",
       "id": "8123bae77481d3a1",
       "location": "San Francisco, CA, US; Remote, US",
@@ -2257,24 +2279,6 @@
   ],
   "items": [
     {
-      "company": "OpenAI",
-      "id": "3cfbb71cb285cee6",
-      "location": "Dublin, Ireland",
-      "posted_at": "2026-10-28T23:28:31.157000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Relocation support",
-      "source": "ats:ashby",
-      "tags": [
-        "Finance",
-        "Finance"
-      ],
-      "title": "Europe Trade Compliance Lead",
-      "url": "https://jobs.ashbyhq.com/openai/850a0f1b-26ed-462e-9236-22c9f09aa03c"
-    },
-    {
       "company": "Pinterest",
       "id": "7bd9346cbdecb1ea",
       "location": "San Francisco, CA, USA; Remote, US",
@@ -3023,9 +3027,8 @@
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8336726"
     }
   ],
-  "last_posted_at": "2026-11-05T18:02:32.441508+00:00",
+  "last_posted_at": "2026-11-06T10:09:12.473681+00:00",
   "posted": {
-    "2026-10-22": 2,
     "2026-10-23": 2,
     "2026-10-24": 3,
     "2026-10-25": 2,
@@ -3039,6 +3042,7 @@
     "2026-11-02": 2,
     "2026-11-03": 2,
     "2026-11-04": 1,
-    "2026-11-05": 2
+    "2026-11-05": 2,
+    "2026-11-06": 1
   }
 }
