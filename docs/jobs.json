@@ -1,38 +1,5 @@
 [
   {
-    "company": "OpenAI",
-    "id": "3cfbb71cb285cee6",
-    "location": "Dublin, Ireland",
-    "posted_at": "2026-10-28T23:28:31.157000+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation support",
-    "source": "ats:ashby",
-    "tags": [
-      "Finance",
-      "Finance"
-    ],
-    "title": "Europe Trade Compliance Lead",
-    "url": "https://jobs.ashbyhq.com/openai/850a0f1b-26ed-462e-9236-22c9f09aa03c"
-  },
-  {
-    "company": "Pinterest",
-    "id": "7bd9346cbdecb1ea",
-    "location": "San Francisco, CA, USA; Remote, US",
-    "posted_at": "2026-10-28T15:15:01-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. UX Engineer",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015362"
-  },
-  {
     "company": "Pinterest",
     "id": "7a0bcd57d5996bda",
     "location": "San Francisco, CA, US; Remote, US",
@@ -736,11 +703,58 @@
     "url": "https://n26.com/en-eu/careers/positions/8352287?gh_jid=8352287"
   },
   {
-    "title": "Senior Software Engineer II",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8354253?gh_jid=8354253",
+    "id": "2e2b16c2a1f8473a",
     "location": "Remote - US",
     "posted_at": "2026-11-05T21:09:17-05:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Software Engineer II",
+    "url": "https://www.samsara.com/company/careers/roles/8354253?gh_jid=8354253"
+  },
+  {
+    "company": "Monzo",
+    "id": "c05eaf2aa26a68f3",
+    "location": "Barcelona; Cardiff, London or Remote (UK)",
+    "posted_at": "2026-11-05T11:20:00-05:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Data Director, Growth and Marketing",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/8336726"
+  },
+  {
+    "title": "Director, Strategic Partnerships",
+    "company": "Flex",
+    "url": "https://jobicy.com/jobs/154763-director-strategic-partnerships",
+    "location": "USA",
+    "posted_at": "2026-11-07T03:10:20+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Business Development"
+    ],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "9737b31248598d79"
+  },
+  {
+    "title": "Sr. Product Designer - Measurement, Data, & AI",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8249279",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-11-06T19:11:08-05:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
@@ -748,22 +762,243 @@
       "remote_us"
     ],
     "signal": "Relocation assistance",
-    "id": "2e2b16c2a1f8473a"
+    "id": "a4b450e65f796921"
   },
   {
-    "title": "Data Director, Growth and Marketing",
-    "company": "Monzo",
-    "url": "https://job-boards.greenhouse.io/monzo/jobs/8336726",
-    "location": "Barcelona; Cardiff, London or Remote (UK)",
-    "posted_at": "2026-11-05T11:20:00-05:00",
+    "title": "Sr. Firmware Engineer II",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8289005?gh_jid=8289005",
+    "location": "Remote - US",
+    "posted_at": "2026-11-06T16:58:47-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "36f28cc203dd0e31"
+  },
+  {
+    "title": "Strategy & Operations Intern 2027 (USA)",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8334878",
+    "location": "San Francisco, CA, US; Remote, CA, US",
+    "posted_at": "2026-11-06T14:20:27-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "b39780f03a53f32f"
+  },
+  {
+    "title": "Manager, Firmware Engineering",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8359947?gh_jid=8359947",
+    "location": "Remote - US",
+    "posted_at": "2026-11-06T14:02:56-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "09d56763d0e45790"
+  },
+  {
+    "title": "Senior Partner Account Executive, UK - Insurance",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8359154?gh_jid=8359154",
+    "location": "London, England, United Kingdom",
+    "posted_at": "2026-11-06T10:21:48-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "b68c420e85fd1e44"
+  },
+  {
+    "title": "Enterprise Customer Success Manager",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8359136?gh_jid=8359136",
+    "location": "Remote - Germany",
+    "posted_at": "2026-11-06T10:12:21-05:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
     "regions": [
       "europe"
     ],
-    "signal": "Visa sponsorship",
-    "id": "c05eaf2aa26a68f3"
+    "signal": "Relocation assistance",
+    "id": "1e841a6cc3e50191"
+  },
+  {
+    "title": "Account Development Representative - France",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8359060?gh_jid=8359060",
+    "location": "Remote - France",
+    "posted_at": "2026-11-06T09:43:07-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "5acc3bd71dcb6572"
+  },
+  {
+    "title": "AFC Associate - SAR Delegate",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8345614?gh_jid=8345614",
+    "location": "Madrid",
+    "posted_at": "2026-11-06T08:42:22-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "687590b5e1a39f3e"
+  },
+  {
+    "title": "AFC Associate - SAR Writer",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8345616?gh_jid=8345616",
+    "location": "Madrid",
+    "posted_at": "2026-11-06T08:40:01-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "67037a576936a342"
+  },
+  {
+    "title": "Senior Software Engineer II",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8358709?gh_jid=8358709",
+    "location": "Remote - Canada",
+    "posted_at": "2026-11-06T07:23:04-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "canada"
+    ],
+    "signal": "Relocation assistance",
+    "id": "c52602688cce9c2c"
+  },
+  {
+    "title": "Director, Product Design",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8358663?gh_jid=8358663",
+    "location": "Remote - US",
+    "posted_at": "2026-11-06T07:03:26-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "d6e6b4d174181d98"
+  },
+  {
+    "title": "Senior Manager, Safety AI",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8358654?gh_jid=8358654",
+    "location": "Remote - US",
+    "posted_at": "2026-11-06T06:52:44-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "5bfb87605b5dc15b"
+  },
+  {
+    "title": "Staff Machine Learning Engineer - Edge AI",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8358618?gh_jid=8358618",
+    "location": "Remote - Canada",
+    "posted_at": "2026-11-06T06:32:01-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "canada"
+    ],
+    "signal": "Relocation assistance",
+    "id": "0f762ceb5b5eb787"
+  },
+  {
+    "title": "Staff Machine Learning Engineer - Edge AI",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8358617?gh_jid=8358617",
+    "location": "Remote - US",
+    "posted_at": "2026-11-06T06:30:57-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "8992f89ded6a6596"
+  },
+  {
+    "company": "Pinterest",
+    "id": "7bd9346cbdecb1ea",
+    "location": "San Francisco, CA, USA; Remote, US",
+    "posted_at": "2026-10-28T15:15:01-04:00",
+    "published_at": "2026-11-06T17:31:10.085573+00:00",
+    "receipts": {
+      "telegram": "123"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Sr. UX Engineer",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015362"
+  },
+  {
+    "company": "OpenAI",
+    "id": "3cfbb71cb285cee6",
+    "location": "Dublin, Ireland",
+    "posted_at": "2026-10-28T23:28:31.157000+00:00",
+    "published_at": "2026-11-06T10:09:12.473681+00:00",
+    "receipts": {
+      "telegram": "122"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Relocation support",
+    "source": "ats:ashby",
+    "tags": [
+      "Finance",
+      "Finance"
+    ],
+    "title": "Europe Trade Compliance Lead",
+    "url": "https://jobs.ashbyhq.com/openai/850a0f1b-26ed-462e-9236-22c9f09aa03c"
   },
   {
     "company": "Pinterest",
@@ -1730,43 +1965,5 @@
     ],
     "title": "Sales Manager - Americas",
     "url": "https://jobicy.com/jobs/152607-sales-manager-americas"
-  },
-  {
-    "company": "N26",
-    "id": "00cd5ead7206c100",
-    "location": "Berlin",
-    "posted_at": "2026-10-06T04:03:12-04:00",
-    "published_at": "2026-10-13T17:15:28.615213+00:00",
-    "receipts": {
-      "telegram": "72"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Marketing Program Manager",
-    "url": "https://n26.com/en-eu/careers/positions/7938980?gh_jid=7938980"
-  },
-  {
-    "company": "N26",
-    "id": "a064d90e72aebf24",
-    "location": "Barcelona",
-    "posted_at": "2026-10-05T04:44:08-04:00",
-    "published_at": "2026-10-13T09:53:39.444687+00:00",
-    "receipts": {
-      "telegram": "71"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Strategy & Operations Associate: Customer Risk Lifecycle",
-    "url": "https://n26.com/en-eu/careers/positions/8255715?gh_jid=8255715"
   }
 ]
