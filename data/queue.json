@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Simon Data",
+      "id": "86fe9a96f7677300",
+      "location": "USA",
+      "posted_at": "2026-10-31T03:30:07+00:00",
+      "published_at": "2026-11-08T09:43:03.672191+00:00",
+      "receipts": {
+        "telegram": "126"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Senior Account Executive",
+      "url": "https://jobicy.com/jobs/142136-senior-account-executive-4"
+    },
+    {
       "company": "Pinterest",
       "id": "2945bda8570b441f",
       "location": "Paris, FR",
@@ -2336,23 +2357,6 @@
   ],
   "items": [
     {
-      "company": "Simon Data",
-      "id": "86fe9a96f7677300",
-      "location": "USA",
-      "posted_at": "2026-10-31T03:30:07+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "jobicy",
-      "tags": [
-        "Sales"
-      ],
-      "title": "Senior Account Executive",
-      "url": "https://jobicy.com/jobs/142136-senior-account-executive-4"
-    },
-    {
       "company": "Pinterest",
       "id": "1087e84a9022c364",
       "location": "San Francisco, CA, US; Remote, US",
@@ -3285,9 +3289,8 @@
       "url": "https://job-boards.greenhouse.io/flex/jobs/4751411005"
     }
   ],
-  "last_posted_at": "2026-11-07T15:52:52.820001+00:00",
+  "last_posted_at": "2026-11-08T09:43:03.672191+00:00",
   "posted": {
-    "2026-10-24": 3,
     "2026-10-25": 2,
     "2026-10-26": 2,
     "2026-10-27": 2,
@@ -3301,6 +3304,7 @@
     "2026-11-04": 1,
     "2026-11-05": 2,
     "2026-11-06": 2,
-    "2026-11-07": 2
+    "2026-11-07": 2,
+    "2026-11-08": 1
   }
 }
