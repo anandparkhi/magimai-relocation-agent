@@ -1,174 +1,5 @@
 [
   {
-    "company": "Simon Data",
-    "id": "86fe9a96f7677300",
-    "location": "USA",
-    "posted_at": "2026-10-31T03:30:07+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Sales"
-    ],
-    "title": "Senior Account Executive",
-    "url": "https://jobicy.com/jobs/142136-senior-account-executive-4"
-  },
-  {
-    "company": "Pinterest",
-    "id": "1087e84a9022c364",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-10-30T15:58:25-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Staff Motion Designer, Design Innovation",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8302281"
-  },
-  {
-    "company": "Pinterest",
-    "id": "7594da1630e4da82",
-    "location": "Seattle, WA, USA; Remote, US",
-    "posted_at": "2026-10-30T15:58:07-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. Staff Qualitative Product Researcher, Ads",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8247874"
-  },
-  {
-    "company": "Pinterest",
-    "id": "8e02e771c5e292f0",
-    "location": "Paris, FR",
-    "posted_at": "2026-10-30T15:07:12-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. Insights Solutions Partner",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8207271"
-  },
-  {
-    "company": "Pinterest",
-    "id": "5b2f9c91c3c23f12",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-10-30T14:41:06-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Business Development Lead",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8119896"
-  },
-  {
-    "company": "Pinterest",
-    "id": "551c4479f7eab110",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-10-30T14:34:56-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Business Development, AI Product Partnerships",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8319154"
-  },
-  {
-    "company": "Veeam Software",
-    "id": "d6b6ab1278a76971",
-    "location": "USA",
-    "posted_at": "2026-10-30T18:07:10+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Legal & Compliance"
-    ],
-    "title": "Senior Counsel, Americas Employment",
-    "url": "https://jobicy.com/jobs/158123-senior-counsel-americas-employment"
-  },
-  {
-    "company": "Pinterest",
-    "id": "7c2ca70cf21effc6",
-    "location": "Chicago, IL, US; Remote, US",
-    "posted_at": "2026-10-30T12:46:30-04:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Staff Qualitative Product Researcher, Ads Integrity",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8248057"
-  },
-  {
-    "company": "N26",
-    "id": "c0b23ae2659d8aa3",
-    "location": "Madrid",
-    "posted_at": "2026-10-30T10:51:55-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Complaints Audit Manager - Fluent German",
-    "url": "https://n26.com/en-eu/careers/positions/8336867?gh_jid=8336867"
-  },
-  {
-    "company": "N26",
-    "id": "7fc40f2a5effea17",
-    "location": "Barcelona",
-    "posted_at": "2026-10-30T10:48:03-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior People Business Partner",
-    "url": "https://n26.com/en-eu/careers/positions/8336853?gh_jid=8336853"
-  },
-  {
-    "company": "N26",
-    "id": "5949e5909571da8d",
-    "location": "Berlin",
-    "posted_at": "2026-10-30T10:31:48-04:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior People Business Partner",
-    "url": "https://n26.com/en-eu/careers/positions/8334011?gh_jid=8334011"
-  },
-  {
     "company": "Roboflow",
     "id": "eace333c946e5bef",
     "location": "USA",
@@ -900,53 +731,141 @@
     "url": "https://www.samsara.com/company/careers/roles/8358617?gh_jid=8358617"
   },
   {
-    "title": "Data Scientist, Corporate",
     "company": "YipitData",
-    "url": "https://jobicy.com/jobs/154813-data-scientist-corporate",
+    "id": "455b10ac7178ce3e",
     "location": "USA",
     "posted_at": "2026-11-08T03:00:05+00:00",
-    "source": "jobicy",
+    "regions": [
+      "remote_us"
+    ],
     "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "jobicy",
     "tags": [
       "Data Science & Analytics"
     ],
+    "title": "Data Scientist, Corporate",
+    "url": "https://jobicy.com/jobs/154813-data-scientist-corporate"
+  },
+  {
+    "company": "YipitData",
+    "id": "1527a225985e258c",
+    "location": "USA",
+    "posted_at": "2026-11-08T03:00:03+00:00",
     "regions": [
       "remote_us"
     ],
-    "signal": "Visa sponsorship",
-    "id": "455b10ac7178ce3e"
-  },
-  {
-    "title": "Business Development Associate",
-    "company": "YipitData",
-    "url": "https://jobicy.com/jobs/154811-business-development-associate",
-    "location": "USA",
-    "posted_at": "2026-11-08T03:00:03+00:00",
-    "source": "jobicy",
     "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "jobicy",
     "tags": [
       "Business Development"
     ],
+    "title": "Business Development Associate",
+    "url": "https://jobicy.com/jobs/154811-business-development-associate"
+  },
+  {
+    "company": "Flex",
+    "id": "aa5e208c18929608",
+    "location": "Remote - Global",
+    "posted_at": "2026-11-06T11:18:07-05:00",
     "regions": [
       "remote_us"
     ],
-    "signal": "Visa sponsorship",
-    "id": "1527a225985e258c"
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Engineering Manager, Consumer / New Verticals",
+    "url": "https://job-boards.greenhouse.io/flex/jobs/4751411005"
   },
   {
-    "title": "Senior Engineering Manager, Consumer / New Verticals",
-    "company": "Flex",
-    "url": "https://job-boards.greenhouse.io/flex/jobs/4751411005",
-    "location": "Remote - Global",
-    "posted_at": "2026-11-06T11:18:07-05:00",
+    "title": "Analytics Engineering Manager, FinCrime",
+    "company": "Monzo",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/8281171",
+    "location": "Cardiff, London or Remote (UK); London; Remote (UK)",
+    "posted_at": "2026-11-09T04:08:37-05:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
     "regions": [
-      "remote_us"
+      "europe"
+    ],
+    "signal": "Sponsor your visa",
+    "id": "58862fe66efcc992"
+  },
+  {
+    "title": "Complaints Audit Manager",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8364763?gh_jid=8364763",
+    "location": "Madrid",
+    "posted_at": "2026-11-09T02:45:54-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "LLM: Relocation package and visa support explicitly offered",
+    "id": "48738a741707ae9d"
+  },
+  {
+    "title": "Manager, Forward Deployed Engineering - Munich",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/5d5b2256-ee0f-4ba6-a983-d62d0d70515d",
+    "location": "Munich, Germany",
+    "posted_at": "2026-11-09T01:20:20.424000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "Forward Deployed Engineering",
+      "Forward Deployed Engineering"
+    ],
+    "regions": [
+      "europe"
     ],
     "signal": "Relocation assistance",
-    "id": "aa5e208c18929608"
+    "id": "726437122e7d69ed"
+  },
+  {
+    "company": "Pinterest",
+    "id": "1087e84a9022c364",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-10-30T15:58:25-04:00",
+    "published_at": "2026-11-08T16:27:37.300789+00:00",
+    "receipts": {
+      "telegram": "127"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Staff Motion Designer, Design Innovation",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8302281"
+  },
+  {
+    "company": "Simon Data",
+    "id": "86fe9a96f7677300",
+    "location": "USA",
+    "posted_at": "2026-10-31T03:30:07+00:00",
+    "published_at": "2026-11-08T09:43:03.672191+00:00",
+    "receipts": {
+      "telegram": "126"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "jobicy",
+    "tags": [
+      "Sales"
+    ],
+    "title": "Senior Account Executive",
+    "url": "https://jobicy.com/jobs/142136-senior-account-executive-4"
   },
   {
     "company": "Pinterest",
@@ -1910,45 +1829,5 @@
     ],
     "title": "Applied AI Engineer, Codex",
     "url": "https://jobs.ashbyhq.com/openai/02ec1893-17df-420c-8d19-48eca8edd884"
-  },
-  {
-    "company": "N26",
-    "id": "647ab2c0e43f0523",
-    "location": "Berlin",
-    "posted_at": "2026-10-06T11:47:53-04:00",
-    "published_at": "2026-10-15T12:58:09.240546+00:00",
-    "receipts": {
-      "telegram": "76"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior Internal Communications Specialist (Parental leave cover until October 2028)",
-    "url": "https://n26.com/en-eu/careers/positions/8245528?gh_jid=8245528"
-  },
-  {
-    "company": "Samsara",
-    "id": "0b852ec45833812d",
-    "location": "USA",
-    "posted_at": "2026-10-07T04:20:30+00:00",
-    "published_at": "2026-10-15T07:51:28.092768+00:00",
-    "receipts": {
-      "telegram": "75"
-    },
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "jobicy",
-    "tags": [
-      "Finance & Accounting"
-    ],
-    "title": "Pricing and Revenue Planner",
-    "url": "https://jobicy.com/jobs/145308-pricing-and-revenue-planner"
   }
 ]

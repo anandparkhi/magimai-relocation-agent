@@ -2376,143 +2376,6 @@
   ],
   "items": [
     {
-      "company": "Pinterest",
-      "id": "7594da1630e4da82",
-      "location": "Seattle, WA, USA; Remote, US",
-      "posted_at": "2026-10-30T15:58:07-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Sr. Staff Qualitative Product Researcher, Ads",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8247874"
-    },
-    {
-      "company": "Pinterest",
-      "id": "8e02e771c5e292f0",
-      "location": "Paris, FR",
-      "posted_at": "2026-10-30T15:07:12-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Sr. Insights Solutions Partner",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8207271"
-    },
-    {
-      "company": "Pinterest",
-      "id": "5b2f9c91c3c23f12",
-      "location": "San Francisco, CA, US; Remote, US",
-      "posted_at": "2026-10-30T14:41:06-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Business Development Lead",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8119896"
-    },
-    {
-      "company": "Pinterest",
-      "id": "551c4479f7eab110",
-      "location": "San Francisco, CA, US; Remote, US",
-      "posted_at": "2026-10-30T14:34:56-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Business Development, AI Product Partnerships",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8319154"
-    },
-    {
-      "company": "Veeam Software",
-      "id": "d6b6ab1278a76971",
-      "location": "USA",
-      "posted_at": "2026-10-30T18:07:10+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "jobicy",
-      "tags": [
-        "Legal & Compliance"
-      ],
-      "title": "Senior Counsel, Americas Employment",
-      "url": "https://jobicy.com/jobs/158123-senior-counsel-americas-employment"
-    },
-    {
-      "company": "Pinterest",
-      "id": "7c2ca70cf21effc6",
-      "location": "Chicago, IL, US; Remote, US",
-      "posted_at": "2026-10-30T12:46:30-04:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Staff Qualitative Product Researcher, Ads Integrity",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8248057"
-    },
-    {
-      "company": "N26",
-      "id": "c0b23ae2659d8aa3",
-      "location": "Madrid",
-      "posted_at": "2026-10-30T10:51:55-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Complaints Audit Manager - Fluent German",
-      "url": "https://n26.com/en-eu/careers/positions/8336867?gh_jid=8336867"
-    },
-    {
-      "company": "N26",
-      "id": "7fc40f2a5effea17",
-      "location": "Barcelona",
-      "posted_at": "2026-10-30T10:48:03-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior People Business Partner",
-      "url": "https://n26.com/en-eu/careers/positions/8336853?gh_jid=8336853"
-    },
-    {
-      "company": "N26",
-      "id": "5949e5909571da8d",
-      "location": "Berlin",
-      "posted_at": "2026-10-30T10:31:48-04:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior People Business Partner",
-      "url": "https://n26.com/en-eu/careers/positions/8334011?gh_jid=8334011"
-    },
-    {
       "company": "Roboflow",
       "id": "eace333c946e5bef",
       "location": "USA",
@@ -3291,6 +3154,54 @@
       "tags": [],
       "title": "Senior Engineering Manager, Consumer / New Verticals",
       "url": "https://job-boards.greenhouse.io/flex/jobs/4751411005"
+    },
+    {
+      "company": "Monzo",
+      "id": "58862fe66efcc992",
+      "location": "Cardiff, London or Remote (UK); London; Remote (UK)",
+      "posted_at": "2026-11-09T04:08:37-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Sponsor your visa",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Analytics Engineering Manager, FinCrime",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8281171"
+    },
+    {
+      "company": "N26",
+      "id": "48738a741707ae9d",
+      "location": "Madrid",
+      "posted_at": "2026-11-09T02:45:54-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "LLM: Relocation package and visa support explicitly offered",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Complaints Audit Manager",
+      "url": "https://n26.com/en-eu/careers/positions/8364763?gh_jid=8364763"
+    },
+    {
+      "company": "OpenAI",
+      "id": "726437122e7d69ed",
+      "location": "Munich, Germany",
+      "posted_at": "2026-11-09T01:20:20.424000+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Forward Deployed Engineering",
+        "Forward Deployed Engineering"
+      ],
+      "title": "Manager, Forward Deployed Engineering - Munich",
+      "url": "https://jobs.ashbyhq.com/openai/5d5b2256-ee0f-4ba6-a983-d62d0d70515d"
     }
   ],
   "last_posted_at": "2026-11-08T16:27:37.300789+00:00",
