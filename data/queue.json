@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Roboflow",
+      "id": "eace333c946e5bef",
+      "location": "USA",
+      "posted_at": "2026-11-01T04:32:42+00:00",
+      "published_at": "2026-11-09T10:39:32.821827+00:00",
+      "receipts": {
+        "telegram": "128"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation bonus",
+      "source": "jobicy",
+      "tags": [
+        "Product & Operations"
+      ],
+      "title": "Sales Operations Analyst",
+      "url": "https://jobicy.com/jobs/158294-sales-operations-analyst"
+    },
+    {
       "company": "Pinterest",
       "id": "1087e84a9022c364",
       "location": "San Francisco, CA, US; Remote, US",
@@ -2377,23 +2398,6 @@
   "items": [
     {
       "company": "Roboflow",
-      "id": "eace333c946e5bef",
-      "location": "USA",
-      "posted_at": "2026-11-01T04:32:42+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation bonus",
-      "source": "jobicy",
-      "tags": [
-        "Product & Operations"
-      ],
-      "title": "Sales Operations Analyst",
-      "url": "https://jobicy.com/jobs/158294-sales-operations-analyst"
-    },
-    {
-      "company": "Roboflow",
       "id": "ab74981648a211a7",
       "location": "USA",
       "posted_at": "2026-11-01T04:32:11+00:00",
@@ -3204,9 +3208,8 @@
       "url": "https://jobs.ashbyhq.com/openai/5d5b2256-ee0f-4ba6-a983-d62d0d70515d"
     }
   ],
-  "last_posted_at": "2026-11-08T16:27:37.300789+00:00",
+  "last_posted_at": "2026-11-09T10:39:32.821827+00:00",
   "posted": {
-    "2026-10-25": 2,
     "2026-10-26": 2,
     "2026-10-27": 2,
     "2026-10-28": 2,
@@ -3220,6 +3223,7 @@
     "2026-11-05": 2,
     "2026-11-06": 2,
     "2026-11-07": 2,
-    "2026-11-08": 2
+    "2026-11-08": 2,
+    "2026-11-09": 1
   }
 }
