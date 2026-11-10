@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "Pinterest",
+      "id": "d90493ed5a7cb0cf",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-11-02T14:18:48-05:00",
+      "published_at": "2026-11-10T18:12:58.529072+00:00",
+      "receipts": {
+        "telegram": "131"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Staff Machine Learning Engineer, Homefeed",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8279563"
+    },
+    {
+      "company": "Pinterest",
       "id": "b684253991cfe6b1",
       "location": "Singapore, SG",
       "posted_at": "2026-11-02T02:29:32-05:00",
@@ -2437,21 +2456,6 @@
   ],
   "items": [
     {
-      "company": "Pinterest",
-      "id": "d90493ed5a7cb0cf",
-      "location": "San Francisco, CA, US; Remote, US",
-      "posted_at": "2026-11-02T14:18:48-05:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Staff Machine Learning Engineer, Homefeed",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8279563"
-    },
-    {
       "company": "Catawiki",
       "id": "b33f1985cdfc4778",
       "location": "Lisbon, Portugal",
@@ -3227,7 +3231,7 @@
       "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5030833101"
     }
   ],
-  "last_posted_at": "2026-11-10T10:37:47.232714+00:00",
+  "last_posted_at": "2026-11-10T18:12:58.529072+00:00",
   "posted": {
     "2026-10-27": 2,
     "2026-10-28": 2,
@@ -3243,6 +3247,6 @@
     "2026-11-07": 2,
     "2026-11-08": 2,
     "2026-11-09": 2,
-    "2026-11-10": 1
+    "2026-11-10": 2
   }
 }
