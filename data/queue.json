@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "Catawiki",
+      "id": "e34bcabc6a9d19ff",
+      "location": "Amsterdam, Netherlands",
+      "posted_at": "2026-11-02T09:43:59-05:00",
+      "published_at": "2026-11-11T17:54:29.160981+00:00",
+      "receipts": {
+        "telegram": "133"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8346092"
+    },
+    {
+      "company": "Catawiki",
       "id": "b33f1985cdfc4778",
       "location": "Lisbon, Portugal",
       "posted_at": "2026-11-02T09:44:52-05:00",
@@ -2475,21 +2494,6 @@
   ],
   "items": [
     {
-      "company": "Catawiki",
-      "id": "e34bcabc6a9d19ff",
-      "location": "Amsterdam, Netherlands",
-      "posted_at": "2026-11-02T09:43:59-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Platform Engineer",
-      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8346092"
-    },
-    {
       "company": "N26",
       "id": "61f2091acd064f72",
       "location": "Madrid",
@@ -3313,7 +3317,7 @@
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8370845"
     }
   ],
-  "last_posted_at": "2026-11-11T10:03:38.513644+00:00",
+  "last_posted_at": "2026-11-11T17:54:29.160981+00:00",
   "posted": {
     "2026-10-28": 2,
     "2026-10-29": 2,
@@ -3329,6 +3333,6 @@
     "2026-11-08": 2,
     "2026-11-09": 2,
     "2026-11-10": 2,
-    "2026-11-11": 1
+    "2026-11-11": 2
   }
 }
