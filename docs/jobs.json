@@ -1,35 +1,5 @@
 [
   {
-    "company": "Catawiki",
-    "id": "b33f1985cdfc4778",
-    "location": "Lisbon, Portugal",
-    "posted_at": "2026-11-02T09:44:52-05:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Visa sponsorship",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Platform Engineer",
-    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8346093"
-  },
-  {
-    "company": "Catawiki",
-    "id": "e34bcabc6a9d19ff",
-    "location": "Amsterdam, Netherlands",
-    "posted_at": "2026-11-02T09:43:59-05:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Visa sponsorship",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Platform Engineer",
-    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8346092"
-  },
-  {
     "company": "N26",
     "id": "61f2091acd064f72",
     "location": "Madrid",
@@ -118,24 +88,6 @@
     "tags": [],
     "title": "Compliance and Prevention Associate (Complaints Management) (Fluent German)",
     "url": "https://n26.com/en-eu/careers/positions/8349423?gh_jid=8349423"
-  },
-  {
-    "company": "OpenAI",
-    "id": "199a60eca5db7b2b",
-    "location": "London, UK",
-    "posted_at": "2026-11-03T09:51:48.656000+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Go To Market",
-      "Technical Success"
-    ],
-    "title": "Applied AI Engineer, Digital Natives",
-    "url": "https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294"
   },
   {
     "company": "N26",
@@ -775,44 +727,89 @@
     "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5030833101"
   },
   {
-    "title": "Manager II, Software Engineering",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8376044?gh_jid=8376044",
+    "id": "c60cf80fa1d5c87c",
     "location": "Remote - Canada",
     "posted_at": "2026-11-10T20:58:59-05:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "canada"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "c60cf80fa1d5c87c"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Manager II, Software Engineering",
+    "url": "https://www.samsara.com/company/careers/roles/8376044?gh_jid=8376044"
   },
   {
-    "title": "Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore",
     "company": "OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/1ddf1fcf-a647-4016-92c3-2da4b45d1b15",
+    "id": "3b1a5ba471fd2884",
     "location": "Singapore",
     "posted_at": "2026-11-11T01:05:49.148000+00:00",
-    "source": "ats:ashby",
+    "regions": [
+      "singapore"
+    ],
     "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
     "tags": [
       "Forward Deployed Engineering",
       "Forward Deployed Engineering"
     ],
-    "regions": [
-      "singapore"
-    ],
-    "signal": "Relocation assistance",
-    "id": "3b1a5ba471fd2884"
+    "title": "Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore",
+    "url": "https://jobs.ashbyhq.com/openai/1ddf1fcf-a647-4016-92c3-2da4b45d1b15"
   },
   {
-    "title": "Staff Security Software Engineer, Detection & Response",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8230775",
+    "id": "21d28edbb5a8dcaf",
     "location": "Seattle, WA, US; Remote, US",
     "posted_at": "2026-11-10T16:23:25-05:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Staff Security Software Engineer, Detection & Response",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8230775"
+  },
+  {
+    "company": "N26",
+    "id": "779a5028c31f4be4",
+    "location": "Berlin",
+    "posted_at": "2026-11-10T09:37:12-05:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Legal Counsel, Employment Law",
+    "url": "https://n26.com/en-eu/careers/positions/8370910?gh_jid=8370910"
+  },
+  {
+    "company": "Monzo",
+    "id": "7ab1ad273b08399c",
+    "location": "Cardiff, London or Remote (UK); London",
+    "posted_at": "2026-11-10T05:29:18-05:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Sponsor your visa",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Lead Product Manager",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/8370845"
+  },
+  {
+    "title": "Staff Product Manager, App Install",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7940537",
+    "location": "San Francisco, CA, US; Seattle, WA, US; Remote, US",
+    "posted_at": "2026-11-11T21:12:44-05:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
@@ -820,14 +817,29 @@
       "remote_us"
     ],
     "signal": "Relocation assistance",
-    "id": "21d28edbb5a8dcaf"
+    "id": "dcd51b90737c5745"
   },
   {
-    "title": "Senior Legal Counsel, Employment Law",
+    "title": "Supply Chain Program Manager",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8327792?gh_jid=8327792",
+    "location": "Remote - US",
+    "posted_at": "2026-11-11T18:45:25-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "a43f4b9dc3dad09e"
+  },
+  {
+    "title": "Senior Product Marketing Manager",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8370910?gh_jid=8370910",
-    "location": "Berlin",
-    "posted_at": "2026-11-10T09:37:12-05:00",
+    "url": "https://n26.com/en-eu/careers/positions/8364836?gh_jid=8364836",
+    "location": "Barcelona ",
+    "posted_at": "2026-11-11T11:59:24-05:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
@@ -835,22 +847,75 @@
       "europe"
     ],
     "signal": "Relocation package",
-    "id": "779a5028c31f4be4"
+    "id": "7a1c07e94dfbe34c"
   },
   {
-    "title": "Lead Product Manager",
-    "company": "Monzo",
-    "url": "https://job-boards.greenhouse.io/monzo/jobs/8370845",
-    "location": "Cardiff, London or Remote (UK); London",
-    "posted_at": "2026-11-10T05:29:18-05:00",
+    "title": "Compliance Manager",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8378553?gh_jid=8378553",
+    "location": "Berlin",
+    "posted_at": "2026-11-11T08:36:09-05:00",
     "source": "ats:greenhouse",
-    "remote": true,
+    "remote": false,
     "tags": [],
     "regions": [
       "europe"
     ],
-    "signal": "Sponsor your visa",
-    "id": "7ab1ad273b08399c"
+    "signal": "Relocation package",
+    "id": "e9a0811378f6731e"
+  },
+  {
+    "title": "Site Reliability Engineer - Data Platform",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8378357?gh_jid=8378357",
+    "location": "Barcelona, Berlin",
+    "posted_at": "2026-11-11T07:33:58-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "1187dbbe932b2db4"
+  },
+  {
+    "company": "Catawiki",
+    "id": "e34bcabc6a9d19ff",
+    "location": "Amsterdam, Netherlands",
+    "posted_at": "2026-11-02T09:43:59-05:00",
+    "published_at": "2026-11-11T17:54:29.160981+00:00",
+    "receipts": {
+      "telegram": "133"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Platform Engineer",
+    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8346092"
+  },
+  {
+    "company": "Catawiki",
+    "id": "b33f1985cdfc4778",
+    "location": "Lisbon, Portugal",
+    "posted_at": "2026-11-02T09:44:52-05:00",
+    "published_at": "2026-11-11T10:03:38.513644+00:00",
+    "receipts": {
+      "telegram": "132"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Platform Engineer",
+    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8346093"
   },
   {
     "company": "Pinterest",
@@ -1812,46 +1877,5 @@
     ],
     "title": "Strategic Customer Success Manager - MarTech / AdTech, US",
     "url": "https://jobicy.com/jobs/149033-strategic-customer-success-manager-martech-adtech-us"
-  },
-  {
-    "company": "OpenAI",
-    "id": "f911fc01c71a82c7",
-    "location": "Dublin, Ireland",
-    "posted_at": "2026-10-09T12:29:29.399000+00:00",
-    "published_at": "2026-10-18T07:34:49.099433+00:00",
-    "receipts": {
-      "telegram": "82"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Go To Market",
-      "Ads Solutions"
-    ],
-    "title": "Customer Success Manager - Ads Solutions (Spanish speaking)",
-    "url": "https://jobs.ashbyhq.com/openai/95283afd-0a20-4e15-9034-d34e88b66e5d"
-  },
-  {
-    "company": "N26",
-    "id": "94013074f91960b2",
-    "location": "Berlin",
-    "posted_at": "2026-10-09T16:28:16-04:00",
-    "published_at": "2026-10-17T14:41:31.960525+00:00",
-    "receipts": {
-      "telegram": "81"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Lead Technical Product Manager — Machine Learning Platform",
-    "url": "https://n26.com/en-eu/careers/positions/8267143?gh_jid=8267143"
   }
 ]

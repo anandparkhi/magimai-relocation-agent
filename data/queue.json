@@ -2584,24 +2584,6 @@
       "url": "https://n26.com/en-eu/careers/positions/8349423?gh_jid=8349423"
     },
     {
-      "company": "OpenAI",
-      "id": "199a60eca5db7b2b",
-      "location": "London, UK",
-      "posted_at": "2026-11-03T09:51:48.656000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Go To Market",
-        "Technical Success"
-      ],
-      "title": "Applied AI Engineer, Digital Natives",
-      "url": "https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294"
-    },
-    {
       "company": "N26",
       "id": "13c362132c211a59",
       "location": "Barcelona",
@@ -3315,6 +3297,81 @@
       "tags": [],
       "title": "Lead Product Manager",
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8370845"
+    },
+    {
+      "company": "Pinterest",
+      "id": "dcd51b90737c5745",
+      "location": "San Francisco, CA, US; Seattle, WA, US; Remote, US",
+      "posted_at": "2026-11-11T21:12:44-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Staff Product Manager, App Install",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7940537"
+    },
+    {
+      "company": "Samsara",
+      "id": "a43f4b9dc3dad09e",
+      "location": "Remote - US",
+      "posted_at": "2026-11-11T18:45:25-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Supply Chain Program Manager",
+      "url": "https://www.samsara.com/company/careers/roles/8327792?gh_jid=8327792"
+    },
+    {
+      "company": "N26",
+      "id": "7a1c07e94dfbe34c",
+      "location": "Barcelona ",
+      "posted_at": "2026-11-11T11:59:24-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Product Marketing Manager",
+      "url": "https://n26.com/en-eu/careers/positions/8364836?gh_jid=8364836"
+    },
+    {
+      "company": "N26",
+      "id": "e9a0811378f6731e",
+      "location": "Berlin",
+      "posted_at": "2026-11-11T08:36:09-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Compliance Manager",
+      "url": "https://n26.com/en-eu/careers/positions/8378553?gh_jid=8378553"
+    },
+    {
+      "company": "N26",
+      "id": "1187dbbe932b2db4",
+      "location": "Barcelona, Berlin",
+      "posted_at": "2026-11-11T07:33:58-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Site Reliability Engineer - Data Platform",
+      "url": "https://n26.com/en-eu/careers/positions/8378357?gh_jid=8378357"
     }
   ],
   "last_posted_at": "2026-11-11T17:54:29.160981+00:00",
