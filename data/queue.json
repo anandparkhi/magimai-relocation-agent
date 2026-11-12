@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "N26",
+      "id": "61f2091acd064f72",
+      "location": "Madrid",
+      "posted_at": "2026-11-04T03:47:44-05:00",
+      "published_at": "2026-11-12T10:28:55.682990+00:00",
+      "receipts": {
+        "telegram": "134"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Manager Complaints Operations & Service Delivery",
+      "url": "https://n26.com/en-eu/careers/positions/8352134?gh_jid=8352134"
+    },
+    {
       "company": "Catawiki",
       "id": "e34bcabc6a9d19ff",
       "location": "Amsterdam, Netherlands",
@@ -2495,21 +2514,6 @@
   "items": [
     {
       "company": "N26",
-      "id": "61f2091acd064f72",
-      "location": "Madrid",
-      "posted_at": "2026-11-04T03:47:44-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Manager Complaints Operations & Service Delivery",
-      "url": "https://n26.com/en-eu/careers/positions/8352134?gh_jid=8352134"
-    },
-    {
-      "company": "N26",
       "id": "0538368e1442e40d",
       "location": "Berlin",
       "posted_at": "2026-11-03T14:47:28-05:00",
@@ -3374,9 +3378,8 @@
       "url": "https://n26.com/en-eu/careers/positions/8378357?gh_jid=8378357"
     }
   ],
-  "last_posted_at": "2026-11-11T17:54:29.160981+00:00",
+  "last_posted_at": "2026-11-12T10:28:55.682990+00:00",
   "posted": {
-    "2026-10-28": 2,
     "2026-10-29": 2,
     "2026-10-30": 2,
     "2026-10-31": 2,
@@ -3390,6 +3393,7 @@
     "2026-11-08": 2,
     "2026-11-09": 2,
     "2026-11-10": 2,
-    "2026-11-11": 2
+    "2026-11-11": 2,
+    "2026-11-12": 1
   }
 }
