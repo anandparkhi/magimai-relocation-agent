@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "N26",
+      "id": "0538368e1442e40d",
+      "location": "Berlin",
+      "posted_at": "2026-11-03T14:47:28-05:00",
+      "published_at": "2026-11-12T18:33:38.385402+00:00",
+      "receipts": {
+        "telegram": "135"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Business Risk Associate - Finance",
+      "url": "https://n26.com/en-eu/careers/positions/8345813?gh_jid=8345813"
+    },
+    {
+      "company": "N26",
       "id": "61f2091acd064f72",
       "location": "Madrid",
       "posted_at": "2026-11-04T03:47:44-05:00",
@@ -2513,21 +2532,6 @@
   ],
   "items": [
     {
-      "company": "N26",
-      "id": "0538368e1442e40d",
-      "location": "Berlin",
-      "posted_at": "2026-11-03T14:47:28-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Business Risk Associate - Finance",
-      "url": "https://n26.com/en-eu/careers/positions/8345813?gh_jid=8345813"
-    },
-    {
       "company": "Pinterest",
       "id": "d2d9ff9401e32738",
       "location": "San Francisco, CA, US; Remote, US",
@@ -3378,7 +3382,7 @@
       "url": "https://n26.com/en-eu/careers/positions/8378357?gh_jid=8378357"
     }
   ],
-  "last_posted_at": "2026-11-12T10:28:55.682990+00:00",
+  "last_posted_at": "2026-11-12T18:33:38.385402+00:00",
   "posted": {
     "2026-10-29": 2,
     "2026-10-30": 2,
@@ -3394,6 +3398,6 @@
     "2026-11-09": 2,
     "2026-11-10": 2,
     "2026-11-11": 2,
-    "2026-11-12": 1
+    "2026-11-12": 2
   }
 }
