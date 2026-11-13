@@ -2532,66 +2532,6 @@
   ],
   "items": [
     {
-      "company": "Pinterest",
-      "id": "d2d9ff9401e32738",
-      "location": "San Francisco, CA, US; Remote, US",
-      "posted_at": "2026-11-03T14:00:40-05:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Motion Designer, PPM SMB",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268342"
-    },
-    {
-      "company": "Pinterest",
-      "id": "dfb0ca8bb54414e8",
-      "location": "San Francisco, CA, US; Remote, CA, US",
-      "posted_at": "2026-11-03T10:46:10-05:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Lead Digital Producer",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268318"
-    },
-    {
-      "company": "Pinterest",
-      "id": "70be7ba62981b136",
-      "location": "London, UK",
-      "posted_at": "2026-11-03T09:33:17-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Brand Partnerships Manager, Europe",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268316"
-    },
-    {
-      "company": "N26",
-      "id": "66959af7579bb974",
-      "location": "Madrid",
-      "posted_at": "2026-11-03T07:52:47-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Compliance and Prevention Associate (Complaints Management) (Fluent German)",
-      "url": "https://n26.com/en-eu/careers/positions/8349423?gh_jid=8349423"
-    },
-    {
       "company": "N26",
       "id": "13c362132c211a59",
       "location": "Barcelona",
@@ -3380,6 +3320,81 @@
       "tags": [],
       "title": "Site Reliability Engineer - Data Platform",
       "url": "https://n26.com/en-eu/careers/positions/8378357?gh_jid=8378357"
+    },
+    {
+      "company": "Affirm",
+      "id": "8d636808e2c2b6a3",
+      "location": "Remote Spain",
+      "posted_at": "2026-11-13T04:44:25-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Software Engineer II, Fullstack (International)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8202548003"
+    },
+    {
+      "company": "Pinterest",
+      "id": "0017765fd72c1cfc",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-11-12T14:42:59-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sales Analytics Intern 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214783"
+    },
+    {
+      "company": "Flex",
+      "id": "f139e66126120e0b",
+      "location": "New York, NY; Remote - Global; Salt Lake City, UT; San Francisco, CA",
+      "posted_at": "2026-11-12T12:16:51-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Strategic Account Manager",
+      "url": "https://job-boards.greenhouse.io/flex/jobs/4753670005"
+    },
+    {
+      "company": "Pinterest",
+      "id": "fe20c9a5e3960285",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-11-12T11:10:31-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Staff Technical Program Manager",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8328631"
+    },
+    {
+      "company": "Affirm",
+      "id": "7f89b3a877e56d18",
+      "location": "Remote Spain",
+      "posted_at": "2026-11-12T11:05:15-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Software Engineer, Fullstack (International)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8200178003"
     }
   ],
   "last_posted_at": "2026-11-12T18:33:38.385402+00:00",

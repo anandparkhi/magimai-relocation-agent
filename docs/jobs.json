@@ -1,96 +1,6 @@
 [
   {
     "company": "N26",
-    "id": "61f2091acd064f72",
-    "location": "Madrid",
-    "posted_at": "2026-11-04T03:47:44-05:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior Manager Complaints Operations & Service Delivery",
-    "url": "https://n26.com/en-eu/careers/positions/8352134?gh_jid=8352134"
-  },
-  {
-    "company": "N26",
-    "id": "0538368e1442e40d",
-    "location": "Berlin",
-    "posted_at": "2026-11-03T14:47:28-05:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Business Risk Associate - Finance",
-    "url": "https://n26.com/en-eu/careers/positions/8345813?gh_jid=8345813"
-  },
-  {
-    "company": "Pinterest",
-    "id": "d2d9ff9401e32738",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-11-03T14:00:40-05:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Motion Designer, PPM SMB",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268342"
-  },
-  {
-    "company": "Pinterest",
-    "id": "dfb0ca8bb54414e8",
-    "location": "San Francisco, CA, US; Remote, CA, US",
-    "posted_at": "2026-11-03T10:46:10-05:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Lead Digital Producer",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268318"
-  },
-  {
-    "company": "Pinterest",
-    "id": "70be7ba62981b136",
-    "location": "London, UK",
-    "posted_at": "2026-11-03T09:33:17-05:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Brand Partnerships Manager, Europe",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268316"
-  },
-  {
-    "company": "N26",
-    "id": "66959af7579bb974",
-    "location": "Madrid",
-    "posted_at": "2026-11-03T07:52:47-05:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Compliance and Prevention Associate (Complaints Management) (Fluent German)",
-    "url": "https://n26.com/en-eu/careers/positions/8349423?gh_jid=8349423"
-  },
-  {
-    "company": "N26",
     "id": "13c362132c211a59",
     "location": "Barcelona",
     "posted_at": "2026-11-05T04:00:18-05:00",
@@ -805,26 +715,101 @@
     "url": "https://job-boards.greenhouse.io/monzo/jobs/8370845"
   },
   {
-    "title": "Staff Product Manager, App Install",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7940537",
+    "id": "dcd51b90737c5745",
     "location": "San Francisco, CA, US; Seattle, WA, US; Remote, US",
     "posted_at": "2026-11-11T21:12:44-05:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "dcd51b90737c5745"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Staff Product Manager, App Install",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7940537"
   },
   {
-    "title": "Supply Chain Program Manager",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8327792?gh_jid=8327792",
+    "id": "a43f4b9dc3dad09e",
     "location": "Remote - US",
     "posted_at": "2026-11-11T18:45:25-05:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Supply Chain Program Manager",
+    "url": "https://www.samsara.com/company/careers/roles/8327792?gh_jid=8327792"
+  },
+  {
+    "company": "N26",
+    "id": "7a1c07e94dfbe34c",
+    "location": "Barcelona ",
+    "posted_at": "2026-11-11T11:59:24-05:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Product Marketing Manager",
+    "url": "https://n26.com/en-eu/careers/positions/8364836?gh_jid=8364836"
+  },
+  {
+    "company": "N26",
+    "id": "e9a0811378f6731e",
+    "location": "Berlin",
+    "posted_at": "2026-11-11T08:36:09-05:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Compliance Manager",
+    "url": "https://n26.com/en-eu/careers/positions/8378553?gh_jid=8378553"
+  },
+  {
+    "company": "N26",
+    "id": "1187dbbe932b2db4",
+    "location": "Barcelona, Berlin",
+    "posted_at": "2026-11-11T07:33:58-05:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Site Reliability Engineer - Data Platform",
+    "url": "https://n26.com/en-eu/careers/positions/8378357?gh_jid=8378357"
+  },
+  {
+    "title": "Software Engineer II, Fullstack (International)",
+    "company": "Affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8202548003",
+    "location": "Remote Spain",
+    "posted_at": "2026-11-13T04:44:25-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "8d636808e2c2b6a3"
+  },
+  {
+    "title": "Sales Analytics Intern 2027 (USA)",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214783",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-11-12T14:42:59-05:00",
     "source": "ats:greenhouse",
     "remote": true,
     "tags": [],
@@ -832,52 +817,90 @@
       "remote_us"
     ],
     "signal": "Relocation assistance",
-    "id": "a43f4b9dc3dad09e"
+    "id": "0017765fd72c1cfc"
   },
   {
-    "title": "Senior Product Marketing Manager",
-    "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8364836?gh_jid=8364836",
-    "location": "Barcelona ",
-    "posted_at": "2026-11-11T11:59:24-05:00",
+    "title": "Strategic Account Manager",
+    "company": "Flex",
+    "url": "https://job-boards.greenhouse.io/flex/jobs/4753670005",
+    "location": "New York, NY; Remote - Global; Salt Lake City, UT; San Francisco, CA",
+    "posted_at": "2026-11-12T12:16:51-05:00",
     "source": "ats:greenhouse",
-    "remote": false,
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "f139e66126120e0b"
+  },
+  {
+    "title": "Staff Technical Program Manager",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8328631",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-11-12T11:10:31-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "fe20c9a5e3960285"
+  },
+  {
+    "title": "Senior Software Engineer, Fullstack (International)",
+    "company": "Affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8200178003",
+    "location": "Remote Spain",
+    "posted_at": "2026-11-12T11:05:15-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
     "tags": [],
     "regions": [
       "europe"
     ],
-    "signal": "Relocation package",
-    "id": "7a1c07e94dfbe34c"
+    "signal": "Visa sponsorship",
+    "id": "7f89b3a877e56d18"
   },
   {
-    "title": "Compliance Manager",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8378553?gh_jid=8378553",
+    "id": "0538368e1442e40d",
     "location": "Berlin",
-    "posted_at": "2026-11-11T08:36:09-05:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
+    "posted_at": "2026-11-03T14:47:28-05:00",
+    "published_at": "2026-11-12T18:33:38.385402+00:00",
+    "receipts": {
+      "telegram": "135"
+    },
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "e9a0811378f6731e"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Business Risk Associate - Finance",
+    "url": "https://n26.com/en-eu/careers/positions/8345813?gh_jid=8345813"
   },
   {
-    "title": "Site Reliability Engineer - Data Platform",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8378357?gh_jid=8378357",
-    "location": "Barcelona, Berlin",
-    "posted_at": "2026-11-11T07:33:58-05:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
+    "id": "61f2091acd064f72",
+    "location": "Madrid",
+    "posted_at": "2026-11-04T03:47:44-05:00",
+    "published_at": "2026-11-12T10:28:55.682990+00:00",
+    "receipts": {
+      "telegram": "134"
+    },
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "1187dbbe932b2db4"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Manager Complaints Operations & Service Delivery",
+    "url": "https://n26.com/en-eu/careers/positions/8352134?gh_jid=8352134"
   },
   {
     "company": "Catawiki",
@@ -1837,45 +1860,5 @@
     "tags": [],
     "title": "Senior Partner Account Executive, UK - Insurance",
     "url": "https://www.samsara.com/company/careers/roles/8259022?gh_jid=8259022"
-  },
-  {
-    "company": "Pinterest",
-    "id": "5363d7200bd72901",
-    "location": "San Francisco, CA, US; Remote, CA, US",
-    "posted_at": "2026-10-09T14:50:56-04:00",
-    "published_at": "2026-10-18T15:54:11.417612+00:00",
-    "receipts": {
-      "telegram": "84"
-    },
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. Counsel, Compliance & Investigations",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8246013"
-  },
-  {
-    "company": "Branch",
-    "id": "43e68614e13df96f",
-    "location": "USA",
-    "posted_at": "2026-10-11T03:50:19+00:00",
-    "published_at": "2026-10-18T12:10:24.891904+00:00",
-    "receipts": {
-      "telegram": "83"
-    },
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Customer Support & Success"
-    ],
-    "title": "Strategic Customer Success Manager - MarTech / AdTech, US",
-    "url": "https://jobicy.com/jobs/149033-strategic-customer-success-manager-martech-adtech-us"
   }
 ]
