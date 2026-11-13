@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Pinterest",
+      "id": "ef08ae4677dab3d0",
+      "location": "Singapore, SG",
+      "posted_at": "2026-11-05T02:05:43-05:00",
+      "published_at": "2026-11-13T18:00:17.123012+00:00",
+      "receipts": {
+        "telegram": "137"
+      },
+      "regions": [
+        "singapore"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Business Intelligence Analyst",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8350415"
+    },
+    {
       "company": "N26",
       "id": "13c362132c211a59",
       "location": "Barcelona",
@@ -2551,21 +2570,6 @@
   ],
   "items": [
     {
-      "company": "Pinterest",
-      "id": "ef08ae4677dab3d0",
-      "location": "Singapore, SG",
-      "posted_at": "2026-11-05T02:05:43-05:00",
-      "regions": [
-        "singapore"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Sr. Business Intelligence Analyst",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8350415"
-    },
-    {
       "company": "Catawiki",
       "id": "1493e1483ba877cd",
       "location": "Lisbon, Portugal",
@@ -3401,7 +3405,7 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8200178003"
     }
   ],
-  "last_posted_at": "2026-11-13T10:21:54.245104+00:00",
+  "last_posted_at": "2026-11-13T18:00:17.123012+00:00",
   "posted": {
     "2026-10-30": 2,
     "2026-10-31": 2,
@@ -3417,6 +3421,6 @@
     "2026-11-10": 2,
     "2026-11-11": 2,
     "2026-11-12": 2,
-    "2026-11-13": 1
+    "2026-11-13": 2
   }
 }
