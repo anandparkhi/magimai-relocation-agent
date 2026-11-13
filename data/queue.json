@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "N26",
+      "id": "13c362132c211a59",
+      "location": "Barcelona",
+      "posted_at": "2026-11-05T04:00:18-05:00",
+      "published_at": "2026-11-13T10:21:54.245104+00:00",
+      "receipts": {
+        "telegram": "136"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Business Strategy Associate - Lending",
+      "url": "https://n26.com/en-eu/careers/positions/8355016?gh_jid=8355016"
+    },
+    {
+      "company": "N26",
       "id": "0538368e1442e40d",
       "location": "Berlin",
       "posted_at": "2026-11-03T14:47:28-05:00",
@@ -2532,21 +2551,6 @@
   ],
   "items": [
     {
-      "company": "N26",
-      "id": "13c362132c211a59",
-      "location": "Barcelona",
-      "posted_at": "2026-11-05T04:00:18-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Business Strategy Associate - Lending",
-      "url": "https://n26.com/en-eu/careers/positions/8355016?gh_jid=8355016"
-    },
-    {
       "company": "Pinterest",
       "id": "ef08ae4677dab3d0",
       "location": "Singapore, SG",
@@ -3397,9 +3401,8 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8200178003"
     }
   ],
-  "last_posted_at": "2026-11-12T18:33:38.385402+00:00",
+  "last_posted_at": "2026-11-13T10:21:54.245104+00:00",
   "posted": {
-    "2026-10-29": 2,
     "2026-10-30": 2,
     "2026-10-31": 2,
     "2026-11-01": 2,
@@ -3413,6 +3416,7 @@
     "2026-11-09": 2,
     "2026-11-10": 2,
     "2026-11-11": 2,
-    "2026-11-12": 2
+    "2026-11-12": 2,
+    "2026-11-13": 1
   }
 }
