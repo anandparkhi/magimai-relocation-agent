@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Monzo",
+      "id": "c05eaf2aa26a68f3",
+      "location": "Barcelona; Cardiff, London or Remote (UK)",
+      "posted_at": "2026-11-05T11:20:00-05:00",
+      "published_at": "2026-11-14T16:05:19.306511+00:00",
+      "receipts": {
+        "telegram": "139"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Data Director, Growth and Marketing",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8336726"
+    },
+    {
       "company": "Samsara",
       "id": "2e2b16c2a1f8473a",
       "location": "Remote - US",
@@ -2589,21 +2608,6 @@
   ],
   "items": [
     {
-      "company": "Monzo",
-      "id": "c05eaf2aa26a68f3",
-      "location": "Barcelona; Cardiff, London or Remote (UK)",
-      "posted_at": "2026-11-05T11:20:00-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Data Director, Growth and Marketing",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8336726"
-    },
-    {
       "company": "Flex",
       "id": "9737b31248598d79",
       "location": "USA",
@@ -3389,7 +3393,7 @@
       "url": "https://jobs.ashbyhq.com/openai/f56ab5d8-9f0c-4622-906b-554ca28bd0ff"
     }
   ],
-  "last_posted_at": "2026-11-14T09:39:15.181662+00:00",
+  "last_posted_at": "2026-11-14T16:05:19.306511+00:00",
   "posted": {
     "2026-10-31": 2,
     "2026-11-01": 2,
@@ -3405,6 +3409,6 @@
     "2026-11-11": 2,
     "2026-11-12": 2,
     "2026-11-13": 2,
-    "2026-11-14": 1
+    "2026-11-14": 2
   }
 }
