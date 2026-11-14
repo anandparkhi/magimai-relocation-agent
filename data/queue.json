@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Samsara",
+      "id": "2e2b16c2a1f8473a",
+      "location": "Remote - US",
+      "posted_at": "2026-11-05T21:09:17-05:00",
+      "published_at": "2026-11-14T09:39:15.181662+00:00",
+      "receipts": {
+        "telegram": "138"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Software Engineer II",
+      "url": "https://www.samsara.com/company/careers/roles/8354253?gh_jid=8354253"
+    },
+    {
       "company": "Pinterest",
       "id": "ef08ae4677dab3d0",
       "location": "Singapore, SG",
@@ -2570,21 +2589,6 @@
   ],
   "items": [
     {
-      "company": "Samsara",
-      "id": "2e2b16c2a1f8473a",
-      "location": "Remote - US",
-      "posted_at": "2026-11-05T21:09:17-05:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Software Engineer II",
-      "url": "https://www.samsara.com/company/careers/roles/8354253?gh_jid=8354253"
-    },
-    {
       "company": "Monzo",
       "id": "c05eaf2aa26a68f3",
       "location": "Barcelona; Cardiff, London or Remote (UK)",
@@ -3385,9 +3389,8 @@
       "url": "https://jobs.ashbyhq.com/openai/f56ab5d8-9f0c-4622-906b-554ca28bd0ff"
     }
   ],
-  "last_posted_at": "2026-11-13T18:00:17.123012+00:00",
+  "last_posted_at": "2026-11-14T09:39:15.181662+00:00",
   "posted": {
-    "2026-10-30": 2,
     "2026-10-31": 2,
     "2026-11-01": 2,
     "2026-11-02": 2,
@@ -3401,6 +3404,7 @@
     "2026-11-10": 2,
     "2026-11-11": 2,
     "2026-11-12": 2,
-    "2026-11-13": 2
+    "2026-11-13": 2,
+    "2026-11-14": 1
   }
 }
