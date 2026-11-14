@@ -2570,144 +2570,6 @@
   ],
   "items": [
     {
-      "company": "Catawiki",
-      "id": "1493e1483ba877cd",
-      "location": "Lisbon, Portugal",
-      "posted_at": "2026-11-05T01:00:00-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Engineering Manager - CS Tech",
-      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8354338"
-    },
-    {
-      "company": "Catawiki",
-      "id": "aabf06187a26593e",
-      "location": "Lisbon, Portugal",
-      "posted_at": "2026-11-05T01:00:00-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "UX Designer",
-      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8354353"
-    },
-    {
-      "company": "OpenAI",
-      "id": "bcb0c8261520a8ba",
-      "location": "Singapore",
-      "posted_at": "2026-11-05T05:28:33.044000+00:00",
-      "regions": [
-        "singapore"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Go To Market",
-        "Technical Success"
-      ],
-      "title": "AI Deployment Manager - Builder",
-      "url": "https://jobs.ashbyhq.com/openai/c2016d32-1994-471d-8900-1b49259c647c"
-    },
-    {
-      "company": "Samsara",
-      "id": "304eea5faab8173a",
-      "location": "Remote - Canada",
-      "posted_at": "2026-11-04T13:49:35-05:00",
-      "regions": [
-        "canada"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Financial Analyst",
-      "url": "https://www.samsara.com/company/careers/roles/8353530?gh_jid=8353530"
-    },
-    {
-      "company": "Samsara",
-      "id": "2da77640794e4a1d",
-      "location": "Remote - US",
-      "posted_at": "2026-11-04T13:49:33-05:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Financial Analyst",
-      "url": "https://www.samsara.com/company/careers/roles/8306417?gh_jid=8306417"
-    },
-    {
-      "company": "Pinterest",
-      "id": "cb8bd40f353e9a4c",
-      "location": "San Francisco, CA, US; Remote, US",
-      "posted_at": "2026-11-04T12:11:59-05:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Staff Software Engineer, Ads Agent Infra",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8328868"
-    },
-    {
-      "company": "Pinterest",
-      "id": "d85357a872301b00",
-      "location": "San Francisco, CA, US; Remote, US",
-      "posted_at": "2026-11-04T10:54:46-05:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Content Enablement Intern 2027 (USA)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8334884"
-    },
-    {
-      "company": "N26",
-      "id": "3c6b2565eba31593",
-      "location": "Berlin",
-      "posted_at": "2026-11-04T10:30:45-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Business Strategy Associate - Lending",
-      "url": "https://n26.com/en-eu/careers/positions/8345862?gh_jid=8345862"
-    },
-    {
-      "company": "N26",
-      "id": "3661496087df979e",
-      "location": "Berlin, Barcelona",
-      "posted_at": "2026-11-04T05:53:20-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Site Reliability Engineer - Connectivity",
-      "url": "https://n26.com/en-eu/careers/positions/8352287?gh_jid=8352287"
-    },
-    {
       "company": "Samsara",
       "id": "2e2b16c2a1f8473a",
       "location": "Remote - US",
@@ -3403,6 +3265,124 @@
       "tags": [],
       "title": "Senior Software Engineer, Fullstack (International)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8200178003"
+    },
+    {
+      "company": "Flex",
+      "id": "770049a142bc8d8d",
+      "location": "USA",
+      "posted_at": "2026-11-14T03:00:24+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Web, UI & UX Design"
+      ],
+      "title": "Staff Product Designer (Contract)",
+      "url": "https://jobicy.com/jobs/155321-staff-product-designer-contract"
+    },
+    {
+      "company": "Flex",
+      "id": "370527fb2f6c58d1",
+      "location": "Anywhere",
+      "posted_at": "2026-11-14T03:00:10+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Senior Staff Software Engineer, Partner Integrations",
+      "url": "https://jobicy.com/jobs/155313-senior-staff-software-engineer-partner-integrations"
+    },
+    {
+      "company": "OpenAI",
+      "id": "d4e8e3d2678022c9",
+      "location": "US - Remote",
+      "posted_at": "2026-11-13T21:51:45.714000+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Account Associates"
+      ],
+      "title": "Account Associate - Austin",
+      "url": "https://jobs.ashbyhq.com/openai/fa49d49e-0a9b-4927-898e-2e3faa6be981"
+    },
+    {
+      "company": "Pinterest",
+      "id": "7e237fbe3916a481",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-11-13T15:58:19-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Counsel",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8356287"
+    },
+    {
+      "company": "Pinterest",
+      "id": "44dd848ace0bd17d",
+      "location": "Toronto, ON, CA",
+      "posted_at": "2026-11-13T10:44:26-05:00",
+      "regions": [
+        "canada"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Industry Manager II",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8201668"
+    },
+    {
+      "company": "OpenAI",
+      "id": "1c97b8743299866c",
+      "location": "Paris, France",
+      "posted_at": "2026-11-13T09:56:54.746000+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Ads Solutions"
+      ],
+      "title": "Regional Client Partner, Ads Solutions",
+      "url": "https://jobs.ashbyhq.com/openai/b1d19dac-065d-42d3-9f2c-97cc3fe73cdf"
+    },
+    {
+      "company": "OpenAI",
+      "id": "23d74c842e1c9788",
+      "location": "Munich, Germany",
+      "posted_at": "2026-11-13T09:52:41.980000+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Ads Solutions"
+      ],
+      "title": "Regional Client Partner, Ads Solutions",
+      "url": "https://jobs.ashbyhq.com/openai/f56ab5d8-9f0c-4622-906b-554ca28bd0ff"
     }
   ],
   "last_posted_at": "2026-11-13T18:00:17.123012+00:00",
