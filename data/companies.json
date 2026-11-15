@@ -441,6 +441,7 @@
       "careers_url": null,
       "name": "Veeam Software",
       "regions": [
+        "europe",
         "remote_us"
       ],
       "source": "observed",
@@ -458,5 +459,5 @@
       "verified_by": []
     }
   ],
-  "refreshed_at": "2026-11-08T06:52:18.804513+00:00"
+  "refreshed_at": "2026-11-15T07:25:24.926347+00:00"
 }
