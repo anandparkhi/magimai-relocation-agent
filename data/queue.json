@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Flex",
+      "id": "9737b31248598d79",
+      "location": "USA",
+      "posted_at": "2026-11-07T03:10:20+00:00",
+      "published_at": "2026-11-15T10:11:14.100935+00:00",
+      "receipts": {
+        "telegram": "140"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Business Development"
+      ],
+      "title": "Director, Strategic Partnerships",
+      "url": "https://jobicy.com/jobs/154763-director-strategic-partnerships"
+    },
+    {
       "company": "Monzo",
       "id": "c05eaf2aa26a68f3",
       "location": "Barcelona; Cardiff, London or Remote (UK)",
@@ -2608,23 +2629,6 @@
   ],
   "items": [
     {
-      "company": "Flex",
-      "id": "9737b31248598d79",
-      "location": "USA",
-      "posted_at": "2026-11-07T03:10:20+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "jobicy",
-      "tags": [
-        "Business Development"
-      ],
-      "title": "Director, Strategic Partnerships",
-      "url": "https://jobicy.com/jobs/154763-director-strategic-partnerships"
-    },
-    {
       "company": "Pinterest",
       "id": "a4b450e65f796921",
       "location": "San Francisco, CA, US; Remote, US",
@@ -3410,9 +3414,8 @@
       "url": "https://jobicy.com/jobs/162275-board-certified-assistant-behavior-analyst-bcaba-sign-on-bonus"
     }
   ],
-  "last_posted_at": "2026-11-14T16:05:19.306511+00:00",
+  "last_posted_at": "2026-11-15T10:11:14.100935+00:00",
   "posted": {
-    "2026-10-31": 2,
     "2026-11-01": 2,
     "2026-11-02": 2,
     "2026-11-03": 2,
@@ -3426,6 +3429,7 @@
     "2026-11-11": 2,
     "2026-11-12": 2,
     "2026-11-13": 2,
-    "2026-11-14": 2
+    "2026-11-14": 2,
+    "2026-11-15": 1
   }
 }
