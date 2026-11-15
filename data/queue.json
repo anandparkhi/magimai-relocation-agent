@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Pinterest",
+      "id": "a4b450e65f796921",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-11-06T19:11:08-05:00",
+      "published_at": "2026-11-15T17:13:12.088968+00:00",
+      "receipts": {
+        "telegram": "141"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Product Designer - Measurement, Data, & AI",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8249279"
+    },
+    {
       "company": "Flex",
       "id": "9737b31248598d79",
       "location": "USA",
@@ -2629,21 +2648,6 @@
   ],
   "items": [
     {
-      "company": "Pinterest",
-      "id": "a4b450e65f796921",
-      "location": "San Francisco, CA, US; Remote, US",
-      "posted_at": "2026-11-06T19:11:08-05:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Sr. Product Designer - Measurement, Data, & AI",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8249279"
-    },
-    {
       "company": "Samsara",
       "id": "36f28cc203dd0e31",
       "location": "Remote - US",
@@ -3414,7 +3418,7 @@
       "url": "https://jobicy.com/jobs/162275-board-certified-assistant-behavior-analyst-bcaba-sign-on-bonus"
     }
   ],
-  "last_posted_at": "2026-11-15T10:11:14.100935+00:00",
+  "last_posted_at": "2026-11-15T17:13:12.088968+00:00",
   "posted": {
     "2026-11-01": 2,
     "2026-11-02": 2,
@@ -3430,6 +3434,6 @@
     "2026-11-12": 2,
     "2026-11-13": 2,
     "2026-11-14": 2,
-    "2026-11-15": 1
+    "2026-11-15": 2
   }
 }
