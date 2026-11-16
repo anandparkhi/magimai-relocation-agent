@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "YipitData",
+      "id": "455b10ac7178ce3e",
+      "location": "USA",
+      "posted_at": "2026-11-08T03:00:05+00:00",
+      "published_at": "2026-11-16T10:23:03.805399+00:00",
+      "receipts": {
+        "telegram": "142"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Data Science & Analytics"
+      ],
+      "title": "Data Scientist, Corporate",
+      "url": "https://jobicy.com/jobs/154813-data-scientist-corporate"
+    },
+    {
       "company": "Pinterest",
       "id": "a4b450e65f796921",
       "location": "San Francisco, CA, US; Remote, US",
@@ -2649,23 +2670,6 @@
   "items": [
     {
       "company": "YipitData",
-      "id": "455b10ac7178ce3e",
-      "location": "USA",
-      "posted_at": "2026-11-08T03:00:05+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "jobicy",
-      "tags": [
-        "Data Science & Analytics"
-      ],
-      "title": "Data Scientist, Corporate",
-      "url": "https://jobicy.com/jobs/154813-data-scientist-corporate"
-    },
-    {
-      "company": "YipitData",
       "id": "1527a225985e258c",
       "location": "USA",
       "posted_at": "2026-11-08T03:00:03+00:00",
@@ -3208,9 +3212,8 @@
       "url": "https://jobicy.com/jobs/162275-board-certified-assistant-behavior-analyst-bcaba-sign-on-bonus"
     }
   ],
-  "last_posted_at": "2026-11-15T17:13:12.088968+00:00",
+  "last_posted_at": "2026-11-16T10:23:03.805399+00:00",
   "posted": {
-    "2026-11-01": 2,
     "2026-11-02": 2,
     "2026-11-03": 2,
     "2026-11-04": 1,
@@ -3224,6 +3227,7 @@
     "2026-11-12": 2,
     "2026-11-13": 2,
     "2026-11-14": 2,
-    "2026-11-15": 2
+    "2026-11-15": 2,
+    "2026-11-16": 1
   }
 }
