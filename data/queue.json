@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "N26",
+      "id": "48738a741707ae9d",
+      "location": "Madrid",
+      "posted_at": "2026-11-09T02:45:54-05:00",
+      "published_at": "2026-11-17T19:59:19.104371+00:00",
+      "receipts": {
+        "telegram": "145"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "LLM: Relocation package and visa support explicitly offered",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Complaints Audit Manager",
+      "url": "https://n26.com/en-eu/careers/positions/8364763?gh_jid=8364763"
+    },
+    {
       "company": "Monzo",
       "id": "58862fe66efcc992",
       "location": "Cardiff, London or Remote (UK); London; Remote (UK)",
@@ -2709,21 +2728,6 @@
   ],
   "items": [
     {
-      "company": "N26",
-      "id": "48738a741707ae9d",
-      "location": "Madrid",
-      "posted_at": "2026-11-09T02:45:54-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "LLM: Relocation package and visa support explicitly offered",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Complaints Audit Manager",
-      "url": "https://n26.com/en-eu/careers/positions/8364763?gh_jid=8364763"
-    },
-    {
       "company": "OpenAI",
       "id": "726437122e7d69ed",
       "location": "Munich, Germany",
@@ -3316,7 +3320,7 @@
       "url": "https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f"
     }
   ],
-  "last_posted_at": "2026-11-17T11:21:17.997215+00:00",
+  "last_posted_at": "2026-11-17T19:59:19.104371+00:00",
   "posted": {
     "2026-11-03": 2,
     "2026-11-04": 1,
@@ -3332,6 +3336,6 @@
     "2026-11-14": 2,
     "2026-11-15": 2,
     "2026-11-16": 2,
-    "2026-11-17": 1
+    "2026-11-17": 2
   }
 }
