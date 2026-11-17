@@ -1,39 +1,5 @@
 [
   {
-    "company": "YipitData",
-    "id": "455b10ac7178ce3e",
-    "location": "USA",
-    "posted_at": "2026-11-08T03:00:05+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Data Science & Analytics"
-    ],
-    "title": "Data Scientist, Corporate",
-    "url": "https://jobicy.com/jobs/154813-data-scientist-corporate"
-  },
-  {
-    "company": "YipitData",
-    "id": "1527a225985e258c",
-    "location": "USA",
-    "posted_at": "2026-11-08T03:00:03+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "jobicy",
-    "tags": [
-      "Business Development"
-    ],
-    "title": "Business Development Associate",
-    "url": "https://jobicy.com/jobs/154811-business-development-associate"
-  },
-  {
     "company": "Monzo",
     "id": "58862fe66efcc992",
     "location": "Cardiff, London or Remote (UK); London; Remote (UK)",
@@ -558,6 +524,144 @@
     ],
     "title": "Board Certified Assistant Behavior Analyst (BCABA) Sign on Bonus!",
     "url": "https://jobicy.com/jobs/162275-board-certified-assistant-behavior-analyst-bcaba-sign-on-bonus"
+  },
+  {
+    "title": "Sales Enablement Lead",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/6dc6b517-c0e3-453d-924a-ffe13e36d28b",
+    "location": "Singapore",
+    "posted_at": "2026-11-17T07:03:20.692000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "Go To Market",
+      "Enablement"
+    ],
+    "regions": [
+      "singapore"
+    ],
+    "signal": "Relocation assistance",
+    "id": "1a56d322d824317b"
+  },
+  {
+    "title": "Sr. Project & Program Manager, Quality",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8115849",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-11-16T23:04:07-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "1d67780d38c6dc7a"
+  },
+  {
+    "title": "Technical Program Manager II",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8369211",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-11-16T21:56:07-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "78ce51a815b3e22b"
+  },
+  {
+    "title": "Sr. Client Account Manager, Retail (12 month fixed-term)",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8384879",
+    "location": "Toronto, ON, CA",
+    "posted_at": "2026-11-16T15:46:51-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "canada"
+    ],
+    "signal": "Relocation assistance",
+    "id": "10eec93d653a420c"
+  },
+  {
+    "title": "Lead Client Partner, Retail (12 month fixed-term)",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8384909",
+    "location": "Toronto, ON, CA",
+    "posted_at": "2026-11-16T13:06:01-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "canada"
+    ],
+    "signal": "Relocation assistance",
+    "id": "a1ef92709d754aec"
+  },
+  {
+    "title": "Applied AI Engineer - Startups",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f",
+    "location": "London, UK",
+    "posted_at": "2026-11-16T16:16:57.438000+00:00",
+    "source": "ats:ashby",
+    "remote": false,
+    "tags": [
+      "Go To Market",
+      "Technical Success"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "05de094589b81a48"
+  },
+  {
+    "company": "YipitData",
+    "id": "1527a225985e258c",
+    "location": "USA",
+    "posted_at": "2026-11-08T03:00:03+00:00",
+    "published_at": "2026-11-16T20:39:15.208919+00:00",
+    "receipts": {
+      "telegram": "143"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "jobicy",
+    "tags": [
+      "Business Development"
+    ],
+    "title": "Business Development Associate",
+    "url": "https://jobicy.com/jobs/154811-business-development-associate"
+  },
+  {
+    "company": "YipitData",
+    "id": "455b10ac7178ce3e",
+    "location": "USA",
+    "posted_at": "2026-11-08T03:00:05+00:00",
+    "published_at": "2026-11-16T10:23:03.805399+00:00",
+    "receipts": {
+      "telegram": "142"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "jobicy",
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "title": "Data Scientist, Corporate",
+    "url": "https://jobicy.com/jobs/154813-data-scientist-corporate"
   },
   {
     "company": "Pinterest",
@@ -1506,46 +1610,5 @@
     ],
     "title": "Member of Technical Staff (Robotics)",
     "url": "https://jobicy.com/jobs/153241-member-of-technical-staff-robotics"
-  },
-  {
-    "company": "Pinterest",
-    "id": "7730f3b6bf2ce113",
-    "location": "Singapore, SG",
-    "posted_at": "2026-10-15T00:44:08-04:00",
-    "published_at": "2026-10-22T13:49:23.512850+00:00",
-    "receipts": {
-      "telegram": "92"
-    },
-    "regions": [
-      "singapore"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Lead Industry Manager",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8239002"
-  },
-  {
-    "company": "OpenAI",
-    "id": "a681f3621e8fdb4e",
-    "location": "London, UK",
-    "posted_at": "2026-10-13T15:17:10.602000+00:00",
-    "published_at": "2026-10-22T08:08:11.513460+00:00",
-    "receipts": {
-      "telegram": "91"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Go To Market",
-      "Technical Success"
-    ],
-    "title": "AI Deployment Manager",
-    "url": "https://jobs.ashbyhq.com/openai/78a49da9-b768-427e-ad01-3e61d80cfea8"
   }
 ]
