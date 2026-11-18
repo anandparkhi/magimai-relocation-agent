@@ -2728,24 +2728,6 @@
   ],
   "items": [
     {
-      "company": "OpenAI",
-      "id": "726437122e7d69ed",
-      "location": "Munich, Germany",
-      "posted_at": "2026-11-09T01:20:20.424000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Forward Deployed Engineering",
-        "Forward Deployed Engineering"
-      ],
-      "title": "Manager, Forward Deployed Engineering - Munich",
-      "url": "https://jobs.ashbyhq.com/openai/5d5b2256-ee0f-4ba6-a983-d62d0d70515d"
-    },
-    {
       "company": "Pinterest",
       "id": "fabbbef1b45cc5d2",
       "location": "San Francisco, CA, US; Remote, US",
@@ -3318,6 +3300,114 @@
       ],
       "title": "Applied AI Engineer - Startups",
       "url": "https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f"
+    },
+    {
+      "company": "Pinterest",
+      "id": "fb73bb25df76ac86",
+      "location": "Dublin, Ireland",
+      "posted_at": "2026-11-18T04:27:47-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Lead Industry Manager",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7678354"
+    },
+    {
+      "company": "Samsara",
+      "id": "0ea7f677346d2cfb",
+      "location": "Remote - US",
+      "posted_at": "2026-11-17T19:35:53-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Contract and Billing Specialist - USA",
+      "url": "https://www.samsara.com/company/careers/roles/8397935?gh_jid=8397935"
+    },
+    {
+      "company": "OpenAI",
+      "id": "3b7d06e57bcaf920",
+      "location": "Paris, France",
+      "posted_at": "2026-11-17T20:33:18.791000+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Strategy & Operations",
+        "Strategy & Operations"
+      ],
+      "title": "Strategy & Operations Lead, France",
+      "url": "https://jobs.ashbyhq.com/openai/5899e8d5-132f-40b3-9ff6-37830644743f"
+    },
+    {
+      "company": "Samsara",
+      "id": "2762e2e189ad96d1",
+      "location": "London, England, United Kingdom",
+      "posted_at": "2026-11-17T15:19:53-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Mid-Market Account Executive - UK&I",
+      "url": "https://www.samsara.com/company/careers/roles/8358996?gh_jid=8358996"
+    },
+    {
+      "company": "Pinterest",
+      "id": "be8d3820c23c4fd5",
+      "location": "London, UK",
+      "posted_at": "2026-11-17T14:34:39-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Manager, Ads Product Marketing",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8395884"
+    },
+    {
+      "company": "Pinterest",
+      "id": "600171de2e75948a",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-11-17T13:37:59-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Design Program Manager",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8347997"
+    },
+    {
+      "company": "Pinterest",
+      "id": "50823481c92be022",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-11-17T10:17:59-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Equity Administrator II",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8331360"
     }
   ],
   "last_posted_at": "2026-11-17T19:59:19.104371+00:00",
