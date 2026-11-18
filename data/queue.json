@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Roboflow",
+      "id": "2992ba4e7b58a32e",
+      "location": "USA",
+      "posted_at": "2026-11-10T03:10:12+00:00",
+      "published_at": "2026-11-18T19:11:42.948659+00:00",
+      "receipts": {
+        "telegram": "147"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation bonus",
+      "source": "jobicy",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Strategic Account Executive",
+      "url": "https://jobicy.com/jobs/154980-strategic-account-executive-12"
+    },
+    {
       "company": "Pinterest",
       "id": "fabbbef1b45cc5d2",
       "location": "San Francisco, CA, US; Remote, US",
@@ -2748,23 +2769,6 @@
   "items": [
     {
       "company": "Roboflow",
-      "id": "2992ba4e7b58a32e",
-      "location": "USA",
-      "posted_at": "2026-11-10T03:10:12+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation bonus",
-      "source": "jobicy",
-      "tags": [
-        "Sales"
-      ],
-      "title": "Strategic Account Executive",
-      "url": "https://jobicy.com/jobs/154980-strategic-account-executive-12"
-    },
-    {
-      "company": "Roboflow",
       "id": "8f4cc9e3020a3f21",
       "location": "USA",
       "posted_at": "2026-11-10T03:10:11+00:00",
@@ -3414,7 +3418,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8331360"
     }
   ],
-  "last_posted_at": "2026-11-18T10:54:12.782510+00:00",
+  "last_posted_at": "2026-11-18T19:11:42.948659+00:00",
   "posted": {
     "2026-11-04": 1,
     "2026-11-05": 2,
@@ -3430,6 +3434,6 @@
     "2026-11-15": 2,
     "2026-11-16": 2,
     "2026-11-17": 2,
-    "2026-11-18": 1
+    "2026-11-18": 2
   }
 }
