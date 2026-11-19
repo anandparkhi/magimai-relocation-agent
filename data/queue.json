@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Samsara",
+      "id": "c60cf80fa1d5c87c",
+      "location": "Remote - Canada",
+      "posted_at": "2026-11-10T20:58:59-05:00",
+      "published_at": "2026-11-19T10:56:36.428973+00:00",
+      "receipts": {
+        "telegram": "148"
+      },
+      "regions": [
+        "canada"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Manager II, Software Engineering",
+      "url": "https://www.samsara.com/company/careers/roles/8376044?gh_jid=8376044"
+    },
+    {
       "company": "Roboflow",
       "id": "2992ba4e7b58a32e",
       "location": "USA",
@@ -2768,21 +2787,6 @@
   ],
   "items": [
     {
-      "company": "Samsara",
-      "id": "c60cf80fa1d5c87c",
-      "location": "Remote - Canada",
-      "posted_at": "2026-11-10T20:58:59-05:00",
-      "regions": [
-        "canada"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Manager II, Software Engineering",
-      "url": "https://www.samsara.com/company/careers/roles/8376044?gh_jid=8376044"
-    },
-    {
       "company": "OpenAI",
       "id": "3b1a5ba471fd2884",
       "location": "Singapore",
@@ -3412,9 +3416,8 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8197317003"
     }
   ],
-  "last_posted_at": "2026-11-18T19:11:42.948659+00:00",
+  "last_posted_at": "2026-11-19T10:56:36.428973+00:00",
   "posted": {
-    "2026-11-04": 1,
     "2026-11-05": 2,
     "2026-11-06": 2,
     "2026-11-07": 2,
@@ -3428,6 +3431,7 @@
     "2026-11-15": 2,
     "2026-11-16": 2,
     "2026-11-17": 2,
-    "2026-11-18": 2
+    "2026-11-18": 2,
+    "2026-11-19": 1
   }
 }
