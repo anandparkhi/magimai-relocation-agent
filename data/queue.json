@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Samsara",
+      "id": "a43f4b9dc3dad09e",
+      "location": "Remote - US",
+      "posted_at": "2026-11-11T18:45:25-05:00",
+      "published_at": "2026-11-20T18:55:30.581499+00:00",
+      "receipts": {
+        "telegram": "151"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Supply Chain Program Manager",
+      "url": "https://www.samsara.com/company/careers/roles/8327792?gh_jid=8327792"
+    },
+    {
       "company": "Pinterest",
       "id": "dcd51b90737c5745",
       "location": "San Francisco, CA, US; Seattle, WA, US; Remote, US",
@@ -2828,21 +2847,6 @@
   ],
   "items": [
     {
-      "company": "Samsara",
-      "id": "a43f4b9dc3dad09e",
-      "location": "Remote - US",
-      "posted_at": "2026-11-11T18:45:25-05:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Supply Chain Program Manager",
-      "url": "https://www.samsara.com/company/careers/roles/8327792?gh_jid=8327792"
-    },
-    {
       "company": "N26",
       "id": "7a1c07e94dfbe34c",
       "location": "Barcelona ",
@@ -3631,7 +3635,7 @@
       "url": "https://jobs.ashbyhq.com/openai/44a25d94-eea2-45e0-945c-386a6f6753ec"
     }
   ],
-  "last_posted_at": "2026-11-20T10:44:54.310578+00:00",
+  "last_posted_at": "2026-11-20T18:55:30.581499+00:00",
   "posted": {
     "2026-11-06": 2,
     "2026-11-07": 2,
@@ -3647,6 +3651,6 @@
     "2026-11-17": 2,
     "2026-11-18": 2,
     "2026-11-19": 2,
-    "2026-11-20": 1
+    "2026-11-20": 2
   }
 }
