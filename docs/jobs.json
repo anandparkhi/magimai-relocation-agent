@@ -1,68 +1,5 @@
 [
   {
-    "company": "Samsara",
-    "id": "c60cf80fa1d5c87c",
-    "location": "Remote - Canada",
-    "posted_at": "2026-11-10T20:58:59-05:00",
-    "regions": [
-      "canada"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Manager II, Software Engineering",
-    "url": "https://www.samsara.com/company/careers/roles/8376044?gh_jid=8376044"
-  },
-  {
-    "company": "OpenAI",
-    "id": "3b1a5ba471fd2884",
-    "location": "Singapore",
-    "posted_at": "2026-11-11T01:05:49.148000+00:00",
-    "regions": [
-      "singapore"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Forward Deployed Engineering",
-      "Forward Deployed Engineering"
-    ],
-    "title": "Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore",
-    "url": "https://jobs.ashbyhq.com/openai/1ddf1fcf-a647-4016-92c3-2da4b45d1b15"
-  },
-  {
-    "company": "Pinterest",
-    "id": "21d28edbb5a8dcaf",
-    "location": "Seattle, WA, US; Remote, US",
-    "posted_at": "2026-11-10T16:23:25-05:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Staff Security Software Engineer, Detection & Response",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8230775"
-  },
-  {
-    "company": "N26",
-    "id": "779a5028c31f4be4",
-    "location": "Berlin",
-    "posted_at": "2026-11-10T09:37:12-05:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior Legal Counsel, Employment Law",
-    "url": "https://n26.com/en-eu/careers/positions/8370910?gh_jid=8370910"
-  },
-  {
     "company": "Pinterest",
     "id": "dcd51b90737c5745",
     "location": "San Francisco, CA, US; Seattle, WA, US; Remote, US",
@@ -552,96 +489,374 @@
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8331360"
   },
   {
-    "title": "Senior Software Development Engineer in Test (SDET)",
     "company": "Flex",
-    "url": "https://jobicy.com/jobs/155928-senior-software-development-engineer-in-test-sdet-2",
+    "id": "3c325fb804b081d5",
     "location": "Anywhere",
     "posted_at": "2026-11-19T03:35:04+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "QA & Testing"
-    ],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "3c325fb804b081d5"
+    "source": "jobicy",
+    "tags": [
+      "QA & Testing"
+    ],
+    "title": "Senior Software Development Engineer in Test (SDET)",
+    "url": "https://jobicy.com/jobs/155928-senior-software-development-engineer-in-test-sdet-2"
   },
   {
-    "title": "Senior Software Engineer I",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8364980?gh_jid=8364980",
+    "id": "ab4b343e15e773cf",
     "location": "Remote - Toronto",
     "posted_at": "2026-11-18T19:16:45-05:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "canada"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "ab4b343e15e773cf"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Software Engineer I",
+    "url": "https://www.samsara.com/company/careers/roles/8364980?gh_jid=8364980"
   },
   {
-    "title": "Sr. Client Account Manager, Home Retail - Nordics (English Speaking)",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8334144",
+    "id": "1e7874519cd1b119",
     "location": "Dublin, IE",
     "posted_at": "2026-11-18T10:56:11-05:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation assistance",
-    "id": "1e7874519cd1b119"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Sr. Client Account Manager, Home Retail - Nordics (English Speaking)",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8334144"
   },
   {
-    "title": "Regulatory Project Manager",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8398981?gh_jid=8398981",
+    "id": "20e8f89a8f58a398",
     "location": "Berlin",
     "posted_at": "2026-11-18T08:43:52-05:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "20e8f89a8f58a398"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Regulatory Project Manager",
+    "url": "https://n26.com/en-eu/careers/positions/8398981?gh_jid=8398981"
   },
   {
-    "title": "Senior Sales Development Representative, with French (Strategic Accounts) (Bucharest-based position, relocation package possible)",
     "company": "Veeam Software",
-    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5041252101",
+    "id": "7a595ce6a943c43e",
     "location": "Remote, France",
     "posted_at": "2026-11-18T07:24:55-05:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": true,
     "signal": "Relocation package",
-    "id": "7a595ce6a943c43e"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Sales Development Representative, with French (Strategic Accounts) (Bucharest-based position, relocation package possible)",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5041252101"
   },
   {
-    "title": "Software Engineer II, Backend",
     "company": "Affirm",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8197317003",
+    "id": "b6c021193626ec9c",
     "location": "Remote Spain",
     "posted_at": "2026-11-18T07:02:56-05:00",
-    "source": "ats:greenhouse",
+    "regions": [
+      "europe"
+    ],
     "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Software Engineer II, Backend",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8197317003"
+  },
+  {
+    "title": "Platform Engineer",
+    "company": "Catawiki",
+    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8405087",
+    "location": "Lisbon, Portugal",
+    "posted_at": "2026-11-20T01:14:37-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
     "tags": [],
     "regions": [
       "europe"
     ],
     "signal": "Visa sponsorship",
-    "id": "b6c021193626ec9c"
+    "id": "69b533e0025f2a06"
+  },
+  {
+    "title": "Platform Engineer",
+    "company": "Catawiki",
+    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8405079",
+    "location": "Amsterdam, Netherlands",
+    "posted_at": "2026-11-20T01:07:45-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "1b37427b3ce8eaa3"
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "Catawiki",
+    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8171119",
+    "location": "Lisbon, Portugal",
+    "posted_at": "2026-11-20T00:32:18-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "31c5c427774d01c8"
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "Catawiki",
+    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8404971",
+    "location": "Amsterdam, Netherlands",
+    "posted_at": "2026-11-20T00:24:57-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation support",
+    "id": "cccfa3f0af6e3606"
+  },
+  {
+    "title": "Engineering Manager - CS Tech",
+    "company": "Catawiki",
+    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8404915",
+    "location": "Lisbon, Portugal",
+    "posted_at": "2026-11-20T00:09:23-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "a8473617e3acab75"
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "Catawiki",
+    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8404909",
+    "location": "Lisbon, Portugal",
+    "posted_at": "2026-11-19T23:56:02-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "5d73f03a02a61c48"
+  },
+  {
+    "title": "Forward Deployed Engineer (FDE), Cyber - London",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/83b21911-d467-44ab-af3b-c0b898488ab4",
+    "location": "London, UK",
+    "posted_at": "2026-11-20T02:51:24.345000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "Forward Deployed Engineering",
+      "Forward Deployed Engineering"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "8908ebcec8db1736"
+  },
+  {
+    "title": "Deployment Lead, Semiconductors - London",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/f68233de-f299-4732-ae4e-cee354159d4a",
+    "location": "London, UK",
+    "posted_at": "2026-11-20T02:50:44.046000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "Forward Deployed Engineering",
+      "Forward Deployed Engineering"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "6c2fda9fc8e39ba6"
+  },
+  {
+    "title": "Staff Machine Learning Engineer, Ads Lightweight Ranking",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8354411",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-11-19T17:30:13-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "2c6b3806bc5732af"
+  },
+  {
+    "title": "Sr. Counsel - Product, Engineering & AI",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8402791",
+    "location": "New York, NY, US; Remote, US",
+    "posted_at": "2026-11-19T14:28:52-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "5e6be49fa51d207d"
+  },
+  {
+    "title": "Sr. Communications Lead, Product & Consumer Communications",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8280215",
+    "location": "Los Angeles, CA, US; Remote, US",
+    "posted_at": "2026-11-19T12:11:07-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "ccffab6f1ce04e73"
+  },
+  {
+    "title": "Manager, Forward Deployed Engineering - London",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/52b96704-5944-4ade-9f0f-27438cd5b560",
+    "location": "London, UK",
+    "posted_at": "2026-11-19T17:01:13.168000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "Forward Deployed Engineering",
+      "Forward Deployed Engineering"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "e6521ccc0425d716"
+  },
+  {
+    "title": "Staff Machine Learning Engineer, Homefeed & Search Quality",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8346516",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-11-19T11:36:33-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "2222fd212fdc2225"
+  },
+  {
+    "title": "Programmatic Ads Sales Lead",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8312674",
+    "location": "Chicago, IL, US ; New York, NY, US; Remote, US",
+    "posted_at": "2026-11-19T10:33:14-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "57c197208d223049"
+  },
+  {
+    "title": "Enablement Lead, Government",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/44a25d94-eea2-45e0-945c-386a6f6753ec",
+    "location": "London, UK",
+    "posted_at": "2026-11-19T13:11:03.988000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "OpenAI for Gov",
+      "OpenAI for Gov"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "3995c8019adb0d71"
+  },
+  {
+    "company": "OpenAI",
+    "id": "3b1a5ba471fd2884",
+    "location": "Singapore",
+    "posted_at": "2026-11-11T01:05:49.148000+00:00",
+    "published_at": "2026-11-19T19:18:19.216488+00:00",
+    "receipts": {
+      "telegram": "149"
+    },
+    "regions": [
+      "singapore"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
+    "tags": [
+      "Forward Deployed Engineering",
+      "Forward Deployed Engineering"
+    ],
+    "title": "Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore",
+    "url": "https://jobs.ashbyhq.com/openai/1ddf1fcf-a647-4016-92c3-2da4b45d1b15"
+  },
+  {
+    "company": "Samsara",
+    "id": "c60cf80fa1d5c87c",
+    "location": "Remote - Canada",
+    "posted_at": "2026-11-10T20:58:59-05:00",
+    "published_at": "2026-11-19T10:56:36.428973+00:00",
+    "receipts": {
+      "telegram": "148"
+    },
+    "regions": [
+      "canada"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Manager II, Software Engineering",
+    "url": "https://www.samsara.com/company/careers/roles/8376044?gh_jid=8376044"
   },
   {
     "company": "Roboflow",
@@ -1592,45 +1807,5 @@
     "tags": [],
     "title": "Software Engineer II, Backend (Card)",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003"
-  },
-  {
-    "company": "Monzo",
-    "id": "6a1afb978e0f9206",
-    "location": "UK",
-    "posted_at": "2026-10-17T03:05:05+00:00",
-    "published_at": "2026-10-25T07:56:24.063781+00:00",
-    "receipts": {
-      "telegram": "98"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Sponsor visa",
-    "source": "jobicy",
-    "tags": [
-      "Finance & Accounting"
-    ],
-    "title": "Credit Risk Manager, Portfolio Management",
-    "url": "https://jobicy.com/jobs/145953-credit-risk-manager-portfolio-management"
-  },
-  {
-    "company": "Pinterest",
-    "id": "581cee9156927262",
-    "location": "New York, NY, US; Remote, US",
-    "posted_at": "2026-10-15T10:58:00-04:00",
-    "published_at": "2026-10-24T16:12:37.225409+00:00",
-    "receipts": {
-      "telegram": "97"
-    },
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Director Corporate Strategy, Ads",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8027430"
   }
 ]

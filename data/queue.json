@@ -2810,36 +2810,6 @@
   "items": [
     {
       "company": "Pinterest",
-      "id": "21d28edbb5a8dcaf",
-      "location": "Seattle, WA, US; Remote, US",
-      "posted_at": "2026-11-10T16:23:25-05:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Staff Security Software Engineer, Detection & Response",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8230775"
-    },
-    {
-      "company": "N26",
-      "id": "779a5028c31f4be4",
-      "location": "Berlin",
-      "posted_at": "2026-11-10T09:37:12-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation package",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Legal Counsel, Employment Law",
-      "url": "https://n26.com/en-eu/careers/positions/8370910?gh_jid=8370910"
-    },
-    {
-      "company": "Pinterest",
       "id": "dcd51b90737c5745",
       "location": "San Francisco, CA, US; Seattle, WA, US; Remote, US",
       "posted_at": "2026-11-11T21:12:44-05:00",
@@ -3418,6 +3388,243 @@
       "tags": [],
       "title": "Software Engineer II, Backend",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8197317003"
+    },
+    {
+      "company": "Catawiki",
+      "id": "69b533e0025f2a06",
+      "location": "Lisbon, Portugal",
+      "posted_at": "2026-11-20T01:14:37-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8405087"
+    },
+    {
+      "company": "Catawiki",
+      "id": "1b37427b3ce8eaa3",
+      "location": "Amsterdam, Netherlands",
+      "posted_at": "2026-11-20T01:07:45-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8405079"
+    },
+    {
+      "company": "Catawiki",
+      "id": "31c5c427774d01c8",
+      "location": "Lisbon, Portugal",
+      "posted_at": "2026-11-20T00:32:18-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Frontend Engineer",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8171119"
+    },
+    {
+      "company": "Catawiki",
+      "id": "cccfa3f0af6e3606",
+      "location": "Amsterdam, Netherlands",
+      "posted_at": "2026-11-20T00:24:57-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation support",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Frontend Engineer",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8404971"
+    },
+    {
+      "company": "Catawiki",
+      "id": "a8473617e3acab75",
+      "location": "Lisbon, Portugal",
+      "posted_at": "2026-11-20T00:09:23-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Engineering Manager - CS Tech",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8404915"
+    },
+    {
+      "company": "Catawiki",
+      "id": "5d73f03a02a61c48",
+      "location": "Lisbon, Portugal",
+      "posted_at": "2026-11-19T23:56:02-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Backend Engineer",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8404909"
+    },
+    {
+      "company": "OpenAI",
+      "id": "8908ebcec8db1736",
+      "location": "London, UK",
+      "posted_at": "2026-11-20T02:51:24.345000+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Forward Deployed Engineering",
+        "Forward Deployed Engineering"
+      ],
+      "title": "Forward Deployed Engineer (FDE), Cyber - London",
+      "url": "https://jobs.ashbyhq.com/openai/83b21911-d467-44ab-af3b-c0b898488ab4"
+    },
+    {
+      "company": "OpenAI",
+      "id": "6c2fda9fc8e39ba6",
+      "location": "London, UK",
+      "posted_at": "2026-11-20T02:50:44.046000+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Forward Deployed Engineering",
+        "Forward Deployed Engineering"
+      ],
+      "title": "Deployment Lead, Semiconductors - London",
+      "url": "https://jobs.ashbyhq.com/openai/f68233de-f299-4732-ae4e-cee354159d4a"
+    },
+    {
+      "company": "Pinterest",
+      "id": "2c6b3806bc5732af",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-11-19T17:30:13-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Staff Machine Learning Engineer, Ads Lightweight Ranking",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8354411"
+    },
+    {
+      "company": "Pinterest",
+      "id": "5e6be49fa51d207d",
+      "location": "New York, NY, US; Remote, US",
+      "posted_at": "2026-11-19T14:28:52-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Counsel - Product, Engineering & AI",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8402791"
+    },
+    {
+      "company": "Pinterest",
+      "id": "ccffab6f1ce04e73",
+      "location": "Los Angeles, CA, US; Remote, US",
+      "posted_at": "2026-11-19T12:11:07-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Communications Lead, Product & Consumer Communications",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8280215"
+    },
+    {
+      "company": "OpenAI",
+      "id": "e6521ccc0425d716",
+      "location": "London, UK",
+      "posted_at": "2026-11-19T17:01:13.168000+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Forward Deployed Engineering",
+        "Forward Deployed Engineering"
+      ],
+      "title": "Manager, Forward Deployed Engineering - London",
+      "url": "https://jobs.ashbyhq.com/openai/52b96704-5944-4ade-9f0f-27438cd5b560"
+    },
+    {
+      "company": "Pinterest",
+      "id": "2222fd212fdc2225",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-11-19T11:36:33-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Staff Machine Learning Engineer, Homefeed & Search Quality",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8346516"
+    },
+    {
+      "company": "Pinterest",
+      "id": "57c197208d223049",
+      "location": "Chicago, IL, US ; New York, NY, US; Remote, US",
+      "posted_at": "2026-11-19T10:33:14-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Programmatic Ads Sales Lead",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8312674"
+    },
+    {
+      "company": "OpenAI",
+      "id": "3995c8019adb0d71",
+      "location": "London, UK",
+      "posted_at": "2026-11-19T13:11:03.988000+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "OpenAI for Gov",
+        "OpenAI for Gov"
+      ],
+      "title": "Enablement Lead, Government",
+      "url": "https://jobs.ashbyhq.com/openai/44a25d94-eea2-45e0-945c-386a6f6753ec"
     }
   ],
   "last_posted_at": "2026-11-19T19:18:19.216488+00:00",
