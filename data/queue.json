@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Affirm",
+      "id": "8d636808e2c2b6a3",
+      "location": "Remote Spain",
+      "posted_at": "2026-11-13T04:44:25-05:00",
+      "published_at": "2026-11-21T10:28:39.451271+00:00",
+      "receipts": {
+        "telegram": "152"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Software Engineer II, Fullstack (International)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8202548003"
+    },
+    {
       "company": "Samsara",
       "id": "a43f4b9dc3dad09e",
       "location": "Remote - US",
@@ -2847,21 +2866,6 @@
   ],
   "items": [
     {
-      "company": "Affirm",
-      "id": "8d636808e2c2b6a3",
-      "location": "Remote Spain",
-      "posted_at": "2026-11-13T04:44:25-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Software Engineer II, Fullstack (International)",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8202548003"
-    },
-    {
       "company": "Pinterest",
       "id": "0017765fd72c1cfc",
       "location": "San Francisco, CA, US; Remote, US",
@@ -3729,9 +3733,8 @@
       "url": "https://job-boards.greenhouse.io/catawiki/jobs/8405557"
     }
   ],
-  "last_posted_at": "2026-11-20T18:55:30.581499+00:00",
+  "last_posted_at": "2026-11-21T10:28:39.451271+00:00",
   "posted": {
-    "2026-11-06": 2,
     "2026-11-07": 2,
     "2026-11-08": 2,
     "2026-11-09": 2,
@@ -3745,6 +3748,7 @@
     "2026-11-17": 2,
     "2026-11-18": 2,
     "2026-11-19": 2,
-    "2026-11-20": 2
+    "2026-11-20": 2,
+    "2026-11-21": 1
   }
 }
