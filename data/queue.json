@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Pinterest",
+      "id": "0017765fd72c1cfc",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-11-12T14:42:59-05:00",
+      "published_at": "2026-11-21T17:44:55.246283+00:00",
+      "receipts": {
+        "telegram": "153"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sales Analytics Intern 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214783"
+    },
+    {
       "company": "Affirm",
       "id": "8d636808e2c2b6a3",
       "location": "Remote Spain",
@@ -2866,21 +2885,6 @@
   ],
   "items": [
     {
-      "company": "Pinterest",
-      "id": "0017765fd72c1cfc",
-      "location": "San Francisco, CA, US; Remote, US",
-      "posted_at": "2026-11-12T14:42:59-05:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Sales Analytics Intern 2027 (USA)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214783"
-    },
-    {
       "company": "Flex",
       "id": "f139e66126120e0b",
       "location": "New York, NY; Remote - Global; Salt Lake City, UT; San Francisco, CA",
@@ -3733,7 +3737,7 @@
       "url": "https://job-boards.greenhouse.io/catawiki/jobs/8405557"
     }
   ],
-  "last_posted_at": "2026-11-21T10:28:39.451271+00:00",
+  "last_posted_at": "2026-11-21T17:44:55.246283+00:00",
   "posted": {
     "2026-11-07": 2,
     "2026-11-08": 2,
@@ -3749,6 +3753,6 @@
     "2026-11-18": 2,
     "2026-11-19": 2,
     "2026-11-20": 2,
-    "2026-11-21": 1
+    "2026-11-21": 2
   }
 }
