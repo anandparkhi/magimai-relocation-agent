@@ -2,6 +2,27 @@
   "history": [
     {
       "company": "Flex",
+      "id": "370527fb2f6c58d1",
+      "location": "Anywhere",
+      "posted_at": "2026-11-14T03:00:10+00:00",
+      "published_at": "2026-11-22T18:00:13.957278+00:00",
+      "receipts": {
+        "telegram": "155"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Senior Staff Software Engineer, Partner Integrations",
+      "url": "https://jobicy.com/jobs/155313-senior-staff-software-engineer-partner-integrations"
+    },
+    {
+      "company": "Flex",
       "id": "770049a142bc8d8d",
       "location": "USA",
       "posted_at": "2026-11-14T03:00:24+00:00",
@@ -2906,23 +2927,6 @@
   ],
   "items": [
     {
-      "company": "Flex",
-      "id": "370527fb2f6c58d1",
-      "location": "Anywhere",
-      "posted_at": "2026-11-14T03:00:10+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "jobicy",
-      "tags": [
-        "Software Engineering"
-      ],
-      "title": "Senior Staff Software Engineer, Partner Integrations",
-      "url": "https://jobicy.com/jobs/155313-senior-staff-software-engineer-partner-integrations"
-    },
-    {
       "company": "OpenAI",
       "id": "d4e8e3d2678022c9",
       "location": "US - Remote",
@@ -3677,7 +3681,7 @@
       "url": "https://jobicy.com/jobs/163768-founding-software-engineer-vimes"
     }
   ],
-  "last_posted_at": "2026-11-22T10:31:53.293269+00:00",
+  "last_posted_at": "2026-11-22T18:00:13.957278+00:00",
   "posted": {
     "2026-11-08": 2,
     "2026-11-09": 2,
@@ -3693,6 +3697,6 @@
     "2026-11-19": 2,
     "2026-11-20": 2,
     "2026-11-21": 2,
-    "2026-11-22": 1
+    "2026-11-22": 2
   }
 }
