@@ -2886,51 +2886,6 @@
   "items": [
     {
       "company": "Flex",
-      "id": "f139e66126120e0b",
-      "location": "New York, NY; Remote - Global; Salt Lake City, UT; San Francisco, CA",
-      "posted_at": "2026-11-12T12:16:51-05:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Strategic Account Manager",
-      "url": "https://job-boards.greenhouse.io/flex/jobs/4753670005"
-    },
-    {
-      "company": "Pinterest",
-      "id": "fe20c9a5e3960285",
-      "location": "San Francisco, CA, US; Remote, US",
-      "posted_at": "2026-11-12T11:10:31-05:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Staff Technical Program Manager",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8328631"
-    },
-    {
-      "company": "Affirm",
-      "id": "7f89b3a877e56d18",
-      "location": "Remote Spain",
-      "posted_at": "2026-11-12T11:05:15-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Software Engineer, Fullstack (International)",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8200178003"
-    },
-    {
-      "company": "Flex",
       "id": "770049a142bc8d8d",
       "location": "USA",
       "posted_at": "2026-11-14T03:00:24+00:00",
@@ -3010,42 +2965,6 @@
       "tags": [],
       "title": "Industry Manager II",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8201668"
-    },
-    {
-      "company": "OpenAI",
-      "id": "1c97b8743299866c",
-      "location": "Paris, France",
-      "posted_at": "2026-11-13T09:56:54.746000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Go To Market",
-        "Ads Solutions"
-      ],
-      "title": "Regional Client Partner, Ads Solutions",
-      "url": "https://jobs.ashbyhq.com/openai/b1d19dac-065d-42d3-9f2c-97cc3fe73cdf"
-    },
-    {
-      "company": "OpenAI",
-      "id": "23d74c842e1c9788",
-      "location": "Munich, Germany",
-      "posted_at": "2026-11-13T09:52:41.980000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Go To Market",
-        "Ads Solutions"
-      ],
-      "title": "Regional Client Partner, Ads Solutions",
-      "url": "https://jobs.ashbyhq.com/openai/f56ab5d8-9f0c-4622-906b-554ca28bd0ff"
     },
     {
       "company": "Above and Beyond Therapy",
@@ -3735,6 +3654,23 @@
       "tags": [],
       "title": "UX Designer",
       "url": "https://job-boards.greenhouse.io/catawiki/jobs/8405557"
+    },
+    {
+      "company": "Pear VC",
+      "id": "ef41aab3dab6f613",
+      "location": "USA",
+      "posted_at": "2026-11-22T04:27:10+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "LLM: Relocation compensation offered; remote US role",
+      "source": "jobicy",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Founding Software Engineer - Vimes",
+      "url": "https://jobicy.com/jobs/163768-founding-software-engineer-vimes"
     }
   ],
   "last_posted_at": "2026-11-21T17:44:55.246283+00:00",
