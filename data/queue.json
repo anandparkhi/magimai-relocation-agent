@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Flex",
+      "id": "770049a142bc8d8d",
+      "location": "USA",
+      "posted_at": "2026-11-14T03:00:24+00:00",
+      "published_at": "2026-11-22T10:31:53.293269+00:00",
+      "receipts": {
+        "telegram": "154"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "Web, UI & UX Design"
+      ],
+      "title": "Staff Product Designer (Contract)",
+      "url": "https://jobicy.com/jobs/155321-staff-product-designer-contract"
+    },
+    {
       "company": "Pinterest",
       "id": "0017765fd72c1cfc",
       "location": "San Francisco, CA, US; Remote, US",
@@ -2886,23 +2907,6 @@
   "items": [
     {
       "company": "Flex",
-      "id": "770049a142bc8d8d",
-      "location": "USA",
-      "posted_at": "2026-11-14T03:00:24+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "jobicy",
-      "tags": [
-        "Web, UI & UX Design"
-      ],
-      "title": "Staff Product Designer (Contract)",
-      "url": "https://jobicy.com/jobs/155321-staff-product-designer-contract"
-    },
-    {
-      "company": "Flex",
       "id": "370527fb2f6c58d1",
       "location": "Anywhere",
       "posted_at": "2026-11-14T03:00:10+00:00",
@@ -3673,9 +3677,8 @@
       "url": "https://jobicy.com/jobs/163768-founding-software-engineer-vimes"
     }
   ],
-  "last_posted_at": "2026-11-21T17:44:55.246283+00:00",
+  "last_posted_at": "2026-11-22T10:31:53.293269+00:00",
   "posted": {
-    "2026-11-07": 2,
     "2026-11-08": 2,
     "2026-11-09": 2,
     "2026-11-10": 2,
@@ -3689,6 +3692,7 @@
     "2026-11-18": 2,
     "2026-11-19": 2,
     "2026-11-20": 2,
-    "2026-11-21": 2
+    "2026-11-21": 2,
+    "2026-11-22": 1
   }
 }
