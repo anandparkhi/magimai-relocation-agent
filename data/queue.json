@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Above and Beyond Therapy",
+      "id": "7a532a44e0d8a5f7",
+      "location": "USA",
+      "posted_at": "2026-11-15T04:02:18+00:00",
+      "published_at": "2026-11-23T11:31:49.491174+00:00",
+      "receipts": {
+        "telegram": "156"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation bonus",
+      "source": "jobicy",
+      "tags": [
+        "Healthcare & Medical"
+      ],
+      "title": "Board Certified Assistant Behavior Analyst (BCABA) Sign on Bonus!",
+      "url": "https://jobicy.com/jobs/162275-board-certified-assistant-behavior-analyst-bcaba-sign-on-bonus"
+    },
+    {
       "company": "Flex",
       "id": "370527fb2f6c58d1",
       "location": "Anywhere",
@@ -2927,23 +2948,6 @@
   ],
   "items": [
     {
-      "company": "Above and Beyond Therapy",
-      "id": "7a532a44e0d8a5f7",
-      "location": "USA",
-      "posted_at": "2026-11-15T04:02:18+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation bonus",
-      "source": "jobicy",
-      "tags": [
-        "Healthcare & Medical"
-      ],
-      "title": "Board Certified Assistant Behavior Analyst (BCABA) Sign on Bonus!",
-      "url": "https://jobicy.com/jobs/162275-board-certified-assistant-behavior-analyst-bcaba-sign-on-bonus"
-    },
-    {
       "company": "OpenAI",
       "id": "1a56d322d824317b",
       "location": "Singapore",
@@ -3650,9 +3654,8 @@
       "url": "https://jobicy.com/jobs/156625-insights-associate-retail"
     }
   ],
-  "last_posted_at": "2026-11-22T18:00:13.957278+00:00",
+  "last_posted_at": "2026-11-23T11:31:49.491174+00:00",
   "posted": {
-    "2026-11-08": 2,
     "2026-11-09": 2,
     "2026-11-10": 2,
     "2026-11-11": 2,
@@ -3666,6 +3669,7 @@
     "2026-11-19": 2,
     "2026-11-20": 2,
     "2026-11-21": 2,
-    "2026-11-22": 2
+    "2026-11-22": 2,
+    "2026-11-23": 1
   }
 }
