@@ -1,87 +1,5 @@
 [
   {
-    "company": "Flex",
-    "id": "770049a142bc8d8d",
-    "location": "USA",
-    "posted_at": "2026-11-14T03:00:24+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "jobicy",
-    "tags": [
-      "Web, UI & UX Design"
-    ],
-    "title": "Staff Product Designer (Contract)",
-    "url": "https://jobicy.com/jobs/155321-staff-product-designer-contract"
-  },
-  {
-    "company": "Flex",
-    "id": "370527fb2f6c58d1",
-    "location": "Anywhere",
-    "posted_at": "2026-11-14T03:00:10+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "jobicy",
-    "tags": [
-      "Software Engineering"
-    ],
-    "title": "Senior Staff Software Engineer, Partner Integrations",
-    "url": "https://jobicy.com/jobs/155313-senior-staff-software-engineer-partner-integrations"
-  },
-  {
-    "company": "OpenAI",
-    "id": "d4e8e3d2678022c9",
-    "location": "US - Remote",
-    "posted_at": "2026-11-13T21:51:45.714000+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Go To Market",
-      "Account Associates"
-    ],
-    "title": "Account Associate - Austin",
-    "url": "https://jobs.ashbyhq.com/openai/fa49d49e-0a9b-4927-898e-2e3faa6be981"
-  },
-  {
-    "company": "Pinterest",
-    "id": "7e237fbe3916a481",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-11-13T15:58:19-05:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. Counsel",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8356287"
-  },
-  {
-    "company": "Pinterest",
-    "id": "44dd848ace0bd17d",
-    "location": "Toronto, ON, CA",
-    "posted_at": "2026-11-13T10:44:26-05:00",
-    "regions": [
-      "canada"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Industry Manager II",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8201668"
-  },
-  {
     "company": "Above and Beyond Therapy",
     "id": "7a532a44e0d8a5f7",
     "location": "USA",
@@ -771,21 +689,80 @@
     "url": "https://job-boards.greenhouse.io/catawiki/jobs/8405557"
   },
   {
-    "title": "Founding Software Engineer - Vimes",
     "company": "Pear VC",
-    "url": "https://jobicy.com/jobs/163768-founding-software-engineer-vimes",
+    "id": "ef41aab3dab6f613",
     "location": "USA",
     "posted_at": "2026-11-22T04:27:10+00:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "LLM: Relocation compensation offered; remote US role",
+    "source": "jobicy",
+    "tags": [
+      "Software Engineering"
+    ],
+    "title": "Founding Software Engineer - Vimes",
+    "url": "https://jobicy.com/jobs/163768-founding-software-engineer-vimes"
+  },
+  {
+    "title": "Insights Associate - Retail",
+    "company": "YipitData",
+    "url": "https://jobicy.com/jobs/156625-insights-associate-retail",
+    "location": "USA",
+    "posted_at": "2026-11-23T03:40:36+00:00",
     "source": "jobicy",
     "remote": true,
     "tags": [
-      "Software Engineering"
+      "Data Science & Analytics"
     ],
     "regions": [
       "remote_us"
     ],
-    "signal": "LLM: Relocation compensation offered; remote US role",
-    "id": "ef41aab3dab6f613"
+    "signal": "Visa sponsorship",
+    "id": "8e379e3836a7037a"
+  },
+  {
+    "company": "Flex",
+    "id": "370527fb2f6c58d1",
+    "location": "Anywhere",
+    "posted_at": "2026-11-14T03:00:10+00:00",
+    "published_at": "2026-11-22T18:00:13.957278+00:00",
+    "receipts": {
+      "telegram": "155"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "jobicy",
+    "tags": [
+      "Software Engineering"
+    ],
+    "title": "Senior Staff Software Engineer, Partner Integrations",
+    "url": "https://jobicy.com/jobs/155313-senior-staff-software-engineer-partner-integrations"
+  },
+  {
+    "company": "Flex",
+    "id": "770049a142bc8d8d",
+    "location": "USA",
+    "posted_at": "2026-11-14T03:00:24+00:00",
+    "published_at": "2026-11-22T10:31:53.293269+00:00",
+    "receipts": {
+      "telegram": "154"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "jobicy",
+    "tags": [
+      "Web, UI & UX Design"
+    ],
+    "title": "Staff Product Designer (Contract)",
+    "url": "https://jobicy.com/jobs/155321-staff-product-designer-contract"
   },
   {
     "company": "Pinterest",
@@ -1732,46 +1709,5 @@
     ],
     "title": "Technical Recruiter",
     "url": "https://jobicy.com/jobs/153631-technical-recruiter"
-  },
-  {
-    "company": "OpenAI",
-    "id": "fc46bfd79c1e0d0a",
-    "location": "Paris, France",
-    "posted_at": "2026-10-20T07:19:41.364000+00:00",
-    "published_at": "2026-10-28T09:09:09.342559+00:00",
-    "receipts": {
-      "telegram": "104"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Go To Market",
-      "Go To Market"
-    ],
-    "title": "Applied AI Engineer, Digital Natives",
-    "url": "https://jobs.ashbyhq.com/openai/112e34f2-45da-4a08-adf4-cc29398938df"
-  },
-  {
-    "company": "Affirm",
-    "id": "57b18272732f7eb8",
-    "location": "Remote Spain",
-    "posted_at": "2026-10-19T02:36:14-04:00",
-    "published_at": "2026-10-27T14:52:44.437667+00:00",
-    "receipts": {
-      "telegram": "103"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior Software Engineer (Comms Core)",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034649003"
   }
 ]

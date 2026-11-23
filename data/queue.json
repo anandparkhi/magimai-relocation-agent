@@ -2927,54 +2927,6 @@
   ],
   "items": [
     {
-      "company": "OpenAI",
-      "id": "d4e8e3d2678022c9",
-      "location": "US - Remote",
-      "posted_at": "2026-11-13T21:51:45.714000+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Go To Market",
-        "Account Associates"
-      ],
-      "title": "Account Associate - Austin",
-      "url": "https://jobs.ashbyhq.com/openai/fa49d49e-0a9b-4927-898e-2e3faa6be981"
-    },
-    {
-      "company": "Pinterest",
-      "id": "7e237fbe3916a481",
-      "location": "San Francisco, CA, US; Remote, US",
-      "posted_at": "2026-11-13T15:58:19-05:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Sr. Counsel",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8356287"
-    },
-    {
-      "company": "Pinterest",
-      "id": "44dd848ace0bd17d",
-      "location": "Toronto, ON, CA",
-      "posted_at": "2026-11-13T10:44:26-05:00",
-      "regions": [
-        "canada"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Industry Manager II",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8201668"
-    },
-    {
       "company": "Above and Beyond Therapy",
       "id": "7a532a44e0d8a5f7",
       "location": "USA",
@@ -3679,6 +3631,23 @@
       ],
       "title": "Founding Software Engineer - Vimes",
       "url": "https://jobicy.com/jobs/163768-founding-software-engineer-vimes"
+    },
+    {
+      "company": "YipitData",
+      "id": "8e379e3836a7037a",
+      "location": "USA",
+      "posted_at": "2026-11-23T03:40:36+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "Data Science & Analytics"
+      ],
+      "title": "Insights Associate - Retail",
+      "url": "https://jobicy.com/jobs/156625-insights-associate-retail"
     }
   ],
   "last_posted_at": "2026-11-22T18:00:13.957278+00:00",
