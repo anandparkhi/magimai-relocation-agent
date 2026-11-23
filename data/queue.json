@@ -1,6 +1,28 @@
 {
   "history": [
     {
+      "company": "OpenAI",
+      "id": "1a56d322d824317b",
+      "location": "Singapore",
+      "posted_at": "2026-11-17T07:03:20.692000+00:00",
+      "published_at": "2026-11-23T22:53:02.630546+00:00",
+      "receipts": {
+        "telegram": "157"
+      },
+      "regions": [
+        "singapore"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Enablement"
+      ],
+      "title": "Sales Enablement Lead",
+      "url": "https://jobs.ashbyhq.com/openai/6dc6b517-c0e3-453d-924a-ffe13e36d28b"
+    },
+    {
       "company": "Above and Beyond Therapy",
       "id": "7a532a44e0d8a5f7",
       "location": "USA",
@@ -2948,24 +2970,6 @@
   ],
   "items": [
     {
-      "company": "OpenAI",
-      "id": "1a56d322d824317b",
-      "location": "Singapore",
-      "posted_at": "2026-11-17T07:03:20.692000+00:00",
-      "regions": [
-        "singapore"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Go To Market",
-        "Enablement"
-      ],
-      "title": "Sales Enablement Lead",
-      "url": "https://jobs.ashbyhq.com/openai/6dc6b517-c0e3-453d-924a-ffe13e36d28b"
-    },
-    {
       "company": "Pinterest",
       "id": "1d67780d38c6dc7a",
       "location": "San Francisco, CA, US; Remote, US",
@@ -3654,7 +3658,7 @@
       "url": "https://jobicy.com/jobs/156625-insights-associate-retail"
     }
   ],
-  "last_posted_at": "2026-11-23T11:31:49.491174+00:00",
+  "last_posted_at": "2026-11-23T22:53:02.630546+00:00",
   "posted": {
     "2026-11-09": 2,
     "2026-11-10": 2,
@@ -3670,6 +3674,6 @@
     "2026-11-20": 2,
     "2026-11-21": 2,
     "2026-11-22": 2,
-    "2026-11-23": 1
+    "2026-11-23": 2
   }
 }
