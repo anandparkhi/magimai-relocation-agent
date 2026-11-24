@@ -1,40 +1,5 @@
 [
   {
-    "company": "Above and Beyond Therapy",
-    "id": "7a532a44e0d8a5f7",
-    "location": "USA",
-    "posted_at": "2026-11-15T04:02:18+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation bonus",
-    "source": "jobicy",
-    "tags": [
-      "Healthcare & Medical"
-    ],
-    "title": "Board Certified Assistant Behavior Analyst (BCABA) Sign on Bonus!",
-    "url": "https://jobicy.com/jobs/162275-board-certified-assistant-behavior-analyst-bcaba-sign-on-bonus"
-  },
-  {
-    "company": "OpenAI",
-    "id": "1a56d322d824317b",
-    "location": "Singapore",
-    "posted_at": "2026-11-17T07:03:20.692000+00:00",
-    "regions": [
-      "singapore"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Go To Market",
-      "Enablement"
-    ],
-    "title": "Sales Enablement Lead",
-    "url": "https://jobs.ashbyhq.com/openai/6dc6b517-c0e3-453d-924a-ffe13e36d28b"
-  },
-  {
     "company": "Pinterest",
     "id": "1d67780d38c6dc7a",
     "location": "San Francisco, CA, US; Remote, US",
@@ -706,21 +671,179 @@
     "url": "https://jobicy.com/jobs/163768-founding-software-engineer-vimes"
   },
   {
-    "title": "Insights Associate - Retail",
     "company": "YipitData",
-    "url": "https://jobicy.com/jobs/156625-insights-associate-retail",
+    "id": "8e379e3836a7037a",
     "location": "USA",
     "posted_at": "2026-11-23T03:40:36+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "Data Science & Analytics"
-    ],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Visa sponsorship",
-    "id": "8e379e3836a7037a"
+    "source": "jobicy",
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "title": "Insights Associate - Retail",
+    "url": "https://jobicy.com/jobs/156625-insights-associate-retail"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "company": "Veriff",
+    "url": "https://jobicy.com/jobs/164038-senior-software-engineer-30",
+    "location": "Spain",
+    "posted_at": "2026-11-24T08:06:15+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Software Engineering"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation support",
+    "id": "73766092fac99c8c"
+  },
+  {
+    "title": "Core Startups, Account Director",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/0c190360-7ba6-423d-94da-5ffa33e4ddf3",
+    "location": "Singapore",
+    "posted_at": "2026-11-24T05:43:40.087000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "Go To Market",
+      "Go To Market"
+    ],
+    "regions": [
+      "singapore"
+    ],
+    "signal": "Relocation assistance",
+    "id": "4b2c513bc4911926"
+  },
+  {
+    "title": "Senior Engineering Manager",
+    "company": "Monzo",
+    "url": "https://jobicy.com/jobs/156848-senior-engineering-manager-2",
+    "location": "UK",
+    "posted_at": "2026-11-24T04:45:34+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Software Engineering"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Sponsor visa",
+    "id": "31dfdd58aeaf8583"
+  },
+  {
+    "title": "Supply Chain Program Manager",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8393540?gh_jid=8393540",
+    "location": "Remote - US; USA",
+    "posted_at": "2026-11-23T16:25:26-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "2c4ea7e39359eca9"
+  },
+  {
+    "title": "Senior Technical Program Manager, Infrastructure",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8368950",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-11-23T15:21:15-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Relocation assistance",
+    "id": "ad771b9b36fd380e"
+  },
+  {
+    "title": "Forward Deployed Engineer - Dublin",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488",
+    "location": "Dublin, Ireland",
+    "posted_at": "2026-11-23T20:03:33.812000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "Forward Deployed Engineering",
+      "Forward Deployed Engineering"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "684c2274912d2042"
+  },
+  {
+    "title": "Senior Software Engineer, Back-end, (Fraud)",
+    "company": "Affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8213907003",
+    "location": "Remote Spain",
+    "posted_at": "2026-11-23T06:12:26-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "397ebf2ea23613b7"
+  },
+  {
+    "company": "OpenAI",
+    "id": "1a56d322d824317b",
+    "location": "Singapore",
+    "posted_at": "2026-11-17T07:03:20.692000+00:00",
+    "published_at": "2026-11-23T22:53:02.630546+00:00",
+    "receipts": {
+      "telegram": "157"
+    },
+    "regions": [
+      "singapore"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
+    "tags": [
+      "Go To Market",
+      "Enablement"
+    ],
+    "title": "Sales Enablement Lead",
+    "url": "https://jobs.ashbyhq.com/openai/6dc6b517-c0e3-453d-924a-ffe13e36d28b"
+  },
+  {
+    "company": "Above and Beyond Therapy",
+    "id": "7a532a44e0d8a5f7",
+    "location": "USA",
+    "posted_at": "2026-11-15T04:02:18+00:00",
+    "published_at": "2026-11-23T11:31:49.491174+00:00",
+    "receipts": {
+      "telegram": "156"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation bonus",
+    "source": "jobicy",
+    "tags": [
+      "Healthcare & Medical"
+    ],
+    "title": "Board Certified Assistant Behavior Analyst (BCABA) Sign on Bonus!",
+    "url": "https://jobicy.com/jobs/162275-board-certified-assistant-behavior-analyst-bcaba-sign-on-bonus"
   },
   {
     "company": "Flex",
@@ -1667,47 +1790,5 @@
     ],
     "title": "Account Director, Digital Native Large Enterprise",
     "url": "https://jobicy.com/jobs/153713-account-director-digital-native-large-enterprise"
-  },
-  {
-    "company": "OpenAI",
-    "id": "57b6632d678b43ca",
-    "location": "USA",
-    "posted_at": "2026-10-21T03:10:27+00:00",
-    "published_at": "2026-10-29T09:08:04.690661+00:00",
-    "receipts": {
-      "telegram": "106"
-    },
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "jobicy",
-    "tags": [
-      "Sales"
-    ],
-    "title": "Account Director, Digital Native Enterprise",
-    "url": "https://jobicy.com/jobs/153717-account-director-digital-native-enterprise"
-  },
-  {
-    "company": "Roboflow",
-    "id": "6f72fd94c9f5c125",
-    "location": "USA",
-    "posted_at": "2026-10-20T03:25:32+00:00",
-    "published_at": "2026-10-28T16:05:43.672076+00:00",
-    "receipts": {
-      "telegram": "105"
-    },
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation bonus",
-    "source": "jobicy",
-    "tags": [
-      "HR & Recruiting"
-    ],
-    "title": "Technical Recruiter",
-    "url": "https://jobicy.com/jobs/153631-technical-recruiter"
   }
 ]

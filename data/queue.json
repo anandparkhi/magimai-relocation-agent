@@ -3656,6 +3656,121 @@
       ],
       "title": "Insights Associate - Retail",
       "url": "https://jobicy.com/jobs/156625-insights-associate-retail"
+    },
+    {
+      "company": "Veriff",
+      "id": "73766092fac99c8c",
+      "location": "Spain",
+      "posted_at": "2026-11-24T08:06:15+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation support",
+      "source": "jobicy",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Senior Software Engineer",
+      "url": "https://jobicy.com/jobs/164038-senior-software-engineer-30"
+    },
+    {
+      "company": "OpenAI",
+      "id": "4b2c513bc4911926",
+      "location": "Singapore",
+      "posted_at": "2026-11-24T05:43:40.087000+00:00",
+      "regions": [
+        "singapore"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Go To Market"
+      ],
+      "title": "Core Startups, Account Director",
+      "url": "https://jobs.ashbyhq.com/openai/0c190360-7ba6-423d-94da-5ffa33e4ddf3"
+    },
+    {
+      "company": "Monzo",
+      "id": "31dfdd58aeaf8583",
+      "location": "UK",
+      "posted_at": "2026-11-24T04:45:34+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Sponsor visa",
+      "source": "jobicy",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Senior Engineering Manager",
+      "url": "https://jobicy.com/jobs/156848-senior-engineering-manager-2"
+    },
+    {
+      "company": "Samsara",
+      "id": "2c4ea7e39359eca9",
+      "location": "Remote - US; USA",
+      "posted_at": "2026-11-23T16:25:26-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Supply Chain Program Manager",
+      "url": "https://www.samsara.com/company/careers/roles/8393540?gh_jid=8393540"
+    },
+    {
+      "company": "Pinterest",
+      "id": "ad771b9b36fd380e",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-11-23T15:21:15-05:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Technical Program Manager, Infrastructure",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8368950"
+    },
+    {
+      "company": "OpenAI",
+      "id": "684c2274912d2042",
+      "location": "Dublin, Ireland",
+      "posted_at": "2026-11-23T20:03:33.812000+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Forward Deployed Engineering",
+        "Forward Deployed Engineering"
+      ],
+      "title": "Forward Deployed Engineer - Dublin",
+      "url": "https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488"
+    },
+    {
+      "company": "Affirm",
+      "id": "397ebf2ea23613b7",
+      "location": "Remote Spain",
+      "posted_at": "2026-11-23T06:12:26-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Software Engineer, Back-end, (Fraud)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8213907003"
     }
   ],
   "last_posted_at": "2026-11-23T22:53:02.630546+00:00",
