@@ -3775,6 +3775,129 @@
       "tags": [],
       "title": "Senior Software Engineer, Back-end, (Fraud)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8213907003"
+    },
+    {
+      "company": "Monzo",
+      "id": "a58eaf06e8240dd4",
+      "location": "London",
+      "posted_at": "2026-11-25T05:51:35-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Sponsor visa",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Staff Backend Engineer",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8392560"
+    },
+    {
+      "company": "Monzo",
+      "id": "18dd9aec4580d536",
+      "location": "London",
+      "posted_at": "2026-11-25T05:51:09-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Sponsor visa",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Backend Engineer",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8392368"
+    },
+    {
+      "company": "N26",
+      "id": "e3b3d2a187204534",
+      "location": "Barcelona",
+      "posted_at": "2026-11-25T04:09:11-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Associate Product Designer - Wealth building and Lending",
+      "url": "https://n26.com/en-eu/careers/positions/8355849?gh_jid=8355849"
+    },
+    {
+      "company": "N26",
+      "id": "8e68846600cade51",
+      "location": "Berlin",
+      "posted_at": "2026-11-25T03:41:32-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Product Manager - Investments",
+      "url": "https://n26.com/en-eu/careers/positions/8416464?gh_jid=8416464"
+    },
+    {
+      "company": "N26",
+      "id": "8874a1bfd95c5a76",
+      "location": "Barcelona",
+      "posted_at": "2026-11-25T03:41:29-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Product Manager - Investments",
+      "url": "https://n26.com/en-eu/careers/positions/8414039?gh_jid=8414039"
+    },
+    {
+      "company": "OpenAI",
+      "id": "7dc697399fdaf4d5",
+      "location": "London, UK",
+      "posted_at": "2026-11-24T22:08:08.119000+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Forward Deployed Engineering",
+        "Forward Deployed Engineering"
+      ],
+      "title": "Forward Deployed Engineer (FDE), Life Sciences - London",
+      "url": "https://jobs.ashbyhq.com/openai/d2ab1c9b-5c0c-4b43-a7c3-c9301854c023"
+    },
+    {
+      "company": "Pinterest",
+      "id": "1178f5548de39098",
+      "location": "Dublin, IE",
+      "posted_at": "2026-11-24T12:03:23-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Global Privacy Operations Manager",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8401528"
+    },
+    {
+      "company": "Catawiki",
+      "id": "bc0e274ed22cae64",
+      "location": "Amsterdam, Netherlands",
+      "posted_at": "2026-11-24T07:43:57-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation support",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Backend Engineer",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8404845"
     }
   ],
   "last_posted_at": "2026-11-24T13:06:21.730523+00:00",

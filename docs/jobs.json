@@ -1,21 +1,6 @@
 [
   {
     "company": "Pinterest",
-    "id": "1d67780d38c6dc7a",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-11-16T23:04:07-05:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. Project & Program Manager, Quality",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8115849"
-  },
-  {
-    "company": "Pinterest",
     "id": "78ce51a815b3e22b",
     "location": "San Francisco, CA, US; Remote, US",
     "posted_at": "2026-11-16T21:56:07-05:00",
@@ -688,93 +673,201 @@
     "url": "https://jobicy.com/jobs/156625-insights-associate-retail"
   },
   {
-    "title": "Senior Software Engineer",
     "company": "Veriff",
-    "url": "https://jobicy.com/jobs/164038-senior-software-engineer-30",
+    "id": "73766092fac99c8c",
     "location": "Spain",
     "posted_at": "2026-11-24T08:06:15+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "Software Engineering"
-    ],
     "regions": [
       "europe"
     ],
+    "remote": true,
     "signal": "Relocation support",
-    "id": "73766092fac99c8c"
+    "source": "jobicy",
+    "tags": [
+      "Software Engineering"
+    ],
+    "title": "Senior Software Engineer",
+    "url": "https://jobicy.com/jobs/164038-senior-software-engineer-30"
   },
   {
-    "title": "Core Startups, Account Director",
     "company": "OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/0c190360-7ba6-423d-94da-5ffa33e4ddf3",
+    "id": "4b2c513bc4911926",
     "location": "Singapore",
     "posted_at": "2026-11-24T05:43:40.087000+00:00",
-    "source": "ats:ashby",
+    "regions": [
+      "singapore"
+    ],
     "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
     "tags": [
       "Go To Market",
       "Go To Market"
     ],
-    "regions": [
-      "singapore"
-    ],
-    "signal": "Relocation assistance",
-    "id": "4b2c513bc4911926"
+    "title": "Core Startups, Account Director",
+    "url": "https://jobs.ashbyhq.com/openai/0c190360-7ba6-423d-94da-5ffa33e4ddf3"
   },
   {
-    "title": "Senior Engineering Manager",
     "company": "Monzo",
-    "url": "https://jobicy.com/jobs/156848-senior-engineering-manager-2",
+    "id": "31dfdd58aeaf8583",
     "location": "UK",
     "posted_at": "2026-11-24T04:45:34+00:00",
-    "source": "jobicy",
+    "regions": [
+      "europe"
+    ],
     "remote": true,
+    "signal": "Sponsor visa",
+    "source": "jobicy",
     "tags": [
       "Software Engineering"
     ],
+    "title": "Senior Engineering Manager",
+    "url": "https://jobicy.com/jobs/156848-senior-engineering-manager-2"
+  },
+  {
+    "company": "Samsara",
+    "id": "2c4ea7e39359eca9",
+    "location": "Remote - US; USA",
+    "posted_at": "2026-11-23T16:25:26-05:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Supply Chain Program Manager",
+    "url": "https://www.samsara.com/company/careers/roles/8393540?gh_jid=8393540"
+  },
+  {
+    "company": "Pinterest",
+    "id": "ad771b9b36fd380e",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-11-23T15:21:15-05:00",
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Technical Program Manager, Infrastructure",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8368950"
+  },
+  {
+    "company": "OpenAI",
+    "id": "684c2274912d2042",
+    "location": "Dublin, Ireland",
+    "posted_at": "2026-11-23T20:03:33.812000+00:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
+    "tags": [
+      "Forward Deployed Engineering",
+      "Forward Deployed Engineering"
+    ],
+    "title": "Forward Deployed Engineer - Dublin",
+    "url": "https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488"
+  },
+  {
+    "company": "Affirm",
+    "id": "397ebf2ea23613b7",
+    "location": "Remote Spain",
+    "posted_at": "2026-11-23T06:12:26-05:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": true,
+    "signal": "Visa sponsorship",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Software Engineer, Back-end, (Fraud)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8213907003"
+  },
+  {
+    "title": "Staff Backend Engineer",
+    "company": "Monzo",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/8392560",
+    "location": "London",
+    "posted_at": "2026-11-25T05:51:35-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
     "regions": [
       "europe"
     ],
     "signal": "Sponsor visa",
-    "id": "31dfdd58aeaf8583"
+    "id": "a58eaf06e8240dd4"
   },
   {
-    "title": "Supply Chain Program Manager",
-    "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8393540?gh_jid=8393540",
-    "location": "Remote - US; USA",
-    "posted_at": "2026-11-23T16:25:26-05:00",
+    "title": "Senior Backend Engineer",
+    "company": "Monzo",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/8392368",
+    "location": "London",
+    "posted_at": "2026-11-25T05:51:09-05:00",
     "source": "ats:greenhouse",
-    "remote": true,
+    "remote": false,
     "tags": [],
     "regions": [
-      "remote_us"
+      "europe"
     ],
-    "signal": "Relocation assistance",
-    "id": "2c4ea7e39359eca9"
+    "signal": "Sponsor visa",
+    "id": "18dd9aec4580d536"
   },
   {
-    "title": "Senior Technical Program Manager, Infrastructure",
-    "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8368950",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-11-23T15:21:15-05:00",
+    "title": "Associate Product Designer - Wealth building and Lending",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8355849?gh_jid=8355849",
+    "location": "Barcelona",
+    "posted_at": "2026-11-25T04:09:11-05:00",
     "source": "ats:greenhouse",
-    "remote": true,
+    "remote": false,
     "tags": [],
     "regions": [
-      "remote_us"
+      "europe"
     ],
-    "signal": "Relocation assistance",
-    "id": "ad771b9b36fd380e"
+    "signal": "Relocation package",
+    "id": "e3b3d2a187204534"
   },
   {
-    "title": "Forward Deployed Engineer - Dublin",
+    "title": "Senior Product Manager - Investments",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8416464?gh_jid=8416464",
+    "location": "Berlin",
+    "posted_at": "2026-11-25T03:41:32-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "8e68846600cade51"
+  },
+  {
+    "title": "Senior Product Manager - Investments",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8414039?gh_jid=8414039",
+    "location": "Barcelona",
+    "posted_at": "2026-11-25T03:41:29-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation package",
+    "id": "8874a1bfd95c5a76"
+  },
+  {
+    "title": "Forward Deployed Engineer (FDE), Life Sciences - London",
     "company": "OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488",
-    "location": "Dublin, Ireland",
-    "posted_at": "2026-11-23T20:03:33.812000+00:00",
+    "url": "https://jobs.ashbyhq.com/openai/d2ab1c9b-5c0c-4b43-a7c3-c9301854c023",
+    "location": "London, UK",
+    "posted_at": "2026-11-24T22:08:08.119000+00:00",
     "source": "ats:ashby",
     "remote": true,
     "tags": [
@@ -785,22 +878,56 @@
       "europe"
     ],
     "signal": "Relocation assistance",
-    "id": "684c2274912d2042"
+    "id": "7dc697399fdaf4d5"
   },
   {
-    "title": "Senior Software Engineer, Back-end, (Fraud)",
-    "company": "Affirm",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8213907003",
-    "location": "Remote Spain",
-    "posted_at": "2026-11-23T06:12:26-05:00",
+    "title": "Global Privacy Operations Manager",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8401528",
+    "location": "Dublin, IE",
+    "posted_at": "2026-11-24T12:03:23-05:00",
     "source": "ats:greenhouse",
-    "remote": true,
+    "remote": false,
     "tags": [],
     "regions": [
       "europe"
     ],
-    "signal": "Visa sponsorship",
-    "id": "397ebf2ea23613b7"
+    "signal": "Relocation assistance",
+    "id": "1178f5548de39098"
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "Catawiki",
+    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8404845",
+    "location": "Amsterdam, Netherlands",
+    "posted_at": "2026-11-24T07:43:57-05:00",
+    "source": "ats:greenhouse",
+    "remote": false,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation support",
+    "id": "bc0e274ed22cae64"
+  },
+  {
+    "company": "Pinterest",
+    "id": "1d67780d38c6dc7a",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-11-16T23:04:07-05:00",
+    "published_at": "2026-11-24T13:06:21.730523+00:00",
+    "receipts": {
+      "telegram": "158"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Sr. Project & Program Manager, Quality",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8115849"
   },
   {
     "company": "OpenAI",
@@ -1769,26 +1896,5 @@
     "tags": [],
     "title": "Lead Client Account Manager (Entertainment App) - Greater China Region",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8304896"
-  },
-  {
-    "company": "OpenAI",
-    "id": "53e440a3116e5d88",
-    "location": "USA",
-    "posted_at": "2026-10-21T03:10:18+00:00",
-    "published_at": "2026-10-29T16:09:47.443831+00:00",
-    "receipts": {
-      "telegram": "107"
-    },
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "jobicy",
-    "tags": [
-      "Sales"
-    ],
-    "title": "Account Director, Digital Native Large Enterprise",
-    "url": "https://jobicy.com/jobs/153713-account-director-digital-native-large-enterprise"
   }
 ]
