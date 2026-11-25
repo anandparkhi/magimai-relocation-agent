@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "Pinterest",
+      "id": "10eec93d653a420c",
+      "location": "Toronto, ON, CA",
+      "posted_at": "2026-11-16T15:46:51-05:00",
+      "published_at": "2026-11-25T20:52:10.630616+00:00",
+      "receipts": {
+        "telegram": "160"
+      },
+      "regions": [
+        "canada"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Client Account Manager, Retail (12 month fixed-term)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8384879"
+    },
+    {
+      "company": "Pinterest",
       "id": "78ce51a815b3e22b",
       "location": "San Francisco, CA, US; Remote, US",
       "posted_at": "2026-11-16T21:56:07-05:00",
@@ -3009,21 +3028,6 @@
   "items": [
     {
       "company": "Pinterest",
-      "id": "10eec93d653a420c",
-      "location": "Toronto, ON, CA",
-      "posted_at": "2026-11-16T15:46:51-05:00",
-      "regions": [
-        "canada"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Sr. Client Account Manager, Retail (12 month fixed-term)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8384879"
-    },
-    {
-      "company": "Pinterest",
       "id": "a1ef92709d754aec",
       "location": "Toronto, ON, CA",
       "posted_at": "2026-11-16T13:06:01-05:00",
@@ -3904,7 +3908,7 @@
       "url": "https://job-boards.greenhouse.io/catawiki/jobs/8404845"
     }
   ],
-  "last_posted_at": "2026-11-25T11:54:39.969168+00:00",
+  "last_posted_at": "2026-11-25T20:52:10.630616+00:00",
   "posted": {
     "2026-11-11": 2,
     "2026-11-12": 2,
@@ -3920,6 +3924,6 @@
     "2026-11-22": 2,
     "2026-11-23": 2,
     "2026-11-24": 1,
-    "2026-11-25": 1
+    "2026-11-25": 2
   }
 }
