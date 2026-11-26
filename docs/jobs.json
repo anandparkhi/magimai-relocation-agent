@@ -1,69 +1,6 @@
 [
   {
     "company": "Pinterest",
-    "id": "78ce51a815b3e22b",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-11-16T21:56:07-05:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Technical Program Manager II",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8369211"
-  },
-  {
-    "company": "Pinterest",
-    "id": "10eec93d653a420c",
-    "location": "Toronto, ON, CA",
-    "posted_at": "2026-11-16T15:46:51-05:00",
-    "regions": [
-      "canada"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. Client Account Manager, Retail (12 month fixed-term)",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8384879"
-  },
-  {
-    "company": "Pinterest",
-    "id": "a1ef92709d754aec",
-    "location": "Toronto, ON, CA",
-    "posted_at": "2026-11-16T13:06:01-05:00",
-    "regions": [
-      "canada"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Lead Client Partner, Retail (12 month fixed-term)",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8384909"
-  },
-  {
-    "company": "OpenAI",
-    "id": "05de094589b81a48",
-    "location": "London, UK",
-    "posted_at": "2026-11-16T16:16:57.438000+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Go To Market",
-      "Technical Success"
-    ],
-    "title": "Applied AI Engineer - Startups",
-    "url": "https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f"
-  },
-  {
-    "company": "Pinterest",
     "id": "fb73bb25df76ac86",
     "location": "Dublin, Ireland",
     "posted_at": "2026-11-18T04:27:47-05:00",
@@ -788,127 +725,264 @@
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8213907003"
   },
   {
-    "title": "Staff Backend Engineer",
     "company": "Monzo",
-    "url": "https://job-boards.greenhouse.io/monzo/jobs/8392560",
+    "id": "a58eaf06e8240dd4",
     "location": "London",
     "posted_at": "2026-11-25T05:51:35-05:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Sponsor visa",
-    "id": "a58eaf06e8240dd4"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Staff Backend Engineer",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/8392560"
   },
   {
-    "title": "Senior Backend Engineer",
     "company": "Monzo",
-    "url": "https://job-boards.greenhouse.io/monzo/jobs/8392368",
+    "id": "18dd9aec4580d536",
     "location": "London",
     "posted_at": "2026-11-25T05:51:09-05:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Sponsor visa",
-    "id": "18dd9aec4580d536"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Backend Engineer",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/8392368"
   },
   {
-    "title": "Associate Product Designer - Wealth building and Lending",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8355849?gh_jid=8355849",
+    "id": "e3b3d2a187204534",
     "location": "Barcelona",
     "posted_at": "2026-11-25T04:09:11-05:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "e3b3d2a187204534"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Associate Product Designer - Wealth building and Lending",
+    "url": "https://n26.com/en-eu/careers/positions/8355849?gh_jid=8355849"
   },
   {
-    "title": "Senior Product Manager - Investments",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8416464?gh_jid=8416464",
+    "id": "8e68846600cade51",
     "location": "Berlin",
     "posted_at": "2026-11-25T03:41:32-05:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "8e68846600cade51"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Product Manager - Investments",
+    "url": "https://n26.com/en-eu/careers/positions/8416464?gh_jid=8416464"
   },
   {
-    "title": "Senior Product Manager - Investments",
     "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8414039?gh_jid=8414039",
+    "id": "8874a1bfd95c5a76",
     "location": "Barcelona",
     "posted_at": "2026-11-25T03:41:29-05:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": false,
     "signal": "Relocation package",
-    "id": "8874a1bfd95c5a76"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Product Manager - Investments",
+    "url": "https://n26.com/en-eu/careers/positions/8414039?gh_jid=8414039"
   },
   {
-    "title": "Forward Deployed Engineer (FDE), Life Sciences - London",
     "company": "OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/d2ab1c9b-5c0c-4b43-a7c3-c9301854c023",
+    "id": "7dc697399fdaf4d5",
     "location": "London, UK",
     "posted_at": "2026-11-24T22:08:08.119000+00:00",
-    "source": "ats:ashby",
+    "regions": [
+      "europe"
+    ],
     "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
     "tags": [
       "Forward Deployed Engineering",
       "Forward Deployed Engineering"
     ],
-    "regions": [
-      "europe"
-    ],
-    "signal": "Relocation assistance",
-    "id": "7dc697399fdaf4d5"
+    "title": "Forward Deployed Engineer (FDE), Life Sciences - London",
+    "url": "https://jobs.ashbyhq.com/openai/d2ab1c9b-5c0c-4b43-a7c3-c9301854c023"
   },
   {
-    "title": "Global Privacy Operations Manager",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8401528",
+    "id": "1178f5548de39098",
     "location": "Dublin, IE",
     "posted_at": "2026-11-24T12:03:23-05:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Global Privacy Operations Manager",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8401528"
+  },
+  {
+    "company": "Catawiki",
+    "id": "bc0e274ed22cae64",
+    "location": "Amsterdam, Netherlands",
+    "posted_at": "2026-11-24T07:43:57-05:00",
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation support",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Backend Engineer",
+    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8404845"
+  },
+  {
+    "title": "Technical Product Manager",
+    "company": "Neo Financial",
+    "url": "https://jobicy.com/jobs/164332-technical-product-manager-6",
+    "location": "Canada",
+    "posted_at": "2026-11-26T07:46:05+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Product & Operations"
+    ],
+    "regions": [
+      "canada"
+    ],
+    "signal": "Relocation support",
+    "id": "a784d195ef2da0ba"
+  },
+  {
+    "title": "Staff Software Developer",
+    "company": "Neo Financial",
+    "url": "https://jobicy.com/jobs/164325-staff-software-developer-3",
+    "location": "Canada",
+    "posted_at": "2026-11-26T07:45:17+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Software Engineering"
+    ],
+    "regions": [
+      "canada"
+    ],
+    "signal": "Relocation support",
+    "id": "1457e8e0de3dc4b6"
+  },
+  {
+    "title": "Senior Test Software Engineer",
+    "company": "Focus Consulting LLC",
+    "url": "https://jobicy.com/jobs/164323-senior-test-software-engineer",
+    "location": "USA",
+    "posted_at": "2026-11-26T07:45:14+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "QA & Testing"
+    ],
+    "regions": [
+      "remote_us"
+    ],
+    "signal": "Visa sponsorship",
+    "id": "79b99ca1a1602cd4"
+  },
+  {
+    "title": "Sr. Client Partner",
+    "company": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8410813",
+    "location": "Singapore, SG",
+    "posted_at": "2026-11-26T00:10:52-05:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
+    "regions": [
+      "singapore"
+    ],
+    "signal": "Relocation assistance",
+    "id": "1b3cb19f16ac1b59"
+  },
+  {
+    "title": "Applied AI Architect, Large Enterprise",
+    "company": "OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/f9818cd7-66b3-4d68-a354-868ea1ce976e",
+    "location": "Paris, France",
+    "posted_at": "2026-11-25T17:05:07.261000+00:00",
+    "source": "ats:ashby",
+    "remote": true,
+    "tags": [
+      "Go To Market",
+      "Technical Success"
+    ],
     "regions": [
       "europe"
     ],
     "signal": "Relocation assistance",
-    "id": "1178f5548de39098"
+    "id": "1e36a0eec2e7d89d"
   },
   {
-    "title": "Backend Engineer",
-    "company": "Catawiki",
-    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8404845",
-    "location": "Amsterdam, Netherlands",
-    "posted_at": "2026-11-24T07:43:57-05:00",
+    "title": "AFC Senior Associate / SAR Delegate",
+    "company": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8414044?gh_jid=8414044",
+    "location": "Paris",
+    "posted_at": "2026-11-25T09:35:49-05:00",
     "source": "ats:greenhouse",
     "remote": false,
     "tags": [],
     "regions": [
       "europe"
     ],
-    "signal": "Relocation support",
-    "id": "bc0e274ed22cae64"
+    "signal": "Relocation package",
+    "id": "28f50cef51de64d1"
+  },
+  {
+    "company": "Pinterest",
+    "id": "10eec93d653a420c",
+    "location": "Toronto, ON, CA",
+    "posted_at": "2026-11-16T15:46:51-05:00",
+    "published_at": "2026-11-25T20:52:10.630616+00:00",
+    "receipts": {
+      "telegram": "160"
+    },
+    "regions": [
+      "canada"
+    ],
+    "remote": false,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Sr. Client Account Manager, Retail (12 month fixed-term)",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8384879"
+  },
+  {
+    "company": "Pinterest",
+    "id": "78ce51a815b3e22b",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-11-16T21:56:07-05:00",
+    "published_at": "2026-11-25T11:54:39.969168+00:00",
+    "receipts": {
+      "telegram": "159"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Technical Program Manager II",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8369211"
   },
   {
     "company": "Pinterest",
@@ -1855,46 +1929,5 @@
     "tags": [],
     "title": "AFCO Team Lead",
     "url": "https://n26.com/en-eu/careers/positions/8305489?gh_jid=8305489"
-  },
-  {
-    "company": "OpenAI",
-    "id": "fb7d199136768128",
-    "location": "London, UK",
-    "posted_at": "2026-10-21T23:06:51.805000+00:00",
-    "published_at": "2026-10-30T15:59:53.703791+00:00",
-    "receipts": {
-      "telegram": "109"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Security",
-      "Security"
-    ],
-    "title": "Software Engineer, Privacy Engineering (Lawful Access)",
-    "url": "https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3"
-  },
-  {
-    "company": "Pinterest",
-    "id": "b83ac0cba045c073",
-    "location": "Singapore, SG",
-    "posted_at": "2026-10-22T02:58:11-04:00",
-    "published_at": "2026-10-30T09:18:46.114907+00:00",
-    "receipts": {
-      "telegram": "108"
-    },
-    "regions": [
-      "singapore"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Lead Client Account Manager (Entertainment App) - Greater China Region",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8304896"
   }
 ]

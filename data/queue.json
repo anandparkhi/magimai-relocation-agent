@@ -3028,39 +3028,6 @@
   "items": [
     {
       "company": "Pinterest",
-      "id": "a1ef92709d754aec",
-      "location": "Toronto, ON, CA",
-      "posted_at": "2026-11-16T13:06:01-05:00",
-      "regions": [
-        "canada"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Lead Client Partner, Retail (12 month fixed-term)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8384909"
-    },
-    {
-      "company": "OpenAI",
-      "id": "05de094589b81a48",
-      "location": "London, UK",
-      "posted_at": "2026-11-16T16:16:57.438000+00:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:ashby",
-      "tags": [
-        "Go To Market",
-        "Technical Success"
-      ],
-      "title": "Applied AI Engineer - Startups",
-      "url": "https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f"
-    },
-    {
-      "company": "Pinterest",
       "id": "fb73bb25df76ac86",
       "location": "Dublin, Ireland",
       "posted_at": "2026-11-18T04:27:47-05:00",
@@ -3906,6 +3873,105 @@
       "tags": [],
       "title": "Backend Engineer",
       "url": "https://job-boards.greenhouse.io/catawiki/jobs/8404845"
+    },
+    {
+      "company": "Neo Financial",
+      "id": "a784d195ef2da0ba",
+      "location": "Canada",
+      "posted_at": "2026-11-26T07:46:05+00:00",
+      "regions": [
+        "canada"
+      ],
+      "remote": true,
+      "signal": "Relocation support",
+      "source": "jobicy",
+      "tags": [
+        "Product & Operations"
+      ],
+      "title": "Technical Product Manager",
+      "url": "https://jobicy.com/jobs/164332-technical-product-manager-6"
+    },
+    {
+      "company": "Neo Financial",
+      "id": "1457e8e0de3dc4b6",
+      "location": "Canada",
+      "posted_at": "2026-11-26T07:45:17+00:00",
+      "regions": [
+        "canada"
+      ],
+      "remote": true,
+      "signal": "Relocation support",
+      "source": "jobicy",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Staff Software Developer",
+      "url": "https://jobicy.com/jobs/164325-staff-software-developer-3"
+    },
+    {
+      "company": "Focus Consulting LLC",
+      "id": "79b99ca1a1602cd4",
+      "location": "USA",
+      "posted_at": "2026-11-26T07:45:14+00:00",
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Visa sponsorship",
+      "source": "jobicy",
+      "tags": [
+        "QA & Testing"
+      ],
+      "title": "Senior Test Software Engineer",
+      "url": "https://jobicy.com/jobs/164323-senior-test-software-engineer"
+    },
+    {
+      "company": "Pinterest",
+      "id": "1b3cb19f16ac1b59",
+      "location": "Singapore, SG",
+      "posted_at": "2026-11-26T00:10:52-05:00",
+      "regions": [
+        "singapore"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Sr. Client Partner",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8410813"
+    },
+    {
+      "company": "OpenAI",
+      "id": "1e36a0eec2e7d89d",
+      "location": "Paris, France",
+      "posted_at": "2026-11-25T17:05:07.261000+00:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:ashby",
+      "tags": [
+        "Go To Market",
+        "Technical Success"
+      ],
+      "title": "Applied AI Architect, Large Enterprise",
+      "url": "https://jobs.ashbyhq.com/openai/f9818cd7-66b3-4d68-a354-868ea1ce976e"
+    },
+    {
+      "company": "N26",
+      "id": "28f50cef51de64d1",
+      "location": "Paris",
+      "posted_at": "2026-11-25T09:35:49-05:00",
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation package",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "AFC Senior Associate / SAR Delegate",
+      "url": "https://n26.com/en-eu/careers/positions/8414044?gh_jid=8414044"
     }
   ],
   "last_posted_at": "2026-11-25T20:52:10.630616+00:00",
