@@ -2,6 +2,25 @@
   "history": [
     {
       "company": "Pinterest",
+      "id": "fb73bb25df76ac86",
+      "location": "Dublin, Ireland",
+      "posted_at": "2026-11-18T04:27:47-05:00",
+      "published_at": "2026-11-26T11:42:56.535697+00:00",
+      "receipts": {
+        "telegram": "161"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Lead Industry Manager",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7678354"
+    },
+    {
+      "company": "Pinterest",
       "id": "10eec93d653a420c",
       "location": "Toronto, ON, CA",
       "posted_at": "2026-11-16T15:46:51-05:00",
@@ -3027,21 +3046,6 @@
   ],
   "items": [
     {
-      "company": "Pinterest",
-      "id": "fb73bb25df76ac86",
-      "location": "Dublin, Ireland",
-      "posted_at": "2026-11-18T04:27:47-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Lead Industry Manager",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7678354"
-    },
-    {
       "company": "Samsara",
       "id": "0ea7f677346d2cfb",
       "location": "Remote - US",
@@ -3974,9 +3978,8 @@
       "url": "https://n26.com/en-eu/careers/positions/8414044?gh_jid=8414044"
     }
   ],
-  "last_posted_at": "2026-11-25T20:52:10.630616+00:00",
+  "last_posted_at": "2026-11-26T11:42:56.535697+00:00",
   "posted": {
-    "2026-11-11": 2,
     "2026-11-12": 2,
     "2026-11-13": 2,
     "2026-11-14": 2,
@@ -3990,6 +3993,7 @@
     "2026-11-22": 2,
     "2026-11-23": 2,
     "2026-11-24": 1,
-    "2026-11-25": 2
+    "2026-11-25": 2,
+    "2026-11-26": 1
   }
 }
