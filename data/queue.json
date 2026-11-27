@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Samsara",
+      "id": "ab4b343e15e773cf",
+      "location": "Remote - Toronto",
+      "posted_at": "2026-11-18T19:16:45-05:00",
+      "published_at": "2026-11-27T20:16:41.863310+00:00",
+      "receipts": {
+        "telegram": "164"
+      },
+      "regions": [
+        "canada"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Senior Software Engineer I",
+      "url": "https://www.samsara.com/company/careers/roles/8364980?gh_jid=8364980"
+    },
+    {
       "company": "Flex",
       "id": "3c325fb804b081d5",
       "location": "Anywhere",
@@ -3086,21 +3105,6 @@
   ],
   "items": [
     {
-      "company": "Samsara",
-      "id": "ab4b343e15e773cf",
-      "location": "Remote - Toronto",
-      "posted_at": "2026-11-18T19:16:45-05:00",
-      "regions": [
-        "canada"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Senior Software Engineer I",
-      "url": "https://www.samsara.com/company/careers/roles/8364980?gh_jid=8364980"
-    },
-    {
       "company": "Pinterest",
       "id": "1e7874519cd1b119",
       "location": "Dublin, IE",
@@ -3955,7 +3959,7 @@
       "url": "https://www.samsara.com/company/careers/roles/8417295?gh_jid=8417295"
     }
   ],
-  "last_posted_at": "2026-11-27T11:36:47.153404+00:00",
+  "last_posted_at": "2026-11-27T20:16:41.863310+00:00",
   "posted": {
     "2026-11-13": 2,
     "2026-11-14": 2,
@@ -3971,6 +3975,6 @@
     "2026-11-24": 1,
     "2026-11-25": 2,
     "2026-11-26": 2,
-    "2026-11-27": 1
+    "2026-11-27": 2
   }
 }
