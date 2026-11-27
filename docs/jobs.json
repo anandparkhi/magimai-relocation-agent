@@ -1,113 +1,5 @@
 [
   {
-    "company": "Pinterest",
-    "id": "fb73bb25df76ac86",
-    "location": "Dublin, Ireland",
-    "posted_at": "2026-11-18T04:27:47-05:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Lead Industry Manager",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7678354"
-  },
-  {
-    "company": "Samsara",
-    "id": "0ea7f677346d2cfb",
-    "location": "Remote - US",
-    "posted_at": "2026-11-17T19:35:53-05:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Contract and Billing Specialist - USA",
-    "url": "https://www.samsara.com/company/careers/roles/8397935?gh_jid=8397935"
-  },
-  {
-    "company": "OpenAI",
-    "id": "3b7d06e57bcaf920",
-    "location": "Paris, France",
-    "posted_at": "2026-11-17T20:33:18.791000+00:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:ashby",
-    "tags": [
-      "Strategy & Operations",
-      "Strategy & Operations"
-    ],
-    "title": "Strategy & Operations Lead, France",
-    "url": "https://jobs.ashbyhq.com/openai/5899e8d5-132f-40b3-9ff6-37830644743f"
-  },
-  {
-    "company": "Samsara",
-    "id": "2762e2e189ad96d1",
-    "location": "London, England, United Kingdom",
-    "posted_at": "2026-11-17T15:19:53-05:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Mid-Market Account Executive - UK&I",
-    "url": "https://www.samsara.com/company/careers/roles/8358996?gh_jid=8358996"
-  },
-  {
-    "company": "Pinterest",
-    "id": "be8d3820c23c4fd5",
-    "location": "London, UK",
-    "posted_at": "2026-11-17T14:34:39-05:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. Manager, Ads Product Marketing",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8395884"
-  },
-  {
-    "company": "Pinterest",
-    "id": "600171de2e75948a",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-11-17T13:37:59-05:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. Design Program Manager",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8347997"
-  },
-  {
-    "company": "Pinterest",
-    "id": "50823481c92be022",
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-11-17T10:17:59-05:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Equity Administrator II",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8331360"
-  },
-  {
     "company": "Flex",
     "id": "3c325fb804b081d5",
     "location": "Anywhere",
@@ -848,103 +740,188 @@
     "url": "https://job-boards.greenhouse.io/catawiki/jobs/8404845"
   },
   {
-    "title": "Technical Product Manager",
     "company": "Neo Financial",
-    "url": "https://jobicy.com/jobs/164332-technical-product-manager-6",
+    "id": "a784d195ef2da0ba",
     "location": "Canada",
     "posted_at": "2026-11-26T07:46:05+00:00",
-    "source": "jobicy",
+    "regions": [
+      "canada"
+    ],
     "remote": true,
+    "signal": "Relocation support",
+    "source": "jobicy",
     "tags": [
       "Product & Operations"
     ],
+    "title": "Technical Product Manager",
+    "url": "https://jobicy.com/jobs/164332-technical-product-manager-6"
+  },
+  {
+    "company": "Neo Financial",
+    "id": "1457e8e0de3dc4b6",
+    "location": "Canada",
+    "posted_at": "2026-11-26T07:45:17+00:00",
     "regions": [
       "canada"
     ],
-    "signal": "Relocation support",
-    "id": "a784d195ef2da0ba"
-  },
-  {
-    "title": "Staff Software Developer",
-    "company": "Neo Financial",
-    "url": "https://jobicy.com/jobs/164325-staff-software-developer-3",
-    "location": "Canada",
-    "posted_at": "2026-11-26T07:45:17+00:00",
-    "source": "jobicy",
     "remote": true,
+    "signal": "Relocation support",
+    "source": "jobicy",
     "tags": [
       "Software Engineering"
     ],
-    "regions": [
-      "canada"
-    ],
-    "signal": "Relocation support",
-    "id": "1457e8e0de3dc4b6"
+    "title": "Staff Software Developer",
+    "url": "https://jobicy.com/jobs/164325-staff-software-developer-3"
   },
   {
-    "title": "Senior Test Software Engineer",
     "company": "Focus Consulting LLC",
-    "url": "https://jobicy.com/jobs/164323-senior-test-software-engineer",
+    "id": "79b99ca1a1602cd4",
     "location": "USA",
     "posted_at": "2026-11-26T07:45:14+00:00",
-    "source": "jobicy",
-    "remote": true,
-    "tags": [
-      "QA & Testing"
-    ],
     "regions": [
       "remote_us"
     ],
+    "remote": true,
     "signal": "Visa sponsorship",
-    "id": "79b99ca1a1602cd4"
+    "source": "jobicy",
+    "tags": [
+      "QA & Testing"
+    ],
+    "title": "Senior Test Software Engineer",
+    "url": "https://jobicy.com/jobs/164323-senior-test-software-engineer"
   },
   {
-    "title": "Sr. Client Partner",
     "company": "Pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8410813",
+    "id": "1b3cb19f16ac1b59",
     "location": "Singapore, SG",
     "posted_at": "2026-11-26T00:10:52-05:00",
-    "source": "ats:greenhouse",
-    "remote": false,
-    "tags": [],
     "regions": [
       "singapore"
     ],
+    "remote": false,
     "signal": "Relocation assistance",
-    "id": "1b3cb19f16ac1b59"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Sr. Client Partner",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8410813"
   },
   {
-    "title": "Applied AI Architect, Large Enterprise",
     "company": "OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/f9818cd7-66b3-4d68-a354-868ea1ce976e",
+    "id": "1e36a0eec2e7d89d",
     "location": "Paris, France",
     "posted_at": "2026-11-25T17:05:07.261000+00:00",
-    "source": "ats:ashby",
+    "regions": [
+      "europe"
+    ],
     "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:ashby",
     "tags": [
       "Go To Market",
       "Technical Success"
     ],
+    "title": "Applied AI Architect, Large Enterprise",
+    "url": "https://jobs.ashbyhq.com/openai/f9818cd7-66b3-4d68-a354-868ea1ce976e"
+  },
+  {
+    "company": "N26",
+    "id": "28f50cef51de64d1",
+    "location": "Paris",
+    "posted_at": "2026-11-25T09:35:49-05:00",
     "regions": [
       "europe"
     ],
-    "signal": "Relocation assistance",
-    "id": "1e36a0eec2e7d89d"
+    "remote": false,
+    "signal": "Relocation package",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "AFC Senior Associate / SAR Delegate",
+    "url": "https://n26.com/en-eu/careers/positions/8414044?gh_jid=8414044"
   },
   {
-    "title": "AFC Senior Associate / SAR Delegate",
-    "company": "N26",
-    "url": "https://n26.com/en-eu/careers/positions/8414044?gh_jid=8414044",
-    "location": "Paris",
-    "posted_at": "2026-11-25T09:35:49-05:00",
+    "title": "Senior Machine Learning Manager, Borrowing",
+    "company": "Monzo",
+    "url": "https://jobicy.com/jobs/157407-senior-machine-learning-manager-borrowing",
+    "location": "UK",
+    "posted_at": "2026-11-27T03:45:41+00:00",
+    "source": "jobicy",
+    "remote": true,
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Sponsor visa",
+    "id": "9c3baf85d8acf24d"
+  },
+  {
+    "title": "Enterprise Core Sales Engineer - DACH",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8417297?gh_jid=8417297",
+    "location": "Remote - Germany",
+    "posted_at": "2026-11-26T06:51:47-05:00",
     "source": "ats:greenhouse",
-    "remote": false,
+    "remote": true,
     "tags": [],
     "regions": [
       "europe"
     ],
-    "signal": "Relocation package",
-    "id": "28f50cef51de64d1"
+    "signal": "Relocation assistance",
+    "id": "829e508666d152bd"
+  },
+  {
+    "title": "Enterprise Core Sales Engineer - France",
+    "company": "Samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8417295?gh_jid=8417295",
+    "location": "Remote - France",
+    "posted_at": "2026-11-26T06:46:14-05:00",
+    "source": "ats:greenhouse",
+    "remote": true,
+    "tags": [],
+    "regions": [
+      "europe"
+    ],
+    "signal": "Relocation assistance",
+    "id": "1a04fa6007c9a1c7"
+  },
+  {
+    "company": "Samsara",
+    "id": "0ea7f677346d2cfb",
+    "location": "Remote - US",
+    "posted_at": "2026-11-17T19:35:53-05:00",
+    "published_at": "2026-11-26T20:43:23.708755+00:00",
+    "receipts": {
+      "telegram": "162"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Contract and Billing Specialist - USA",
+    "url": "https://www.samsara.com/company/careers/roles/8397935?gh_jid=8397935"
+  },
+  {
+    "company": "Pinterest",
+    "id": "fb73bb25df76ac86",
+    "location": "Dublin, Ireland",
+    "posted_at": "2026-11-18T04:27:47-05:00",
+    "published_at": "2026-11-26T11:42:56.535697+00:00",
+    "receipts": {
+      "telegram": "161"
+    },
+    "regions": [
+      "europe"
+    ],
+    "remote": false,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Lead Industry Manager",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7678354"
   },
   {
     "company": "Pinterest",
@@ -1891,43 +1868,5 @@
     "tags": [],
     "title": "Sr. Manager, Payroll",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8311529"
-  },
-  {
-    "company": "Catawiki",
-    "id": "ad0afe3d1ac1d534",
-    "location": "Lisbon, Portugal",
-    "posted_at": "2026-10-23T01:00:18-04:00",
-    "published_at": "2026-10-31T15:20:56.719666+00:00",
-    "receipts": {
-      "telegram": "111"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Visa sponsorship",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Backend Engineer",
-    "url": "https://job-boards.greenhouse.io/catawiki/jobs/8305661"
-  },
-  {
-    "company": "N26",
-    "id": "a33f9f409b7ce3ac",
-    "location": "Madrid",
-    "posted_at": "2026-10-23T03:45:38-04:00",
-    "published_at": "2026-10-31T09:05:39.915721+00:00",
-    "receipts": {
-      "telegram": "110"
-    },
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "AFCO Team Lead",
-    "url": "https://n26.com/en-eu/careers/positions/8305489?gh_jid=8305489"
   }
 ]
