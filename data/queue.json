@@ -1,6 +1,27 @@
 {
   "history": [
     {
+      "company": "Flex",
+      "id": "3c325fb804b081d5",
+      "location": "Anywhere",
+      "posted_at": "2026-11-19T03:35:04+00:00",
+      "published_at": "2026-11-27T11:36:47.153404+00:00",
+      "receipts": {
+        "telegram": "163"
+      },
+      "regions": [
+        "remote_us"
+      ],
+      "remote": true,
+      "signal": "Relocation assistance",
+      "source": "jobicy",
+      "tags": [
+        "QA & Testing"
+      ],
+      "title": "Senior Software Development Engineer in Test (SDET)",
+      "url": "https://jobicy.com/jobs/155928-senior-software-development-engineer-in-test-sdet-2"
+    },
+    {
       "company": "Samsara",
       "id": "0ea7f677346d2cfb",
       "location": "Remote - US",
@@ -3065,23 +3086,6 @@
   ],
   "items": [
     {
-      "company": "Flex",
-      "id": "3c325fb804b081d5",
-      "location": "Anywhere",
-      "posted_at": "2026-11-19T03:35:04+00:00",
-      "regions": [
-        "remote_us"
-      ],
-      "remote": true,
-      "signal": "Relocation assistance",
-      "source": "jobicy",
-      "tags": [
-        "QA & Testing"
-      ],
-      "title": "Senior Software Development Engineer in Test (SDET)",
-      "url": "https://jobicy.com/jobs/155928-senior-software-development-engineer-in-test-sdet-2"
-    },
-    {
       "company": "Samsara",
       "id": "ab4b343e15e773cf",
       "location": "Remote - Toronto",
@@ -3951,9 +3955,8 @@
       "url": "https://www.samsara.com/company/careers/roles/8417295?gh_jid=8417295"
     }
   ],
-  "last_posted_at": "2026-11-26T20:43:23.708755+00:00",
+  "last_posted_at": "2026-11-27T11:36:47.153404+00:00",
   "posted": {
-    "2026-11-12": 2,
     "2026-11-13": 2,
     "2026-11-14": 2,
     "2026-11-15": 2,
@@ -3967,6 +3970,7 @@
     "2026-11-23": 2,
     "2026-11-24": 1,
     "2026-11-25": 2,
-    "2026-11-26": 2
+    "2026-11-26": 2,
+    "2026-11-27": 1
   }
 }
