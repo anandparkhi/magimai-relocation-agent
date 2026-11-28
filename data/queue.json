@@ -1,6 +1,25 @@
 {
   "history": [
     {
+      "company": "Catawiki",
+      "id": "69b533e0025f2a06",
+      "location": "Lisbon, Portugal",
+      "posted_at": "2026-11-20T01:14:37-05:00",
+      "published_at": "2026-11-28T11:09:51.658886+00:00",
+      "receipts": {
+        "telegram": "165"
+      },
+      "regions": [
+        "europe"
+      ],
+      "remote": false,
+      "signal": "Visa sponsorship",
+      "source": "ats:greenhouse",
+      "tags": [],
+      "title": "Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8405087"
+    },
+    {
       "company": "Samsara",
       "id": "ab4b343e15e773cf",
       "location": "Remote - Toronto",
@@ -3106,21 +3125,6 @@
   "items": [
     {
       "company": "Catawiki",
-      "id": "69b533e0025f2a06",
-      "location": "Lisbon, Portugal",
-      "posted_at": "2026-11-20T01:14:37-05:00",
-      "regions": [
-        "europe"
-      ],
-      "remote": false,
-      "signal": "Visa sponsorship",
-      "source": "ats:greenhouse",
-      "tags": [],
-      "title": "Platform Engineer",
-      "url": "https://job-boards.greenhouse.io/catawiki/jobs/8405087"
-    },
-    {
-      "company": "Catawiki",
       "id": "1b37427b3ce8eaa3",
       "location": "Amsterdam, Netherlands",
       "posted_at": "2026-11-20T01:07:45-05:00",
@@ -3899,9 +3903,8 @@
       "url": "https://www.samsara.com/company/careers/roles/8417295?gh_jid=8417295"
     }
   ],
-  "last_posted_at": "2026-11-27T20:16:41.863310+00:00",
+  "last_posted_at": "2026-11-28T11:09:51.658886+00:00",
   "posted": {
-    "2026-11-13": 2,
     "2026-11-14": 2,
     "2026-11-15": 2,
     "2026-11-16": 2,
@@ -3915,6 +3918,7 @@
     "2026-11-24": 1,
     "2026-11-25": 2,
     "2026-11-26": 2,
-    "2026-11-27": 2
+    "2026-11-27": 2,
+    "2026-11-28": 1
   }
 }
