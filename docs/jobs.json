@@ -1,97 +1,5 @@
 [
   {
-    "company": "Flex",
-    "id": "3c325fb804b081d5",
-    "location": "Anywhere",
-    "posted_at": "2026-11-19T03:35:04+00:00",
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "jobicy",
-    "tags": [
-      "QA & Testing"
-    ],
-    "title": "Senior Software Development Engineer in Test (SDET)",
-    "url": "https://jobicy.com/jobs/155928-senior-software-development-engineer-in-test-sdet-2"
-  },
-  {
-    "company": "Samsara",
-    "id": "ab4b343e15e773cf",
-    "location": "Remote - Toronto",
-    "posted_at": "2026-11-18T19:16:45-05:00",
-    "regions": [
-      "canada"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior Software Engineer I",
-    "url": "https://www.samsara.com/company/careers/roles/8364980?gh_jid=8364980"
-  },
-  {
-    "company": "Pinterest",
-    "id": "1e7874519cd1b119",
-    "location": "Dublin, IE",
-    "posted_at": "2026-11-18T10:56:11-05:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. Client Account Manager, Home Retail - Nordics (English Speaking)",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8334144"
-  },
-  {
-    "company": "N26",
-    "id": "20e8f89a8f58a398",
-    "location": "Berlin",
-    "posted_at": "2026-11-18T08:43:52-05:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": false,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Regulatory Project Manager",
-    "url": "https://n26.com/en-eu/careers/positions/8398981?gh_jid=8398981"
-  },
-  {
-    "company": "Veeam Software",
-    "id": "7a595ce6a943c43e",
-    "location": "Remote, France",
-    "posted_at": "2026-11-18T07:24:55-05:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Relocation package",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Senior Sales Development Representative, with French (Strategic Accounts) (Bucharest-based position, relocation package possible)",
-    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5041252101"
-  },
-  {
-    "company": "Affirm",
-    "id": "b6c021193626ec9c",
-    "location": "Remote Spain",
-    "posted_at": "2026-11-18T07:02:56-05:00",
-    "regions": [
-      "europe"
-    ],
-    "remote": true,
-    "signal": "Visa sponsorship",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Software Engineer II, Backend",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8197317003"
-  },
-  {
     "company": "Catawiki",
     "id": "69b533e0025f2a06",
     "location": "Lisbon, Portugal",
@@ -839,51 +747,91 @@
     "url": "https://n26.com/en-eu/careers/positions/8414044?gh_jid=8414044"
   },
   {
-    "title": "Senior Machine Learning Manager, Borrowing",
     "company": "Monzo",
-    "url": "https://jobicy.com/jobs/157407-senior-machine-learning-manager-borrowing",
+    "id": "9c3baf85d8acf24d",
     "location": "UK",
     "posted_at": "2026-11-27T03:45:41+00:00",
-    "source": "jobicy",
+    "regions": [
+      "europe"
+    ],
     "remote": true,
+    "signal": "Sponsor visa",
+    "source": "jobicy",
     "tags": [
       "Data Science & Analytics"
     ],
-    "regions": [
-      "europe"
-    ],
-    "signal": "Sponsor visa",
-    "id": "9c3baf85d8acf24d"
+    "title": "Senior Machine Learning Manager, Borrowing",
+    "url": "https://jobicy.com/jobs/157407-senior-machine-learning-manager-borrowing"
   },
   {
-    "title": "Enterprise Core Sales Engineer - DACH",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8417297?gh_jid=8417297",
+    "id": "829e508666d152bd",
     "location": "Remote - Germany",
     "posted_at": "2026-11-26T06:51:47-05:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "829e508666d152bd"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Enterprise Core Sales Engineer - DACH",
+    "url": "https://www.samsara.com/company/careers/roles/8417297?gh_jid=8417297"
   },
   {
-    "title": "Enterprise Core Sales Engineer - France",
     "company": "Samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8417295?gh_jid=8417295",
+    "id": "1a04fa6007c9a1c7",
     "location": "Remote - France",
     "posted_at": "2026-11-26T06:46:14-05:00",
-    "source": "ats:greenhouse",
-    "remote": true,
-    "tags": [],
     "regions": [
       "europe"
     ],
+    "remote": true,
     "signal": "Relocation assistance",
-    "id": "1a04fa6007c9a1c7"
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Enterprise Core Sales Engineer - France",
+    "url": "https://www.samsara.com/company/careers/roles/8417295?gh_jid=8417295"
+  },
+  {
+    "company": "Samsara",
+    "id": "ab4b343e15e773cf",
+    "location": "Remote - Toronto",
+    "posted_at": "2026-11-18T19:16:45-05:00",
+    "published_at": "2026-11-27T20:16:41.863310+00:00",
+    "receipts": {
+      "telegram": "164"
+    },
+    "regions": [
+      "canada"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "ats:greenhouse",
+    "tags": [],
+    "title": "Senior Software Engineer I",
+    "url": "https://www.samsara.com/company/careers/roles/8364980?gh_jid=8364980"
+  },
+  {
+    "company": "Flex",
+    "id": "3c325fb804b081d5",
+    "location": "Anywhere",
+    "posted_at": "2026-11-19T03:35:04+00:00",
+    "published_at": "2026-11-27T11:36:47.153404+00:00",
+    "receipts": {
+      "telegram": "163"
+    },
+    "regions": [
+      "remote_us"
+    ],
+    "remote": true,
+    "signal": "Relocation assistance",
+    "source": "jobicy",
+    "tags": [
+      "QA & Testing"
+    ],
+    "title": "Senior Software Development Engineer in Test (SDET)",
+    "url": "https://jobicy.com/jobs/155928-senior-software-development-engineer-in-test-sdet-2"
   },
   {
     "company": "Samsara",
@@ -1830,43 +1778,5 @@
     "tags": [],
     "title": "Strategic Sourcing Specialist II",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8282844"
-  },
-  {
-    "company": "Pinterest",
-    "id": "10dd85e8cb280573",
-    "location": "Remote, US",
-    "posted_at": "2026-10-23T18:25:45-04:00",
-    "published_at": "2026-11-01T16:31:30.947002+00:00",
-    "receipts": {
-      "telegram": "113"
-    },
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Retail Transformation Lead",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8287192"
-  },
-  {
-    "company": "Pinterest",
-    "id": "ba3817fa909fb935",
-    "location": "Remote, US",
-    "posted_at": "2026-10-23T19:17:00-04:00",
-    "published_at": "2026-11-01T09:54:42.319824+00:00",
-    "receipts": {
-      "telegram": "112"
-    },
-    "regions": [
-      "remote_us"
-    ],
-    "remote": true,
-    "signal": "Relocation assistance",
-    "source": "ats:greenhouse",
-    "tags": [],
-    "title": "Sr. Manager, Payroll",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8311529"
   }
 ]
